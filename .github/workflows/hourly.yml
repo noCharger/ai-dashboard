@@ -24,6 +24,7 @@ jobs:
       - name: Run hourly scrapers
         env:
           AA_API_KEY: ${{ secrets.AA_API_KEY }}
+          UPDATE_STRATEGY: relative
         run: python scripts/fetch_all.py
 
       - name: Commit and push if data changed

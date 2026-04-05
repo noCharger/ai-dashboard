@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -133,7 +134,34 @@ def _strip_generated(data: dict | None) -> dict | None:
     cleaned.pop("generated", None)
     return cleaned
 
+def _item_identity(item: object) -> str:
+    """Choose a stable identity for leaderboard item ordering."""
+    if not isinstance(item, dict):
+        return json.dumps(item, ensure_ascii=False, sort_keys=True)
+    for key in ("url", "name", "title", "id"):
+        value = item.get(key)
+        if value:
+            return str(value)
+    return json.dumps(item, ensure_ascii=False, sort_keys=True)
 
+
+def _collect_sequences(obj: object, path: tuple[str, ...] = ()) -> dict[str, list[str]]:
+    """Collect ordered identity sequence for each list path."""
+    if isinstance(obj, dict):
+        sequences: dict[str, list[str]] = {}
+        for key, value in obj.items():
+            sequences.update(_collect_sequences(value, (*path, key)))
+        return sequences
+    if isinstance(obj, list):
+        return {".".join(path): [_item_identity(item) for item in obj]}
+    return {}
+
+
+def _same_relative_positions(previous_payload: dict | None, new_payload: dict) -> bool:
+    """Return True when all leaderboard list orders are unchanged."""
+    if not isinstance(previous_payload, dict):
+        return False
+    return _collect_sequences(previous_payload) == _collect_sequences(new_payload)
 def main() -> int:
     previous = _load_previous()
 
@@ -181,10 +209,19 @@ def main() -> int:
         },
     }
 
-    # Skip updates when data payload is unchanged.
-    if _strip_generated(previous) == dashboard_payload:
-        logger.info("No data changes detected; dashboard.json not updated")
-        return 0
+    previous_payload = _strip_generated(previous)
+    update_strategy = os.getenv("UPDATE_STRATEGY", "relative").strip().lower()
+
+    if update_strategy == "strict":
+        # Daily mode: update whenever any payload content changes.
+        if previous_payload == dashboard_payload:
+            logger.info("No content changes detected; dashboard.json not updated")
+            return 0
+    else:
+        # Hourly mode: skip update if relative ranking positions are unchanged.
+        if _same_relative_positions(previous_payload, dashboard_payload):
+            logger.info("No relative ranking changes detected; dashboard.json not updated")
+            return 0
 
     dashboard = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
