@@ -125,6 +125,15 @@ def _fallback(section_path: list[str], prev: dict | None, new_data: list) -> lis
     return obj if isinstance(obj, list) else []
 
 
+def _strip_generated(data: dict | None) -> dict | None:
+    """Return a shallow copy without generated timestamp."""
+    if not isinstance(data, dict):
+        return None
+    cleaned = dict(data)
+    cleaned.pop("generated", None)
+    return cleaned
+
+
 def main() -> int:
     previous = _load_previous()
 
@@ -150,8 +159,7 @@ def main() -> int:
     arxiv_recent_papers = _safe_fetch("arXiv", arxiv_papers.fetch, TOP_N)
 
     # ---- Assemble with fallback ----
-    dashboard = {
-        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    dashboard_payload = {
         "models": {
             "trending": _fallback(["models", "trending"], previous, trending_models),
             "benchmark": _fallback(["models", "benchmark"], previous, benchmark_models),
@@ -171,6 +179,16 @@ def main() -> int:
             "hf_trending": _fallback(["papers", "hf_trending"], previous, hf_trending_papers),
             "arxiv_recent": _fallback(["papers", "arxiv_recent"], previous, arxiv_recent_papers),
         },
+    }
+
+    # Skip updates when data payload is unchanged.
+    if _strip_generated(previous) == dashboard_payload:
+        logger.info("No data changes detected; dashboard.json not updated")
+        return 0
+
+    dashboard = {
+        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        **dashboard_payload,
     }
 
     # Write output
