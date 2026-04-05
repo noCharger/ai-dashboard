@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-05T12:31:25Z",
+  "generated": "2026-04-05T13:45:36Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/gemma-4-31B-it",
         "org": "google",
-        "trending_score": 910,
+        "trending_score": 918,
         "downloads": 490192,
-        "likes": 910,
+        "likes": 918,
         "url": "https://huggingface.co/google/gemma-4-31B-it",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
         "org": "Jackrong",
-        "trending_score": 765,
+        "trending_score": 770,
         "downloads": 539356,
-        "likes": 2309,
+        "likes": 2315,
         "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
         "tags": [
           "safetensors",
@@ -38,23 +38,6 @@
       },
       {
         "rank": 3,
-        "name": "CohereLabs/cohere-transcribe-03-2026",
-        "org": "CohereLabs",
-        "trending_score": 410,
-        "downloads": 120998,
-        "likes": 795,
-        "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "cohere_asr",
-          "automatic-speech-recognition",
-          "audio"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "baidu/Qianfan-OCR",
         "org": "baidu",
         "trending_score": 409,
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "CohereLabs/cohere-transcribe-03-2026",
+        "org": "CohereLabs",
+        "trending_score": 407,
+        "downloads": 120998,
+        "likes": 796,
+        "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "cohere_asr",
+          "automatic-speech-recognition",
+          "audio"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "prism-ml/Bonsai-8B-gguf",
         "org": "prism-ml",
-        "trending_score": 401,
+        "trending_score": 405,
         "downloads": 38631,
-        "likes": 401,
+        "likes": 405,
         "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
         "tags": [
           "llama.cpp",
@@ -296,7 +296,7 @@
         "name": "google-ai-edge/gallery",
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "url": "https://github.com/google-ai-edge/gallery",
-        "stars": 16408,
+        "stars": 16461,
         "stars_delta": 286,
         "language": "Kotlin",
         "language_color": "#A97BFF"
@@ -306,7 +306,7 @@
         "name": "Blaizzy/mlx-vlm",
         "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
         "url": "https://github.com/Blaizzy/mlx-vlm",
-        "stars": 3765,
+        "stars": 3786,
         "stars_delta": 408,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 21555,
+        "stars": 21680,
         "stars_delta": 2692,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "block/goose",
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "url": "https://github.com/block/goose",
-        "stars": 36169,
+        "stars": 36274,
         "stars_delta": 866,
         "language": "Rust",
         "language_color": "#dea584"
@@ -336,7 +336,7 @@
         "name": "onyx-dot-app/onyx",
         "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
         "url": "https://github.com/onyx-dot-app/onyx",
-        "stars": 24654,
+        "stars": 24705,
         "stars_delta": 960,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 16205,
+        "stars": 16270,
         "stars_delta": 12108,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -358,7 +358,7 @@
         "name": "luongnv89/claude-howto",
         "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
         "url": "https://github.com/luongnv89/claude-howto",
-        "stars": 19775,
+        "stars": 19840,
         "stars_delta": 14763,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "microsoft/VibeVoice",
         "description": "Open-Source Frontier Voice AI",
         "url": "https://github.com/microsoft/VibeVoice",
-        "stars": 36317,
+        "stars": 36333,
         "stars_delta": 11141,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 21555,
+        "stars": 21680,
         "stars_delta": 9913,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 14822,
+        "stars": 14837,
         "stars_delta": 4315,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,7 +400,7 @@
         "name": "666ghj/MiroFish",
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
         "url": "https://github.com/666ghj/MiroFish",
-        "stars": 49613,
+        "stars": 49671,
         "stars_delta": 45023,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 71607,
+        "stars": 71668,
         "stars_delta": 66274,
         "language": "Shell",
         "language_color": "#89e051"
@@ -420,7 +420,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 25582,
+        "stars": 25665,
         "stars_delta": 22900,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 58059,
+        "stars": 58087,
         "stars_delta": 33651,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "mattpocock/skills",
         "description": "My personal directory of skills, straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 12061,
+        "stars": 12077,
         "stars_delta": 10972,
         "language": "Shell",
         "language_color": "#89e051"
