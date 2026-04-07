@@ -1,73 +1,94 @@
-"""Fetch recent AI papers from arXiv API."""
+"""Fetch recent AI papers from the arXiv recent submissions page."""
 
 from __future__ import annotations
 
+from datetime import datetime
 import logging
-import xml.etree.ElementTree as ET
-from .base import fetch_url
+import re
+
+from bs4 import BeautifulSoup
+
+from .base import fetch_html
 
 logger = logging.getLogger(__name__)
 
-NS = {"atom": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
+ARXIV_RECENT_URL = "https://arxiv.org/list/cs.AI/recent"
+DATE_PATTERN = re.compile(r"([A-Z][a-z]{2}, \d{1,2} [A-Z][a-z]{2} \d{4})")
+CATEGORY_PATTERN = re.compile(r"\(([a-z]+\.[A-Z]+)\)")
 
 
-def _build_url(limit: int) -> str:
-    """Build arXiv API URL with proper encoding for OR queries."""
-    q = "cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG"
-    return (
-        f"https://export.arxiv.org/api/query"
-        f"?search_query={q}"
-        f"&sortBy=submittedDate&sortOrder=descending"
-        f"&start=0&max_results={limit}"
-    )
+def _parse_header_date(text: str) -> str:
+    match = DATE_PATTERN.search(text)
+    if not match:
+        return ""
+    return datetime.strptime(match.group(1), "%a, %d %b %Y").strftime("%Y-%m-%d")
 
 
-def fetch(limit: int = 10) -> list[dict]:
-    """Return recent arXiv papers in AI/CL/LG categories."""
-    resp = fetch_url(_build_url(limit))
+def _clean_text(node) -> str:
+    if node is None:
+        return ""
+    text = node.get_text(" ", strip=True)
+    return re.sub(r"\s+", " ", text).strip()
 
-    root = ET.fromstring(resp.text)
-    entries = root.findall("atom:entry", NS)
+
+def _parse_recent_page(html: str, limit: int) -> list[dict]:
+    """Parse recent submissions HTML into dashboard paper rows."""
+    soup = BeautifulSoup(html, "lxml")
+    articles = soup.select_one("dl#articles")
+    if articles is None:
+        logger.warning("arXiv recent page missing article list")
+        return []
 
     results = []
-    for i, entry in enumerate(entries[:limit], start=1):
-        title = (entry.findtext("atom:title", "", NS) or "").strip().replace("\n", " ")
-        # Collapse multiple spaces
-        while "  " in title:
-            title = title.replace("  ", " ")
+    current_date = ""
+    rank = 1
 
-        authors = []
-        for author_el in entry.findall("atom:author", NS)[:3]:
-            name = author_el.findtext("atom:name", "", NS)
-            if name:
-                authors.append(name.strip())
+    for child in articles.children:
+        name = getattr(child, "name", None)
+        if name == "h3":
+            current_date = _parse_header_date(_clean_text(child))
+            continue
+        if name != "dt":
+            continue
 
-        categories = []
-        for cat_el in entry.findall("atom:category", NS):
-            term = cat_el.get("term", "")
-            if term.startswith("cs."):
-                categories.append(term)
+        item = child.find_next_sibling("dd")
+        if item is None:
+            continue
 
-        link = ""
-        for link_el in entry.findall("atom:link", NS):
-            if link_el.get("type") == "text/html":
-                link = link_el.get("href", "")
-                break
-        if not link:
-            arxiv_id = (entry.findtext("atom:id", "", NS) or "").strip()
-            link = arxiv_id
+        title_node = item.select_one(".list-title")
+        title = _clean_text(title_node).removeprefix("Title: ").strip()
+        if not title:
+            continue
 
-        published = (entry.findtext("atom:published", "", NS) or "")[:10]
+        authors = [_clean_text(author) for author in item.select(".list-authors a")[:3]]
+        authors = [author for author in authors if author]
+
+        subjects = _clean_text(item.select_one(".list-subjects"))
+        categories = CATEGORY_PATTERN.findall(subjects)[:4]
+
+        abs_link = child.select_one("a[href^='/abs/']")
+        href = abs_link.get("href", "") if abs_link else ""
+        url = f"https://arxiv.org{href}" if href.startswith("/") else href
 
         results.append({
-            "rank": i,
+            "rank": rank,
             "title": title,
             "authors": authors,
-            "url": link,
-            "categories": categories[:4],
+            "url": url,
+            "categories": categories,
             "upvotes": None,
-            "published": published,
+            "published": current_date,
         })
+        rank += 1
+
+        if len(results) >= limit:
+            break
 
     logger.info("Fetched %d papers from arXiv", len(results))
     return results
+
+
+def fetch(limit: int = 10) -> list[dict]:
+    """Return recent arXiv papers from the cs.AI recent page."""
+    html = fetch_html(ARXIV_RECENT_URL)
+    return _parse_recent_page(html, limit)
