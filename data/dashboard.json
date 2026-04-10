@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-10T08:15:33Z",
+  "generated": "2026-04-10T09:59:20Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/gemma-4-31B-it",
         "org": "google",
-        "trending_score": 1112,
+        "trending_score": 1094,
         "downloads": 1589761,
-        "likes": 1598,
+        "likes": 1606,
         "url": "https://huggingface.co/google/gemma-4-31B-it",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-        "org": "dealignai",
-        "trending_score": 873,
-        "downloads": 75426,
-        "likes": 873,
-        "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-        "tags": [
-          "mlx",
-          "safetensors",
-          "gemma4",
-          "abliterated",
-          "uncensored"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 871,
+        "trending_score": 881,
         "downloads": 15930,
-        "likes": 871,
+        "likes": 881,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+        "org": "dealignai",
+        "trending_score": 876,
+        "downloads": 75426,
+        "likes": 876,
+        "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+        "tags": [
+          "mlx",
+          "safetensors",
+          "gemma4",
+          "abliterated",
+          "uncensored"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "netflix/void-model",
         "org": "netflix",
-        "trending_score": 707,
+        "trending_score": 703,
         "downloads": 0,
-        "likes": 711,
+        "likes": 717,
         "url": "https://huggingface.co/netflix/void-model",
         "tags": [
           "video-inpainting",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "openbmb/VoxCPM2",
         "org": "openbmb",
-        "trending_score": 630,
+        "trending_score": 637,
         "downloads": 3765,
-        "likes": 630,
+        "likes": 637,
         "url": "https://huggingface.co/openbmb/VoxCPM2",
         "tags": [
           "voxcpm",
@@ -296,7 +296,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 47672,
+        "stars": 48423,
         "stars_delta": 6485,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 11019,
+        "stars": 11134,
         "stars_delta": 1364,
         "language": "",
         "language_color": "#586069"
@@ -316,7 +316,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 15358,
+        "stars": 15467,
         "stars_delta": 1310,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "OpenBMB/VoxCPM",
         "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
         "url": "https://github.com/OpenBMB/VoxCPM",
-        "stars": 8052,
+        "stars": 8147,
         "stars_delta": 496,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "opendataloader-project/opendataloader-pdf",
         "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
         "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-        "stars": 14239,
+        "stars": 14329,
         "stars_delta": 1124,
         "language": "Java",
         "language_color": "#b07219"
@@ -348,7 +348,7 @@
         "name": "google-ai-edge/gallery",
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "url": "https://github.com/google-ai-edge/gallery",
-        "stars": 20021,
+        "stars": 20047,
         "stars_delta": 4326,
         "language": "Kotlin",
         "language_color": "#A97BFF"
@@ -358,7 +358,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 20203,
+        "stars": 20250,
         "stars_delta": 9737,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -368,7 +368,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 27203,
+        "stars": 27258,
         "stars_delta": 12278,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 47672,
+        "stars": 48423,
         "stars_delta": 19765,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "google-ai-edge/LiteRT-LM",
         "description": "",
         "url": "https://github.com/google-ai-edge/LiteRT-LM",
-        "stars": 3237,
+        "stars": 3253,
         "stars_delta": 2157,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 47672,
+        "stars": 48423,
         "stars_delta": 39332,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 20203,
+        "stars": 20250,
         "stars_delta": 18112,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -420,7 +420,7 @@
         "name": "mattpocock/skills",
         "description": "My personal directory of skills, straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 13630,
+        "stars": 13658,
         "stars_delta": 12380,
         "language": "Shell",
         "language_color": "#89e051"
@@ -430,7 +430,7 @@
         "name": "666ghj/MiroFish",
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
         "url": "https://github.com/666ghj/MiroFish",
-        "stars": 52902,
+        "stars": 52951,
         "stars_delta": 44278,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 60080,
+        "stars": 60123,
         "stars_delta": 33722,
         "language": "Python",
         "language_color": "#3572A5"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.08377",
         "categories": [],
-        "upvotes": 94,
+        "upvotes": 116,
         "published": "2026-04-08"
       },
       {
@@ -529,24 +529,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.08546",
         "categories": [],
-        "upvotes": 78,
+        "upvotes": 98,
         "published": "2026-04-08"
       },
       {
         "rank": 3,
-        "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents",
-        "authors": [
-          "Tencent Robotics X",
-          "HY Vision Team",
-          "Xumin Yu"
-        ],
-        "url": "https://huggingface.co/papers/2604.07430",
-        "categories": [],
-        "upvotes": 53,
-        "published": "2026-04-07"
-      },
-      {
-        "rank": 4,
         "title": "MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping",
         "authors": [
           "Junyao Gao",
@@ -555,8 +542,21 @@
         ],
         "url": "https://huggingface.co/papers/2604.08364",
         "categories": [],
-        "upvotes": 46,
+        "upvotes": 68,
         "published": "2026-04-08"
+      },
+      {
+        "rank": 4,
+        "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents",
+        "authors": [
+          "Tencent Robotics X",
+          "HY Vision Team",
+          "Xumin Yu"
+        ],
+        "url": "https://huggingface.co/papers/2604.07430",
+        "categories": [],
+        "upvotes": 63,
+        "published": "2026-04-07"
       },
       {
         "rank": 5,
@@ -568,7 +568,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.06628",
         "categories": [],
-        "upvotes": 33,
+        "upvotes": 48,
         "published": "2026-04-07"
       }
     ],
