@@ -1,31 +1,14 @@
 {
-  "generated": "2026-04-11T10:22:47Z",
+  "generated": "2026-04-11T11:21:55Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "google/gemma-4-31B-it",
-        "org": "google",
-        "trending_score": 951,
-        "downloads": 2026015,
-        "likes": 1699,
-        "url": "https://huggingface.co/google/gemma-4-31B-it",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "gemma4",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 947,
+        "trending_score": 948,
         "downloads": 23998,
-        "likes": 947,
+        "likes": 948,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "google/gemma-4-31B-it",
+        "org": "google",
+        "trending_score": 944,
+        "downloads": 2026015,
+        "likes": 1701,
+        "url": "https://huggingface.co/google/gemma-4-31B-it",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "gemma4",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
         "org": "dealignai",
-        "trending_score": 909,
+        "trending_score": 910,
         "downloads": 89753,
-        "likes": 913,
+        "likes": 915,
         "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
         "tags": [
           "mlx",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "netflix/void-model",
         "org": "netflix",
-        "trending_score": 496,
+        "trending_score": 493,
         "downloads": 0,
-        "likes": 744,
+        "likes": 745,
         "url": "https://huggingface.co/netflix/void-model",
         "tags": [
           "video-inpainting",
@@ -293,50 +293,50 @@
     "daily": [
       {
         "rank": 1,
-        "name": "microsoft/markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "url": "https://github.com/microsoft/markitdown",
-        "stars": 100803,
-        "stars_delta": 2352,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
-        "name": "coleam00/Archon",
-        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-        "url": "https://github.com/coleam00/Archon",
-        "stars": 16091,
-        "stars_delta": 756,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 54977,
+        "stars": 55254,
         "stars_delta": 7671,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 4,
-        "name": "rowboatlabs/rowboat",
-        "description": "Open-source AI coworker, with memory",
-        "url": "https://github.com/rowboatlabs/rowboat",
-        "stars": 11950,
-        "stars_delta": 507,
+        "rank": 2,
+        "name": "microsoft/markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "url": "https://github.com/microsoft/markitdown",
+        "stars": 100896,
+        "stars_delta": 2352,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "coleam00/Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "url": "https://github.com/coleam00/Archon",
+        "stars": 16114,
+        "stars_delta": 756,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 4,
+        "name": "forrestchang/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+        "stars": 12242,
+        "stars_delta": 1450,
+        "language": "",
+        "language_color": "#586069"
       },
       {
         "rank": 5,
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 6904,
+        "stars": 6996,
         "stars_delta": 1506,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -345,53 +345,53 @@
     "weekly": [
       {
         "rank": 1,
-        "name": "google-ai-edge/gallery",
-        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-        "url": "https://github.com/google-ai-edge/gallery",
-        "stars": 20328,
-        "stars_delta": 4409,
-        "language": "Kotlin",
-        "language_color": "#A97BFF"
-      },
-      {
-        "rank": 2,
         "name": "HKUDS/DeepTutor",
         "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 16306,
+        "stars": 16341,
         "stars_delta": 4698,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 54977,
+        "stars": 55254,
         "stars_delta": 26783,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 4,
-        "name": "google-ai-edge/LiteRT-LM",
-        "description": "",
-        "url": "https://github.com/google-ai-edge/LiteRT-LM",
-        "stars": 3364,
-        "stars_delta": 2210,
-        "language": "C++",
-        "language_color": "#f34b7d"
+        "rank": 3,
+        "name": "google-ai-edge/gallery",
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "url": "https://github.com/google-ai-edge/gallery",
+        "stars": 20336,
+        "stars_delta": 4409,
+        "language": "Kotlin",
+        "language_color": "#A97BFF"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 6905,
+        "stars": 6996,
         "stars_delta": 3512,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "forrestchang/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+        "stars": 12242,
+        "stars_delta": 3741,
+        "language": "",
+        "language_color": "#586069"
       }
     ],
     "monthly": [
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 54977,
+        "stars": 55254,
         "stars_delta": 46639,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "mattpocock/skills",
         "description": "My personal directory of skills, straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 13962,
+        "stars": 13968,
         "stars_delta": 12774,
         "language": "Shell",
         "language_color": "#89e051"
@@ -420,7 +420,7 @@
         "name": "FujiwaraChoki/MoneyPrinterV2",
         "description": "Automate the process of making money online.",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "stars": 29136,
+        "stars": 29141,
         "stars_delta": 14315,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,20 +430,20 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 60354,
+        "stars": 60360,
         "stars_delta": 32590,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "666ghj/MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "url": "https://github.com/666ghj/MiroFish",
-        "stars": 53419,
-        "stars_delta": 40273,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "siddharthvaddem/openscreen",
+        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+        "url": "https://github.com/siddharthvaddem/openscreen",
+        "stars": 27838,
+        "stars_delta": 19712,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "frameworks": [
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.08377",
         "categories": [],
-        "upvotes": 186,
+        "upvotes": 192,
         "published": "2026-04-08"
       },
       {
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.06628",
         "categories": [],
-        "upvotes": 164,
+        "upvotes": 166,
         "published": "2026-04-07"
       },
       {
@@ -542,7 +542,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.07430",
         "categories": [],
-        "upvotes": 136,
+        "upvotes": 137,
         "published": "2026-04-07"
       },
       {
@@ -568,7 +568,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.08523",
         "categories": [],
-        "upvotes": 94,
+        "upvotes": 95,
         "published": "2026-04-08"
       }
     ],
