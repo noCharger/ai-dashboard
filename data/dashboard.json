@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-13T12:58:23Z",
+  "generated": "2026-04-13T14:45:19Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 1109,
+        "trending_score": 1115,
         "downloads": 35906,
-        "likes": 1109,
+        "likes": 1115,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/VoxCPM2",
         "org": "openbmb",
-        "trending_score": 785,
+        "trending_score": 793,
         "downloads": 9301,
-        "likes": 785,
+        "likes": 797,
         "url": "https://huggingface.co/openbmb/VoxCPM2",
         "tags": [
           "voxcpm",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "google/gemma-4-31B-it",
         "org": "google",
-        "trending_score": 726,
+        "trending_score": 712,
         "downloads": 2439350,
-        "likes": 1799,
+        "likes": 1807,
         "url": "https://huggingface.co/google/gemma-4-31B-it",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-        "org": "dealignai",
-        "trending_score": 587,
-        "downloads": 107378,
-        "likes": 968,
-        "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-        "tags": [
-          "mlx",
-          "safetensors",
-          "gemma4",
-          "abliterated",
-          "uncensored"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 581,
+        "trending_score": 589,
         "downloads": 18279,
-        "likes": 581,
+        "likes": 589,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "minimax_m2",
           "text-generation",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+        "org": "dealignai",
+        "trending_score": 573,
+        "downloads": 107378,
+        "likes": 982,
+        "url": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+        "tags": [
+          "mlx",
+          "safetensors",
+          "gemma4",
+          "abliterated",
+          "uncensored"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 20659,
+        "stars": 21617,
         "stars_delta": 5828,
         "language": "",
         "language_color": "#586069"
@@ -306,7 +306,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 74340,
+        "stars": 75086,
         "stars_delta": 11297,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 16629,
+        "stars": 16715,
         "stars_delta": 1552,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 51755,
+        "stars": 52118,
         "stars_delta": 3185,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 106258,
+        "stars": 106427,
         "stars_delta": 2811,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 20660,
+        "stars": 21617,
         "stars_delta": 7319,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 74341,
+        "stars": 75086,
         "stars_delta": 38426,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 10432,
+        "stars": 10589,
         "stars_delta": 6846,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 17578,
+        "stars": 17622,
         "stars_delta": 5873,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "coleam00/Archon",
         "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
         "url": "https://github.com/coleam00/Archon",
-        "stars": 17415,
+        "stars": 17456,
         "stars_delta": 2962,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 74342,
+        "stars": 75086,
         "stars_delta": 57410,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "mattpocock/skills",
         "description": "My personal directory of skills, straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 14578,
+        "stars": 14619,
         "stars_delta": 13290,
         "language": "Shell",
         "language_color": "#89e051"
@@ -420,7 +420,7 @@
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 23371,
+        "stars": 23387,
         "stars_delta": 23218,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "FujiwaraChoki/MoneyPrinterV2",
         "description": "Automate the process of making money online.",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "stars": 29378,
+        "stars": 29393,
         "stars_delta": 14458,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 61037,
+        "stars": 61055,
         "stars_delta": 31459,
         "language": "Python",
         "language_color": "#3572A5"
@@ -529,11 +529,24 @@
         ],
         "url": "https://huggingface.co/papers/2604.08523",
         "categories": [],
-        "upvotes": 245,
+        "upvotes": 246,
         "published": "2026-04-08"
       },
       {
         "rank": 3,
+        "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
+        "authors": [
+          "Weikai Huang",
+          "Jieyu Zhang",
+          "Sijun Li"
+        ],
+        "url": "https://huggingface.co/papers/2604.08626",
+        "categories": [],
+        "upvotes": 133,
+        "published": "2026-04-08"
+      },
+      {
+        "rank": 4,
         "title": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
         "authors": [
           "Zhengyang Sun",
@@ -543,19 +556,6 @@
         "url": "https://huggingface.co/papers/2604.08546",
         "categories": [],
         "upvotes": 109,
-        "published": "2026-04-08"
-      },
-      {
-        "rank": 4,
-        "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
-        "authors": [
-          "Weikai Huang",
-          "Jieyu Zhang",
-          "Sijun Li"
-        ],
-        "url": "https://huggingface.co/papers/2604.08626",
-        "categories": [],
-        "upvotes": 107,
         "published": "2026-04-08"
       },
       {
