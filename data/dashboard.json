@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-15T10:06:40Z",
+  "generated": "2026-04-15T11:46:14Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 740,
+        "trending_score": 746,
         "downloads": 85549,
-        "likes": 740,
+        "likes": 746,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 617,
+        "trending_score": 589,
         "downloads": 91474,
-        "likes": 1213,
+        "likes": 1217,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "openbmb/VoxCPM2",
         "org": "openbmb",
-        "trending_score": 603,
+        "trending_score": 580,
         "downloads": 12827,
-        "likes": 900,
+        "likes": 906,
         "url": "https://huggingface.co/openbmb/VoxCPM2",
         "tags": [
           "voxcpm",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 555,
+        "trending_score": 564,
         "downloads": 818,
-        "likes": 555,
+        "likes": 564,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "google/gemma-4-31B-it",
         "org": "google",
-        "trending_score": 525,
+        "trending_score": 518,
         "downloads": 2894077,
-        "likes": 1913,
+        "likes": 1915,
         "url": "https://huggingface.co/google/gemma-4-31B-it",
         "tags": [
           "transformers",
@@ -91,58 +91,58 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "Claude Opus 4.6",
-        "org": "Anthropic",
-        "intelligence_index": 96,
-        "price_input": 15.0,
-        "price_output": 75.0,
-        "speed_tps": 45,
-        "context_window": 200000,
-        "url": "https://artificialanalysis.ai/models/claude-opus-4-6"
+        "name": "gpt-oss-20B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
       },
       {
         "rank": 2,
-        "name": "Gemini 3.1 Pro",
-        "org": "Google",
-        "intelligence_index": 94,
-        "price_input": 1.25,
-        "price_output": 10.0,
-        "speed_tps": 120,
-        "context_window": 2000000,
-        "url": "https://artificialanalysis.ai/models/gemini-3-1-pro"
+        "name": "o3",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/o3"
       },
       {
         "rank": 3,
-        "name": "GPT-4.1",
-        "org": "OpenAI",
-        "intelligence_index": 93,
-        "price_input": 2.0,
-        "price_output": 8.0,
-        "speed_tps": 95,
-        "context_window": 1047576,
-        "url": "https://artificialanalysis.ai/models/gpt-4-1"
+        "name": "GPT-5.4 Pro (xhigh)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-pro"
       },
       {
         "rank": 4,
-        "name": "Grok 4.20 Beta",
-        "org": "xAI",
-        "intelligence_index": 91,
-        "price_input": 3.0,
-        "price_output": 15.0,
-        "speed_tps": 80,
-        "context_window": 131072,
-        "url": "https://artificialanalysis.ai/models/grok-4-20"
+        "name": "gpt-oss-120B (low)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
         "rank": 5,
-        "name": "DeepSeek V3",
-        "org": "DeepSeek",
-        "intelligence_index": 89,
-        "price_input": 0.27,
-        "price_output": 1.1,
-        "speed_tps": 65,
-        "context_window": 131072,
-        "url": "https://artificialanalysis.ai/models/deepseek-v3"
+        "name": "gpt-oss-120B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
       }
     ]
   },
@@ -150,48 +150,48 @@
     "general": [
       {
         "rank": 1,
-        "name": "Claude 4.6 Opus + Tools",
-        "org": "Anthropic",
-        "score": 75.2,
+        "name": "SU AI Zero",
+        "org": "Suzhou AI Lab",
+        "score": 76.41,
         "score_unit": "%",
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       },
       {
         "rank": 2,
-        "name": "GPT-4.1 + Plugins",
-        "org": "OpenAI",
-        "score": 72.8,
+        "name": "h2oGPTe Agent v1.6.27 | March 17 original date",
+        "org": "h2o.ai",
+        "score": 74.75,
         "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "url": "https://h2ogpte.genai.h2o.ai/",
         "verified": true
       },
       {
         "rank": 3,
-        "name": "Gemini 3 Pro + Tools",
-        "org": "Google",
-        "score": 68.4,
+        "name": "Trase Agent v0.3",
+        "org": "Trase Systems",
+        "score": 66.78,
         "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "url": "https://trasesystems.com",
         "verified": true
       },
       {
         "rank": 4,
-        "name": "Grok 4 + Search",
-        "org": "xAI",
-        "score": 64.1,
+        "name": "h2oGPTe Agent v1.6.8",
+        "org": "h2o.ai",
+        "score": 65.12,
         "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
-        "verified": false
+        "url": "https://h2ogpte.genai.h2o.ai/",
+        "verified": true
       },
       {
         "rank": 5,
-        "name": "Llama 4 Scout Agent",
-        "org": "Meta",
-        "score": 58.9,
+        "name": "Anges",
+        "org": "Anges.AI",
+        "score": 56.48,
         "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
-        "verified": false
+        "url": "anges.ai",
+        "verified": true
       }
     ],
     "coding": [
@@ -296,48 +296,48 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 38119,
+        "stars": 38771,
         "stars_delta": 9263,
         "language": "",
         "language_color": "#586069"
       },
       {
         "rank": 2,
-        "name": "thedotmack/claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 56701,
-        "stars_delta": 2997,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
-        "name": "jamiepine/voicebox",
-        "description": "The open-source voice synthesis studio",
-        "url": "https://github.com/jamiepine/voicebox",
-        "stars": 17786,
-        "stars_delta": 1162,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
         "name": "pascalorg/editor",
         "description": "Create and share 3D architectural projects.",
         "url": "https://github.com/pascalorg/editor",
-        "stars": 12103,
+        "stars": 12175,
         "stars_delta": 820,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
+        "rank": 3,
+        "name": "thedotmack/claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 56833,
+        "stars_delta": 2997,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 4,
+        "name": "Lordog/dive-into-llms",
+        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+        "url": "https://github.com/Lordog/dive-into-llms",
+        "stars": 28913,
+        "stars_delta": 1068,
+        "language": "Jupyter Notebook",
+        "language_color": "#DA5B0B"
+      },
+      {
         "rank": 5,
-        "name": "microsoft/markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "url": "https://github.com/microsoft/markitdown",
-        "stars": 109074,
-        "stars_delta": 1675,
+        "name": "virattt/ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "url": "https://github.com/virattt/ai-hedge-fund",
+        "stars": 54655,
+        "stars_delta": 1007,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 38119,
+        "stars": 38771,
         "stars_delta": 21795,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 87491,
+        "stars": 87802,
         "stars_delta": 52996,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,30 +368,30 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 12992,
+        "stars": 13074,
         "stars_delta": 9823,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "coleam00/Archon",
-        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-        "url": "https://github.com/coleam00/Archon",
-        "stars": 18071,
-        "stars_delta": 4024,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "stars": 18050,
+        "stars_delta": 6462,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "HKUDS/DeepTutor",
-        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-        "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 18284,
-        "stars_delta": 6401,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "coleam00/Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "url": "https://github.com/coleam00/Archon",
+        "stars": 18089,
+        "stars_delta": 4024,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "monthly": [
@@ -400,50 +400,50 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 87492,
+        "stars": 87802,
         "stars_delta": 76339,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "mattpocock/skills",
-        "description": "My personal directory of skills, straight from my .claude directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 15157,
-        "stars_delta": 13952,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
-        "rank": 3,
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 23746,
+        "stars": 23755,
         "stars_delta": 23194,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "FujiwaraChoki/MoneyPrinterV2",
         "description": "Automate the process of making money online.",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "stars": 29622,
+        "stars": 29633,
         "stars_delta": 14719,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
+        "rank": 4,
+        "name": "mattpocock/skills",
+        "description": "My personal directory of skills, straight from my .claude directory.",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 15190,
+        "stars_delta": 13952,
+        "language": "Shell",
+        "language_color": "#89e051"
+      },
+      {
         "rank": 5,
-        "name": "siddharthvaddem/openscreen",
-        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-        "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 29925,
-        "stars_delta": 21866,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "forrestchang/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+        "stars": 38771,
+        "stars_delta": 23210,
+        "language": "",
+        "language_color": "#586069"
       }
     ],
     "frameworks": [
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.11784",
         "categories": [],
-        "upvotes": 113,
+        "upvotes": 114,
         "published": "2026-04-12"
       },
       {
@@ -542,7 +542,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.11297",
         "categories": [],
-        "upvotes": 87,
+        "upvotes": 88,
         "published": "2026-04-12"
       },
       {
@@ -555,7 +555,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.12627",
         "categories": [],
-        "upvotes": 58,
+        "upvotes": 59,
         "published": "2026-04-13"
       },
       {
@@ -568,7 +568,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.13016",
         "categories": [],
-        "upvotes": 48,
+        "upvotes": 50,
         "published": "2026-04-13"
       }
     ],
