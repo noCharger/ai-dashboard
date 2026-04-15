@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-15T18:03:42Z",
+  "generated": "2026-04-15T19:57:23Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 769,
+        "trending_score": 775,
         "downloads": 85549,
-        "likes": 769,
+        "likes": 775,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 608,
+        "trending_score": 623,
         "downloads": 818,
-        "likes": 608,
+        "likes": 623,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 531,
+        "trending_score": 521,
         "downloads": 91474,
-        "likes": 1234,
+        "likes": 1236,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -55,26 +55,9 @@
       },
       {
         "rank": 4,
-        "name": "google/gemma-4-31B-it",
-        "org": "google",
-        "trending_score": 497,
-        "downloads": 2894077,
-        "likes": 1927,
-        "url": "https://huggingface.co/google/gemma-4-31B-it",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "gemma4",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "openbmb/VoxCPM2",
         "org": "openbmb",
-        "trending_score": 493,
+        "trending_score": 489,
         "downloads": 12827,
         "likes": 913,
         "url": "https://huggingface.co/openbmb/VoxCPM2",
@@ -84,6 +67,23 @@
           "text-to-speech",
           "tts",
           "multilingual"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "google/gemma-4-31B-it",
+        "org": "google",
+        "trending_score": 488,
+        "downloads": 2894077,
+        "likes": 1927,
+        "url": "https://huggingface.co/google/gemma-4-31B-it",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "gemma4",
+          "image-text-to-text",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 41552,
+        "stars": 42006,
         "stars_delta": 9622,
         "language": "",
         "language_color": "#586069"
@@ -306,7 +306,7 @@
         "name": "pascalorg/editor",
         "description": "Create and share 3D architectural projects.",
         "url": "https://github.com/pascalorg/editor",
-        "stars": 12438,
+        "stars": 12494,
         "stars_delta": 1422,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 57398,
+        "stars": 57523,
         "stars_delta": 2330,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "Lordog/dive-into-llms",
         "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
         "url": "https://github.com/Lordog/dive-into-llms",
-        "stars": 29287,
+        "stars": 29315,
         "stars_delta": 1068,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -336,7 +336,7 @@
         "name": "virattt/ai-hedge-fund",
         "description": "An AI Hedge Fund Team",
         "url": "https://github.com/virattt/ai-hedge-fund",
-        "stars": 54904,
+        "stars": 54951,
         "stars_delta": 1062,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 41553,
+        "stars": 42006,
         "stars_delta": 21795,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 88980,
+        "stars": 89118,
         "stars_delta": 52996,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 13371,
+        "stars": 13440,
         "stars_delta": 9823,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 18167,
+        "stars": 18188,
         "stars_delta": 6462,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "coleam00/Archon",
         "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
         "url": "https://github.com/coleam00/Archon",
-        "stars": 18174,
+        "stars": 18192,
         "stars_delta": 4024,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 88980,
+        "stars": 89118,
         "stars_delta": 76339,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 23797,
+        "stars": 23808,
         "stars_delta": 23194,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -420,7 +420,7 @@
         "name": "FujiwaraChoki/MoneyPrinterV2",
         "description": "Automate the process of making money online.",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "stars": 29672,
+        "stars": 29677,
         "stars_delta": 14719,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "mattpocock/skills",
         "description": "My personal directory of skills, straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 15282,
+        "stars": 15318,
         "stars_delta": 13952,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 41553,
+        "stars": 42006,
         "stars_delta": 23210,
         "language": "",
         "language_color": "#586069"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.11784",
         "categories": [],
-        "upvotes": 118,
+        "upvotes": 119,
         "published": "2026-04-12"
       },
       {
@@ -542,7 +542,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.12627",
         "categories": [],
-        "upvotes": 78,
+        "upvotes": 80,
         "published": "2026-04-13"
       },
       {
@@ -555,7 +555,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.13016",
         "categories": [],
-        "upvotes": 54,
+        "upvotes": 57,
         "published": "2026-04-13"
       },
       {
