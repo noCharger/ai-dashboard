@@ -9,8 +9,10 @@ logger = logging.getLogger(__name__)
 
 # Gradio API endpoint for the GAIA leaderboard space
 GAIA_API = "https://gaia-benchmark-leaderboard.hf.space/api/predict"
-# Fallback: try the HF datasets API
-GAIA_DATASET = "https://huggingface.co/api/datasets/gaia-benchmark/GAIA"
+GAIA_ROWS_API = "https://datasets-server.huggingface.co/rows"
+GAIA_RESULTS_DATASET = "gaia-benchmark/results_public"
+GAIA_RESULTS_CONFIG = "2023"
+GAIA_RESULTS_SPLIT = "test"
 
 
 def fetch(limit: int = 5) -> list[dict]:
@@ -21,7 +23,11 @@ def fetch(limit: int = 5) -> list[dict]:
     except Exception as exc:
         logger.warning("GAIA Gradio API failed: %s — trying fallback", exc)
 
-    # Fallback: return empty (the orchestrator will use cached data)
+    try:
+        return _fetch_dataset(limit)
+    except Exception as exc:
+        logger.warning("GAIA dataset fallback failed: %s", exc)
+
     logger.warning("GAIA fetch failed, returning empty list")
     return []
 
@@ -90,3 +96,57 @@ def _parse_gradio_config(config: dict, limit: int) -> list[dict]:
             break
 
     return results
+
+
+def _fetch_dataset(limit: int) -> list[dict]:
+    """Fetch leaderboard rows from the public Hugging Face dataset."""
+    data = fetch_json(
+        GAIA_ROWS_API,
+        params={
+            "dataset": GAIA_RESULTS_DATASET,
+            "config": GAIA_RESULTS_CONFIG,
+            "split": GAIA_RESULTS_SPLIT,
+            "offset": "0",
+            "length": "100",
+        },
+    )
+    rows = data.get("rows", [])
+    if not rows:
+        raise RuntimeError("No rows returned from GAIA dataset")
+
+    agents = []
+    for entry in rows:
+        row = entry.get("row", entry)
+        model = row.get("model")
+        if not model:
+            continue
+
+        raw_score = row.get("score", 0)
+        try:
+            score = float(raw_score)
+        except (TypeError, ValueError):
+            continue
+        if score <= 1:
+            score *= 100
+
+        agents.append({
+            "name": model,
+            "org": row.get("organisation", ""),
+            "score": round(score, 2),
+            "url": row.get("url") or "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        })
+
+    agents.sort(key=lambda item: item["score"], reverse=True)
+
+    return [
+        {
+            "rank": idx,
+            "name": agent["name"],
+            "org": agent["org"],
+            "score": agent["score"],
+            "score_unit": "%",
+            "url": agent["url"],
+            "verified": True,
+        }
+        for idx, agent in enumerate(agents[:limit], start=1)
+    ]
