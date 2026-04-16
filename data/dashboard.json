@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-16T17:01:56Z",
+  "generated": "2026-04-16T18:56:37Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 837,
+        "trending_score": 840,
         "downloads": 142955,
-        "likes": 837,
+        "likes": 840,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 750,
+        "trending_score": 752,
         "downloads": 1060,
-        "likes": 766,
+        "likes": 768,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 451,
+        "trending_score": 444,
         "downloads": 94376,
-        "likes": 1273,
+        "likes": 1274,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "google/gemma-4-31B-it",
         "org": "google",
-        "trending_score": 430,
+        "trending_score": 426,
         "downloads": 3195626,
-        "likes": 1968,
+        "likes": 1969,
         "url": "https://huggingface.co/google/gemma-4-31B-it",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 364,
+        "trending_score": 368,
         "downloads": 1351,
-        "likes": 364,
+        "likes": 368,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -91,17 +91,6 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "GPT-5.4 (xhigh)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4"
-      },
-      {
-        "rank": 2,
         "name": "o3",
         "org": "",
         "intelligence_index": 0.0,
@@ -110,6 +99,17 @@
         "speed_tps": null,
         "context_window": null,
         "url": "https://artificialanalysis.ai/models/o3"
+      },
+      {
+        "rank": 2,
+        "name": "gpt-oss-20B (low)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
       },
       {
         "rank": 3,
@@ -124,17 +124,6 @@
       },
       {
         "rank": 4,
-        "name": "gpt-oss-120B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
-      },
-      {
-        "rank": 5,
         "name": "gpt-oss-20B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -143,6 +132,17 @@
         "speed_tps": null,
         "context_window": null,
         "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
+      },
+      {
+        "rank": 5,
+        "name": "gpt-oss-120B (low)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 48395,
+        "stars": 48834,
         "stars_delta": 7939,
         "language": "",
         "language_color": "#586069"
@@ -306,7 +306,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 59184,
+        "stars": 59341,
         "stars_delta": 1907,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 2614,
+        "stars": 2653,
         "stars_delta": 883,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "jamiepine/voicebox",
         "description": "The open-source voice synthesis studio",
         "url": "https://github.com/jamiepine/voicebox",
-        "stars": 18906,
+        "stars": 18949,
         "stars_delta": 887,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "vercel-labs/open-agents",
         "description": "An open source template for building cloud agents.",
         "url": "https://github.com/vercel-labs/open-agents",
-        "stars": 3064,
+        "stars": 3096,
         "stars_delta": 735,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 48395,
+        "stars": 48834,
         "stars_delta": 30919,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 93084,
+        "stars": 93253,
         "stars_delta": 53110,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 14436,
+        "stars": 14483,
         "stars_delta": 10864,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 110216,
+        "stars": 110262,
         "stars_delta": 15790,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 18680,
+        "stars": 18701,
         "stars_delta": 6486,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,48 +400,48 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 93084,
+        "stars": 93253,
         "stars_delta": 81412,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "Yeachan-Heo/oh-my-codex",
-        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-        "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 23540,
-        "stars_delta": 21352,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 48395,
+        "stars": 48834,
         "stars_delta": 32572,
         "language": "",
         "language_color": "#586069"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 23972,
+        "stars": 23982,
         "stars_delta": 23152,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "FujiwaraChoki/MoneyPrinterV2",
         "description": "Automate the process of making money online.",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "stars": 29765,
+        "stars": 29772,
         "stars_delta": 14848,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "bytedance/deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+        "url": "https://github.com/bytedance/deer-flow",
+        "stars": 62024,
+        "stars_delta": 31460,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -516,24 +516,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.11784",
         "categories": [],
-        "upvotes": 127,
+        "upvotes": 128,
         "published": "2026-04-12"
       },
       {
         "rank": 2,
-        "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
-        "authors": [
-          "Mingyu Ouyang",
-          "Siyuan Hu",
-          "Kevin Qinghong Lin"
-        ],
-        "url": "https://huggingface.co/papers/2604.07429",
-        "categories": [],
-        "upvotes": 105,
-        "published": "2026-04-07"
-      },
-      {
-        "rank": 3,
         "title": "Seedance 2.0: Advancing Video Generation for World Complexity",
         "authors": [
           "Team Seedance",
@@ -542,8 +529,21 @@
         ],
         "url": "https://huggingface.co/papers/2604.14148",
         "categories": [],
-        "upvotes": 104,
+        "upvotes": 106,
         "published": "2026-04-14"
+      },
+      {
+        "rank": 3,
+        "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
+        "authors": [
+          "Mingyu Ouyang",
+          "Siyuan Hu",
+          "Kevin Qinghong Lin"
+        ],
+        "url": "https://huggingface.co/papers/2604.07429",
+        "categories": [],
+        "upvotes": 104,
+        "published": "2026-04-07"
       },
       {
         "rank": 4,
@@ -555,21 +555,21 @@
         ],
         "url": "https://huggingface.co/papers/2604.11626",
         "categories": [],
-        "upvotes": 92,
+        "upvotes": 94,
         "published": "2026-04-12"
       },
       {
         "rank": 5,
-        "title": "KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance",
+        "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
         "authors": [
-          "Linhao Yu",
-          "Tianmeng Yang",
-          "Siyu Ding"
+          "Dinging Li",
+          "Yingxiu Zhao",
+          "Xinrui Cheng"
         ],
-        "url": "https://huggingface.co/papers/2604.12627",
+        "url": "https://huggingface.co/papers/2604.14144",
         "categories": [],
-        "upvotes": 92,
-        "published": "2026-04-13"
+        "upvotes": 60,
+        "published": "2026-04-14"
       }
     ],
     "arxiv_recent": [
