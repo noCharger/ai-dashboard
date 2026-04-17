@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-17T14:15:23Z",
+  "generated": "2026-04-17T18:41:41Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 871,
+        "trending_score": 882,
         "downloads": 188737,
-        "likes": 905,
+        "likes": 916,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "tencent/HY-Embodied-0.5",
-        "org": "tencent",
-        "trending_score": 698,
-        "downloads": 1287,
-        "likes": 843,
-        "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hunyuan_vl_mot",
-          "image-text-to-text",
-          "hunyuan"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 632,
+        "trending_score": 675,
         "downloads": 21180,
-        "likes": 645,
+        "likes": 693,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "tencent/HY-Embodied-0.5",
+        "org": "tencent",
+        "trending_score": 671,
+        "downloads": 1287,
+        "likes": 847,
+        "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hunyuan_vl_mot",
+          "image-text-to-text",
+          "hunyuan"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 417,
+        "trending_score": 409,
         "downloads": 100019,
-        "likes": 1368,
+        "likes": 1375,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 398,
+        "trending_score": 403,
         "downloads": 2254,
-        "likes": 407,
+        "likes": 414,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -91,36 +91,36 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-120B (low)",
+        "name": "GPT-5.4 nano (xhigh)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-nano"
       },
       {
         "rank": 2,
-        "name": "gpt-oss-120B (high)",
+        "name": "GPT-5.4 nano (Non-Reasoning)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-nano-non-reasoning"
       },
       {
         "rank": 3,
-        "name": "gpt-oss-20B (low)",
+        "name": "GPT-5.4 mini (medium)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-medium"
       },
       {
         "rank": 4,
@@ -135,14 +135,14 @@
       },
       {
         "rank": 5,
-        "name": "GPT-5.4 mini (Non-Reasoning)",
+        "name": "gpt-oss-120B (high)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-non-reasoning"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 3729,
+        "stars": 3991,
         "stars_delta": 750,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -306,7 +306,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 3315,
+        "stars": 3473,
         "stars_delta": 848,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,8 +316,8 @@
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
         "description": "Claude Code skill to support Android app's reverse engineering",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": 2583,
-        "stars_delta": 375,
+        "stars": 2667,
+        "stars_delta": 558,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -326,7 +326,7 @@
         "name": "BasedHardware/omi",
         "description": "AI that sees your screen, listens to your conversations and tells you what to do",
         "url": "https://github.com/BasedHardware/omi",
-        "stars": 9563,
+        "stars": 9683,
         "stars_delta": 821,
         "language": "Dart",
         "language_color": "#00B4AB"
@@ -336,7 +336,7 @@
         "name": "Lordog/dive-into-llms",
         "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
         "url": "https://github.com/Lordog/dive-into-llms",
-        "stars": 31350,
+        "stars": 31459,
         "stars_delta": 949,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 53607,
+        "stars": 54197,
         "stars_delta": 37377,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 96006,
+        "stars": 96461,
         "stars_delta": 51025,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 18940,
+        "stars": 19002,
         "stars_delta": 6735,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 15181,
+        "stars": 15304,
         "stars_delta": 10588,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 110984,
+        "stars": 111084,
         "stars_delta": 14539,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 96006,
+        "stars": 96461,
         "stars_delta": 84964,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 53607,
+        "stars": 54197,
         "stars_delta": 39815,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 24099,
+        "stars": 24127,
         "stars_delta": 22583,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 62213,
+        "stars": 62262,
         "stars_delta": 31402,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 30708,
+        "stars": 30759,
         "stars_delta": 22185,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.14268",
         "categories": [],
-        "upvotes": 61,
+        "upvotes": 64,
         "published": "2026-04-14"
       },
       {
