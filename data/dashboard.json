@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-17T04:40:19Z",
+  "generated": "2026-04-17T07:58:12Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 855,
-        "downloads": 142955,
-        "likes": 887,
+        "trending_score": 860,
+        "downloads": 188737,
+        "likes": 893,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 751,
-        "downloads": 1060,
-        "likes": 774,
+        "trending_score": 742,
+        "downloads": 1287,
+        "likes": 778,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 516,
-        "downloads": 0,
-        "likes": 525,
+        "trending_score": 571,
+        "downloads": 21180,
+        "likes": 582,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "zai-org/GLM-5.1",
         "org": "zai-org",
-        "trending_score": 438,
-        "downloads": 94376,
-        "likes": 1299,
+        "trending_score": 434,
+        "downloads": 100019,
+        "likes": 1303,
         "url": "https://huggingface.co/zai-org/GLM-5.1",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "google/gemma-4-31B-it",
         "org": "google",
-        "trending_score": 412,
-        "downloads": 3195626,
-        "likes": 1992,
+        "trending_score": 401,
+        "downloads": 3513465,
+        "likes": 1999,
         "url": "https://huggingface.co/google/gemma-4-31B-it",
         "tags": [
           "transformers",
@@ -91,39 +91,6 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "GPT-5.4 mini (Non-Reasoning)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-non-reasoning"
-      },
-      {
-        "rank": 2,
-        "name": "gpt-oss-20B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
-      },
-      {
-        "rank": 3,
-        "name": "gpt-oss-120B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
-      },
-      {
-        "rank": 4,
         "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -134,7 +101,29 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
-        "rank": 5,
+        "rank": 2,
+        "name": "gpt-oss-120B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
+      },
+      {
+        "rank": 3,
+        "name": "gpt-oss-20B (low)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+      },
+      {
+        "rank": 4,
         "name": "GPT-5.4 mini (xhigh)",
         "org": "",
         "intelligence_index": 0.0,
@@ -143,6 +132,17 @@
         "speed_tps": null,
         "context_window": null,
         "url": "https://artificialanalysis.ai/models/gpt-5-4-mini"
+      },
+      {
+        "rank": 5,
+        "name": "GPT-5.4 mini (Non-Reasoning)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-non-reasoning"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 50999,
+        "stars": 52106,
         "stars_delta": 7959,
         "language": "",
         "language_color": "#586069"
@@ -306,7 +306,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 60229,
+        "stars": 60587,
         "stars_delta": 1897,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 2962,
+        "stars": 3102,
         "stars_delta": 872,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "jamiepine/voicebox",
         "description": "The open-source voice synthesis studio",
         "url": "https://github.com/jamiepine/voicebox",
-        "stars": 19206,
+        "stars": 19362,
         "stars_delta": 880,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "vercel-labs/open-agents",
         "description": "An open source template for building cloud agents.",
         "url": "https://github.com/vercel-labs/open-agents",
-        "stars": 3301,
+        "stars": 3389,
         "stars_delta": 738,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 51000,
+        "stars": 52106,
         "stars_delta": 37377,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 94431,
+        "stars": 95090,
         "stars_delta": 51025,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 14808,
+        "stars": 14958,
         "stars_delta": 10588,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 110621,
+        "stars": 110776,
         "stars_delta": 14539,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 18809,
+        "stars": 18861,
         "stars_delta": 6735,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 94431,
+        "stars": 95090,
         "stars_delta": 84964,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 51000,
+        "stars": 52106,
         "stars_delta": 39815,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 24042,
+        "stars": 24063,
         "stars_delta": 22583,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "FujiwaraChoki/MoneyPrinterV2",
         "description": "Automate the process of making money online.",
         "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-        "stars": 29815,
+        "stars": 29833,
         "stars_delta": 14953,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 62100,
+        "stars": 62144,
         "stars_delta": 31402,
         "language": "Python",
         "language_color": "#3572A5"
@@ -508,19 +508,6 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "Seedance 2.0: Advancing Video Generation for World Complexity",
-        "authors": [
-          "Team Seedance",
-          "De Chen",
-          "Liyang Chen"
-        ],
-        "url": "https://huggingface.co/papers/2604.14148",
-        "categories": [],
-        "upvotes": 119,
-        "published": "2026-04-14"
-      },
-      {
-        "rank": 2,
         "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
         "authors": [
           "Mingyu Ouyang",
@@ -533,7 +520,7 @@
         "published": "2026-04-07"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
         "authors": [
           "Haozhe Wang",
@@ -542,11 +529,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.11626",
         "categories": [],
-        "upvotes": 97,
+        "upvotes": 98,
         "published": "2026-04-12"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
         "authors": [
           "Dinging Li",
@@ -559,17 +546,30 @@
         "published": "2026-04-14"
       },
       {
-        "rank": 5,
-        "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models",
+        "rank": 4,
+        "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
         "authors": [
-          "Xiaomeng Hu",
-          "Yinger Zhang",
-          "Fei Huang"
+          "Team HY-World",
+          "Chenjie Cao",
+          "Xuhui Zuo"
         ],
-        "url": "https://huggingface.co/papers/2604.10866",
+        "url": "https://huggingface.co/papers/2604.14268",
         "categories": [],
-        "upvotes": 50,
-        "published": "2026-04-12"
+        "upvotes": 45,
+        "published": "2026-04-14"
+      },
+      {
+        "rank": 5,
+        "title": "Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents",
+        "authors": [
+          "Kangsan Kim",
+          "Minki Kang",
+          "Taeil Kim"
+        ],
+        "url": "https://huggingface.co/papers/2604.14004",
+        "categories": [],
+        "upvotes": 24,
+        "published": "2026-04-14"
       }
     ],
     "arxiv_recent": [
