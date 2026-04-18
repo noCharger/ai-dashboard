@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-18T09:37:31Z",
+  "generated": "2026-04-18T11:26:31Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 896,
+        "trending_score": 897,
         "downloads": 258064,
-        "likes": 934,
+        "likes": 936,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 754,
+        "trending_score": 764,
         "downloads": 82000,
-        "likes": 776,
+        "likes": 786,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 675,
+        "trending_score": 676,
         "downloads": 1454,
-        "likes": 854,
+        "likes": 855,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 420,
+        "trending_score": 421,
         "downloads": 3116,
-        "likes": 432,
+        "likes": 433,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "zai-org/GLM-5.1",
-        "org": "zai-org",
-        "trending_score": 382,
-        "downloads": 103847,
-        "likes": 1388,
-        "url": "https://huggingface.co/zai-org/GLM-5.1",
+        "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
+        "org": "unsloth",
+        "trending_score": 384,
+        "downloads": 442900,
+        "likes": 403,
+        "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
-          "safetensors",
-          "glm_moe_dsa",
-          "text-generation",
-          "conversational"
+          "gguf",
+          "unsloth",
+          "qwen",
+          "qwen3_5_moe"
         ],
         "rank_change": null
       }
@@ -293,62 +293,62 @@
     "daily": [
       {
         "rank": 1,
-        "name": "EvoMap/evolver",
-        "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-        "url": "https://github.com/EvoMap/evolver",
-        "stars": 4639,
-        "stars_delta": 737,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
+        "name": "thunderbird/thunderbolt",
+        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+        "url": "https://github.com/thunderbird/thunderbolt",
+        "stars": 1179,
+        "stars_delta": 458,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "lsdefine/GenericAgent",
-        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-        "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 3976,
-        "stars_delta": 845,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
-        "name": "SimoneAvogadro/android-reverse-engineering-skill",
-        "description": "Claude Code skill to support Android app's reverse engineering",
-        "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": 2908,
-        "stars_delta": 538,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
-        "rank": 4,
         "name": "BasedHardware/omi",
         "description": "AI that sees your screen, listens to your conversations and tells you what to do",
         "url": "https://github.com/BasedHardware/omi",
-        "stars": 10037,
+        "stars": 10089,
         "stars_delta": 824,
         "language": "Dart",
         "language_color": "#00B4AB"
       },
       {
+        "rank": 3,
+        "name": "openai/openai-agents-python",
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "url": "https://github.com/openai/openai-agents-python",
+        "stars": 22028,
+        "stars_delta": 625,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 4,
+        "name": "EvoMap/evolver",
+        "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+        "url": "https://github.com/EvoMap/evolver",
+        "stars": 4702,
+        "stars_delta": 737,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
+      },
+      {
         "rank": 5,
-        "name": "Lordog/dive-into-llms",
-        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-        "url": "https://github.com/Lordog/dive-into-llms",
-        "stars": 31760,
-        "stars_delta": 944,
-        "language": "Jupyter Notebook",
-        "language_color": "#DA5B0B"
+        "name": "deepseek-ai/DeepGEMM",
+        "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+        "url": "https://github.com/deepseek-ai/DeepGEMM",
+        "stars": 6404,
+        "stars_delta": 31,
+        "language": "Cuda",
+        "language_color": "#3A4E3A"
       }
     ],
     "weekly": [
       {
         "rank": 1,
-        "name": "forrestchang/andrej-karpathy-skills",
+        "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 55903,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "stars": 56145,
         "stars_delta": 42267,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 97860,
+        "stars": 98080,
         "stars_delta": 47053,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 19155,
+        "stars": 19168,
         "stars_delta": 6511,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,20 +378,20 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 15755,
+        "stars": 15804,
         "stars_delta": 10056,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "microsoft/markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "url": "https://github.com/microsoft/markitdown",
-        "stars": 111564,
-        "stars_delta": 13214,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "thedotmack/claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 61894,
+        "stars_delta": 14033,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "monthly": [
@@ -400,48 +400,48 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 97860,
+        "stars": 98080,
         "stars_delta": 88177,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "forrestchang/andrej-karpathy-skills",
+        "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 55903,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "stars": 56145,
         "stars_delta": 46419,
         "language": "",
         "language_color": "#586069"
       },
       {
         "rank": 3,
-        "name": "Crosstalk-Solutions/project-nomad",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 24219,
-        "stars_delta": 22096,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 62429,
+        "stars": 62443,
         "stars_delta": 31324,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 30920,
+        "stars": 30935,
         "stars_delta": 22478,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "Crosstalk-Solutions/project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "stars": 24231,
+        "stars_delta": 22096,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
