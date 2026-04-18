@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-18T17:28:07Z",
+  "generated": "2026-04-18T18:32:00Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-M2.7",
         "org": "MiniMaxAI",
-        "trending_score": 905,
+        "trending_score": 907,
         "downloads": 258064,
-        "likes": 946,
+        "likes": 949,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 789,
+        "trending_score": 794,
         "downloads": 82000,
-        "likes": 811,
+        "likes": 818,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 432,
+        "trending_score": 436,
         "downloads": 3116,
-        "likes": 444,
+        "likes": 448,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 407,
+        "trending_score": 411,
         "downloads": 442900,
-        "likes": 426,
+        "likes": 431,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -91,39 +91,6 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-120B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
-      },
-      {
-        "rank": 2,
-        "name": "o3",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/o3"
-      },
-      {
-        "rank": 3,
-        "name": "GPT-5.4 mini (medium)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-medium"
-      },
-      {
-        "rank": 4,
         "name": "gpt-oss-20B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -134,7 +101,7 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
       },
       {
-        "rank": 5,
+        "rank": 2,
         "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -143,6 +110,39 @@
         "speed_tps": null,
         "context_window": null,
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
+      },
+      {
+        "rank": 3,
+        "name": "GPT-5.4 nano (xhigh)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-nano"
+      },
+      {
+        "rank": 4,
+        "name": "gpt-oss-120B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
+      },
+      {
+        "rank": 5,
+        "name": "GPT-5.4 nano (Non-Reasoning)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-nano-non-reasoning"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 1393,
+        "stars": 1425,
         "stars_delta": 458,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -306,7 +306,7 @@
         "name": "BasedHardware/omi",
         "description": "AI that sees your screen, listens to your conversations and tells you what to do",
         "url": "https://github.com/BasedHardware/omi",
-        "stars": 10272,
+        "stars": 10311,
         "stars_delta": 617,
         "language": "Dart",
         "language_color": "#00B4AB"
@@ -316,7 +316,7 @@
         "name": "openai/openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 22184,
+        "stars": 22214,
         "stars_delta": 473,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 4886,
+        "stars": 4904,
         "stars_delta": 1150,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -336,7 +336,7 @@
         "name": "deepseek-ai/DeepGEMM",
         "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
         "url": "https://github.com/deepseek-ai/DeepGEMM",
-        "stars": 6474,
+        "stars": 6484,
         "stars_delta": 31,
         "language": "Cuda",
         "language_color": "#3A4E3A"
@@ -348,7 +348,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 57268,
+        "stars": 57412,
         "stars_delta": 42267,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 98952,
+        "stars": 99034,
         "stars_delta": 47053,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 19258,
+        "stars": 19267,
         "stars_delta": 6511,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 16032,
+        "stars": 16069,
         "stars_delta": 10056,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 62236,
+        "stars": 62284,
         "stars_delta": 14033,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 98952,
+        "stars": 99034,
         "stars_delta": 88177,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 57268,
+        "stars": 57412,
         "stars_delta": 46419,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 62516,
+        "stars": 62525,
         "stars_delta": 31324,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 31022,
+        "stars": 31032,
         "stars_delta": 22478,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -440,7 +440,7 @@
         "name": "Crosstalk-Solutions/project-nomad",
         "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "stars": 24274,
+        "stars": 24280,
         "stars_delta": 22096,
         "language": "TypeScript",
         "language_color": "#3178c6"
