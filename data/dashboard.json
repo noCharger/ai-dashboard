@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-20T17:49:35Z",
+  "generated": "2026-04-20T18:50:09Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 989,
+        "trending_score": 995,
         "downloads": 334628,
-        "likes": 1022,
+        "likes": 1028,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 513,
+        "trending_score": 517,
         "downloads": 816485,
-        "likes": 544,
+        "likes": 548,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 475,
+        "trending_score": 476,
         "downloads": 4144,
-        "likes": 488,
+        "likes": 489,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "tencent/HY-World-2.0",
         "org": "tencent",
-        "trending_score": 474,
+        "trending_score": 475,
         "downloads": 0,
-        "likes": 490,
+        "likes": 491,
         "url": "https://huggingface.co/tencent/HY-World-2.0",
         "tags": [
           "hy-world-2.0",
@@ -102,17 +102,6 @@
       },
       {
         "rank": 2,
-        "name": "gpt-oss-20B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
-      },
-      {
-        "rank": 3,
         "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -123,7 +112,7 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "gpt-oss-20B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -132,6 +121,17 @@
         "speed_tps": null,
         "context_window": null,
         "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+      },
+      {
+        "rank": 4,
+        "name": "gpt-oss-20B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
       },
       {
         "rank": 5,
@@ -296,7 +296,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 9001,
+        "stars": 9105,
         "stars_delta": 3129,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 48039,
+        "stars": 48063,
         "stars_delta": 716,
         "language": "Rust",
         "language_color": "#dea584"
@@ -316,7 +316,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 2695,
+        "stars": 2711,
         "stars_delta": 667,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "paperless-ngx/paperless-ngx",
         "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
         "url": "https://github.com/paperless-ngx/paperless-ngx",
-        "stars": 39286,
+        "stars": 39311,
         "stars_delta": 611,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "tractorjuice/arc-kit",
         "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
         "url": "https://github.com/tractorjuice/arc-kit",
-        "stars": 1258,
+        "stars": 1266,
         "stars_delta": 334,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 65600,
+        "stars": 65715,
         "stars_delta": 45381,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 104875,
+        "stars": 104960,
         "stars_delta": 38194,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 64106,
+        "stars": 64135,
         "stars_delta": 14556,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 4922,
+        "stars": 4959,
         "stars_delta": 3512,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 5951,
+        "stars": 5966,
         "stars_delta": 3434,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 104875,
+        "stars": 104960,
         "stars_delta": 92374,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 65600,
+        "stars": 65715,
         "stars_delta": 52578,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "pascalorg/editor",
         "description": "Create and share 3D architectural projects.",
         "url": "https://github.com/pascalorg/editor",
-        "stars": 13763,
+        "stars": 13768,
         "stars_delta": 13447,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "Donchitos/Claude-Code-Game-Studios",
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 14305,
+        "stars": 14317,
         "stars_delta": 12923,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 31552,
+        "stars": 31563,
         "stars_delta": 22878,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2502.07408",
         "categories": [],
-        "upvotes": 34,
+        "upvotes": 35,
         "published": "2026-04-15"
       },
       {
@@ -547,19 +547,6 @@
       },
       {
         "rank": 4,
-        "title": "DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
-        "authors": [
-          "Qianqian Xie",
-          "Qingheng Xiong",
-          "He Zhu"
-        ],
-        "url": "https://huggingface.co/papers/2604.14683",
-        "categories": [],
-        "upvotes": 31,
-        "published": "2026-04-15"
-      },
-      {
-        "rank": 5,
         "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
         "authors": [
           "Chang Nie",
@@ -570,6 +557,19 @@
         "categories": [],
         "upvotes": 30,
         "published": "2026-03-19"
+      },
+      {
+        "rank": 5,
+        "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+        "authors": [
+          "Hao Gao",
+          "Shaoyu Chen",
+          "Yifan Zhu"
+        ],
+        "url": "https://huggingface.co/papers/2604.15308",
+        "categories": [],
+        "upvotes": 26,
+        "published": "2026-04-15"
       }
     ],
     "arxiv_recent": [
