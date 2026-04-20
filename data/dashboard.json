@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-20T04:48:54Z",
+  "generated": "2026-04-20T07:09:38Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 923,
+        "trending_score": 929,
         "downloads": 209112,
-        "likes": 953,
+        "likes": 960,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,7 +23,7 @@
         "rank": 2,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 683,
+        "trending_score": 682,
         "downloads": 1599,
         "likes": 878,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 493,
+        "trending_score": 495,
         "downloads": 662293,
-        "likes": 520,
+        "likes": 523,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 467,
+        "trending_score": 468,
         "downloads": 3761,
-        "likes": 479,
+        "likes": 481,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "tencent/HY-World-2.0",
         "org": "tencent",
-        "trending_score": 455,
+        "trending_score": 457,
         "downloads": 0,
-        "likes": 471,
+        "likes": 473,
         "url": "https://huggingface.co/tencent/HY-World-2.0",
         "tags": [
           "hy-world-2.0",
@@ -102,28 +102,17 @@
       },
       {
         "rank": 2,
-        "name": "GPT-5.4 (xhigh)",
+        "name": "gpt-oss-20B (high)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
       },
       {
         "rank": 3,
-        "name": "gpt-oss-20B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
-      },
-      {
-        "rank": 4,
         "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -134,15 +123,26 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
-        "rank": 5,
-        "name": "gpt-oss-20B (high)",
+        "rank": 4,
+        "name": "gpt-oss-20B (low)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+      },
+      {
+        "rank": 5,
+        "name": "o3",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/o3"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 7167,
+        "stars": 7517,
         "stars_delta": 1254,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 2336,
+        "stars": 2415,
         "stars_delta": 695,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "tractorjuice/arc-kit",
         "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
         "url": "https://github.com/tractorjuice/arc-kit",
-        "stars": 1065,
+        "stars": 1099,
         "stars_delta": 263,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -326,7 +326,7 @@
         "name": "openai/openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 23356,
+        "stars": 23473,
         "stars_delta": 752,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 9977,
+        "stars": 10021,
         "stars_delta": 109,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 62440,
+        "stars": 62978,
         "stars_delta": 45381,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 102872,
+        "stars": 103263,
         "stars_delta": 38194,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 63512,
+        "stars": 63620,
         "stars_delta": 14556,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 5678,
+        "stars": 5747,
         "stars_delta": 3434,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -388,7 +388,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 4638,
+        "stars": 4687,
         "stars_delta": 3512,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 102874,
+        "stars": 103263,
         "stars_delta": 92374,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 62443,
+        "stars": 62978,
         "stars_delta": 52578,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "Donchitos/Claude-Code-Game-Studios",
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 13748,
+        "stars": 13906,
         "stars_delta": 12923,
         "language": "Shell",
         "language_color": "#89e051"
@@ -430,7 +430,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 62796,
+        "stars": 62817,
         "stars_delta": 31326,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 31391,
+        "stars": 31419,
         "stars_delta": 22878,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.14268",
         "categories": [],
-        "upvotes": 93,
+        "upvotes": 95,
         "published": "2026-04-14"
       },
       {
@@ -542,7 +542,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.14164",
         "categories": [],
-        "upvotes": 27,
+        "upvotes": 30,
         "published": "2026-03-22"
       },
       {
@@ -560,14 +560,16 @@
       },
       {
         "rank": 5,
-        "title": "Target Policy Optimization",
+        "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
         "authors": [
-          "Jean Kaddour"
+          "Roni Itkin",
+          "Noam Issachar",
+          "Yehonatan Keypur"
         ],
-        "url": "https://huggingface.co/papers/2604.06159",
+        "url": "https://huggingface.co/papers/2604.15284",
         "categories": [],
-        "upvotes": 22,
-        "published": "2026-04-07"
+        "upvotes": 21,
+        "published": "2026-04-15"
       }
     ],
     "arxiv_recent": [
