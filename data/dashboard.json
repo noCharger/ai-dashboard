@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-19T22:23:27Z",
+  "generated": "2026-04-20T01:24:53Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 892,
+        "trending_score": 905,
         "downloads": 209112,
-        "likes": 922,
+        "likes": 935,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/HY-Embodied-0.5",
         "org": "tencent",
-        "trending_score": 681,
+        "trending_score": 682,
         "downloads": 1599,
-        "likes": 874,
+        "likes": 875,
         "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "MiniMaxAI/MiniMax-M2.7",
-        "org": "MiniMaxAI",
-        "trending_score": 492,
-        "downloads": 288848,
-        "likes": 978,
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "minimax_m2",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 477,
+        "trending_score": 484,
         "downloads": 662293,
-        "likes": 501,
+        "likes": 509,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "MiniMaxAI/MiniMax-M2.7",
+        "org": "MiniMaxAI",
+        "trending_score": 471,
+        "downloads": 288848,
+        "likes": 982,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "minimax_m2",
+          "text-generation",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "baidu/ERNIE-Image",
         "org": "baidu",
-        "trending_score": 456,
+        "trending_score": 460,
         "downloads": 3761,
-        "likes": 468,
+        "likes": 472,
         "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
           "diffusers",
@@ -91,28 +91,6 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-120B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
-      },
-      {
-        "rank": 2,
-        "name": "gpt-oss-20B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
-      },
-      {
-        "rank": 3,
         "name": "gpt-oss-120B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -123,7 +101,18 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "name": "GPT-5.4 (xhigh)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4"
+      },
+      {
+        "rank": 3,
         "name": "gpt-oss-20B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -134,15 +123,26 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
       },
       {
-        "rank": 5,
-        "name": "GPT-5.4 mini (xhigh)",
+        "rank": 4,
+        "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
+      },
+      {
+        "rank": 5,
+        "name": "gpt-oss-20B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
       }
     ]
   },
@@ -296,8 +296,8 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 6342,
-        "stars_delta": 1169,
+        "stars": 6636,
+        "stars_delta": 1254,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -306,8 +306,8 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 2177,
-        "stars_delta": 696,
+        "stars": 2245,
+        "stars_delta": 695,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -316,7 +316,7 @@
         "name": "tractorjuice/arc-kit",
         "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
         "url": "https://github.com/tractorjuice/arc-kit",
-        "stars": 970,
+        "stars": 1017,
         "stars_delta": 263,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -326,8 +326,8 @@
         "name": "openai/openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 23111,
-        "stars_delta": 751,
+        "stars": 23202,
+        "stars_delta": 752,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -336,8 +336,8 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 9842,
-        "stars_delta": 96,
+        "stars": 9891,
+        "stars_delta": 109,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -348,8 +348,8 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 61081,
-        "stars_delta": 44465,
+        "stars": 61540,
+        "stars_delta": 45381,
         "language": "",
         "language_color": "#586069"
       },
@@ -358,8 +358,8 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 101939,
-        "stars_delta": 42612,
+        "stars": 102235,
+        "stars_delta": 38194,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -368,8 +368,8 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 63244,
-        "stars_delta": 14371,
+        "stars": 63352,
+        "stars_delta": 14556,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -378,8 +378,8 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 5478,
-        "stars_delta": 2964,
+        "stars": 5551,
+        "stars_delta": 3434,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -388,8 +388,8 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 4519,
-        "stars_delta": 3218,
+        "stars": 4551,
+        "stars_delta": 3512,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -400,8 +400,8 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 101939,
-        "stars_delta": 90325,
+        "stars": 102235,
+        "stars_delta": 92374,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -410,8 +410,8 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 61081,
-        "stars_delta": 49454,
+        "stars": 61543,
+        "stars_delta": 52578,
         "language": "",
         "language_color": "#586069"
       },
@@ -420,8 +420,8 @@
         "name": "Donchitos/Claude-Code-Game-Studios",
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 13344,
-        "stars_delta": 12450,
+        "stars": 13484,
+        "stars_delta": 12923,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -430,8 +430,8 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 62721,
-        "stars_delta": 31335,
+        "stars": 62742,
+        "stars_delta": 31326,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -440,8 +440,8 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 31326,
-        "stars_delta": 22697,
+        "stars": 31353,
+        "stars_delta": 22878,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -560,16 +560,16 @@
       },
       {
         "rank": 5,
-        "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+        "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
         "authors": [
-          "Hao Gao",
-          "Shaoyu Chen",
-          "Yifan Zhu"
+          "Zixian Huang",
+          "Kaichen Yang",
+          "Xu Huang"
         ],
-        "url": "https://huggingface.co/papers/2604.15308",
+        "url": "https://huggingface.co/papers/2604.14164",
         "categories": [],
-        "upvotes": 26,
-        "published": "2026-04-15"
+        "upvotes": 27,
+        "published": "2026-03-22"
       }
     ],
     "arxiv_recent": [
