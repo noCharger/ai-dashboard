@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-21T16:03:34Z",
+  "generated": "2026-04-21T20:51:55Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 1069,
+        "trending_score": 1081,
         "downloads": 458436,
-        "likes": 1110,
+        "likes": 1124,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 620,
+        "trending_score": 668,
         "downloads": 8241,
-        "likes": 629,
+        "likes": 679,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 560,
+        "trending_score": 572,
         "downloads": 967317,
-        "likes": 595,
+        "likes": 607,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "tencent/HY-World-2.0",
         "org": "tencent",
-        "trending_score": 495,
+        "trending_score": 502,
         "downloads": 0,
-        "likes": 512,
+        "likes": 519,
         "url": "https://huggingface.co/tencent/HY-World-2.0",
         "tags": [
           "hy-world-2.0",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "tencent/HY-Embodied-0.5",
-        "org": "tencent",
-        "trending_score": 487,
-        "downloads": 2035,
-        "likes": 895,
-        "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+        "name": "baidu/ERNIE-Image",
+        "org": "baidu",
+        "trending_score": 438,
+        "downloads": 4523,
+        "likes": 511,
+        "url": "https://huggingface.co/baidu/ERNIE-Image",
         "tags": [
-          "transformers",
+          "diffusers",
           "safetensors",
-          "hunyuan_vl_mot",
-          "image-text-to-text",
-          "hunyuan"
+          "text-to-image",
+          "8B",
+          "license:apache-2.0"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 11135,
+        "stars": 11406,
         "stars_delta": 2595,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 3294,
+        "stars": 3403,
         "stars_delta": 591,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 6363,
+        "stars": 6501,
         "stars_delta": 259,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 48738,
+        "stars": 48819,
         "stars_delta": 828,
         "language": "Rust",
         "language_color": "#dea584"
@@ -336,7 +336,7 @@
         "name": "microsoft/ai-agents-for-beginners",
         "description": "12 Lessons to Get Started Building AI Agents",
         "url": "https://github.com/microsoft/ai-agents-for-beginners",
-        "stars": 57407,
+        "stars": 57554,
         "stars_delta": 131,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 71038,
+        "stars": 71658,
         "stars_delta": 44394,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 5419,
+        "stars": 5470,
         "stars_delta": 3914,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6248,
+        "stars": 6288,
         "stars_delta": 4032,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -378,7 +378,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 107585,
+        "stars": 107937,
         "stars_delta": 30630,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 64970,
+        "stars": 65090,
         "stars_delta": 12472,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 107585,
+        "stars": 107937,
         "stars_delta": 95651,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 71038,
+        "stars": 71658,
         "stars_delta": 57640,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 31822,
+        "stars": 31875,
         "stars_delta": 23107,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "google-ai-edge/gallery",
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "url": "https://github.com/google-ai-edge/gallery",
-        "stars": 21715,
+        "stars": 21733,
         "stars_delta": 6317,
         "language": "Kotlin",
         "language_color": "#A97BFF"
@@ -440,7 +440,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 19992,
+        "stars": 20038,
         "stars_delta": 8635,
         "language": "Python",
         "language_color": "#3572A5"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.18168",
         "categories": [],
-        "upvotes": 85,
+        "upvotes": 86,
         "published": "2026-04-19"
       },
       {
@@ -542,7 +542,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.18292",
         "categories": [],
-        "upvotes": 57,
+        "upvotes": 60,
         "published": "2026-04-19"
       },
       {
@@ -555,7 +555,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.18394",
         "categories": [],
-        "upvotes": 47,
+        "upvotes": 49,
         "published": "2026-04-19"
       },
       {
