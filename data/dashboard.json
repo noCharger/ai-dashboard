@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-22T01:20:37Z",
+  "generated": "2026-04-22T04:37:23Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 1094,
+        "trending_score": 1101,
         "downloads": 458436,
-        "likes": 1138,
+        "likes": 1146,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 694,
+        "trending_score": 710,
         "downloads": 8241,
-        "likes": 706,
+        "likes": 723,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 583,
+        "trending_score": 591,
         "downloads": 967317,
-        "likes": 618,
+        "likes": 627,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "tencent/HY-World-2.0",
         "org": "tencent",
-        "trending_score": 506,
+        "trending_score": 511,
         "downloads": 0,
-        "likes": 523,
+        "likes": 528,
         "url": "https://huggingface.co/tencent/HY-World-2.0",
         "tags": [
           "hy-world-2.0",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "baidu/ERNIE-Image",
-        "org": "baidu",
-        "trending_score": 415,
-        "downloads": 4523,
-        "likes": 511,
-        "url": "https://huggingface.co/baidu/ERNIE-Image",
+        "name": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+        "org": "OBLITERATUS",
+        "trending_score": 397,
+        "downloads": 63995,
+        "likes": 431,
+        "url": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
         "tags": [
-          "diffusers",
           "safetensors",
-          "text-to-image",
-          "8B",
-          "license:apache-2.0"
+          "gguf",
+          "gemma4",
+          "abliterated",
+          "uncensored"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 11637,
+        "stars": 11933,
         "stars_delta": 2548,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 3480,
+        "stars": 3548,
         "stars_delta": 596,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 6622,
+        "stars": 6773,
         "stars_delta": 169,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 48898,
+        "stars": 48995,
         "stars_delta": 824,
         "language": "Rust",
         "language_color": "#dea584"
@@ -336,7 +336,7 @@
         "name": "microsoft/ai-agents-for-beginners",
         "description": "12 Lessons to Get Started Building AI Agents",
         "url": "https://github.com/microsoft/ai-agents-for-beginners",
-        "stars": 57700,
+        "stars": 57961,
         "stars_delta": 200,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 72187,
+        "stars": 72978,
         "stars_delta": 40732,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 5528,
+        "stars": 5643,
         "stars_delta": 4223,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6328,
+        "stars": 6388,
         "stars_delta": 4376,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -378,7 +378,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 108189,
+        "stars": 108685,
         "stars_delta": 25081,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 65177,
+        "stars": 65283,
         "stars_delta": 10356,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 108189,
+        "stars": 108685,
         "stars_delta": 98304,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 72187,
+        "stars": 72978,
         "stars_delta": 63346,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 31927,
+        "stars": 31964,
         "stars_delta": 23317,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "google-ai-edge/gallery",
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "url": "https://github.com/google-ai-edge/gallery",
-        "stars": 21750,
+        "stars": 21767,
         "stars_delta": 6384,
         "language": "Kotlin",
         "language_color": "#A97BFF"
@@ -440,7 +440,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20072,
+        "stars": 20089,
         "stars_delta": 8841,
         "language": "Python",
         "language_color": "#3572A5"
@@ -516,37 +516,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.18168",
         "categories": [],
-        "upvotes": 86,
+        "upvotes": 88,
         "published": "2026-04-19"
       },
       {
         "rank": 2,
-        "title": "OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation",
-        "authors": [
-          "Jinghui Lu",
-          "Jiayi Guan",
-          "Zhijian Huang"
-        ],
-        "url": "https://huggingface.co/papers/2604.18486",
-        "categories": [],
-        "upvotes": 65,
-        "published": "2026-04-19"
-      },
-      {
-        "rank": 3,
-        "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
-        "authors": [
-          "Guanting Dong",
-          "Junting Lu",
-          "Junjie Huang"
-        ],
-        "url": "https://huggingface.co/papers/2604.18292",
-        "categories": [],
-        "upvotes": 62,
-        "published": "2026-04-19"
-      },
-      {
-        "rank": 4,
         "title": "OpenGame: Open Agentic Coding for Games",
         "authors": [
           "Yilei Jiang",
@@ -555,100 +529,128 @@
         ],
         "url": "https://huggingface.co/papers/2604.18394",
         "categories": [],
-        "upvotes": 49,
+        "upvotes": 52,
         "published": "2026-04-19"
       },
       {
-        "rank": 5,
-        "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+        "rank": 3,
+        "title": "AgentSPEX: An Agent SPecification and EXecution Language",
         "authors": [
-          "Haoyu Wu",
-          "Jiwen Yu",
-          "Yingtian Zou"
+          "Pengcheng Wang",
+          "Jerry Huang",
+          "Jiarui Yao"
         ],
-        "url": "https://huggingface.co/papers/2604.18564",
+        "url": "https://huggingface.co/papers/2604.13346",
         "categories": [],
-        "upvotes": 35,
-        "published": "2026-04-19"
+        "upvotes": 36,
+        "published": "2026-04-13"
+      },
+      {
+        "rank": 4,
+        "title": "EasyVideoR1: Easier RL for Video Understanding",
+        "authors": [
+          "Chuanyu Qin",
+          "Chenxu Yang",
+          "Qingyi Si"
+        ],
+        "url": "https://huggingface.co/papers/2604.16893",
+        "categories": [],
+        "upvotes": 32,
+        "published": "2026-04-17"
+      },
+      {
+        "rank": 5,
+        "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+        "authors": [
+          "Mengting Chen",
+          "Zhengrui Chen",
+          "Yongchao Du"
+        ],
+        "url": "https://huggingface.co/papers/2604.19748",
+        "categories": [],
+        "upvotes": 24,
+        "published": "2026-04-20"
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
+        "title": "A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding",
         "authors": [
-          "Shaden Alshammari",
-          "Kevin Wen",
-          "Abrar Zainal"
+          "Shuai Wang",
+          "Hongyi Zhu",
+          "Jia-Hong Huang"
         ],
-        "url": "https://arxiv.org/abs/2604.18584",
+        "url": "https://arxiv.org/abs/2604.19689",
         "categories": [
-          "cs.AI",
-          "cs.DL",
-          "cs.IR",
-          "cs.LG"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 2,
-        "title": "Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs",
+        "title": "A Dual Perspective on Synthetic Trajectory Generators: Utility Framework and Privacy Vulnerabilities",
         "authors": [
-          "Kevin Murphy"
+          "Aya Cherigui",
+          "Florent Guépin",
+          "Arnaud Legendre"
         ],
-        "url": "https://arxiv.org/abs/2604.18576",
+        "url": "https://arxiv.org/abs/2604.19653",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 3,
-        "title": "Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion",
+        "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
         "authors": [
-          "Terry Leitch"
+          "Josue Torres-Fonseca",
+          "Naihao Deng",
+          "Yinpei Dai"
         ],
-        "url": "https://arxiv.org/abs/2604.18566",
+        "url": "https://arxiv.org/abs/2604.19638",
         "categories": [
           "cs.AI",
-          "cs.HC",
-          "cs.LG"
+          "cs.CL",
+          "cs.RO"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 4,
-        "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
+        "title": "Time Series Augmented Generation for Financial Applications",
         "authors": [
-          "Xirui Li",
-          "Ming Li",
-          "Derry Xu"
+          "Anton Kolonin",
+          "Alexey Glushchenko",
+          "Evgeny Bochkov"
         ],
-        "url": "https://arxiv.org/abs/2604.18543",
+        "url": "https://arxiv.org/abs/2604.19633",
         "categories": [
           "cs.AI",
-          "cs.CL"
+          "cs.CE"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 5,
-        "title": "OGER: A Robust Offline-Guided Exploration Reward for Hybrid Reinforcement Learning",
+        "title": "AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories",
         "authors": [
-          "Xinyu Ma",
-          "Mingzhou Xu",
-          "Xuebo Liu"
+          "Xue Xia",
+          "Chengkai Yao",
+          "Mingyu Tsoi"
         ],
-        "url": "https://arxiv.org/abs/2604.18530",
+        "url": "https://arxiv.org/abs/2604.19606",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.MA"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       }
     ]
   }
