@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-22T10:09:25Z",
+  "generated": "2026-04-22T11:51:02Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 1120,
+        "trending_score": 1129,
         "downloads": 582961,
-        "likes": 1169,
+        "likes": 1179,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 735,
+        "trending_score": 742,
         "downloads": 54456,
-        "likes": 751,
+        "likes": 758,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 598,
+        "trending_score": 602,
         "downloads": 1112454,
-        "likes": 634,
+        "likes": 638,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 399,
+        "trending_score": 400,
         "downloads": 79024,
-        "likes": 435,
+        "likes": 437,
         "url": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
         "tags": [
           "safetensors",
@@ -293,53 +293,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "Fincept-Corporation/FinceptTerminal",
-        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-        "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 12421,
-        "stars_delta": 2548,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
-        "name": "thunderbird/thunderbolt",
-        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-        "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 3644,
-        "stars_delta": 596,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 6987,
+        "stars": 7055,
         "stars_delta": 169,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
+        "rank": 2,
+        "name": "Fincept-Corporation/FinceptTerminal",
+        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+        "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+        "stars": 12528,
+        "stars_delta": 2548,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "koala73/worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "url": "https://github.com/koala73/worldmonitor",
+        "stars": 51056,
+        "stars_delta": 1187,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 4,
-        "name": "ruvnet/RuView",
-        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "url": "https://github.com/ruvnet/RuView",
-        "stars": 49131,
-        "stars_delta": 824,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "langfuse/langfuse",
+        "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+        "url": "https://github.com/langfuse/langfuse",
+        "stars": 25368,
+        "stars_delta": 67,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "microsoft/ai-agents-for-beginners",
-        "description": "12 Lessons to Get Started Building AI Agents",
-        "url": "https://github.com/microsoft/ai-agents-for-beginners",
-        "stars": 58266,
-        "stars_delta": 200,
-        "language": "Jupyter Notebook",
-        "language_color": "#DA5B0B"
+        "name": "KeygraphHQ/shannon",
+        "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
+        "url": "https://github.com/KeygraphHQ/shannon",
+        "stars": 39233,
+        "stars_delta": 346,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 74258,
+        "stars": 74520,
         "stars_delta": 40732,
         "language": "",
         "language_color": "#586069"
@@ -358,40 +358,40 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 5786,
+        "stars": 5805,
         "stars_delta": 4223,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "EvoMap/evolver",
-        "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-        "url": "https://github.com/EvoMap/evolver",
-        "stars": 6450,
-        "stars_delta": 4376,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
-        "rank": 4,
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 109476,
+        "stars": 109653,
         "stars_delta": 25081,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 65439,
+        "stars": 65484,
         "stars_delta": 10356,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "openai/openai-agents-python",
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "url": "https://github.com/openai/openai-agents-python",
+        "stars": 24516,
+        "stars_delta": 3546,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "monthly": [
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 109476,
+        "stars": 109653,
         "stars_delta": 98304,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 74258,
+        "stars": 74520,
         "stars_delta": 63346,
         "language": "",
         "language_color": "#586069"
@@ -420,28 +420,28 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32036,
+        "stars": 32050,
         "stars_delta": 23317,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "google-ai-edge/gallery",
-        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-        "url": "https://github.com/google-ai-edge/gallery",
-        "stars": 21793,
-        "stars_delta": 6384,
-        "language": "Kotlin",
-        "language_color": "#A97BFF"
-      },
-      {
-        "rank": 5,
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20136,
+        "stars": 20143,
         "stars_delta": 8841,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "OpenBMB/VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "url": "https://github.com/OpenBMB/VoxCPM",
+        "stars": 15474,
+        "stars_delta": 9257,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -508,19 +508,6 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
-        "authors": [
-          "Chenxi Zhao",
-          "Chen Zhu",
-          "Xiaokun Feng"
-        ],
-        "url": "https://huggingface.co/papers/2604.18168",
-        "categories": [],
-        "upvotes": 89,
-        "published": "2026-04-19"
-      },
-      {
-        "rank": 2,
         "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
         "authors": [
           "Mengting Chen",
@@ -529,11 +516,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.19748",
         "categories": [],
-        "upvotes": 55,
+        "upvotes": 74,
         "published": "2026-04-20"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "AgentSPEX: An Agent SPecification and EXecution Language",
         "authors": [
           "Pengcheng Wang",
@@ -546,7 +533,7 @@
         "published": "2026-04-13"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
         "authors": [
           "Yutian Chen",
@@ -559,7 +546,7 @@
         "published": "2026-04-20"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation",
         "authors": [
           "Xiangyang Luo",
@@ -568,7 +555,20 @@
         ],
         "url": "https://huggingface.co/papers/2604.19636",
         "categories": [],
-        "upvotes": 27,
+        "upvotes": 32,
+        "published": "2026-04-20"
+      },
+      {
+        "rank": 5,
+        "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
+        "authors": [
+          "Qingyang Zhang",
+          "Xinke Kong",
+          "Haitao Wu"
+        ],
+        "url": "https://huggingface.co/papers/2604.19295",
+        "categories": [],
+        "upvotes": 20,
         "published": "2026-04-20"
       }
     ],
