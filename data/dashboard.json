@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-22T16:01:49Z",
+  "generated": "2026-04-22T18:56:34Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 1148,
+        "trending_score": 1164,
         "downloads": 582961,
-        "likes": 1202,
+        "likes": 1220,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 766,
+        "trending_score": 775,
         "downloads": 54456,
-        "likes": 784,
+        "likes": 795,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 614,
+        "trending_score": 617,
         "downloads": 1112454,
-        "likes": 653,
+        "likes": 658,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "tencent/HY-World-2.0",
         "org": "tencent",
-        "trending_score": 521,
+        "trending_score": 508,
         "downloads": 0,
-        "likes": 539,
+        "likes": 543,
         "url": "https://huggingface.co/tencent/HY-World-2.0",
         "tags": [
           "hy-world-2",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 403,
+        "trending_score": 372,
         "downloads": 79024,
-        "likes": 441,
+        "likes": 445,
         "url": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
         "tags": [
           "safetensors",
@@ -91,6 +91,17 @@
     "benchmark": [
       {
         "rank": 1,
+        "name": "GPT-5.4 Pro (xhigh)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-pro"
+      },
+      {
+        "rank": 2,
         "name": "gpt-oss-20B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -101,7 +112,7 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "gpt-oss-20B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -110,17 +121,6 @@
         "speed_tps": null,
         "context_window": null,
         "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
-      },
-      {
-        "rank": 3,
-        "name": "gpt-oss-120B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
         "rank": 4,
@@ -135,14 +135,14 @@
       },
       {
         "rank": 5,
-        "name": "Grok-1",
+        "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/grok-1"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 7248,
+        "stars": 7343,
         "stars_delta": 873,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -306,7 +306,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 12801,
+        "stars": 12904,
         "stars_delta": 1737,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 51268,
+        "stars": 51375,
         "stars_delta": 449,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "langfuse/langfuse",
         "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
         "url": "https://github.com/langfuse/langfuse",
-        "stars": 25461,
+        "stars": 25511,
         "stars_delta": 160,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "KeygraphHQ/shannon",
         "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
         "url": "https://github.com/KeygraphHQ/shannon",
-        "stars": 39354,
+        "stars": 39409,
         "stars_delta": 346,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 75260,
+        "stars": 75617,
         "stars_delta": 40732,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6492,
+        "stars": 6507,
         "stars_delta": 4376,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -368,7 +368,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 5868,
+        "stars": 5890,
         "stars_delta": 4223,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 110162,
+        "stars": 110404,
         "stars_delta": 25081,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 65610,
+        "stars": 65695,
         "stars_delta": 10356,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 110162,
+        "stars": 110404,
         "stars_delta": 98304,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 75260,
+        "stars": 75617,
         "stars_delta": 63346,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 25068,
+        "stars": 25094,
         "stars_delta": 22813,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32101,
+        "stars": 32123,
         "stars_delta": 23317,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -440,7 +440,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20204,
+        "stars": 20245,
         "stars_delta": 8841,
         "language": "Python",
         "language_color": "#3572A5"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.19748",
         "categories": [],
-        "upvotes": 77,
+        "upvotes": 78,
         "published": "2026-04-20"
       },
       {
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.19636",
         "categories": [],
-        "upvotes": 57,
+        "upvotes": 58,
         "published": "2026-04-20"
       },
       {
@@ -542,7 +542,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.13346",
         "categories": [],
-        "upvotes": 48,
+        "upvotes": 49,
         "published": "2026-04-13"
       },
       {
@@ -555,7 +555,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.19747",
         "categories": [],
-        "upvotes": 33,
+        "upvotes": 34,
         "published": "2026-04-20"
       },
       {
@@ -575,80 +575,82 @@
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
+        "title": "A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding",
         "authors": [
-          "Shaden Alshammari",
-          "Kevin Wen",
-          "Abrar Zainal"
+          "Shuai Wang",
+          "Hongyi Zhu",
+          "Jia-Hong Huang"
         ],
-        "url": "https://arxiv.org/abs/2604.18584",
+        "url": "https://arxiv.org/abs/2604.19689",
         "categories": [
-          "cs.AI",
-          "cs.DL",
-          "cs.IR",
-          "cs.LG"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 2,
-        "title": "Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs",
+        "title": "A Dual Perspective on Synthetic Trajectory Generators: Utility Framework and Privacy Vulnerabilities",
         "authors": [
-          "Kevin Murphy"
+          "Aya Cherigui",
+          "Florent Guépin",
+          "Arnaud Legendre"
         ],
-        "url": "https://arxiv.org/abs/2604.18576",
+        "url": "https://arxiv.org/abs/2604.19653",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 3,
-        "title": "Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion",
+        "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
         "authors": [
-          "Terry Leitch"
+          "Josue Torres-Fonseca",
+          "Naihao Deng",
+          "Yinpei Dai"
         ],
-        "url": "https://arxiv.org/abs/2604.18566",
+        "url": "https://arxiv.org/abs/2604.19638",
         "categories": [
           "cs.AI",
-          "cs.HC",
-          "cs.LG"
+          "cs.CL",
+          "cs.RO"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 4,
-        "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
+        "title": "Time Series Augmented Generation for Financial Applications",
         "authors": [
-          "Xirui Li",
-          "Ming Li",
-          "Derry Xu"
+          "Anton Kolonin",
+          "Alexey Glushchenko",
+          "Evgeny Bochkov"
         ],
-        "url": "https://arxiv.org/abs/2604.18543",
+        "url": "https://arxiv.org/abs/2604.19633",
         "categories": [
           "cs.AI",
-          "cs.CL"
+          "cs.CE"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       },
       {
         "rank": 5,
-        "title": "OGER: A Robust Offline-Guided Exploration Reward for Hybrid Reinforcement Learning",
+        "title": "AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories",
         "authors": [
-          "Xinyu Ma",
-          "Mingzhou Xu",
-          "Xuebo Liu"
+          "Xue Xia",
+          "Chengkai Yao",
+          "Mingyu Tsoi"
         ],
-        "url": "https://arxiv.org/abs/2604.18530",
+        "url": "https://arxiv.org/abs/2604.19606",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.MA"
         ],
         "upvotes": null,
-        "published": "2026-04-21"
+        "published": "2026-04-22"
       }
     ]
   }
