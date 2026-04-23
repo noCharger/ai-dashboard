@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-23T17:08:24Z",
+  "generated": "2026-04-23T18:53:21Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 986,
+        "trending_score": 937,
         "downloads": 717811,
-        "likes": 1308,
+        "likes": 1314,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 836,
+        "trending_score": 844,
         "downloads": 125825,
-        "likes": 861,
+        "likes": 870,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 599,
+        "trending_score": 614,
         "downloads": 23964,
-        "likes": 607,
+        "likes": 622,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
-        "org": "unsloth",
-        "trending_score": 528,
-        "downloads": 1283534,
-        "likes": 696,
-        "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-        "tags": [
-          "transformers",
-          "gguf",
-          "unsloth",
-          "qwen",
-          "qwen3_5_moe"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 489,
+        "trending_score": 515,
         "downloads": 1888,
-        "likes": 493,
+        "likes": 519,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -86,22 +69,28 @@
           "token-classification"
         ],
         "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
+        "org": "unsloth",
+        "trending_score": 510,
+        "downloads": 1283534,
+        "likes": 701,
+        "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+        "tags": [
+          "transformers",
+          "gguf",
+          "unsloth",
+          "qwen",
+          "qwen3_5_moe"
+        ],
+        "rank_change": null
       }
     ],
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-20B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
-      },
-      {
-        "rank": 2,
         "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
@@ -112,18 +101,7 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
-        "rank": 3,
-        "name": "gpt-oss-20B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "name": "gpt-oss-120B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -134,15 +112,37 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
       },
       {
-        "rank": 5,
-        "name": "o3",
+        "rank": 3,
+        "name": "GPT-5.4 mini (xhigh)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/o3"
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini"
+      },
+      {
+        "rank": 4,
+        "name": "GPT-5.4 mini (medium)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-medium"
+      },
+      {
+        "rank": 5,
+        "name": "GPT-5.5 (Non-reasoning)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-5-non-reasoning"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "huggingface/ml-intern",
         "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "url": "https://github.com/huggingface/ml-intern",
-        "stars": 2495,
+        "stars": 2740,
         "stars_delta": 530,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 8249,
+        "stars": 8296,
         "stars_delta": 1023,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "HKUDS/RAG-Anything",
         "description": "\"RAG-Anything: All-in-One RAG Framework\"",
         "url": "https://github.com/HKUDS/RAG-Anything",
-        "stars": 18021,
+        "stars": 18049,
         "stars_delta": 574,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 60690,
+        "stars": 60790,
         "stars_delta": 1366,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 49690,
+        "stars": 49716,
         "stars_delta": 427,
         "language": "Rust",
         "language_color": "#dea584"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 79762,
+        "stars": 79947,
         "stars_delta": 35349,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
         "description": "Claude Code skill to support Android app's reverse engineering",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": 4712,
+        "stars": 4721,
         "stars_delta": 2883,
         "language": "Shell",
         "language_color": "#89e051"
@@ -368,7 +368,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6656,
+        "stars": 6664,
         "stars_delta": 4364,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -378,7 +378,7 @@
         "name": "openai/openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 24818,
+        "stars": 24830,
         "stars_delta": 3802,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "jamiepine/voicebox",
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "url": "https://github.com/jamiepine/voicebox",
-        "stars": 22723,
+        "stars": 22745,
         "stars_delta": 4495,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 112755,
+        "stars": 112854,
         "stars_delta": 100638,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,7 +410,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 79762,
+        "stars": 79947,
         "stars_delta": 67820,
         "language": "",
         "language_color": "#586069"
@@ -420,7 +420,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32356,
+        "stars": 32368,
         "stars_delta": 23580,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20768,
+        "stars": 20791,
         "stars_delta": 9037,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "OpenBMB/VoxCPM",
         "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
         "url": "https://github.com/OpenBMB/VoxCPM",
-        "stars": 15700,
+        "stars": 15709,
         "stars_delta": 9478,
         "language": "Python",
         "language_color": "#3572A5"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.20796",
         "categories": [],
-        "upvotes": 204,
+        "upvotes": 207,
         "published": "2026-04-21"
       },
       {
@@ -555,7 +555,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.19859",
         "categories": [],
-        "upvotes": 36,
+        "upvotes": 37,
         "published": "2026-04-20"
       },
       {
