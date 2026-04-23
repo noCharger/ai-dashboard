@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-23T01:25:40Z",
+  "generated": "2026-04-23T04:42:13Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 1179,
+        "trending_score": 1195,
         "downloads": 582961,
-        "likes": 1240,
+        "likes": 1256,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 791,
+        "trending_score": 798,
         "downloads": 54456,
-        "likes": 813,
+        "likes": 820,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 629,
+        "trending_score": 633,
         "downloads": 1112454,
-        "likes": 672,
+        "likes": 676,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "tencent/HY-World-2.0",
-        "org": "tencent",
-        "trending_score": 498,
-        "downloads": 0,
-        "likes": 552,
-        "url": "https://huggingface.co/tencent/HY-World-2.0",
-        "tags": [
-          "hy-world-2",
-          "safetensors",
-          "worldmodel",
-          "3d",
-          "hy-world"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 421,
+        "trending_score": 470,
         "downloads": 0,
-        "likes": 425,
+        "likes": 474,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -86,19 +69,36 @@
           "conversational"
         ],
         "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "tencent/HY-World-2.0",
+        "org": "tencent",
+        "trending_score": 465,
+        "downloads": 0,
+        "likes": 555,
+        "url": "https://huggingface.co/tencent/HY-World-2.0",
+        "tags": [
+          "hy-world-2",
+          "safetensors",
+          "worldmodel",
+          "3d",
+          "hy-world"
+        ],
+        "rank_change": null
       }
     ],
     "benchmark": [
       {
         "rank": 1,
-        "name": "GPT-5.4 Pro (xhigh)",
+        "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-pro"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
       },
       {
         "rank": 2,
@@ -135,14 +135,14 @@
       },
       {
         "rank": 5,
-        "name": "gpt-oss-120B (low)",
+        "name": "GPT-5.4 mini (xhigh)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
+        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 7551,
+        "stars": 7737,
         "stars_delta": 871,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -306,7 +306,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 13127,
+        "stars": 13315,
         "stars_delta": 1772,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 51600,
+        "stars": 51782,
         "stars_delta": 424,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "langfuse/langfuse",
         "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
         "url": "https://github.com/langfuse/langfuse",
-        "stars": 25631,
+        "stars": 25728,
         "stars_delta": 149,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "KeygraphHQ/shannon",
         "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
         "url": "https://github.com/KeygraphHQ/shannon",
-        "stars": 39596,
+        "stars": 39707,
         "stars_delta": 372,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 76330,
+        "stars": 77043,
         "stars_delta": 35349,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6536,
+        "stars": 6570,
         "stars_delta": 4364,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -368,7 +368,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 5935,
+        "stars": 5998,
         "stars_delta": 4216,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 110756,
+        "stars": 111250,
         "stars_delta": 22083,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "thedotmack/claude-mem",
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 65831,
+        "stars": 65947,
         "stars_delta": 8739,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 110756,
+        "stars": 111250,
         "stars_delta": 100638,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,38 +410,38 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 76331,
+        "stars": 77043,
         "stars_delta": 67820,
         "language": "",
         "language_color": "#586069"
       },
       {
         "rank": 3,
-        "name": "siddharthvaddem/openscreen",
-        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-        "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32173,
-        "stars_delta": 23580,
+        "name": "Yeachan-Heo/oh-my-codex",
+        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+        "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+        "stars": 25169,
+        "stars_delta": 22857,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "shiyu-coder/Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20310,
-        "stars_delta": 9037,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "siddharthvaddem/openscreen",
+        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+        "url": "https://github.com/siddharthvaddem/openscreen",
+        "stars": 32206,
+        "stars_delta": 23580,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "OpenBMB/VoxCPM",
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "url": "https://github.com/OpenBMB/VoxCPM",
-        "stars": 15566,
-        "stars_delta": 9478,
+        "name": "shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "stars": 20364,
+        "stars_delta": 9037,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.19748",
         "categories": [],
-        "upvotes": 81,
+        "upvotes": 85,
         "published": "2026-04-20"
       },
       {
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.19636",
         "categories": [],
-        "upvotes": 60,
+        "upvotes": 72,
         "published": "2026-04-20"
       },
       {
@@ -542,11 +542,24 @@
         ],
         "url": "https://huggingface.co/papers/2604.13346",
         "categories": [],
-        "upvotes": 51,
+        "upvotes": 52,
         "published": "2026-04-13"
       },
       {
         "rank": 4,
+        "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
+        "authors": [
+          "Inclusion AI",
+          "Tiwei Bie",
+          "Haoxing Chen"
+        ],
+        "url": "https://huggingface.co/papers/2604.20796",
+        "categories": [],
+        "upvotes": 46,
+        "published": "2026-04-21"
+      },
+      {
+        "rank": 5,
         "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
         "authors": [
           "Yutian Chen",
@@ -555,102 +568,87 @@
         ],
         "url": "https://huggingface.co/papers/2604.19747",
         "categories": [],
-        "upvotes": 34,
-        "published": "2026-04-20"
-      },
-      {
-        "rank": 5,
-        "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
-        "authors": [
-          "Qingyang Zhang",
-          "Xinke Kong",
-          "Haitao Wu"
-        ],
-        "url": "https://huggingface.co/papers/2604.19295",
-        "categories": [],
-        "upvotes": 25,
+        "upvotes": 35,
         "published": "2026-04-20"
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding",
+        "title": "Diagnosing CFG Interpretation in LLMs",
         "authors": [
-          "Shuai Wang",
-          "Hongyi Zhu",
-          "Jia-Hong Huang"
+          "Hanqi Li",
+          "Lu Chen",
+          "Kai Yu"
         ],
-        "url": "https://arxiv.org/abs/2604.19689",
+        "url": "https://arxiv.org/abs/2604.20811",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-22"
+        "published": "2026-04-23"
       },
       {
         "rank": 2,
-        "title": "A Dual Perspective on Synthetic Trajectory Generators: Utility Framework and Privacy Vulnerabilities",
+        "title": "Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",
         "authors": [
-          "Aya Cherigui",
-          "Florent Guépin",
-          "Arnaud Legendre"
+          "Pavel Salovskii",
+          "Iuliia Gorshkova"
         ],
-        "url": "https://arxiv.org/abs/2604.19653",
+        "url": "https://arxiv.org/abs/2604.20795",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-22"
+        "published": "2026-04-23"
       },
       {
         "rank": 3,
-        "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
+        "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
         "authors": [
-          "Josue Torres-Fonseca",
-          "Naihao Deng",
-          "Yinpei Dai"
+          "Joachim Baumann",
+          "Vishakh Padmakumar",
+          "Xiang Li"
         ],
-        "url": "https://arxiv.org/abs/2604.19638",
+        "url": "https://arxiv.org/abs/2604.20779",
         "categories": [
           "cs.AI",
-          "cs.CL",
-          "cs.RO"
+          "cs.CY",
+          "cs.SE"
         ],
         "upvotes": null,
-        "published": "2026-04-22"
+        "published": "2026-04-23"
       },
       {
         "rank": 4,
-        "title": "Time Series Augmented Generation for Financial Applications",
+        "title": "V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization",
         "authors": [
-          "Anton Kolonin",
-          "Alexey Glushchenko",
-          "Evgeny Bochkov"
+          "Yubo Jiang",
+          "Yitong An",
+          "Xin Yang"
         ],
-        "url": "https://arxiv.org/abs/2604.19633",
+        "url": "https://arxiv.org/abs/2604.20755",
         "categories": [
           "cs.AI",
-          "cs.CE"
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-04-22"
+        "published": "2026-04-23"
       },
       {
         "rank": 5,
-        "title": "AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories",
+        "title": "Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation",
         "authors": [
-          "Xue Xia",
-          "Chengkai Yao",
-          "Mingyu Tsoi"
+          "Dongding Lin",
+          "Jian Wang",
+          "Yongqi Li"
         ],
-        "url": "https://arxiv.org/abs/2604.19606",
+        "url": "https://arxiv.org/abs/2604.20749",
         "categories": [
-          "cs.AI",
-          "cs.MA"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-22"
+        "published": "2026-04-23"
       }
     ]
   }
