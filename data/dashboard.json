@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-23T23:35:20Z",
+  "generated": "2026-04-24T01:25:02Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 853,
+        "trending_score": 860,
         "downloads": 125825,
-        "likes": 880,
+        "likes": 889,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 853,
+        "trending_score": 826,
         "downloads": 717811,
-        "likes": 1330,
+        "likes": 1332,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 633,
+        "trending_score": 644,
         "downloads": 23964,
-        "likes": 643,
+        "likes": 654,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 548,
+        "trending_score": 557,
         "downloads": 1888,
-        "likes": 554,
+        "likes": 563,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
         "org": "unsloth",
-        "trending_score": 467,
+        "trending_score": 465,
         "downloads": 1283534,
-        "likes": 707,
+        "likes": 710,
         "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
         "tags": [
           "transformers",
@@ -91,28 +91,6 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-20B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
-      },
-      {
-        "rank": 2,
-        "name": "gpt-oss-120B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
-      },
-      {
-        "rank": 3,
         "name": "gpt-oss-120B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -123,26 +101,48 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
       },
       {
-        "rank": 4,
-        "name": "gpt-oss-20B (low)",
+        "rank": 2,
+        "name": "gpt-oss-20B (high)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
+      },
+      {
+        "rank": 3,
+        "name": "GPT-5.4 (xhigh)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4"
+      },
+      {
+        "rank": 4,
+        "name": "GPT-5.5 (Non-reasoning)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-5-5-non-reasoning"
       },
       {
         "rank": 5,
-        "name": "GPT-5.4 Pro (xhigh)",
+        "name": "GPT-5.5 (medium)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-pro"
+        "url": "https://artificialanalysis.ai/models/gpt-5-5-medium"
       }
     ]
   },
@@ -296,8 +296,8 @@
         "name": "huggingface/ml-intern",
         "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "url": "https://github.com/huggingface/ml-intern",
-        "stars": 3173,
-        "stars_delta": 530,
+        "stars": 3361,
+        "stars_delta": 720,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -306,8 +306,8 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 8389,
-        "stars_delta": 1023,
+        "stars": 8437,
+        "stars_delta": 1011,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -316,8 +316,8 @@
         "name": "HKUDS/RAG-Anything",
         "description": "\"RAG-Anything: All-in-One RAG Framework\"",
         "url": "https://github.com/HKUDS/RAG-Anything",
-        "stars": 18126,
-        "stars_delta": 574,
+        "stars": 18173,
+        "stars_delta": 590,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -326,8 +326,8 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 60973,
-        "stars_delta": 1366,
+        "stars": 61078,
+        "stars_delta": 1383,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -336,8 +336,8 @@
         "name": "ruvnet/RuView",
         "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 49810,
-        "stars_delta": 427,
+        "stars": 49839,
+        "stars_delta": 429,
         "language": "Rust",
         "language_color": "#dea584"
       }
@@ -348,8 +348,8 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 80341,
-        "stars_delta": 35349,
+        "stars": 80591,
+        "stars_delta": 32115,
         "language": "",
         "language_color": "#586069"
       },
@@ -358,8 +358,8 @@
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
         "description": "Claude Code skill to support Android app's reverse engineering",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": 4737,
-        "stars_delta": 2883,
+        "stars": 4742,
+        "stars_delta": 2702,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -368,8 +368,8 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6674,
-        "stars_delta": 4364,
+        "stars": 6679,
+        "stars_delta": 3759,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -378,8 +378,8 @@
         "name": "openai/openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 24848,
-        "stars_delta": 3802,
+        "stars": 24860,
+        "stars_delta": 3842,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -388,8 +388,8 @@
         "name": "jamiepine/voicebox",
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "url": "https://github.com/jamiepine/voicebox",
-        "stars": 22807,
-        "stars_delta": 4495,
+        "stars": 22852,
+        "stars_delta": 3969,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -400,8 +400,8 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 113075,
-        "stars_delta": 100638,
+        "stars": 113214,
+        "stars_delta": 102133,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -410,38 +410,38 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 80341,
-        "stars_delta": 67820,
+        "stars": 80591,
+        "stars_delta": 72106,
         "language": "",
         "language_color": "#586069"
       },
       {
         "rank": 3,
-        "name": "siddharthvaddem/openscreen",
-        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-        "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32409,
-        "stars_delta": 23580,
+        "name": "Yeachan-Heo/oh-my-codex",
+        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+        "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+        "stars": 25346,
+        "stars_delta": 23050,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "shiyu-coder/Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20861,
-        "stars_delta": 9037,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "siddharthvaddem/openscreen",
+        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+        "url": "https://github.com/siddharthvaddem/openscreen",
+        "stars": 32427,
+        "stars_delta": 23805,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "OpenBMB/VoxCPM",
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "url": "https://github.com/OpenBMB/VoxCPM",
-        "stars": 15728,
-        "stars_delta": 9478,
+        "name": "shiyu-coder/Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "url": "https://github.com/shiyu-coder/Kronos",
+        "stars": 20887,
+        "stars_delta": 9544,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.20796",
         "categories": [],
-        "upvotes": 207,
+        "upvotes": 209,
         "published": "2026-04-21"
       },
       {
@@ -529,24 +529,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.20733",
         "categories": [],
-        "upvotes": 44,
+        "upvotes": 45,
         "published": "2026-04-21"
       },
       {
         "rank": 3,
-        "title": "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing",
-        "authors": [
-          "Ying Zeng",
-          "Miaosen Luo",
-          "Guangyuan Li"
-        ],
-        "url": "https://huggingface.co/papers/2604.19587",
-        "categories": [],
-        "upvotes": 41,
-        "published": "2026-04-20"
-      },
-      {
-        "rank": 4,
         "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
         "authors": [
           "Venus Team",
@@ -555,11 +542,11 @@
         ],
         "url": "https://huggingface.co/papers/2604.19859",
         "categories": [],
-        "upvotes": 37,
+        "upvotes": 38,
         "published": "2026-04-20"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
         "authors": [
           "Yutian Chen",
@@ -569,6 +556,19 @@
         "url": "https://huggingface.co/papers/2604.19747",
         "categories": [],
         "upvotes": 35,
+        "published": "2026-04-20"
+      },
+      {
+        "rank": 5,
+        "title": "ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning",
+        "authors": [
+          "Xianming Li",
+          "Zongxi Li",
+          "Tsz-fung Andrew Lee"
+        ],
+        "url": "https://huggingface.co/papers/2604.19254",
+        "categories": [],
+        "upvotes": 24,
         "published": "2026-04-20"
       }
     ],
