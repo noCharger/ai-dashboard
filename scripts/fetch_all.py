@@ -18,6 +18,7 @@ from scripts.scrapers import (
     artificial_analysis,
     arxiv_papers,
     github_trending,
+    hacker_news,
     hf_papers,
     gaia,
     swebench,
@@ -89,6 +90,104 @@ FRAMEWORKS_SEED = [
         "language_color": "#3572A5",
     },
 ]
+HN_SEED = {
+    "top": [
+        {
+            "rank": 1,
+            "id": 47861270,
+            "title": "Windows 9x Subsystem for Linux",
+            "discussion_url": "https://news.ycombinator.com/item?id=47861270",
+            "site": "hails.org",
+            "points": 326,
+            "comments": 74,
+            "author": "sohkamyung",
+        },
+        {
+            "rank": 2,
+            "id": 47862331,
+            "title": "Discontinuation of open-source initiatives by GitHub next year",
+            "discussion_url": "https://news.ycombinator.com/item?id=47862331",
+            "site": "github.com",
+            "points": 270,
+            "comments": 170,
+            "author": "todsacerdoti",
+        },
+        {
+            "rank": 3,
+            "id": 47862386,
+            "title": "Large-scale solar in the medieval style",
+            "discussion_url": "https://news.ycombinator.com/item?id=47862386",
+            "site": "lowtechmagazine.com",
+            "points": 166,
+            "comments": 53,
+            "author": "tenebris",
+        },
+    ],
+    "ask": [
+        {
+            "rank": 1,
+            "id": 47834213,
+            "title": "Ask HN: Is there a marketplace for cold start businesses?",
+            "discussion_url": "https://news.ycombinator.com/item?id=47834213",
+            "site": "news.ycombinator.com",
+            "points": 52,
+            "comments": 69,
+            "author": "abffall",
+        },
+        {
+            "rank": 2,
+            "id": 47822940,
+            "title": "Ask HN: OpenClaw at 300k?",
+            "discussion_url": "https://news.ycombinator.com/item?id=47822940",
+            "site": "news.ycombinator.com",
+            "points": 35,
+            "comments": 41,
+            "author": "jonsef",
+        },
+        {
+            "rank": 3,
+            "id": 47857461,
+            "title": "Ask HN: Should I ask for a raise after 3 months?",
+            "discussion_url": "https://news.ycombinator.com/item?id=47857461",
+            "site": "news.ycombinator.com",
+            "points": 22,
+            "comments": 35,
+            "author": "throwaway711",
+        },
+    ],
+    "show": [
+        {
+            "rank": 1,
+            "id": 47847558,
+            "title": "Show HN: Klowde, the smartest way to find work",
+            "discussion_url": "https://news.ycombinator.com/item?id=47847558",
+            "site": "news.ycombinator.com",
+            "points": 45,
+            "comments": 19,
+            "author": "wearewmn",
+        },
+        {
+            "rank": 2,
+            "id": 47849097,
+            "title": "Show HN: ReadRSS, a simple RSS tracker with no ads and no bullshit",
+            "discussion_url": "https://news.ycombinator.com/item?id=47849097",
+            "site": "news.ycombinator.com",
+            "points": 19,
+            "comments": 17,
+            "author": "taylor_cas",
+        },
+        {
+            "rank": 3,
+            "id": 47836740,
+            "title": "Show HN: A framework for a roleplaying game on top of a social network",
+            "discussion_url": "https://news.ycombinator.com/item?id=47836740",
+            "site": "news.ycombinator.com",
+            "points": 13,
+            "comments": 3,
+            "author": "charleson",
+        },
+    ],
+}
 
 
 def _safe_fetch(name: str, fn, *args, **kwargs):
@@ -138,7 +237,7 @@ def _item_identity(item: object) -> str:
     """Choose a stable identity for leaderboard item ordering."""
     if not isinstance(item, dict):
         return json.dumps(item, ensure_ascii=False, sort_keys=True)
-    for key in ("url", "name", "title", "id"):
+    for key in ("url", "id", "name", "title"):
         value = item.get(key)
         if value:
             return str(value)
@@ -162,6 +261,15 @@ def _same_relative_positions(previous_payload: dict | None, new_payload: dict) -
     if not isinstance(previous_payload, dict):
         return False
     return _collect_sequences(previous_payload) == _collect_sequences(new_payload)
+
+
+def _same_section(previous_payload: dict | None, new_payload: dict, key: str) -> bool:
+    """Return True when a top-level section matches exactly."""
+    if not isinstance(previous_payload, dict):
+        return False
+    return previous_payload.get(key) == new_payload.get(key)
+
+
 def main() -> int:
     previous = _load_previous()
 
@@ -186,6 +294,11 @@ def main() -> int:
     hf_trending_papers = _safe_fetch("HF Papers", hf_papers.fetch, TOP_N)
     arxiv_recent_papers = _safe_fetch("arXiv", arxiv_papers.fetch, TOP_N)
 
+    # ---- Hacker News ----
+    hn_top = _safe_fetch("Hacker News (top)", hacker_news.fetch_top, TOP_N)
+    hn_ask = _safe_fetch("Hacker News (ask)", hacker_news.fetch_ask, TOP_N)
+    hn_show = _safe_fetch("Hacker News (show)", hacker_news.fetch_show, TOP_N)
+
     # ---- Assemble with fallback ----
     dashboard_payload = {
         "models": {
@@ -207,6 +320,11 @@ def main() -> int:
             "hf_trending": _fallback(["papers", "hf_trending"], previous, hf_trending_papers),
             "arxiv_recent": _fallback(["papers", "arxiv_recent"], previous, arxiv_recent_papers),
         },
+        "hn": {
+            "top": _fallback(["hn", "top"], previous, hn_top) or HN_SEED["top"],
+            "ask": _fallback(["hn", "ask"], previous, hn_ask) or HN_SEED["ask"],
+            "show": _fallback(["hn", "show"], previous, hn_show) or HN_SEED["show"],
+        },
     }
 
     previous_payload = _strip_generated(previous)
@@ -218,8 +336,11 @@ def main() -> int:
             logger.info("No content changes detected; dashboard.json not updated")
             return 0
     else:
-        # Hourly mode: skip update if relative ranking positions are unchanged.
-        if _same_relative_positions(previous_payload, dashboard_payload):
+        # Hourly mode: keep noise low for rankings, but still write when paper content changes.
+        if (
+            _same_relative_positions(previous_payload, dashboard_payload)
+            and _same_section(previous_payload, dashboard_payload, "papers")
+        ):
             logger.info("No relative ranking changes detected; dashboard.json not updated")
             return 0
 

@@ -73,6 +73,21 @@ export interface Paper {
   published: string; // ISO date
 }
 
+// ---- Hacker News ----
+
+export interface HnStory {
+  rank: number;
+  id: number;
+  title: string;
+  url?: string;
+  discussion_url: string;
+  site: string;
+  points: number;
+  comments: number;
+  author: string;
+  age?: string;
+}
+
 // ---- Dashboard (top-level) ----
 
 export interface DashboardData {
@@ -95,6 +110,11 @@ export interface DashboardData {
   papers: {
     hf_trending: Paper[];
     arxiv_recent: Paper[];
+  };
+  hn?: {
+    top: HnStory[];
+    ask: HnStory[];
+    show: HnStory[];
   };
 }
 
@@ -150,6 +170,11 @@ export const SOURCES: Record<string, SourceInfo> = {
   hf_papers: {
     name: "Hugging Face Papers",
     url: "https://huggingface.co/papers",
+    update_frequency: "hourly",
+  },
+  hacker_news: {
+    name: "Hacker News",
+    url: "https://news.ycombinator.com/news",
     update_frequency: "hourly",
   },
 };

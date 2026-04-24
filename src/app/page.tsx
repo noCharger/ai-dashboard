@@ -3,6 +3,7 @@ import DashboardHeader from "@/components/DashboardHeader";
 import ModelSection from "@/components/ModelSection";
 import RepoSection from "@/components/RepoSection";
 import PaperSection from "@/components/PaperSection";
+import HackerNewsSection from "@/components/HackerNewsSection";
 import PersonaGuide from "@/components/PersonaGuide";
 import { AgentFramework, TrendingRepo } from "@/lib/types";
 
@@ -39,6 +40,11 @@ export default function Home() {
       <PaperSection
         hf_trending={data.papers.hf_trending}
         arxiv_recent={data.papers.arxiv_recent}
+      />
+      <HackerNewsSection
+        top={data.hn?.top ?? []}
+        ask={data.hn?.ask ?? []}
+        show={data.hn?.show ?? []}
       />
       <RepoSection
         daily={data.repos.daily}

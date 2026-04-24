@@ -16,11 +16,11 @@ const PERSONAS: PersonaPlan[] = [
     label: "Builder / Dev",
     hook: "Want to ship faster this week",
     description:
-      "Start from model-driven agent capability, then verify which projects and frameworks are accelerating in the wild.",
+      "Start from agent capability, then pressure-test demand and implementation pull from community discussion and repo momentum.",
     steps: [
       { href: "#models-agentic", label: "Inspect agentic benchmark strength" },
+      { href: "#hn", label: "Scan Hacker News for live operator demand" },
       { href: "#repos", label: "Track GitHub momentum for implementation stacks" },
-      { href: "#models", label: "Pick the right model for cost/latency tradeoffs" },
     ],
   },
   {
@@ -28,11 +28,11 @@ const PERSONAS: PersonaPlan[] = [
     label: "Researcher",
     hook: "Need frontier direction and evidence",
     description:
-      "Begin with model frontier shifts, then follow with papers to understand method-level innovation.",
+      "Begin with model frontier shifts, then follow papers and community discussion to see which ideas are crossing into broader attention.",
     steps: [
       { href: "#models", label: "Read the current model frontier" },
       { href: "#papers", label: "Scan papers driving new techniques" },
-      { href: "#models-agentic", label: "Validate benchmark transfer into agent systems" },
+      { href: "#hn", label: "See which concepts are escaping the lab" },
     ],
   },
   {
@@ -40,10 +40,10 @@ const PERSONAS: PersonaPlan[] = [
     label: "Product / Investor",
     hook: "Looking for asymmetric opportunities",
     description:
-      "Use the breakout signal first, then cross-check model leadership and developer adoption before deciding bets.",
+      "Use the breakout signal first, then cross-check discussion intensity and developer adoption before deciding bets.",
     steps: [
       { href: "#breakout", label: "Start from today's breakout signal" },
-      { href: "#models", label: "Measure the frontier leader and challenger gap" },
+      { href: "#hn", label: "Check what the market is debating right now" },
       { href: "#repos", label: "Confirm market pull through open-source velocity" },
     ],
   },

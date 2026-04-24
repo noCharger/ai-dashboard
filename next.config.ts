@@ -17,6 +17,9 @@ const inferredBasePath =
 const normalizedBasePath = explicitBasePath || inferredBasePath;
 
 const nextConfig: NextConfig = {
+  turbopack: {
+    root: process.cwd(),
+  },
   output: "export",
   trailingSlash: true,
   ...(normalizedBasePath
