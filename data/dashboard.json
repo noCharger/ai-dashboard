@@ -1,14 +1,31 @@
 {
-  "generated": "2026-04-24T01:25:02Z",
+  "generated": "2026-04-24T04:45:50Z",
   "models": {
     "trending": [
       {
         "rank": 1,
+        "name": "deepseek-ai/DeepSeek-V4-Pro",
+        "org": "deepseek-ai",
+        "trending_score": 1076,
+        "downloads": 0,
+        "likes": 1109,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v4",
+          "text-generation",
+          "license:mit"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 860,
+        "trending_score": 884,
         "downloads": 125825,
-        "likes": 889,
+        "likes": 913,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -20,12 +37,12 @@
         "rank_change": null
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Qwen/Qwen3.6-35B-A3B",
         "org": "Qwen",
-        "trending_score": 826,
+        "trending_score": 759,
         "downloads": 717811,
-        "likes": 1332,
+        "likes": 1342,
         "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
         "tags": [
           "transformers",
@@ -37,12 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 644,
+        "trending_score": 669,
         "downloads": 23964,
-        "likes": 654,
+        "likes": 680,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -54,12 +71,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 557,
+        "trending_score": 578,
         "downloads": 1888,
-        "likes": 563,
+        "likes": 584,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -67,23 +84,6 @@
           "safetensors",
           "openai_privacy_filter",
           "token-classification"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
-        "org": "unsloth",
-        "trending_score": 465,
-        "downloads": 1283534,
-        "likes": 710,
-        "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-        "tags": [
-          "transformers",
-          "gguf",
-          "unsloth",
-          "qwen",
-          "qwen3_5_moe"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "huggingface/ml-intern",
         "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "url": "https://github.com/huggingface/ml-intern",
-        "stars": 3361,
+        "stars": 3762,
         "stars_delta": 720,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 8437,
+        "stars": 8560,
         "stars_delta": 1011,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "HKUDS/RAG-Anything",
         "description": "\"RAG-Anything: All-in-One RAG Framework\"",
         "url": "https://github.com/HKUDS/RAG-Anything",
-        "stars": 18173,
+        "stars": 18316,
         "stars_delta": 590,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 61078,
+        "stars": 61318,
         "stars_delta": 1383,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 49839,
+        "stars": 49905,
         "stars_delta": 429,
         "language": "Rust",
         "language_color": "#dea584"
@@ -348,7 +348,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 80591,
+        "stars": 81210,
         "stars_delta": 32115,
         "language": "",
         "language_color": "#586069"
@@ -358,7 +358,7 @@
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
         "description": "Claude Code skill to support Android app's reverse engineering",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": 4742,
+        "stars": 4761,
         "stars_delta": 2702,
         "language": "Shell",
         "language_color": "#89e051"
@@ -368,7 +368,7 @@
         "name": "EvoMap/evolver",
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "url": "https://github.com/EvoMap/evolver",
-        "stars": 6679,
+        "stars": 6699,
         "stars_delta": 3759,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -378,7 +378,7 @@
         "name": "openai/openai-agents-python",
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars": 24860,
+        "stars": 24887,
         "stars_delta": 3842,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "jamiepine/voicebox",
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "url": "https://github.com/jamiepine/voicebox",
-        "stars": 22852,
+        "stars": 22904,
         "stars_delta": 3969,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 113214,
+        "stars": 113596,
         "stars_delta": 102133,
         "language": "Python",
         "language_color": "#3572A5"
@@ -410,38 +410,38 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 80591,
+        "stars": 81210,
         "stars_delta": 72106,
         "language": "",
         "language_color": "#586069"
       },
       {
         "rank": 3,
-        "name": "Yeachan-Heo/oh-my-codex",
-        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-        "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 25346,
-        "stars_delta": 23050,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32427,
+        "stars": 32445,
         "stars_delta": 23805,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 20887,
+        "stars": 20938,
         "stars_delta": 9544,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "OpenBMB/VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "url": "https://github.com/OpenBMB/VoxCPM",
+        "stars": 15756,
+        "stars_delta": 9655,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.20796",
         "categories": [],
-        "upvotes": 209,
+        "upvotes": 214,
         "published": "2026-04-21"
       },
       {
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.20733",
         "categories": [],
-        "upvotes": 45,
+        "upvotes": 57,
         "published": "2026-04-21"
       },
       {
@@ -542,113 +542,110 @@
         ],
         "url": "https://huggingface.co/papers/2604.19859",
         "categories": [],
-        "upvotes": 38,
+        "upvotes": 40,
         "published": "2026-04-20"
       },
       {
         "rank": 4,
-        "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
+        "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
         "authors": [
-          "Yutian Chen",
-          "Shi Guo",
-          "Renbiao Jin"
+          "Kanzhi Cheng",
+          "Zehao Li",
+          "Zheng Ma"
         ],
-        "url": "https://huggingface.co/papers/2604.19747",
+        "url": "https://huggingface.co/papers/2604.15093",
         "categories": [],
-        "upvotes": 35,
-        "published": "2026-04-20"
+        "upvotes": 26,
+        "published": "2026-04-15"
       },
       {
         "rank": 5,
-        "title": "ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning",
+        "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
         "authors": [
-          "Xianming Li",
-          "Zongxi Li",
-          "Tsz-fung Andrew Lee"
+          "Hyeonwoo Kim",
+          "Jeonghwan Kim",
+          "Kyungwon Cho"
         ],
-        "url": "https://huggingface.co/papers/2604.19254",
+        "url": "https://huggingface.co/papers/2604.20841",
         "categories": [],
-        "upvotes": 24,
-        "published": "2026-04-20"
+        "upvotes": 22,
+        "published": "2026-04-21"
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Diagnosing CFG Interpretation in LLMs",
+        "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
         "authors": [
-          "Hanqi Li",
-          "Lu Chen",
-          "Kai Yu"
+          "Bartosz Balis",
+          "Michal Orzechowski",
+          "Piotr Kica"
         ],
-        "url": "https://arxiv.org/abs/2604.20811",
+        "url": "https://arxiv.org/abs/2604.21910",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-23"
+        "published": "2026-04-24"
       },
       {
         "rank": 2,
-        "title": "Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",
+        "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
         "authors": [
-          "Pavel Salovskii",
-          "Iuliia Gorshkova"
+          "Chee Wei Tan",
+          "Yuchen Wang",
+          "Shangxin Guo"
         ],
-        "url": "https://arxiv.org/abs/2604.20795",
+        "url": "https://arxiv.org/abs/2604.21896",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-23"
+        "published": "2026-04-24"
       },
       {
         "rank": 3,
-        "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+        "title": "Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation",
         "authors": [
-          "Joachim Baumann",
-          "Vishakh Padmakumar",
-          "Xiang Li"
+          "Natan Levy",
+          "Gadi Perl"
         ],
-        "url": "https://arxiv.org/abs/2604.20779",
-        "categories": [
-          "cs.AI",
-          "cs.CY",
-          "cs.SE"
-        ],
-        "upvotes": null,
-        "published": "2026-04-23"
-      },
-      {
-        "rank": 4,
-        "title": "V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization",
-        "authors": [
-          "Yubo Jiang",
-          "Yitong An",
-          "Xin Yang"
-        ],
-        "url": "https://arxiv.org/abs/2604.20755",
-        "categories": [
-          "cs.AI",
-          "cs.LG"
-        ],
-        "upvotes": null,
-        "published": "2026-04-23"
-      },
-      {
-        "rank": 5,
-        "title": "Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation",
-        "authors": [
-          "Dongding Lin",
-          "Jian Wang",
-          "Yongqi Li"
-        ],
-        "url": "https://arxiv.org/abs/2604.20749",
+        "url": "https://arxiv.org/abs/2604.21854",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-04-23"
+        "published": "2026-04-24"
+      },
+      {
+        "rank": 4,
+        "title": "Alignment has a Fantasia Problem",
+        "authors": [
+          "Nathanael Jo",
+          "Zoe De Simone",
+          "Mitchell Gordon"
+        ],
+        "url": "https://arxiv.org/abs/2604.21827",
+        "categories": [
+          "cs.AI",
+          "cs.HC"
+        ],
+        "upvotes": null,
+        "published": "2026-04-24"
+      },
+      {
+        "rank": 5,
+        "title": "Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows",
+        "authors": [
+          "Anuj Sadani",
+          "Deepak Kumar"
+        ],
+        "url": "https://arxiv.org/abs/2604.21816",
+        "categories": [
+          "cs.AI"
+        ],
+        "upvotes": null,
+        "published": "2026-04-24"
       }
     ]
   }
