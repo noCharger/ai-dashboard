@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-26T17:30:19Z",
+  "generated": "2026-04-26T18:34:49Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 2690,
+        "trending_score": 2695,
         "downloads": 123431,
-        "likes": 2808,
+        "likes": 2814,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 1007,
+        "trending_score": 1008,
         "downloads": 376485,
-        "likes": 1047,
+        "likes": 1048,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 827,
+        "trending_score": 829,
         "downloads": 329571,
-        "likes": 847,
+        "likes": 849,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 806,
+        "trending_score": 809,
         "downloads": 35807,
-        "likes": 826,
+        "likes": 829,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
-        "trending_score": 708,
+        "trending_score": 710,
         "downloads": 45986,
-        "likes": 721,
+        "likes": 723,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
           "transformers",
@@ -91,39 +91,6 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-20B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
-      },
-      {
-        "rank": 2,
-        "name": "gpt-oss-20B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
-      },
-      {
-        "rank": 3,
-        "name": "GPT-5.4 (xhigh)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4"
-      },
-      {
-        "rank": 4,
         "name": "gpt-oss-120B (high)",
         "org": "",
         "intelligence_index": 0.0,
@@ -134,15 +101,48 @@
         "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
       },
       {
-        "rank": 5,
-        "name": "GPT-5.5 (medium)",
+        "rank": 2,
+        "name": "gpt-oss-120B (low)",
         "org": "",
         "intelligence_index": 0.0,
         "price_input": null,
         "price_output": null,
         "speed_tps": null,
         "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-5-medium"
+        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
+      },
+      {
+        "rank": 3,
+        "name": "gpt-oss-20B (low)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+      },
+      {
+        "rank": 4,
+        "name": "gpt-oss-20B (high)",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/gpt-oss-20b"
+      },
+      {
+        "rank": 5,
+        "name": "Grok-1",
+        "org": "",
+        "intelligence_index": 0.0,
+        "price_input": null,
+        "price_output": null,
+        "speed_tps": null,
+        "context_window": null,
+        "url": "https://artificialanalysis.ai/models/grok-1"
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "mattpocock/skills",
         "description": "My personal directory of skills, straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 22466,
+        "stars": 22638,
         "stars_delta": 2507,
         "language": "Shell",
         "language_color": "#89e051"
@@ -306,7 +306,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 12953,
+        "stars": 13083,
         "stars_delta": 1694,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 65066,
+        "stars": 65122,
         "stars_delta": 1724,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 29958,
+        "stars": 29997,
         "stars_delta": 667,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "PostHog/posthog",
         "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
         "url": "https://github.com/PostHog/posthog",
-        "stars": 33735,
+        "stars": 33750,
         "stars_delta": 338,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 12953,
+        "stars": 13083,
         "stars_delta": 8668,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 15378,
+        "stars": 15401,
         "stars_delta": 10185,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 90044,
+        "stars": 90156,
         "stars_delta": 29917,
         "language": "",
         "language_color": "#586069"
@@ -378,7 +378,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 9566,
+        "stars": 9577,
         "stars_delta": 3301,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 4147,
+        "stars": 4154,
         "stars_delta": 2799,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 90044,
+        "stars": 90156,
         "stars_delta": 78581,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 118013,
+        "stars": 118062,
         "stars_delta": 103696,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "luongnv89/claude-howto",
         "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
         "url": "https://github.com/luongnv89/claude-howto",
-        "stars": 29104,
+        "stars": 29109,
         "stars_delta": 27798,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 21591,
+        "stars": 21597,
         "stars_delta": 10218,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "siddharthvaddem/openscreen",
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "url": "https://github.com/siddharthvaddem/openscreen",
-        "stars": 32896,
+        "stars": 32902,
         "stars_delta": 24060,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -653,63 +653,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 47911350,
-        "title": "Clay PCB Tutorial",
-        "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-        "discussion_url": "https://news.ycombinator.com/item?id=47911350",
-        "site": "feministhackerspaces.cargo.site",
-        "points": 74,
-        "comments": 39,
-        "author": "j0r0b0",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 47909226,
         "title": "Asahi Linux Progress Linux 7.0",
         "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
         "discussion_url": "https://news.ycombinator.com/item?id=47909226",
         "site": "asahilinux.org",
-        "points": 410,
-        "comments": 173,
+        "points": 471,
+        "comments": 205,
         "author": "elisaado",
-        "age": "6h ago"
-      },
-      {
-        "rank": 3,
-        "id": 47908833,
-        "title": "Statecharts: hierarchical state machines",
-        "url": "https://statecharts.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47908833",
-        "site": "statecharts.dev",
-        "points": 204,
-        "comments": 59,
-        "author": "sph",
         "age": "7h ago"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "id": 47910388,
         "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
         "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
         "discussion_url": "https://news.ycombinator.com/item?id=47910388",
         "site": "openai.com",
-        "points": 96,
-        "comments": 70,
+        "points": 138,
+        "comments": 92,
         "author": "kmdupree",
-        "age": "3h ago"
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
+        "id": 47911350,
+        "title": "Clay PCB Tutorial",
+        "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+        "discussion_url": "https://news.ycombinator.com/item?id=47911350",
+        "site": "feministhackerspaces.cargo.site",
+        "points": 109,
+        "comments": 77,
+        "author": "j0r0b0",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
+        "id": 47911644,
+        "title": "The Visible Zorker: Zork 1",
+        "url": "https://eblong.com/infocom/visi/zork1/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47911644",
+        "site": "eblong.com",
+        "points": 23,
+        "comments": 0,
+        "author": "PLenz",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 47903126,
-        "title": "Amateur armed with ChatGPT solves an Erdős problem",
-        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47903126",
-        "site": "scientificamerican.com",
-        "points": 614,
-        "comments": 435,
-        "author": "pr337h4m",
-        "age": "23h ago"
+        "id": 47911780,
+        "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+        "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47911780",
+        "site": "anchor.host",
+        "points": 23,
+        "comments": 5,
+        "author": "jamesponddotco",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -720,34 +720,34 @@
         "url": "https://news.ycombinator.com/item?id=47906253",
         "discussion_url": "https://news.ycombinator.com/item?id=47906253",
         "site": "news.ycombinator.com",
-        "points": 437,
-        "comments": 165,
+        "points": 450,
+        "comments": 169,
         "author": "_-x-_",
-        "age": "16h ago"
+        "age": "17h ago"
       },
       {
         "rank": 2,
+        "id": 47912286,
+        "title": "Ask HN: Which is Better–Android or iOS?",
+        "url": "https://news.ycombinator.com/item?id=47912286",
+        "discussion_url": "https://news.ycombinator.com/item?id=47912286",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 2,
+        "author": "wasimsk",
+        "age": "41m ago"
+      },
+      {
+        "rank": 3,
         "id": 47910597,
         "title": "Ask HN: How I find a job where what is needed is solid code, not firefighting?",
         "url": "https://news.ycombinator.com/item?id=47910597",
         "discussion_url": "https://news.ycombinator.com/item?id=47910597",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 3,
-        "author": "speeder",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 47909674,
-        "title": "Ask HN: Has Claude Opus 4.7 nerfed?",
-        "url": "https://news.ycombinator.com/item?id=47909674",
-        "discussion_url": "https://news.ycombinator.com/item?id=47909674",
-        "site": "news.ycombinator.com",
-        "points": 4,
         "comments": 4,
-        "author": "souravroy78",
-        "age": "5h ago"
+        "author": "speeder",
+        "age": "4h ago"
       },
       {
         "rank": 4,
@@ -768,10 +768,10 @@
         "url": "https://news.ycombinator.com/item?id=47906922",
         "discussion_url": "https://news.ycombinator.com/item?id=47906922",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 8,
+        "points": 6,
+        "comments": 13,
         "author": "g48ywsJk6w48",
-        "age": "14h ago"
+        "age": "15h ago"
       }
     ],
     "show": [
@@ -782,8 +782,8 @@
         "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
         "discussion_url": "https://news.ycombinator.com/item?id=47876071",
         "site": "blog.playcanvas.com",
-        "points": 133,
-        "comments": 26,
+        "points": 146,
+        "comments": 29,
         "author": "yak32",
         "age": "3d ago"
       },
@@ -797,7 +797,7 @@
         "points": 2,
         "comments": 1,
         "author": "unusual_typo",
-        "age": "17m ago"
+        "age": "1h ago"
       },
       {
         "rank": 3,
@@ -806,33 +806,33 @@
         "url": "https://github.com/scastiel/kado",
         "discussion_url": "https://news.ycombinator.com/item?id=47911543",
         "site": "github.com",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "author": "scastiel",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 47909295,
-        "title": "Show HN: I remade my blog into a Windows 3.1 environment",
-        "url": "https://passo.uno/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47909295",
-        "site": "passo.uno",
-        "points": 13,
-        "comments": 10,
-        "author": "theletterf",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
         "id": 47908912,
         "title": "Show HN: A free ESG stock screener that publishes its losses and methodology",
         "url": "https://jumpstartsignal.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=47908912",
         "site": "jumpstartsignal.com",
         "points": 16,
-        "comments": 17,
+        "comments": 19,
         "author": "irldexter",
+        "age": "8h ago"
+      },
+      {
+        "rank": 5,
+        "id": 47909295,
+        "title": "Show HN: I remade my blog into a Windows 3.1 environment",
+        "url": "https://passo.uno/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47909295",
+        "site": "passo.uno",
+        "points": 16,
+        "comments": 11,
+        "author": "theletterf",
         "age": "7h ago"
       }
     ]
