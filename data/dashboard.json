@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-27T19:18:39Z",
+  "generated": "2026-04-27T20:50:13Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 2858,
+        "trending_score": 2859,
         "downloads": 137784,
-        "likes": 3003,
+        "likes": 3004,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 882,
+        "trending_score": 893,
         "downloads": 47488,
-        "likes": 908,
+        "likes": 919,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -55,23 +55,6 @@
       },
       {
         "rank": 4,
-        "name": "moonshotai/Kimi-K2.6",
-        "org": "moonshotai",
-        "trending_score": 775,
-        "downloads": 443440,
-        "likes": 1096,
-        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "kimi_k25",
-          "feature-extraction",
-          "compressed-tensors"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
         "trending_score": 758,
@@ -84,6 +67,23 @@
           "deepseek_v4",
           "text-generation",
           "license:mit"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "moonshotai/Kimi-K2.6",
+        "org": "moonshotai",
+        "trending_score": 735,
+        "downloads": 443440,
+        "likes": 1096,
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "kimi_k25",
+          "feature-extraction",
+          "compressed-tensors"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 28919,
+        "stars": 29341,
         "stars_delta": 5551,
         "language": "Shell",
         "language_color": "#89e051"
@@ -306,7 +306,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 31277,
+        "stars": 31354,
         "stars_delta": 1074,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 2642,
+        "stars": 2685,
         "stars_delta": 637,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 15786,
+        "stars": 15882,
         "stars_delta": 2973,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "gastownhall/beads",
         "description": "Beads - A memory upgrade for your coding agent",
         "url": "https://github.com/gastownhall/beads",
-        "stars": 22095,
+        "stars": 22125,
         "stars_delta": 485,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 15786,
+        "stars": 15882,
         "stars_delta": 10335,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 16106,
+        "stars": 16136,
         "stars_delta": 10070,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 9824,
+        "stars": 9840,
         "stars_delta": 3537,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 93593,
+        "stars": 93744,
         "stars_delta": 29944,
         "language": "",
         "language_color": "#586069"
@@ -388,7 +388,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 28919,
+        "stars": 29341,
         "stars_delta": 5013,
         "language": "Shell",
         "language_color": "#89e051"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 93593,
+        "stars": 93744,
         "stars_delta": 82118,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 120329,
+        "stars": 120406,
         "stars_delta": 104773,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26339,
+        "stars": 26351,
         "stars_delta": 23592,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 21761,
+        "stars": 21768,
         "stars_delta": 10363,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 16106,
+        "stars": 16136,
         "stars_delta": 12424,
         "language": "Python",
         "language_color": "#3572A5"
@@ -451,8 +451,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 885,
-        "total_stars": 14717,
+        "stars_28d": 886,
+        "total_stars": 14718,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -657,51 +657,51 @@
     "top": [
       {
         "rank": 1,
-        "id": 47925425,
-        "title": "United Wizards of the Coast",
-        "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
-        "discussion_url": "https://news.ycombinator.com/item?id=47925425",
-        "site": "unitedwizardsofthecoast.com",
-        "points": 58,
-        "comments": 13,
-        "author": "d4mi3n",
-        "age": "44m ago"
-      },
-      {
-        "rank": 2,
         "id": 47921248,
         "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
         "discussion_url": "https://news.ycombinator.com/item?id=47921248",
         "site": "bloomberg.com",
-        "points": 519,
-        "comments": 441,
+        "points": 597,
+        "comments": 525,
         "author": "helsinkiandrew",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 47924813,
-        "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+        "title": "Easyduino: Open Source PCB Devboards for KiCad",
         "url": "https://github.com/Hanqaqa/Easyduino",
         "discussion_url": "https://news.ycombinator.com/item?id=47924813",
         "site": "github.com",
-        "points": 67,
-        "comments": 3,
+        "points": 115,
+        "comments": 11,
         "author": "Hanqaqa",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 47922079,
         "title": "“Why not just use Lean?”",
         "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
         "discussion_url": "https://news.ycombinator.com/item?id=47922079",
         "site": "lawrencecpaulson.github.io",
-        "points": 193,
-        "comments": 108,
+        "points": 217,
+        "comments": 134,
         "author": "ibobev",
-        "age": "4h ago"
+        "age": "6h ago"
+      },
+      {
+        "rank": 4,
+        "id": 47920315,
+        "title": "China blocks Meta's acquisition of AI startup Manus",
+        "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=47920315",
+        "site": "cnbc.com",
+        "points": 156,
+        "comments": 82,
+        "author": "yakkomajuri",
+        "age": "9h ago"
       },
       {
         "rank": 5,
@@ -710,10 +710,10 @@
         "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
         "discussion_url": "https://news.ycombinator.com/item?id=47923010",
         "site": "eclecticlight.co",
-        "points": 129,
-        "comments": 98,
+        "points": 151,
+        "comments": 126,
         "author": "pvtmert",
-        "age": "3h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -724,7 +724,7 @@
         "url": "https://news.ycombinator.com/item?id=47906253",
         "discussion_url": "https://news.ycombinator.com/item?id=47906253",
         "site": "news.ycombinator.com",
-        "points": 566,
+        "points": 567,
         "comments": 184,
         "author": "_-x-_",
         "age": "1d ago"
@@ -736,10 +736,10 @@
         "url": "https://news.ycombinator.com/item?id=47925078",
         "discussion_url": "https://news.ycombinator.com/item?id=47925078",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 8,
         "comments": 5,
         "author": "krthr",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 3,
@@ -751,7 +751,7 @@
         "points": 6,
         "comments": 1,
         "author": "websku",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
@@ -763,19 +763,19 @@
         "points": 4,
         "comments": 4,
         "author": "ElFitz",
-        "age": "8h ago"
+        "age": "9h ago"
       },
       {
         "rank": 5,
-        "id": 47919758,
-        "title": "Ask HN: Is there a good CV review service for tech roles in Switzerland?",
-        "url": "https://news.ycombinator.com/item?id=47919758",
-        "discussion_url": "https://news.ycombinator.com/item?id=47919758",
+        "id": 47919623,
+        "title": "Ask HN: Can you tell the difference between Claude Sonnet and Opus?",
+        "url": "https://news.ycombinator.com/item?id=47919623",
+        "discussion_url": "https://news.ycombinator.com/item?id=47919623",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 0,
-        "author": "swissdom",
-        "age": "8h ago"
+        "comments": 7,
+        "author": "muddi900",
+        "age": "10h ago"
       }
     ],
     "show": [
@@ -786,10 +786,10 @@
         "url": "https://github.com/dirac-run/dirac",
         "discussion_url": "https://news.ycombinator.com/item?id=47920787",
         "site": "github.com",
-        "points": 241,
-        "comments": 90,
+        "points": 268,
+        "comments": 103,
         "author": "GodelNumbering",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -798,10 +798,10 @@
         "url": "https://www.systalyze.com/utilyze",
         "discussion_url": "https://news.ycombinator.com/item?id=47921626",
         "site": "systalyze.com",
-        "points": 42,
-        "comments": 8,
+        "points": 59,
+        "comments": 12,
         "author": "ManyaGhobadi",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
@@ -810,13 +810,25 @@
         "url": "https://github.com/garritfra/cell",
         "discussion_url": "https://news.ycombinator.com/item?id=47920289",
         "site": "github.com",
-        "points": 68,
-        "comments": 31,
+        "points": 77,
+        "comments": 40,
         "author": "garritfra",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
+        "id": 47876071,
+        "title": "Show HN: Turning a Gaussian Splat into a videogame",
+        "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47876071",
+        "site": "blog.playcanvas.com",
+        "points": 226,
+        "comments": 56,
+        "author": "yak32",
+        "age": "4d ago"
+      },
+      {
+        "rank": 5,
         "id": 47923695,
         "title": "Show HN: Unusual Wikipedia",
         "url": "https://unusualwiki.nk412.com/",
@@ -825,19 +837,7 @@
         "points": 3,
         "comments": 0,
         "author": "grilledchickenw",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47923382,
-        "title": "Show HN: 2 weeks of coding, 3 months of OpenAI review, my ChatGPT App is live",
-        "url": "https://news.ycombinator.com/item?id=47923382",
-        "discussion_url": "https://news.ycombinator.com/item?id=47923382",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "Aldipower",
-        "age": "3h ago"
+        "age": "4h ago"
       }
     ]
   }
