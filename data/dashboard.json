@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-27T08:34:54Z",
+  "generated": "2026-04-27T10:04:28Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 2809,
+        "trending_score": 2820,
         "downloads": 137784,
-        "likes": 2946,
+        "likes": 2958,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 1032,
+        "trending_score": 1035,
         "downloads": 443440,
-        "likes": 1074,
+        "likes": 1078,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Qwen/Qwen3.6-27B",
-        "org": "Qwen",
-        "trending_score": 854,
-        "downloads": 399489,
-        "likes": 877,
-        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 853,
+        "trending_score": 859,
         "downloads": 47488,
-        "likes": 876,
+        "likes": 883,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "Qwen/Qwen3.6-27B",
+        "org": "Qwen",
+        "trending_score": 856,
+        "downloads": 399489,
+        "likes": 879,
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
-        "trending_score": 741,
+        "trending_score": 746,
         "downloads": 65743,
-        "likes": 755,
+        "likes": 760,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
           "transformers",
@@ -296,7 +296,7 @@
         "name": "mattpocock/skills",
         "description": "Agent Skills for real engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 25837,
+        "stars": 26261,
         "stars_delta": 2519,
         "language": "Shell",
         "language_color": "#89e051"
@@ -306,7 +306,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 14749,
+        "stars": 14980,
         "stars_delta": 1701,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 66162,
+        "stars": 66267,
         "stars_delta": 1720,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 30546,
+        "stars": 30612,
         "stars_delta": 700,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "PostHog/posthog",
         "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
         "url": "https://github.com/PostHog/posthog",
-        "stars": 34012,
+        "stars": 34041,
         "stars_delta": 337,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 14749,
+        "stars": 14980,
         "stars_delta": 10335,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 15815,
+        "stars": 15864,
         "stars_delta": 10070,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 92013,
+        "stars": 92279,
         "stars_delta": 29944,
         "language": "",
         "language_color": "#586069"
@@ -378,7 +378,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 9707,
+        "stars": 9730,
         "stars_delta": 3537,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 4219,
+        "stars": 4229,
         "stars_delta": 2244,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 92013,
+        "stars": 92279,
         "stars_delta": 82118,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 119310,
+        "stars": 119510,
         "stars_delta": 104773,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26210,
+        "stars": 26240,
         "stars_delta": 23592,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "luongnv89/claude-howto",
         "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
         "url": "https://github.com/luongnv89/claude-howto",
-        "stars": 29297,
+        "stars": 29322,
         "stars_delta": 27992,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 21700,
+        "stars": 21710,
         "stars_delta": 10363,
         "language": "Python",
         "language_color": "#3572A5"
@@ -451,8 +451,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 882,
-        "total_stars": 14714,
+        "stars_28d": 886,
+        "total_stars": 14718,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -462,8 +462,8 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 638,
-        "total_stars": 116395,
+        "stars_28d": 636,
+        "total_stars": 116393,
         "description": "The agent engineering platform",
         "category": "General Agent Stack",
         "language": "Python",
@@ -473,8 +473,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 452,
-        "total_stars": 37371,
+        "stars_28d": 455,
+        "total_stars": 37374,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -495,8 +495,8 @@
         "rank": 5,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 215,
-        "total_stars": 48114,
+        "stars_28d": 217,
+        "total_stars": 48116,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -662,8 +662,8 @@
         "url": "https://flipdisc.io",
         "discussion_url": "https://news.ycombinator.com/item?id=47875795",
         "site": "flipdisc.io",
-        "points": 214,
-        "comments": 41,
+        "points": 265,
+        "comments": 48,
         "author": "skogstokig",
         "age": "3d ago"
       },
@@ -674,170 +674,170 @@
         "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
         "discussion_url": "https://news.ycombinator.com/item?id=47914165",
         "site": "ca98am79.medium.com",
-        "points": 759,
-        "comments": 394,
+        "points": 810,
+        "comments": 418,
         "author": "ca98am79",
-        "age": "11h ago"
+        "age": "13h ago"
       },
       {
         "rank": 3,
-        "id": 47916890,
-        "title": "TurboQuant: A first-principles walkthrough",
-        "url": "https://arkaung.github.io/interactive-turboquant/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47916890",
-        "site": "arkaung.github.io",
-        "points": 134,
-        "comments": 22,
-        "author": "kweezar",
-        "age": "6h ago"
+        "id": 47909860,
+        "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+        "url": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=47909860",
+        "site": "nytimes.com",
+        "points": 36,
+        "comments": 14,
+        "author": "wslh",
+        "age": "21h ago"
       },
       {
         "rank": 4,
+        "id": 47918961,
+        "title": "It's OK to abandon your side-project (2024)",
+        "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47918961",
+        "site": "robbowen.digital",
+        "points": 76,
+        "comments": 31,
+        "author": "hisamafahri",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 47913650,
         "title": "AI should elevate your thinking, not replace it",
         "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
         "discussion_url": "https://news.ycombinator.com/item?id=47913650",
         "site": "koshyjohn.com",
-        "points": 467,
-        "comments": 336,
+        "points": 499,
+        "comments": 360,
         "author": "koshyjohn",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47908051,
-        "title": "Self-updating screenshots",
-        "url": "https://interblah.net/self-updating-screenshots",
-        "discussion_url": "https://news.ycombinator.com/item?id=47908051",
-        "site": "interblah.net",
-        "points": 269,
-        "comments": 41,
-        "author": "bjhess",
-        "age": "1d ago"
+        "age": "14h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 47919089,
+        "title": "Ask HN: RedHat for Personal Use",
+        "url": "https://news.ycombinator.com/item?id=47919089",
+        "discussion_url": "https://news.ycombinator.com/item?id=47919089",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 3,
+        "author": "bozdemir",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 47906253,
         "title": "Tell HN: An app is silently installing itself on my iPhone every day",
         "url": "https://news.ycombinator.com/item?id=47906253",
         "discussion_url": "https://news.ycombinator.com/item?id=47906253",
         "site": "news.ycombinator.com",
-        "points": 545,
+        "points": 547,
         "comments": 183,
         "author": "_-x-_",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 47919196,
+        "title": "Tell HN: Ebay.com Is Down",
+        "url": "https://news.ycombinator.com/item?id=47919196",
+        "discussion_url": "https://news.ycombinator.com/item?id=47919196",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 1,
+        "author": "NKosmatos",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 47918756,
         "title": "Ask HN: Is Ubuntu 26.04 LTS Consider GNU/Linux?",
         "url": "https://news.ycombinator.com/item?id=47918756",
         "discussion_url": "https://news.ycombinator.com/item?id=47918756",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
+        "points": 3,
+        "comments": 2,
         "author": "xlmnxp",
-        "age": "58m ago"
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 47895029,
         "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
         "url": "https://news.ycombinator.com/item?id=47895029",
         "discussion_url": "https://news.ycombinator.com/item?id=47895029",
         "site": "news.ycombinator.com",
-        "points": 94,
+        "points": 95,
         "comments": 86,
         "author": "LatencyKills",
         "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 47914594,
-        "title": "Ask HN: Anyone want to collaborate on a local-first AI-based research assistant",
-        "url": "https://news.ycombinator.com/item?id=47914594",
-        "discussion_url": "https://news.ycombinator.com/item?id=47914594",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 5,
-        "author": "venkatram-s",
-        "age": "11h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47902507,
-        "title": "Ask HN: Do you read differently now that anything could be AI generated?",
-        "url": "https://news.ycombinator.com/item?id=47902507",
-        "discussion_url": "https://news.ycombinator.com/item?id=47902507",
-        "site": "news.ycombinator.com",
-        "points": 17,
-        "comments": 23,
-        "author": "dwa3592",
-        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 47919314,
+        "title": "Show HN: Building a SQL analyst agent from scratch",
+        "url": "https://raminmousavi.dev/blog/building-a-sql-analyst-agent",
+        "discussion_url": "https://news.ycombinator.com/item?id=47919314",
+        "site": "raminmousavi.dev",
+        "points": 3,
+        "comments": 0,
+        "author": "ramin2nt2",
+        "age": "57m ago"
+      },
+      {
+        "rank": 2,
         "id": 47911013,
         "title": "Show HN: Free textbook on engineering thermodynamics",
         "url": "https://thermodynamicsbook.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=47911013",
         "site": "thermodynamicsbook.com",
-        "points": 138,
-        "comments": 35,
+        "points": 144,
+        "comments": 38,
         "author": "2DcAf",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 47916769,
         "title": "Show HN: The Unix Magic poster, annotated (updated)",
         "url": "https://github.com/drio/unixmagic",
         "discussion_url": "https://news.ycombinator.com/item?id=47916769",
         "site": "github.com",
-        "points": 34,
-        "comments": 1,
+        "points": 37,
+        "comments": 2,
         "author": "drio",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 47876071,
         "title": "Show HN: Turning a Gaussian Splat into a videogame",
         "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
         "discussion_url": "https://news.ycombinator.com/item?id=47876071",
         "site": "blog.playcanvas.com",
-        "points": 213,
-        "comments": 52,
+        "points": 215,
+        "comments": 53,
         "author": "yak32",
         "age": "3d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 47914369,
         "title": "Show HN: Tiao, A two-player turn-based board game",
         "url": "https://playtiao.com",
         "discussion_url": "https://news.ycombinator.com/item?id=47914369",
         "site": "playtiao.com",
-        "points": 44,
-        "comments": 19,
+        "points": 45,
+        "comments": 20,
         "author": "trebeljahr",
-        "age": "11h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47915274,
-        "title": "Show HN: Startup Equity Adventure Game",
-        "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47915274",
-        "site": "options-game-polymathrobotics.pythonanywhere.com",
-        "points": 26,
-        "comments": 10,
-        "author": "iliabara",
-        "age": "10h ago"
+        "age": "13h ago"
       }
     ]
   }
