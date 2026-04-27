@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-27T16:19:17Z",
+  "generated": "2026-04-27T17:58:51Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 2850,
+        "trending_score": 2853,
         "downloads": 137784,
-        "likes": 2994,
+        "likes": 2998,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -21,18 +21,18 @@
       },
       {
         "rank": 2,
-        "name": "moonshotai/Kimi-K2.6",
-        "org": "moonshotai",
-        "trending_score": 893,
-        "downloads": 443440,
-        "likes": 1093,
-        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+        "name": "openai/privacy-filter",
+        "org": "openai",
+        "trending_score": 876,
+        "downloads": 47488,
+        "likes": 902,
+        "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
+          "onnx",
           "safetensors",
-          "kimi_k25",
-          "feature-extraction",
-          "compressed-tensors"
+          "openai_privacy_filter",
+          "token-classification"
         ],
         "rank_change": null
       },
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 873,
+        "trending_score": 876,
         "downloads": 399489,
-        "likes": 899,
+        "likes": 903,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -55,18 +55,18 @@
       },
       {
         "rank": 4,
-        "name": "openai/privacy-filter",
-        "org": "openai",
-        "trending_score": 870,
-        "downloads": 47488,
-        "likes": 894,
-        "url": "https://huggingface.co/openai/privacy-filter",
+        "name": "moonshotai/Kimi-K2.6",
+        "org": "moonshotai",
+        "trending_score": 805,
+        "downloads": 443440,
+        "likes": 1094,
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
-          "onnx",
           "safetensors",
-          "openai_privacy_filter",
-          "token-classification"
+          "kimi_k25",
+          "feature-extraction",
+          "compressed-tensors"
         ],
         "rank_change": null
       },
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
-        "trending_score": 754,
+        "trending_score": 756,
         "downloads": 65743,
-        "likes": 771,
+        "likes": 774,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.24,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.352385965669,
+        "speed_tps": 71.6450492774011,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.87,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 75.2915999496142,
+        "speed_tps": 75.3875024707829,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.18,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 112.153405519126,
+        "speed_tps": 111.915980021521,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.8,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 76.7447394385865,
+        "speed_tps": 75.8289634213252,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -294,9 +294,9 @@
       {
         "rank": 1,
         "name": "mattpocock/skills",
-        "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 28124,
+        "stars": 28547,
         "stars_delta": 5551,
         "language": "Shell",
         "language_color": "#89e051"
@@ -306,7 +306,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 31099,
+        "stars": 31201,
         "stars_delta": 1074,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 2530,
+        "stars": 2604,
         "stars_delta": 637,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 15561,
+        "stars": 15692,
         "stars_delta": 2973,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "gastownhall/beads",
         "description": "Beads - A memory upgrade for your coding agent",
         "url": "https://github.com/gastownhall/beads",
-        "stars": 22056,
+        "stars": 22080,
         "stars_delta": 485,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 15561,
+        "stars": 15692,
         "stars_delta": 10335,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 16021,
+        "stars": 16073,
         "stars_delta": 10070,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 9797,
+        "stars": 9814,
         "stars_delta": 3537,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -378,7 +378,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 93302,
+        "stars": 93470,
         "stars_delta": 29944,
         "language": "",
         "language_color": "#586069"
@@ -386,9 +386,9 @@
       {
         "rank": 5,
         "name": "mattpocock/skills",
-        "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 28124,
+        "stars": 28547,
         "stars_delta": 5013,
         "language": "Shell",
         "language_color": "#89e051"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 93302,
+        "stars": 93470,
         "stars_delta": 82118,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 120130,
+        "stars": 120256,
         "stars_delta": 104773,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26317,
+        "stars": 26333,
         "stars_delta": 23592,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 21750,
+        "stars": 21757,
         "stars_delta": 10363,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 16021,
+        "stars": 16073,
         "stars_delta": 12424,
         "language": "Python",
         "language_color": "#3572A5"
@@ -462,8 +462,8 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 639,
-        "total_stars": 116396,
+        "stars_28d": 638,
+        "total_stars": 116395,
         "description": "The agent engineering platform",
         "category": "General Agent Stack",
         "language": "Python",
@@ -473,8 +473,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 456,
-        "total_stars": 37375,
+        "stars_28d": 455,
+        "total_stars": 37374,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -495,8 +495,8 @@
         "rank": 5,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 217,
-        "total_stars": 48116,
+        "stars_28d": 218,
+        "total_stars": 48117,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -662,58 +662,58 @@
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
         "discussion_url": "https://news.ycombinator.com/item?id=47921248",
         "site": "bloomberg.com",
-        "points": 209,
-        "comments": 189,
+        "points": 402,
+        "comments": 344,
         "author": "helsinkiandrew",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
         "id": 47922079,
-        "title": "\"Why not just use Lean?\"",
+        "title": "“Why not just use Lean?”",
         "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
         "discussion_url": "https://news.ycombinator.com/item?id=47922079",
         "site": "lawrencecpaulson.github.io",
-        "points": 101,
-        "comments": 34,
+        "points": 154,
+        "comments": 79,
         "author": "ibobev",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 47920787,
-        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-        "url": "https://github.com/dirac-run/dirac",
-        "discussion_url": "https://news.ycombinator.com/item?id=47920787",
-        "site": "github.com",
-        "points": 169,
-        "comments": 63,
-        "author": "GodelNumbering",
-        "age": "3h ago"
+        "id": 47923010,
+        "title": "Networking changes coming in macOS 27",
+        "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47923010",
+        "site": "eclecticlight.co",
+        "points": 89,
+        "comments": 73,
+        "author": "pvtmert",
+        "age": "2h ago"
       },
       {
         "rank": 4,
         "id": 47922957,
-        "title": "The Woes of Sanitizing SVGs",
+        "title": "The woes of sanitizing SVGs",
         "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
         "discussion_url": "https://news.ycombinator.com/item?id=47922957",
         "site": "muffin.ink",
-        "points": 35,
-        "comments": 6,
+        "points": 90,
+        "comments": 34,
         "author": "varun_ch",
-        "age": "47m ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 47919997,
-        "title": "Pgbackrest is no longer being maintained",
-        "url": "https://github.com/pgbackrest/pgbackrest",
-        "discussion_url": "https://news.ycombinator.com/item?id=47919997",
-        "site": "github.com",
-        "points": 310,
-        "comments": 151,
-        "author": "c0l0",
-        "age": "5h ago"
+        "id": 47919630,
+        "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+        "url": "https://app.oravys.com/blog/mercor-breach-2026",
+        "discussion_url": "https://news.ycombinator.com/item?id=47919630",
+        "site": "app.oravys.com",
+        "points": 278,
+        "comments": 111,
+        "author": "Oravys",
+        "age": "8h ago"
       }
     ],
     "ask": [
@@ -724,25 +724,37 @@
         "url": "https://news.ycombinator.com/item?id=47906253",
         "discussion_url": "https://news.ycombinator.com/item?id=47906253",
         "site": "news.ycombinator.com",
-        "points": 561,
+        "points": 562,
         "comments": 184,
         "author": "_-x-_",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 47924285,
+        "title": "GitHub Copilot is moving to usage-based billing and retiring annual plans",
+        "url": "https://news.ycombinator.com/item?id=47924285",
+        "discussion_url": "https://news.ycombinator.com/item?id=47924285",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 1,
+        "author": "websku",
+        "age": "53m ago"
+      },
+      {
+        "rank": 3,
         "id": 47920020,
         "title": "Ask HN: What does your agentic software dark factory look like?",
         "url": "https://news.ycombinator.com/item?id=47920020",
         "discussion_url": "https://news.ycombinator.com/item?id=47920020",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 2,
+        "comments": 3,
         "author": "ElFitz",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 47919758,
         "title": "Ask HN: Is there a good CV review service for tech roles in Switzerland?",
         "url": "https://news.ycombinator.com/item?id=47919758",
@@ -751,31 +763,19 @@
         "points": 3,
         "comments": 0,
         "author": "swissdom",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 47919623,
         "title": "Ask HN: Can you tell the difference between Claude Sonnet and Opus?",
         "url": "https://news.ycombinator.com/item?id=47919623",
         "discussion_url": "https://news.ycombinator.com/item?id=47919623",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 6,
+        "comments": 7,
         "author": "muddi900",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47919089,
-        "title": "Ask HN: RedHat for Personal Use",
-        "url": "https://news.ycombinator.com/item?id=47919089",
-        "discussion_url": "https://news.ycombinator.com/item?id=47919089",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 4,
-        "author": "bozdemir",
-        "age": "7h ago"
+        "age": "8h ago"
       }
     ],
     "show": [
@@ -786,10 +786,10 @@
         "url": "https://github.com/dirac-run/dirac",
         "discussion_url": "https://news.ycombinator.com/item?id=47920787",
         "site": "github.com",
-        "points": 169,
-        "comments": 63,
+        "points": 218,
+        "comments": 77,
         "author": "GodelNumbering",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
@@ -798,10 +798,10 @@
         "url": "https://www.systalyze.com/utilyze",
         "discussion_url": "https://news.ycombinator.com/item?id=47921626",
         "site": "systalyze.com",
-        "points": 6,
-        "comments": 0,
+        "points": 29,
+        "comments": 6,
         "author": "ManyaGhobadi",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -810,34 +810,34 @@
         "url": "https://github.com/garritfra/cell",
         "discussion_url": "https://news.ycombinator.com/item?id=47920289",
         "site": "github.com",
-        "points": 46,
-        "comments": 22,
+        "points": 58,
+        "comments": 26,
         "author": "garritfra",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
+        "id": 47923695,
+        "title": "Show HN: Unusual Wikipedia",
+        "url": "https://unusualwiki.nk412.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47923695",
+        "site": "unusualwiki.nk412.com",
+        "points": 3,
+        "comments": 0,
+        "author": "grilledchickenw",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 47923382,
         "title": "Show HN: 2 weeks of coding, 3 months of OpenAI review, my ChatGPT App is live",
         "url": "https://news.ycombinator.com/item?id=47923382",
         "discussion_url": "https://news.ycombinator.com/item?id=47923382",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "author": "Aldipower",
-        "age": "14m ago"
-      },
-      {
-        "rank": 5,
-        "id": 47923359,
-        "title": "Show HN: Vibe-coding video games with Claude (Day 14: Tetris)",
-        "url": "https://gamevibe.us/14-tetromino",
-        "discussion_url": "https://news.ycombinator.com/item?id=47923359",
-        "site": "gamevibe.us",
-        "points": 2,
-        "comments": 0,
-        "author": "pzxc",
-        "age": "15m ago"
+        "age": "1h ago"
       }
     ]
   }
