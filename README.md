@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+This repo requires Node.js `>=20.9.0`.
+
+If you use `nvm`:
+
+```bash
+nvm install 20.9.0
+nvm use
+```
+
 First, run the development server:
 
 ```bash

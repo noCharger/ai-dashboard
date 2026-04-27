@@ -169,7 +169,7 @@ export const SOURCES: Record<string, SourceInfo> = {
   },
   hf_papers: {
     name: "Hugging Face Papers",
-    url: "https://huggingface.co/papers",
+    url: "https://huggingface.co/papers/trending",
     update_frequency: "hourly",
   },
   hacker_news: {

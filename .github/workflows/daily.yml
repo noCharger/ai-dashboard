@@ -24,6 +24,7 @@ jobs:
       - name: Run all scrapers (including benchmarks)
         env:
           AA_API_KEY: ${{ secrets.AA_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
           UPDATE_STRATEGY: strict
         run: python scripts/fetch_all.py
 

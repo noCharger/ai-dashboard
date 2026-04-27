@@ -81,23 +81,46 @@ def _fetch_leaderboard_page() -> list[dict]:
 
 
 def _extract_models_from_html(html: str) -> list[dict]:
-    """Pull the embedded model array out of the Next.js page payload."""
+    """Pull the detailed embedded model array out of the Next.js page payload."""
+    candidates: list[list[dict]] = []
+
     for marker in ('\\"models\\":[', '"models":['):
-        start = html.find(marker)
-        if start == -1:
-            continue
-        array_start = start + len(marker) - 1
-        fragment = _extract_json_array(html, array_start)
-        if not fragment:
-            continue
-        try:
-            if marker.startswith('\\"'):
-                decoded = json.loads(f'"{fragment}"')
-                return json.loads(decoded)
-            return json.loads(fragment)
-        except json.JSONDecodeError:
-            continue
-    return []
+        start = 0
+        while True:
+            idx = html.find(marker, start)
+            if idx == -1:
+                break
+            start = idx + 1
+
+            array_start = idx + len(marker) - 1
+            fragment = _extract_json_array(html, array_start)
+            if not fragment:
+                continue
+
+            try:
+                if marker.startswith('\\"'):
+                    decoded = json.loads(f'"{fragment}"')
+                    models = json.loads(decoded)
+                else:
+                    models = json.loads(fragment)
+            except json.JSONDecodeError:
+                continue
+
+            if (
+                isinstance(models, list)
+                and models
+                and isinstance(models[0], dict)
+            ):
+                candidates.append(models)
+
+    # Artificial Analysis embeds both a lightweight model directory and a
+    # detailed leaderboard payload. Prefer the latter when it exposes
+    # intelligence scores.
+    for models in candidates:
+        if any("intelligenceIndex" in model or "intelligence_index" in model for model in models):
+            return models
+
+    return candidates[0] if candidates else []
 
 
 def _extract_json_array(text: str, start: int) -> str | None:

@@ -2,97 +2,58 @@
 
 from __future__ import annotations
 
+import csv
 import logging
+from io import StringIO
+
 from .base import fetch_html
 
 logger = logging.getLogger(__name__)
 
 BFCL_URL = "https://gorilla.cs.berkeley.edu/leaderboard.html"
+BFCL_CSV_URL = "https://gorilla.cs.berkeley.edu/data_overall.csv"
 
 
 def fetch(limit: int = 5) -> list[dict]:
     """Return top models from BFCL leaderboard."""
     try:
-        return _scrape_leaderboard(limit)
+        return _fetch_csv(limit)
     except Exception as exc:
         logger.warning("BFCL scrape failed: %s", exc)
         return []
 
 
-def _scrape_leaderboard(limit: int) -> list[dict]:
-    """Scrape the BFCL leaderboard page."""
-    from bs4 import BeautifulSoup
-    import json
-    import re
-
-    html = fetch_html(BFCL_URL)
-    soup = BeautifulSoup(html, "lxml")
+def _fetch_csv(limit: int) -> list[dict]:
+    """Parse BFCL's published CSV rather than scraping the rendered table."""
+    csv_text = fetch_html(BFCL_CSV_URL)
+    rows = list(csv.DictReader(StringIO(csv_text)))
+    if not rows:
+        raise RuntimeError("BFCL CSV returned no rows")
 
     results = []
-
-    # BFCL embeds leaderboard data in JavaScript
-    for script in soup.find_all("script"):
-        text = script.get_text()
-        if "overall" in text.lower() and ("accuracy" in text.lower() or "score" in text.lower()):
-            # Try to find JSON data arrays
-            matches = re.findall(r'\[{[^]]+}\]', text)
-            for match_str in matches:
-                try:
-                    entries = json.loads(match_str)
-                    if entries and isinstance(entries[0], dict):
-                        # Look for accuracy-like fields
-                        score_key = None
-                        for key in ["overall_accuracy", "accuracy", "Overall Acc", "score"]:
-                            if key in entries[0]:
-                                score_key = key
-                                break
-                        if score_key:
-                            entries.sort(key=lambda x: float(x.get(score_key, 0)), reverse=True)
-                            for i, entry in enumerate(entries[:limit], start=1):
-                                name = entry.get("model", entry.get("Model", entry.get("name", "")))
-                                results.append({
-                                    "rank": i,
-                                    "name": name,
-                                    "org": _extract_org(name),
-                                    "score": round(float(entry.get(score_key, 0)) * 100, 1)
-                                           if float(entry.get(score_key, 0)) <= 1
-                                           else round(float(entry.get(score_key, 0)), 1),
-                                    "score_unit": "% accuracy",
-                                    "url": BFCL_URL,
-                                    "verified": True,
-                                })
-                            break
-                except (json.JSONDecodeError, KeyError, TypeError):
-                    continue
-        if results:
-            break
-
-    # Fallback: try parsing HTML tables
-    if not results:
-        tables = soup.find_all("table")
-        for table in tables:
-            rows = table.find_all("tr")
-            for i, row in enumerate(rows[1:limit + 1], start=1):
-                cells = row.find_all("td")
-                if len(cells) >= 2:
-                    name = cells[0].get_text(strip=True)
-                    score_text = cells[-1].get_text(strip=True).replace("%", "")
-                    try:
-                        score = float(score_text)
-                    except ValueError:
-                        score = 0.0
-                    results.append({
-                        "rank": i,
-                        "name": name,
-                        "org": _extract_org(name),
-                        "score": score,
-                        "score_unit": "% accuracy",
-                        "url": BFCL_URL,
-                        "verified": True,
-                    })
+    for rank, row in enumerate(rows[:limit], start=1):
+        score = _parse_percent(row.get("Overall Acc", "0"))
+        results.append({
+            "rank": rank,
+            "name": row.get("Model", ""),
+            "org": row.get("Organization", "") or _extract_org(row.get("Model", "")),
+            "score": score,
+            "score_unit": "% accuracy",
+            "url": row.get("Model Link") or BFCL_URL,
+            "verified": True,
+        })
 
     logger.info("Fetched %d entries from BFCL", len(results))
     return results
+
+
+def _parse_percent(value: str) -> float:
+    """Convert a BFCL percentage string like '77.47%' into a float."""
+    raw = str(value).strip().replace("%", "")
+    try:
+        return round(float(raw), 2)
+    except ValueError:
+        return 0.0
 
 
 def _extract_org(name: str) -> str:

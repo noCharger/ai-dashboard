@@ -23,6 +23,7 @@ from scripts.scrapers import (
     gaia,
     swebench,
     bfcl,
+    frameworks,
 )
 from scripts.scrapers.base import DATA_DIR
 
@@ -413,6 +414,13 @@ def _same_section(previous_payload: dict | None, new_payload: dict, key: str) ->
     return previous_payload.get(key) == new_payload.get(key)
 
 
+def _same_sections(previous_payload: dict | None, new_payload: dict, keys: list[str]) -> bool:
+    """Return True when every named top-level section matches exactly."""
+    if not isinstance(previous_payload, dict):
+        return False
+    return all(previous_payload.get(key) == new_payload.get(key) for key in keys)
+
+
 def main() -> int:
     previous = _load_previous()
 
@@ -429,7 +437,8 @@ def main() -> int:
     repos_daily = _safe_fetch("GitHub Trending (daily)", github_trending.fetch_daily, TOP_N)
     repos_weekly = _safe_fetch("GitHub Trending (weekly)", github_trending.fetch_weekly, TOP_N)
     repos_monthly = _safe_fetch("GitHub Trending (monthly)", github_trending.fetch_monthly, TOP_N)
-    framework_rankings = _fallback(["repos", "frameworks"], previous, [])
+    framework_rankings = _safe_fetch("OSSInsight Frameworks", frameworks.fetch, TOP_N)
+    framework_rankings = _fallback(["repos", "frameworks"], previous, framework_rankings)
     if not framework_rankings:
         framework_rankings = FRAMEWORKS_SEED
 
@@ -482,12 +491,12 @@ def main() -> int:
             logger.info("No content changes detected; dashboard.json not updated")
             return 0
     else:
-        # Hourly mode: keep noise low for rankings, but still write when paper content changes.
+        # Hourly mode: track exact leaderboard payload changes, plus paper refreshes.
         if (
-            _same_relative_positions(previous_payload, dashboard_payload)
+            _same_sections(previous_payload, dashboard_payload, ["models", "agents", "repos"])
             and _same_section(previous_payload, dashboard_payload, "papers")
         ):
-            logger.info("No relative ranking changes detected; dashboard.json not updated")
+            logger.info("No leaderboard content changes detected; dashboard.json not updated")
             return 0
 
     dashboard = {

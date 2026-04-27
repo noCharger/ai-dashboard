@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-27T07:33:14Z",
+  "generated": "2026-04-27T08:15:58Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 2799,
-        "downloads": 123431,
-        "likes": 2935,
+        "trending_score": 2805,
+        "downloads": 137784,
+        "likes": 2942,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K2.6",
         "org": "moonshotai",
-        "trending_score": 1028,
-        "downloads": 376485,
-        "likes": 1070,
+        "trending_score": 1031,
+        "downloads": 443440,
+        "likes": 1073,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -41,7 +41,7 @@
         "name": "openai/privacy-filter",
         "org": "openai",
         "trending_score": 852,
-        "downloads": 35807,
+        "downloads": 47488,
         "likes": 875,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
@@ -58,7 +58,7 @@
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
         "trending_score": 852,
-        "downloads": 329571,
+        "downloads": 399489,
         "likes": 874,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
@@ -75,7 +75,7 @@
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
         "trending_score": 739,
-        "downloads": 45986,
+        "downloads": 65743,
         "likes": 753,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
@@ -91,58 +91,58 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "gpt-oss-120B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b-low"
+        "name": "GPT-5.5 (xhigh)",
+        "org": "OpenAI",
+        "intelligence_index": 60.24,
+        "price_input": 5,
+        "price_output": 30,
+        "speed_tps": 71.993953105003,
+        "context_window": 922000,
+        "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
       {
         "rank": 2,
-        "name": "gpt-oss-120B (high)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-120b"
+        "name": "GPT-5.5 (high)",
+        "org": "OpenAI",
+        "intelligence_index": 58.87,
+        "price_input": 5,
+        "price_output": 30,
+        "speed_tps": 75.865664964684,
+        "context_window": 922000,
+        "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
       {
         "rank": 3,
-        "name": "gpt-oss-20B (low)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-oss-20b-low"
+        "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
+        "org": "Anthropic",
+        "intelligence_index": 57.28,
+        "price_input": 5,
+        "price_output": 25,
+        "speed_tps": 47.7004842794954,
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
       {
         "rank": 4,
-        "name": "o3",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/o3"
+        "name": "Gemini 3.1 Pro Preview",
+        "org": "Google",
+        "intelligence_index": 57.18,
+        "price_input": 2,
+        "price_output": 12,
+        "speed_tps": 115.532127381368,
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
       {
         "rank": 5,
-        "name": "GPT-5.4 mini (medium)",
-        "org": "",
-        "intelligence_index": 0.0,
-        "price_input": null,
-        "price_output": null,
-        "speed_tps": null,
-        "context_window": null,
-        "url": "https://artificialanalysis.ai/models/gpt-5-4-mini-medium"
+        "name": "GPT-5.4 (xhigh)",
+        "org": "OpenAI",
+        "intelligence_index": 56.8,
+        "price_input": 2.5,
+        "price_output": 15,
+        "speed_tps": 80.3213996122892,
+        "context_window": 1050000,
+        "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
     ]
   },
@@ -150,142 +150,142 @@
     "general": [
       {
         "rank": 1,
-        "name": "SU AI Zero",
-        "org": "Suzhou AI Lab",
-        "score": 76.41,
+        "name": "OPS-Agentic-Search",
+        "org": "Alibaba Cloud",
+        "score": 92.36,
+        "score_unit": "%",
+        "url": "https://www.alibabacloud.com/en/product/opensearch?_p_lc=1",
+        "verified": true
+      },
+      {
+        "rank": 2,
+        "name": "openJiuwen-deepagent",
+        "org": "openJiuwen",
+        "score": 91.69,
+        "score_unit": "%",
+        "url": "https://gitcode.com/openJiuwen/agent-store/tree/main/community/deepagent",
+        "verified": true
+      },
+      {
+        "rank": 3,
+        "name": "Lemon",
+        "org": "LR AILab of Lenovo CTO Org",
+        "score": 91.36,
+        "score_unit": "%",
+        "url": "https://github.com/Open-Lemon/LemonAgent",
+        "verified": true
+      },
+      {
+        "rank": 4,
+        "name": "JoinAI_V2.2",
+        "org": "JoinAI-CMCC",
+        "score": 90.7,
         "score_unit": "%",
         "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       },
       {
-        "rank": 2,
-        "name": "h2oGPTe Agent v1.6.27 | March 17 original date",
-        "org": "h2o.ai",
-        "score": 74.75,
-        "score_unit": "%",
-        "url": "https://h2ogpte.genai.h2o.ai/",
-        "verified": true
-      },
-      {
-        "rank": 3,
-        "name": "Trase Agent v0.3",
-        "org": "Trase Systems",
-        "score": 66.78,
-        "score_unit": "%",
-        "url": "https://trasesystems.com",
-        "verified": true
-      },
-      {
-        "rank": 4,
-        "name": "h2oGPTe Agent v1.6.8",
-        "org": "h2o.ai",
-        "score": 65.12,
-        "score_unit": "%",
-        "url": "https://h2ogpte.genai.h2o.ai/",
-        "verified": true
-      },
-      {
         "rank": 5,
-        "name": "Anges",
-        "org": "Anges.AI",
-        "score": 56.48,
+        "name": "Nemotron-ToolOrchestra-0106",
+        "org": "NVIDIA",
+        "score": 90.37,
         "score_unit": "%",
-        "url": "anges.ai",
+        "url": "https://research.nvidia.com/labs/lpr/ToolOrchestra/",
         "verified": true
       }
     ],
     "coding": [
       {
         "rank": 1,
-        "name": "Claude 4.5 Opus (high reasoning)",
-        "org": "Anthropic",
-        "score": 76.8,
+        "name": "live-SWE-agent + Claude 4.5 Opus medium (20251101)",
+        "org": "UIUC",
+        "score": 79.2,
         "score_unit": "% resolved",
-        "url": "https://www.swebench.com/verified.html",
-        "verified": true
+        "url": "https://github.com/OpenAutoCoder/live-swe-agent",
+        "verified": false
       },
       {
         "rank": 2,
-        "name": "Gemini 3 Flash (high reasoning)",
-        "org": "Google",
-        "score": 75.8,
+        "name": "Sonar Foundation Agent + Claude 4.5 Opus",
+        "org": "Sonar",
+        "score": 79.2,
         "score_unit": "% resolved",
-        "url": "https://www.swebench.com/verified.html",
-        "verified": true
+        "url": "https://www.sonarsource.com",
+        "verified": false
       },
       {
         "rank": 3,
-        "name": "OpenAI o3",
-        "org": "OpenAI",
-        "score": 69.1,
+        "name": "TRAE + Doubao-Seed-Code",
+        "org": "ByteDance",
+        "score": 78.8,
         "score_unit": "% resolved",
-        "url": "https://www.swebench.com/verified.html",
-        "verified": true
+        "url": "https://github.com/bytedance/trae-agent",
+        "verified": false
       },
       {
         "rank": 4,
-        "name": "Devstral Small",
-        "org": "Mistral AI",
-        "score": 64.8,
+        "name": "live-SWE-agent + Gemini 3 Pro Preview (2025-11-18)",
+        "org": "UIUC",
+        "score": 77.4,
         "score_unit": "% resolved",
-        "url": "https://www.swebench.com/verified.html",
+        "url": "https://github.com/OpenAutoCoder/live-swe-agent",
         "verified": true
       },
       {
         "rank": 5,
-        "name": "Amazon Nova Agent",
-        "org": "Amazon",
-        "score": 61.5,
+        "name": "Atlassian Rovo Dev (2025-09-02)",
+        "org": "Atlassian",
+        "score": 76.8,
         "score_unit": "% resolved",
-        "url": "https://www.swebench.com/verified.html",
+        "url": "https://www.atlassian.com/rovo-dev",
         "verified": false
       }
     ],
     "tool_use": [
       {
         "rank": 1,
-        "name": "Claude 4.6 Opus",
+        "name": "Claude-Opus-4-5-20251101 (FC)",
         "org": "Anthropic",
-        "score": 92.4,
+        "score": 77.47,
         "score_unit": "% accuracy",
-        "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
+        "url": "https://www.anthropic.com/news/claude-4",
         "verified": true
       },
       {
         "rank": 2,
-        "name": "GPT-4.1",
-        "org": "OpenAI",
-        "score": 90.7,
+        "name": "Claude-Sonnet-4-5-20250929 (FC)",
+        "org": "Anthropic",
+        "score": 73.24,
         "score_unit": "% accuracy",
-        "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
+        "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
         "verified": true
       },
       {
         "rank": 3,
-        "name": "Gemini 3.1 Pro",
+        "name": "Gemini-3-Pro-Preview (Prompt)",
         "org": "Google",
-        "score": 88.9,
+        "score": 72.51,
         "score_unit": "% accuracy",
-        "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
+        "url": "https://deepmind.google/technologies/gemini/pro/",
         "verified": true
       },
       {
         "rank": 4,
-        "name": "Grok 4.20",
-        "org": "xAI",
-        "score": 85.3,
+        "name": "GLM-4.6 (FC thinking)",
+        "org": "Zhipu AI",
+        "score": 72.38,
         "score_unit": "% accuracy",
-        "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
-        "verified": false
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "verified": true
       },
       {
         "rank": 5,
-        "name": "Llama 4 Maverick",
-        "org": "Meta",
-        "score": 81.6,
+        "name": "Grok-4-1-fast-reasoning (FC)",
+        "org": "xAI",
+        "score": 69.57,
         "score_unit": "% accuracy",
-        "url": "https://gorilla.cs.berkeley.edu/leaderboard.html",
-        "verified": false
+        "url": "https://docs.x.ai/docs/models",
+        "verified": true
       }
     ]
   },
@@ -296,7 +296,7 @@
         "name": "mattpocock/skills",
         "description": "Agent Skills for real engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 25511,
+        "stars": 25718,
         "stars_delta": 2519,
         "language": "Shell",
         "language_color": "#89e051"
@@ -306,7 +306,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 14584,
+        "stars": 14697,
         "stars_delta": 1701,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 66065,
+        "stars": 66131,
         "stars_delta": 1720,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 30484,
+        "stars": 30530,
         "stars_delta": 700,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "PostHog/posthog",
         "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
         "url": "https://github.com/PostHog/posthog",
-        "stars": 33986,
+        "stars": 34008,
         "stars_delta": 337,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 14584,
+        "stars": 14698,
         "stars_delta": 10335,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 15784,
+        "stars": 15802,
         "stars_delta": 10070,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 91843,
+        "stars": 91970,
         "stars_delta": 29944,
         "language": "",
         "language_color": "#586069"
@@ -378,7 +378,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 9700,
+        "stars": 9705,
         "stars_delta": 3537,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "thunderbird/thunderbolt",
         "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
         "url": "https://github.com/thunderbird/thunderbolt",
-        "stars": 4212,
+        "stars": 4218,
         "stars_delta": 2244,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 91843,
+        "stars": 91970,
         "stars_delta": 82118,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 119154,
+        "stars": 119249,
         "stars_delta": 104773,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26194,
+        "stars": 26202,
         "stars_delta": 23592,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "luongnv89/claude-howto",
         "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
         "url": "https://github.com/luongnv89/claude-howto",
-        "stars": 29277,
+        "stars": 29291,
         "stars_delta": 27992,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 21693,
+        "stars": 21695,
         "stars_delta": 10363,
         "language": "Python",
         "language_color": "#3572A5"
@@ -449,56 +449,56 @@
     "frameworks": [
       {
         "rank": 1,
-        "name": "langchain-ai/langchain",
-        "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 692,
-        "total_stars": 123177,
-        "description": "Build LLM applications with composable chains, retrieval, tools, and agent patterns.",
-        "category": "General Agent Stack",
+        "name": "openai/openai-agents-python",
+        "url": "https://github.com/openai/openai-agents-python",
+        "stars_28d": 882,
+        "total_stars": 14714,
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "category": "Agent SDK",
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "crewAIInc/crewAI",
-        "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 433,
-        "total_stars": 36911,
-        "description": "Role-based multi-agent orchestration focused on collaborative execution workflows.",
-        "category": "Multi-Agent Orchestration",
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "stars_28d": 638,
+        "total_stars": 116395,
+        "description": "The agent engineering platform",
+        "category": "General Agent Stack",
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "FoundationAgents/MetaGPT",
-        "url": "https://github.com/FoundationAgents/MetaGPT",
-        "stars_28d": 329,
-        "total_stars": 57874,
-        "description": "Software-company style multi-agent framework for autonomous task decomposition.",
-        "category": "Agent Team Simulation",
+        "name": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "stars_28d": 452,
+        "total_stars": 37371,
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "category": "Multi-Agent Orchestration",
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "microsoft/autogen",
-        "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 264,
-        "total_stars": 50001,
-        "description": "Programming framework for multi-agent conversational systems and tool-enabled workflows.",
-        "category": "Conversational Agents",
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "VoltAgent/voltagent",
+        "url": "https://github.com/VoltAgent/voltagent",
+        "stars_28d": 255,
+        "total_stars": 3964,
+        "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+        "category": "TypeScript Agent Framework",
+        "language": "TypeScript",
+        "language_color": "#3178C6"
       },
       {
         "rank": 5,
-        "name": "Significant-Gravitas/AutoGPT",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 203,
-        "total_stars": 174783,
-        "description": "Classic autonomous-agent project with a broad plugin ecosystem and community variants.",
-        "category": "Autonomous Agent Platform",
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
+        "stars_28d": 214,
+        "total_stars": 48113,
+        "description": "A programming framework for agentic AI",
+        "category": "Conversational Agents",
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -508,68 +508,68 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
+        "title": "VibeVoice Technical Report",
         "authors": [
-          "Yueyang Ding",
-          "HaoPeng Zhang",
-          "Rui Dai"
+          "Zhiliang Peng",
+          "Jianwei Yu",
+          "Wenhui Wang"
         ],
-        "url": "https://huggingface.co/papers/2604.17295",
+        "url": "https://huggingface.co/papers/2508.19205",
         "categories": [],
-        "upvotes": 83,
-        "published": "2026-04-18"
+        "upvotes": 165,
+        "published": "2025-08-26"
       },
       {
         "rank": 2,
-        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+        "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
         "authors": [
-          "Meng Chu",
-          "Xuan Billy Zhang",
-          "Kevin Qinghong Lin"
+          "Jiaqing Liang",
+          "Jinyi Han",
+          "Weijia Li"
         ],
-        "url": "https://huggingface.co/papers/2604.22748",
+        "url": "https://huggingface.co/papers/2604.17091",
         "categories": [],
-        "upvotes": 54,
-        "published": "2026-04-23"
+        "upvotes": 11,
+        "published": "2026-04-17"
       },
       {
         "rank": 3,
-        "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+        "title": "Kronos: A Foundation Model for the Language of Financial Markets",
         "authors": [
-          "Xiaojie Xu",
-          "Zhengyuan Lin",
-          "Kang He"
+          "Yu Shi",
+          "Zongliang Fu",
+          "Shuo Chen"
         ],
-        "url": "https://huggingface.co/papers/2604.21686",
+        "url": "https://huggingface.co/papers/2508.02739",
         "categories": [],
-        "upvotes": 35,
-        "published": "2026-04-22"
+        "upvotes": 27,
+        "published": "2025-08-02"
       },
       {
         "rank": 4,
-        "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+        "title": "RAG-Anything: All-in-One RAG Framework",
         "authors": [
-          "Boyu Chen",
-          "Yi Chen",
-          "Lu Qiu"
+          "Zirui Guo",
+          "Xubin Ren",
+          "Lingrui Xu"
         ],
-        "url": "https://huggingface.co/papers/2604.19734",
+        "url": "https://huggingface.co/papers/2510.12323",
         "categories": [],
-        "upvotes": 27,
-        "published": "2026-04-20"
+        "upvotes": 78,
+        "published": "2025-10-14"
       },
       {
         "rank": 5,
-        "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
+        "title": "Geometric Context Transformer for Streaming 3D Reconstruction",
         "authors": [
-          "Kanzhi Cheng",
-          "Zehao Li",
-          "Zheng Ma"
+          "Lin-Zhuo Chen",
+          "Jian Gao",
+          "Yihang Chen"
         ],
-        "url": "https://huggingface.co/papers/2604.15093",
+        "url": "https://huggingface.co/papers/2604.14141",
         "categories": [],
-        "upvotes": 27,
-        "published": "2026-04-15"
+        "upvotes": 18,
+        "published": "2026-04-14"
       }
     ],
     "arxiv_recent": [
@@ -662,8 +662,8 @@
         "url": "https://flipdisc.io",
         "discussion_url": "https://news.ycombinator.com/item?id=47875795",
         "site": "flipdisc.io",
-        "points": 167,
-        "comments": 27,
+        "points": 184,
+        "comments": 31,
         "author": "skogstokig",
         "age": "3d ago"
       },
@@ -674,10 +674,10 @@
         "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
         "discussion_url": "https://news.ycombinator.com/item?id=47914165",
         "site": "ca98am79.medium.com",
-        "points": 699,
-        "comments": 370,
+        "points": 715,
+        "comments": 377,
         "author": "ca98am79",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
         "rank": 3,
@@ -686,34 +686,34 @@
         "url": "https://arkaung.github.io/interactive-turboquant/",
         "discussion_url": "https://news.ycombinator.com/item?id=47916890",
         "site": "arkaung.github.io",
-        "points": 110,
-        "comments": 13,
+        "points": 117,
+        "comments": 15,
         "author": "kweezar",
         "age": "5h ago"
       },
       {
         "rank": 4,
-        "id": 47913650,
-        "title": "AI should elevate your thinking, not replace it",
-        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47913650",
-        "site": "koshyjohn.com",
-        "points": 433,
-        "comments": 321,
-        "author": "koshyjohn",
-        "age": "11h ago"
-      },
-      {
-        "rank": 5,
         "id": 47908051,
         "title": "Self-updating screenshots",
         "url": "https://interblah.net/self-updating-screenshots",
         "discussion_url": "https://news.ycombinator.com/item?id=47908051",
         "site": "interblah.net",
-        "points": 243,
+        "points": 253,
         "comments": 36,
         "author": "bjhess",
         "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 47913650,
+        "title": "AI should elevate your thinking, not replace it",
+        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47913650",
+        "site": "koshyjohn.com",
+        "points": 443,
+        "comments": 325,
+        "author": "koshyjohn",
+        "age": "11h ago"
       }
     ],
     "ask": [
@@ -724,7 +724,7 @@
         "url": "https://news.ycombinator.com/item?id=47906253",
         "discussion_url": "https://news.ycombinator.com/item?id=47906253",
         "site": "news.ycombinator.com",
-        "points": 542,
+        "points": 543,
         "comments": 183,
         "author": "_-x-_",
         "age": "1d ago"
@@ -761,7 +761,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47910597",
         "site": "news.ycombinator.com",
         "points": 18,
-        "comments": 7,
+        "comments": 8,
         "author": "speeder",
         "age": "17h ago"
       },
@@ -773,7 +773,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47902507",
         "site": "news.ycombinator.com",
         "points": 16,
-        "comments": 22,
+        "comments": 23,
         "author": "dwa3592",
         "age": "1d ago"
       }
@@ -786,13 +786,25 @@
         "url": "https://thermodynamicsbook.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=47911013",
         "site": "thermodynamicsbook.com",
-        "points": 132,
+        "points": 134,
         "comments": 34,
         "author": "2DcAf",
         "age": "16h ago"
       },
       {
         "rank": 2,
+        "id": 47916769,
+        "title": "Show HN: The Unix Magic poster, annotated (updated)",
+        "url": "https://github.com/drio/unixmagic",
+        "discussion_url": "https://news.ycombinator.com/item?id=47916769",
+        "site": "github.com",
+        "points": 30,
+        "comments": 1,
+        "author": "drio",
+        "age": "6h ago"
+      },
+      {
+        "rank": 3,
         "id": 47876071,
         "title": "Show HN: Turning a Gaussian Splat into a videogame",
         "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
@@ -804,18 +816,6 @@
         "age": "3d ago"
       },
       {
-        "rank": 3,
-        "id": 47916769,
-        "title": "Show HN: The Unix Magic poster, annotated (updated)",
-        "url": "https://github.com/drio/unixmagic",
-        "discussion_url": "https://news.ycombinator.com/item?id=47916769",
-        "site": "github.com",
-        "points": 29,
-        "comments": 1,
-        "author": "drio",
-        "age": "6h ago"
-      },
-      {
         "rank": 4,
         "id": 47914369,
         "title": "Show HN: Tiao, A two-player turn-based board game",
@@ -823,7 +823,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47914369",
         "site": "playtiao.com",
         "points": 43,
-        "comments": 18,
+        "comments": 19,
         "author": "trebeljahr",
         "age": "10h ago"
       },
