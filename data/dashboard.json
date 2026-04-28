@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-28T15:15:25Z",
+  "generated": "2026-04-28T17:28:40Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 2953,
+        "trending_score": 2963,
         "downloads": 174402,
-        "likes": 3107,
+        "likes": 3120,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 967,
+        "trending_score": 969,
         "downloads": 57743,
-        "likes": 997,
+        "likes": 999,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 917,
+        "trending_score": 921,
         "downloads": 508728,
-        "likes": 949,
+        "likes": 954,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
-        "trending_score": 786,
+        "trending_score": 790,
         "downloads": 96948,
-        "likes": 809,
+        "likes": 813,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "moonshotai/Kimi-K2.6",
-        "org": "moonshotai",
-        "trending_score": 462,
-        "downloads": 489001,
-        "likes": 1122,
-        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+        "name": "unsloth/Qwen3.6-27B-GGUF",
+        "org": "unsloth",
+        "trending_score": 446,
+        "downloads": 702161,
+        "likes": 474,
+        "url": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
         "tags": [
           "transformers",
-          "safetensors",
-          "kimi_k25",
-          "feature-extraction",
-          "compressed-tensors"
+          "gguf",
+          "unsloth",
+          "qwen",
+          "qwen3_5"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 35322,
+        "stars": 35955,
         "stars_delta": 7429,
         "language": "Shell",
         "language_color": "#89e051"
@@ -306,7 +306,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 32410,
+        "stars": 32484,
         "stars_delta": 1565,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 3442,
+        "stars": 3810,
         "stars_delta": 961,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "microsoft/VibeVoice",
         "description": "Open-Source Frontier Voice AI",
         "url": "https://github.com/microsoft/VibeVoice",
-        "stars": 44141,
+        "stars": 44376,
         "stars_delta": 1523,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "davila7/claude-code-templates",
         "description": "CLI tool for configuring and monitoring Claude Code",
         "url": "https://github.com/davila7/claude-code-templates",
-        "stars": 26025,
+        "stars": 26058,
         "stars_delta": 347,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 17098,
+        "stars": 17237,
         "stars_delta": 13415,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 35322,
+        "stars": 35955,
         "stars_delta": 10757,
         "language": "Shell",
         "language_color": "#89e051"
@@ -368,7 +368,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 67789,
+        "stars": 67850,
         "stars_delta": 8378,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 96191,
+        "stars": 96439,
         "stars_delta": 28522,
         "language": "",
         "language_color": "#586069"
@@ -388,7 +388,7 @@
         "name": "zilliztech/claude-context",
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "url": "https://github.com/zilliztech/claude-context",
-        "stars": 10038,
+        "stars": 10056,
         "stars_delta": 3725,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 96191,
+        "stars": 96439,
         "stars_delta": 85629,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 122266,
+        "stars": 122480,
         "stars_delta": 106290,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26586,
+        "stars": 26607,
         "stars_delta": 23773,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 17098,
+        "stars": 17237,
         "stars_delta": 14253,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 21853,
+        "stars": 21862,
         "stars_delta": 10523,
         "language": "Python",
         "language_color": "#3572A5"
@@ -568,7 +568,7 @@
         ],
         "url": "https://huggingface.co/papers/2604.24764",
         "categories": [],
-        "upvotes": 86,
+        "upvotes": 91,
         "published": "2026-04-26"
       }
     ],
@@ -655,68 +655,80 @@
     "top": [
       {
         "rank": 1,
+        "id": 47936347,
+        "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+        "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+        "discussion_url": "https://news.ycombinator.com/item?id=47936347",
+        "site": "aisle.com",
+        "points": 77,
+        "comments": 56,
+        "author": "mmsc",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 47933208,
         "title": "Localsend: An open-source cross-platform alternative to AirDrop",
         "url": "https://github.com/localsend/localsend",
         "discussion_url": "https://news.ycombinator.com/item?id=47933208",
         "site": "github.com",
-        "points": 330,
-        "comments": 135,
+        "points": 501,
+        "comments": 172,
         "author": "bilsbie",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 47933236,
         "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
         "url": "https://github.com/microsoft/VibeVoice",
         "discussion_url": "https://news.ycombinator.com/item?id=47933236",
         "site": "github.com",
-        "points": 140,
-        "comments": 94,
+        "points": 215,
+        "comments": 136,
         "author": "tosh",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 47934261,
-        "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-        "url": "https://www.lumara-space.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47934261",
-        "site": "lumara-space.app",
-        "points": 40,
-        "comments": 9,
-        "author": "beeswaxpat",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 4,
-        "id": 47934269,
-        "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
-        "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47934269",
-        "site": "vice.com",
-        "points": 135,
-        "comments": 52,
-        "author": "BoggleOhYeah",
+        "id": 47936156,
+        "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+        "discussion_url": "https://news.ycombinator.com/item?id=47936156",
+        "site": "theverge.com",
+        "points": 133,
+        "comments": 108,
+        "author": "granzymes",
         "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 47915023,
-        "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
-        "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=47915023",
-        "site": "phys.org",
-        "points": 24,
+        "id": 47936511,
+        "title": "Laguna XS.2 and M.1",
+        "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
+        "discussion_url": "https://news.ycombinator.com/item?id=47936511",
+        "site": "poolside.ai",
+        "points": 30,
         "comments": 8,
-        "author": "rbanffy",
-        "age": "1d ago"
+        "author": "tosh",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 47936579,
+        "title": "Ask HN: Is it just me or is Claude Code getting worst?",
+        "url": "https://news.ycombinator.com/item?id=47936579",
+        "discussion_url": "https://news.ycombinator.com/item?id=47936579",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 6,
+        "author": "e-nouri",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 47906253,
         "title": "Tell HN: An app is silently installing itself on my iPhone every day",
         "url": "https://news.ycombinator.com/item?id=47906253",
@@ -728,52 +740,40 @@
         "age": "2d ago"
       },
       {
-        "rank": 2,
-        "id": 47931342,
-        "title": "Ask HN: When might we not have to do laundry or fold clothes or cook",
-        "url": "https://news.ycombinator.com/item?id=47931342",
-        "discussion_url": "https://news.ycombinator.com/item?id=47931342",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 9,
-        "author": "samarthv",
-        "age": "7h ago"
-      },
-      {
         "rank": 3,
         "id": 47927607,
         "title": "Tell HN: One Medical Is a Nightmare",
         "url": "https://news.ycombinator.com/item?id=47927607",
         "discussion_url": "https://news.ycombinator.com/item?id=47927607",
         "site": "news.ycombinator.com",
-        "points": 17,
+        "points": 19,
         "comments": 4,
         "author": "rincebrain",
-        "age": "17h ago"
+        "age": "19h ago"
       },
       {
         "rank": 4,
+        "id": 47931342,
+        "title": "Ask HN: When might we not have to do laundry or fold clothes or cook",
+        "url": "https://news.ycombinator.com/item?id=47931342",
+        "discussion_url": "https://news.ycombinator.com/item?id=47931342",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 13,
+        "author": "samarthv",
+        "age": "10h ago"
+      },
+      {
+        "rank": 5,
         "id": 47928683,
         "title": "Ask HN: What Makes AI a Bubble?",
         "url": "https://news.ycombinator.com/item?id=47928683",
         "discussion_url": "https://news.ycombinator.com/item?id=47928683",
         "site": "news.ycombinator.com",
-        "points": 16,
-        "comments": 33,
+        "points": 17,
+        "comments": 36,
         "author": "atleastoptimal",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47933662,
-        "title": "Ask HN: Will there be global famine soon?",
-        "url": "https://news.ycombinator.com/item?id=47933662",
-        "discussion_url": "https://news.ycombinator.com/item?id=47933662",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 3,
-        "author": "roschdal",
-        "age": "2h ago"
+        "age": "17h ago"
       }
     ],
     "show": [
@@ -784,13 +784,37 @@
         "url": "https://www.lumara-space.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=47934261",
         "site": "lumara-space.app",
-        "points": 40,
-        "comments": 9,
+        "points": 92,
+        "comments": 21,
         "author": "beeswaxpat",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
+        "id": 47936757,
+        "title": "Show HN: Ragnerock, an AI data analysis tool",
+        "url": "https://www.ragnerock.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=47936757",
+        "site": "ragnerock.com",
+        "points": 3,
+        "comments": 1,
+        "author": "mmahowald27",
+        "age": "54m ago"
+      },
+      {
+        "rank": 3,
+        "id": 47935773,
+        "title": "Show HN: SyncVibe – Code with friends in the terminal, each with your own AI",
+        "url": "https://syncvibe.online/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47935773",
+        "site": "syncvibe.online",
+        "points": 7,
+        "comments": 2,
+        "author": "curious1008",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 47935404,
         "title": "Show HN: VoiceGoat – A vulnerable voice agent for practicing LLM attacks",
         "url": "https://github.com/redcaller/voice-goat",
@@ -799,42 +823,18 @@
         "points": 5,
         "comments": 1,
         "author": "xmhatx",
-        "age": "27m ago"
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 47934926,
         "title": "Show HN: How much of the Linux kernel is written by AI?",
         "url": "https://assisted-by.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=47934926",
         "site": "assisted-by.dev",
-        "points": 3,
+        "points": 4,
         "comments": 2,
         "author": "snek14",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 47920787,
-        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-        "url": "https://github.com/dirac-run/dirac",
-        "discussion_url": "https://news.ycombinator.com/item?id=47920787",
-        "site": "github.com",
-        "points": 355,
-        "comments": 132,
-        "author": "GodelNumbering",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 47932974,
-        "title": "Show HN: I wrote a DOOM clone in my own programming language",
-        "url": "https://spectrelang.org/log/devlog#cubedoom",
-        "discussion_url": "https://news.ycombinator.com/item?id=47932974",
-        "site": "spectrelang.org",
-        "points": 3,
-        "comments": 1,
-        "author": "pizza_man",
         "age": "3h ago"
       }
     ]
