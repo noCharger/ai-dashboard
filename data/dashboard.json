@@ -1,43 +1,26 @@
 {
-  "generated": "2026-04-29T20:50:35Z",
+  "generated": "2026-04-29T21:50:41Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 3058,
+        "trending_score": 3062,
         "downloads": 174402,
-        "likes": 3229,
+        "likes": 3233,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
           "safetensors",
           "deepseek_v4",
           "text-generation",
-          "license:mit"
+          "conversational"
         ],
         "rank_change": null
       },
       {
         "rank": 2,
-        "name": "openai/privacy-filter",
-        "org": "openai",
-        "trending_score": 843,
-        "downloads": 57743,
-        "likes": 1088,
-        "url": "https://huggingface.co/openai/privacy-filter",
-        "tags": [
-          "transformers",
-          "onnx",
-          "safetensors",
-          "openai_privacy_filter",
-          "token-classification"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
         "trending_score": 826,
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "openai/privacy-filter",
+        "org": "openai",
+        "trending_score": 818,
+        "downloads": 57743,
+        "likes": 1090,
+        "url": "https://huggingface.co/openai/privacy-filter",
+        "tags": [
+          "transformers",
+          "onnx",
+          "safetensors",
+          "openai_privacy_filter",
+          "token-classification"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 601,
+        "trending_score": 591,
         "downloads": 508728,
-        "likes": 996,
+        "likes": 997,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -76,7 +76,7 @@
         "org": "moonshotai",
         "trending_score": 310,
         "downloads": 489001,
-        "likes": 1148,
+        "likes": 1149,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
@@ -296,7 +296,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 42937,
+        "stars": 43169,
         "stars_delta": 11955,
         "language": "Rust",
         "language_color": "#dea584"
@@ -306,7 +306,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 43565,
+        "stars": 43851,
         "stars_delta": 7356,
         "language": "Shell",
         "language_color": "#89e051"
@@ -316,7 +316,7 @@
         "name": "HunxByts/GhostTrack",
         "description": "Useful tool to track location or mobile number",
         "url": "https://github.com/HunxByts/GhostTrack",
-        "stars": 11494,
+        "stars": 11516,
         "stars_delta": 1036,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 4710,
+        "stars": 4726,
         "stars_delta": 1180,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "1jehuang/jcode",
         "description": "Coding Agent Harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 1287,
+        "stars": 1301,
         "stars_delta": 386,
         "language": "Rust",
         "language_color": "#dea584"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 18473,
+        "stars": 18499,
         "stars_delta": 15110,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "huggingface/ml-intern",
         "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "url": "https://github.com/huggingface/ml-intern",
-        "stars": 7421,
+        "stars": 7432,
         "stars_delta": 6441,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 43565,
+        "stars": 43851,
         "stars_delta": 18218,
         "language": "Shell",
         "language_color": "#89e051"
@@ -378,7 +378,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 68605,
+        "stars": 68628,
         "stars_delta": 9252,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 99350,
+        "stars": 99403,
         "stars_delta": 25836,
         "language": "",
         "language_color": "#586069"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 99350,
+        "stars": 99403,
         "stars_delta": 88829,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 124833,
+        "stars": 124879,
         "stars_delta": 107890,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 18473,
+        "stars": 18499,
         "stars_delta": 15944,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 17751,
+        "stars": 17771,
         "stars_delta": 14039,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26837,
+        "stars": 26847,
         "stars_delta": 23981,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -495,8 +495,8 @@
         "rank": 5,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 215,
-        "total_stars": 48123,
+        "stars_28d": 216,
+        "total_stars": 48124,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -660,10 +660,10 @@
         "url": "https://github.com/anthropics/claude-code/issues/53262",
         "discussion_url": "https://news.ycombinator.com/item?id=47952722",
         "site": "github.com",
-        "points": 589,
-        "comments": 225,
+        "points": 804,
+        "comments": 307,
         "author": "homebrewer",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -672,10 +672,10 @@
         "url": "https://zed.dev/blog/zed-1-0",
         "discussion_url": "https://news.ycombinator.com/item?id=47949027",
         "site": "zed.dev",
-        "points": 1214,
-        "comments": 388,
+        "points": 1300,
+        "comments": 416,
         "author": "salkahfi",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
@@ -684,22 +684,22 @@
         "url": "https://copy.fail/",
         "discussion_url": "https://news.ycombinator.com/item?id=47952181",
         "site": "copy.fail",
-        "points": 245,
-        "comments": 123,
+        "points": 318,
+        "comments": 165,
         "author": "unsnap_biceps",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
-        "id": 47953275,
-        "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-        "url": "https://jivx.com/kyoto-bloom",
-        "discussion_url": "https://news.ycombinator.com/item?id=47953275",
-        "site": "jivx.com",
-        "points": 80,
-        "comments": 15,
-        "author": "momentmaker",
-        "age": "1h ago"
+        "id": 47953541,
+        "title": "OpenTrafficMap",
+        "url": "https://opentrafficmap.org/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47953541",
+        "site": "opentrafficmap.org",
+        "points": 71,
+        "comments": 20,
+        "author": "moooo99",
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -708,10 +708,10 @@
         "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
         "discussion_url": "https://news.ycombinator.com/item?id=47950510",
         "site": "agwa.name",
-        "points": 162,
-        "comments": 41,
+        "points": 176,
+        "comments": 44,
         "author": "agwa",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -725,7 +725,7 @@
         "points": 2,
         "comments": 0,
         "author": "jesse_dot_id",
-        "age": "25m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -734,10 +734,10 @@
         "url": "https://news.ycombinator.com/item?id=47954039",
         "discussion_url": "https://news.ycombinator.com/item?id=47954039",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
+        "points": 7,
+        "comments": 1,
         "author": "ragelink",
-        "age": "28m ago"
+        "age": "1h ago"
       },
       {
         "rank": 3,
@@ -747,9 +747,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47945522",
         "site": "news.ycombinator.com",
         "points": 77,
-        "comments": 47,
+        "comments": 48,
         "author": "altairprime",
-        "age": "12h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
@@ -759,9 +759,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47949330",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 10,
+        "comments": 11,
         "author": "morpheos137",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
@@ -771,7 +771,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47906253",
         "site": "news.ycombinator.com",
         "points": 585,
-        "comments": 186,
+        "comments": 187,
         "author": "_-x-_",
         "age": "3d ago"
       }
@@ -784,10 +784,10 @@
         "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
         "discussion_url": "https://news.ycombinator.com/item?id=47950283",
         "site": "interfaze.ai",
-        "points": 37,
-        "comments": 14,
+        "points": 41,
+        "comments": 17,
         "author": "khurdula",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
@@ -796,34 +796,34 @@
         "url": "https://github.com/electricant/adblock-rust-manager",
         "discussion_url": "https://news.ycombinator.com/item?id=47947369",
         "site": "github.com",
-        "points": 84,
-        "comments": 33,
+        "points": 86,
+        "comments": 35,
         "author": "electricant",
-        "age": "8h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 47953717,
-        "title": "Show HN: 1990s Game Dev Algorithms for Distributed Systems",
-        "url": "https://docs.merca.earth/blog/1990s-game-dev-algorithms-distributed-systems",
-        "discussion_url": "https://news.ycombinator.com/item?id=47953717",
-        "site": "docs.merca.earth",
-        "points": 5,
-        "comments": 0,
-        "author": "cremer",
-        "age": "51m ago"
-      },
-      {
-        "rank": 4,
         "id": 47953676,
         "title": "Show HN: An attempt to grow a mind – building software with an inner life",
         "url": "https://www.momentbymoment.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=47953676",
         "site": "momentbymoment.app",
-        "points": 2,
+        "points": 3,
         "comments": 4,
         "author": "shahabebrahimi",
-        "age": "53m ago"
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 47953409,
+        "title": "Show HN: A Multi User Multi Task Board MCP Server",
+        "url": "https://github.com/dizlexic/moo-tasks",
+        "discussion_url": "https://news.ycombinator.com/item?id=47953409",
+        "site": "github.com",
+        "points": 4,
+        "comments": 1,
+        "author": "dizlexic",
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -832,7 +832,7 @@
         "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
         "discussion_url": "https://news.ycombinator.com/item?id=47937380",
         "site": "github.com",
-        "points": 226,
+        "points": 227,
         "comments": 72,
         "author": "fesens",
         "age": "1d ago"
