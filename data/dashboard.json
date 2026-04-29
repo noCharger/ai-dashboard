@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-29T17:15:07Z",
+  "generated": "2026-04-29T19:06:40Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 3049,
+        "trending_score": 3051,
         "downloads": 174402,
-        "likes": 3219,
+        "likes": 3222,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 945,
+        "trending_score": 884,
         "downloads": 57743,
-        "likes": 1079,
+        "likes": 1083,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
-        "trending_score": 822,
+        "trending_score": 823,
         "downloads": 96948,
-        "likes": 847,
+        "likes": 848,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 695,
+        "trending_score": 636,
         "downloads": 508728,
-        "likes": 993,
+        "likes": 995,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "unsloth/Qwen3.6-27B-GGUF",
-        "org": "unsloth",
-        "trending_score": 348,
-        "downloads": 702161,
-        "likes": 493,
-        "url": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+        "name": "moonshotai/Kimi-K2.6",
+        "org": "moonshotai",
+        "trending_score": 316,
+        "downloads": 489001,
+        "likes": 1148,
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
           "transformers",
-          "gguf",
-          "unsloth",
-          "qwen",
-          "qwen3_5"
+          "safetensors",
+          "kimi_k25",
+          "feature-extraction",
+          "compressed-tensors"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 60.24,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 66.1259523234757,
+        "speed_tps": 64.3546234534274,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.87,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 64.8547401980673,
+        "speed_tps": 62.3028491879204,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.8,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 79.8161665251922,
+        "speed_tps": 77.1939655665316,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -296,7 +296,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 41846,
+        "stars": 42450,
         "stars_delta": 11955,
         "language": "Rust",
         "language_color": "#dea584"
@@ -306,7 +306,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 42761,
+        "stars": 43162,
         "stars_delta": 7356,
         "language": "Shell",
         "language_color": "#89e051"
@@ -316,7 +316,7 @@
         "name": "HunxByts/GhostTrack",
         "description": "Useful tool to track location or mobile number",
         "url": "https://github.com/HunxByts/GhostTrack",
-        "stars": 11369,
+        "stars": 11435,
         "stars_delta": 1036,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 4639,
+        "stars": 4672,
         "stars_delta": 1180,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "1jehuang/jcode",
         "description": "Coding Agent Harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 1198,
+        "stars": 1243,
         "stars_delta": 386,
         "language": "Rust",
         "language_color": "#dea584"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 18360,
+        "stars": 18421,
         "stars_delta": 15110,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "huggingface/ml-intern",
         "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "url": "https://github.com/huggingface/ml-intern",
-        "stars": 7393,
+        "stars": 7409,
         "stars_delta": 6441,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 42761,
+        "stars": 43162,
         "stars_delta": 18218,
         "language": "Shell",
         "language_color": "#89e051"
@@ -378,7 +378,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 68496,
+        "stars": 68555,
         "stars_delta": 9252,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 99108,
+        "stars": 99246,
         "stars_delta": 25836,
         "language": "",
         "language_color": "#586069"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 99108,
+        "stars": 99246,
         "stars_delta": 88829,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 124604,
+        "stars": 124733,
         "stars_delta": 107890,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 18360,
+        "stars": 18421,
         "stars_delta": 15944,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 17696,
+        "stars": 17720,
         "stars_delta": 14039,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26807,
+        "stars": 26825,
         "stars_delta": 23981,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -462,8 +462,8 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 621,
-        "total_stars": 116421,
+        "stars_28d": 620,
+        "total_stars": 116420,
         "description": "The agent engineering platform",
         "category": "General Agent Stack",
         "language": "Python",
@@ -473,8 +473,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 461,
-        "total_stars": 37394,
+        "stars_28d": 462,
+        "total_stars": 37395,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 50,
+        "upvotes": 51,
         "published": "2024-12-28"
       },
       {
@@ -660,75 +660,63 @@
         "url": "https://zed.dev/blog/zed-1-0",
         "discussion_url": "https://news.ycombinator.com/item?id=47949027",
         "site": "zed.dev",
-        "points": 682,
-        "comments": 237,
+        "points": 1025,
+        "comments": 332,
         "author": "salkahfi",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 47948603,
-        "title": "Tangled – We need a federation of forges",
-        "url": "https://blog.tangled.org/federation/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47948603",
-        "site": "blog.tangled.org",
-        "points": 313,
-        "comments": 173,
-        "author": "icy",
-        "age": "3h ago"
+        "id": 47952181,
+        "title": "Copy Fail – CVE-2026-31431",
+        "url": "https://copy.fail/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47952181",
+        "site": "copy.fail",
+        "points": 114,
+        "comments": 38,
+        "author": "unsnap_biceps",
+        "age": "52m ago"
       },
       {
         "rank": 3,
-        "id": 47949750,
-        "title": "Why AI companies want you to be afraid of them",
-        "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-        "discussion_url": "https://news.ycombinator.com/item?id=47949750",
-        "site": "bbc.com",
-        "points": 189,
-        "comments": 134,
-        "author": "rolph",
-        "age": "1h ago"
+        "id": 47952722,
+        "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+        "url": "https://github.com/anthropics/claude-code/issues/53262",
+        "discussion_url": "https://news.ycombinator.com/item?id=47952722",
+        "site": "github.com",
+        "points": 35,
+        "comments": 2,
+        "author": "homebrewer",
+        "age": "12m ago"
       },
       {
         "rank": 4,
         "id": 47950510,
-        "title": "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+        "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
         "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
         "discussion_url": "https://news.ycombinator.com/item?id=47950510",
         "site": "agwa.name",
-        "points": 25,
-        "comments": 1,
+        "points": 120,
+        "comments": 26,
         "author": "agwa",
-        "age": "58m ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 47945918,
-        "title": "Soft launch of open-source code platform for government",
-        "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47945918",
-        "site": "nldigitalgovernment.nl",
-        "points": 421,
-        "comments": 108,
-        "author": "e12e",
-        "age": "8h ago"
+        "id": 47948603,
+        "title": "We need a federation of forges",
+        "url": "https://blog.tangled.org/federation/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47948603",
+        "site": "blog.tangled.org",
+        "points": 414,
+        "comments": 228,
+        "author": "icy",
+        "age": "5h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 47949330,
-        "title": "Ask HN: Is it still worth it to try to get a job in IT",
-        "url": "https://news.ycombinator.com/item?id=47949330",
-        "discussion_url": "https://news.ycombinator.com/item?id=47949330",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 10,
-        "author": "morpheos137",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
         "id": 47945522,
         "title": "Tell HN: An update from the new Tindie team",
         "url": "https://news.ycombinator.com/item?id=47945522",
@@ -737,7 +725,19 @@
         "points": 77,
         "comments": 47,
         "author": "altairprime",
-        "age": "8h ago"
+        "age": "10h ago"
+      },
+      {
+        "rank": 2,
+        "id": 47949330,
+        "title": "Ask HN: Is it still worth it to try to get a job in IT",
+        "url": "https://news.ycombinator.com/item?id=47949330",
+        "discussion_url": "https://news.ycombinator.com/item?id=47949330",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 10,
+        "author": "morpheos137",
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -749,7 +749,7 @@
         "points": 4,
         "comments": 2,
         "author": "karlosh",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -761,7 +761,7 @@
         "points": 4,
         "comments": 2,
         "author": "realberkeaslan",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -784,10 +784,10 @@
         "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
         "discussion_url": "https://news.ycombinator.com/item?id=47950283",
         "site": "interfaze.ai",
-        "points": 12,
-        "comments": 0,
+        "points": 27,
+        "comments": 11,
         "author": "khurdula",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -796,46 +796,46 @@
         "url": "https://github.com/electricant/adblock-rust-manager",
         "discussion_url": "https://news.ycombinator.com/item?id=47947369",
         "site": "github.com",
-        "points": 45,
-        "comments": 32,
+        "points": 78,
+        "comments": 33,
         "author": "electricant",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
-        "id": 47935246,
-        "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-        "url": "https://github.com/rocky-data/rocky",
-        "discussion_url": "https://news.ycombinator.com/item?id=47935246",
-        "site": "github.com",
-        "points": 107,
-        "comments": 34,
-        "author": "hugocorreia90",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
         "id": 47937380,
         "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
         "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
         "discussion_url": "https://news.ycombinator.com/item?id=47937380",
         "site": "github.com",
-        "points": 214,
-        "comments": 67,
+        "points": 221,
+        "comments": 71,
         "author": "fesens",
         "age": "1d ago"
       },
       {
+        "rank": 4,
+        "id": 47935246,
+        "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+        "url": "https://github.com/rocky-data/rocky",
+        "discussion_url": "https://news.ycombinator.com/item?id=47935246",
+        "site": "github.com",
+        "points": 108,
+        "comments": 43,
+        "author": "hugocorreia90",
+        "age": "1d ago"
+      },
+      {
         "rank": 5,
-        "id": 47950752,
-        "title": "Show HN: AgentPort – Open-source Security Gateway For Agents",
-        "url": "https://agentport.sh/",
-        "discussion_url": "https://news.ycombinator.com/item?id=47950752",
-        "site": "agentport.sh",
-        "points": 3,
-        "comments": 1,
-        "author": "yakkomajuri",
-        "age": "41m ago"
+        "id": 47948396,
+        "title": "Show HN: My retired dad and I made a daily, somewhat difficult, quiz",
+        "url": "https://kviss.eu/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47948396",
+        "site": "kviss.eu",
+        "points": 20,
+        "comments": 7,
+        "author": "steinvakt2",
+        "age": "5h ago"
       }
     ]
   }
