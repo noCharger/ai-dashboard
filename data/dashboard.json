@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-30T08:00:47Z",
+  "generated": "2026-04-30T08:29:46Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 3081,
+        "trending_score": 3083,
         "downloads": 271652,
-        "likes": 3260,
+        "likes": 3262,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4-Flash",
         "org": "deepseek-ai",
-        "trending_score": 836,
+        "trending_score": 838,
         "downloads": 198830,
-        "likes": 863,
+        "likes": 865,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 702,
+        "trending_score": 695,
         "downloads": 82887,
-        "likes": 1105,
+        "likes": 1108,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 457,
+        "trending_score": 458,
         "downloads": 766593,
-        "likes": 1012,
+        "likes": 1014,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "XiaomiMiMo/MiMo-V2.5-Pro",
-        "org": "XiaomiMiMo",
+        "name": "moonshotai/Kimi-K2.6",
+        "org": "moonshotai",
         "trending_score": 294,
-        "downloads": 4468,
-        "likes": 297,
-        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+        "downloads": 591214,
+        "likes": 1158,
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
         "tags": [
+          "transformers",
           "safetensors",
-          "mimo_v2",
-          "text-generation",
-          "agent",
-          "long-context"
+          "kimi_k25",
+          "feature-extraction",
+          "compressed-tensors"
         ],
         "rank_change": null
       }
@@ -296,7 +296,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 46283,
+        "stars": 46423,
         "stars_delta": 12822,
         "language": "Rust",
         "language_color": "#dea584"
@@ -306,7 +306,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 46607,
+        "stars": 46720,
         "stars_delta": 7280,
         "language": "Shell",
         "language_color": "#89e051"
@@ -316,7 +316,7 @@
         "name": "HunxByts/GhostTrack",
         "description": "Useful tool to track location or mobile number",
         "url": "https://github.com/HunxByts/GhostTrack",
-        "stars": 11819,
+        "stars": 11847,
         "stars_delta": 1033,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 5010,
+        "stars": 5030,
         "stars_delta": 1177,
         "language": "Python",
         "language_color": "#3572A5"
@@ -336,7 +336,7 @@
         "name": "1jehuang/jcode",
         "description": "Coding Agent Harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 1600,
+        "stars": 1610,
         "stars_delta": 411,
         "language": "Rust",
         "language_color": "#dea584"
@@ -348,7 +348,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 18754,
+        "stars": 18767,
         "stars_delta": 16154,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "huggingface/ml-intern",
         "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "url": "https://github.com/huggingface/ml-intern",
-        "stars": 7565,
+        "stars": 7568,
         "stars_delta": 6388,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 46607,
+        "stars": 46720,
         "stars_delta": 24702,
         "language": "Shell",
         "language_color": "#89e051"
@@ -378,7 +378,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 68890,
+        "stars": 68904,
         "stars_delta": 9428,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 101188,
+        "stars": 101273,
         "stars_delta": 24129,
         "language": "",
         "language_color": "#586069"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 101188,
+        "stars": 101273,
         "stars_delta": 91463,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 125721,
+        "stars": 125766,
         "stars_delta": 109206,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 18754,
+        "stars": 18767,
         "stars_delta": 17106,
         "language": "Python",
         "language_color": "#3572A5"
@@ -430,7 +430,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 17966,
+        "stars": 17980,
         "stars_delta": 14863,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "Yeachan-Heo/oh-my-codex",
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-        "stars": 26975,
+        "stars": 26981,
         "stars_delta": 24145,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -664,10 +664,10 @@
         "url": "https://openai.com/index/where-the-goblins-came-from/",
         "discussion_url": "https://news.ycombinator.com/item?id=47957688",
         "site": "openai.com",
-        "points": 480,
-        "comments": 246,
+        "points": 512,
+        "comments": 270,
         "author": "ilreb",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
@@ -676,8 +676,8 @@
         "url": "https://www.noctua.at/en/3d-cad-models",
         "discussion_url": "https://news.ycombinator.com/item?id=47927627",
         "site": "noctua.at",
-        "points": 164,
-        "comments": 26,
+        "points": 184,
+        "comments": 29,
         "author": "embedding-shape",
         "age": "2d ago"
       },
@@ -688,22 +688,22 @@
         "url": "https://zed.dev/blog/zed-1-0",
         "discussion_url": "https://news.ycombinator.com/item?id=47949027",
         "site": "zed.dev",
-        "points": 1788,
-        "comments": 575,
+        "points": 1809,
+        "comments": 581,
         "author": "salkahfi",
         "age": "17h ago"
       },
       {
         "rank": 4,
         "id": 47957294,
-        "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+        "title": "The Zig project's rationale for their anti-AI contribution policy",
         "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
         "discussion_url": "https://news.ycombinator.com/item?id=47957294",
         "site": "simonwillison.net",
-        "points": 205,
-        "comments": 93,
+        "points": 222,
+        "comments": 95,
         "author": "lumpa",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
@@ -712,8 +712,8 @@
         "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
         "discussion_url": "https://news.ycombinator.com/item?id=47957101",
         "site": "jcvi.org",
-        "points": 212,
-        "comments": 37,
+        "points": 217,
+        "comments": 39,
         "author": "rdl",
         "age": "6h ago"
       }
@@ -726,10 +726,10 @@
         "url": "https://news.ycombinator.com/item?id=47958353",
         "discussion_url": "https://news.ycombinator.com/item?id=47958353",
         "site": "news.ycombinator.com",
-        "points": 17,
-        "comments": 3,
+        "points": 20,
+        "comments": 10,
         "author": "adithyassekhar",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -753,7 +753,7 @@
         "points": 2,
         "comments": 0,
         "author": "elC0mpa",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
@@ -765,7 +765,7 @@
         "points": 29,
         "comments": 20,
         "author": "zh_code",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -788,13 +788,25 @@
         "url": "https://github.com/qumulator/qumulator-sdk",
         "discussion_url": "https://news.ycombinator.com/item?id=47923272",
         "site": "github.com",
-        "points": 11,
+        "points": 12,
         "comments": 3,
         "author": "nnoorbakhsh",
         "age": "2d ago"
       },
       {
         "rank": 2,
+        "id": 47957127,
+        "title": "Show HN: Agent that refuses to run commands without human approval",
+        "url": "https://github.com/few-sh/fewshell",
+        "discussion_url": "https://news.ycombinator.com/item?id=47957127",
+        "site": "github.com",
+        "points": 9,
+        "comments": 1,
+        "author": "hexer303",
+        "age": "6h ago"
+      },
+      {
+        "rank": 3,
         "id": 47958608,
         "title": "Show HN: Task Manager for AI Agents (MCP, Opensource)",
         "url": "https://github.com/agentrq/agentrq",
@@ -806,18 +818,6 @@
         "age": "2h ago"
       },
       {
-        "rank": 3,
-        "id": 47957127,
-        "title": "Show HN: Agent that refuses to run commands without human approval",
-        "url": "https://github.com/few-sh/fewshell",
-        "discussion_url": "https://news.ycombinator.com/item?id=47957127",
-        "site": "github.com",
-        "points": 8,
-        "comments": 0,
-        "author": "hexer303",
-        "age": "6h ago"
-      },
-      {
         "rank": 4,
         "id": 47950283,
         "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
@@ -827,7 +827,7 @@
         "points": 51,
         "comments": 21,
         "author": "khurdula",
-        "age": "15h ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
@@ -836,7 +836,7 @@
         "url": "https://github.com/rocky-data/rocky",
         "discussion_url": "https://news.ycombinator.com/item?id=47935246",
         "site": "github.com",
-        "points": 115,
+        "points": 116,
         "comments": 47,
         "author": "hugocorreia90",
         "age": "1d ago"
