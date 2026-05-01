@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-01T22:39:25Z",
+  "generated": "2026-05-01T23:41:19Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 859,
+        "trending_score": 852,
         "downloads": 321492,
-        "likes": 3363,
+        "likes": 3366,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 473,
+        "trending_score": 469,
         "downloads": 92567,
-        "likes": 1175,
+        "likes": 1176,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "XiaomiMiMo/MiMo-V2.5-Pro",
         "org": "XiaomiMiMo",
-        "trending_score": 337,
+        "trending_score": 339,
         "downloads": 7944,
-        "likes": 346,
+        "likes": 348,
         "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
         "tags": [
           "safetensors",
@@ -55,26 +55,9 @@
       },
       {
         "rank": 4,
-        "name": "deepseek-ai/DeepSeek-V4-Flash",
-        "org": "deepseek-ai",
-        "trending_score": 279,
-        "downloads": 281356,
-        "likes": 905,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v4",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "Qwen/Qwen3.6-27B",
         "org": "Qwen",
-        "trending_score": 277,
+        "trending_score": 275,
         "downloads": 906859,
         "likes": 1055,
         "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
@@ -83,6 +66,23 @@
           "safetensors",
           "qwen3_5",
           "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "deepseek-ai/DeepSeek-V4-Flash",
+        "org": "deepseek-ai",
+        "trending_score": 274,
+        "downloads": 281356,
+        "likes": 905,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v4",
+          "text-generation",
           "conversational"
         ],
         "rank_change": null
@@ -296,7 +296,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 59714,
+        "stars": 59788,
         "stars_delta": 2115,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 21572,
+        "stars": 21609,
         "stars_delta": 535,
         "language": "Python",
         "language_color": "#3572A5"
@@ -316,7 +316,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 51373,
+        "stars": 51408,
         "stars_delta": 3403,
         "language": "Rust",
         "language_color": "#dea584"
@@ -326,7 +326,7 @@
         "name": "1jehuang/jcode",
         "description": "Coding Agent Harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 2320,
+        "stars": 2340,
         "stars_delta": 404,
         "language": "Rust",
         "language_color": "#dea584"
@@ -336,7 +336,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 52400,
+        "stars": 52475,
         "stars_delta": 3649,
         "language": "Shell",
         "language_color": "#89e051"
@@ -348,7 +348,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 52400,
+        "stars": 52475,
         "stars_delta": 30945,
         "language": "Shell",
         "language_color": "#89e051"
@@ -358,7 +358,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 19668,
+        "stars": 19683,
         "stars_delta": 14666,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "CJackHwang/ds2api",
         "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web pr",
         "url": "https://github.com/CJackHwang/ds2api",
-        "stars": 3066,
+        "stars": 3068,
         "stars_delta": 1726,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -378,7 +378,7 @@
         "name": "Z4nzu/hackingtool",
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "url": "https://github.com/Z4nzu/hackingtool",
-        "stars": 69745,
+        "stars": 69767,
         "stars_delta": 8714,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 104618,
+        "stars": 104660,
         "stars_delta": 23062,
         "language": "",
         "language_color": "#586069"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 104618,
+        "stars": 104660,
         "stars_delta": 94646,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 128190,
+        "stars": 128237,
         "stars_delta": 107384,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 23454,
+        "stars": 23462,
         "stars_delta": 22824,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 19668,
+        "stars": 19683,
         "stars_delta": 17760,
         "language": "Python",
         "language_color": "#3572A5"
@@ -440,7 +440,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 52400,
+        "stars": 52475,
         "stars_delta": 36944,
         "language": "Shell",
         "language_color": "#89e051"
@@ -451,8 +451,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 900,
-        "total_stars": 14747,
+        "stars_28d": 901,
+        "total_stars": 14748,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -473,8 +473,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 436,
-        "total_stars": 37407,
+        "stars_28d": 439,
+        "total_stars": 37410,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -663,58 +663,58 @@
         "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
         "discussion_url": "https://news.ycombinator.com/item?id=47979583",
         "site": "education.ti.com",
-        "points": 148,
-        "comments": 170,
+        "points": 201,
+        "comments": 214,
         "author": "thatxliner",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 47979839,
-        "title": "Credit cards are vulnerable to brute force attacks",
-        "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=47979839",
-        "site": "metin.nextc.org",
-        "points": 131,
-        "comments": 112,
-        "author": "kodbraker",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
         "id": 47977748,
         "title": "New research suggests people can communicate and practice skills while dreaming",
         "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
         "discussion_url": "https://news.ycombinator.com/item?id=47977748",
         "site": "newyorker.com",
-        "points": 156,
-        "comments": 83,
+        "points": 191,
+        "comments": 102,
         "author": "XzetaU8",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 47950070,
-        "title": "The Smelly Baby Problem",
+        "title": "The smelly baby problem",
         "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
         "discussion_url": "https://news.ycombinator.com/item?id=47950070",
         "site": "worksinprogress.news",
-        "points": 21,
-        "comments": 6,
+        "points": 51,
+        "comments": 18,
         "author": "dionysou",
         "age": "2d ago"
       },
       {
+        "rank": 4,
+        "id": 47975571,
+        "title": "Ask HN: Who is hiring? (May 2026)",
+        "url": "https://news.ycombinator.com/item?id=47975571",
+        "discussion_url": "https://news.ycombinator.com/item?id=47975571",
+        "site": "news.ycombinator.com",
+        "points": 209,
+        "comments": 237,
+        "author": "whoishiring",
+        "age": "8h ago"
+      },
+      {
         "rank": 5,
-        "id": 47979438,
-        "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-        "url": "https://github.com/xodn348/destiny",
-        "discussion_url": "https://news.ycombinator.com/item?id=47979438",
-        "site": "github.com",
-        "points": 36,
-        "comments": 30,
-        "author": "xodn348",
-        "age": "2h ago"
+        "id": 47955789,
+        "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+        "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+        "discussion_url": "https://news.ycombinator.com/item?id=47955789",
+        "site": "wired.com",
+        "points": 64,
+        "comments": 65,
+        "author": "zdw",
+        "age": "2d ago"
       }
     ],
     "ask": [
@@ -725,10 +725,10 @@
         "url": "https://news.ycombinator.com/item?id=47975571",
         "discussion_url": "https://news.ycombinator.com/item?id=47975571",
         "site": "news.ycombinator.com",
-        "points": 201,
-        "comments": 225,
+        "points": 209,
+        "comments": 237,
         "author": "whoishiring",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -737,10 +737,10 @@
         "url": "https://news.ycombinator.com/item?id=47975570",
         "discussion_url": "https://news.ycombinator.com/item?id=47975570",
         "site": "news.ycombinator.com",
-        "points": 106,
-        "comments": 213,
+        "points": 112,
+        "comments": 229,
         "author": "whoishiring",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -749,10 +749,10 @@
         "url": "https://news.ycombinator.com/item?id=47975676",
         "discussion_url": "https://news.ycombinator.com/item?id=47975676",
         "site": "news.ycombinator.com",
-        "points": 108,
-        "comments": 171,
+        "points": 114,
+        "comments": 180,
         "author": "proberts",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
@@ -761,10 +761,10 @@
         "url": "https://news.ycombinator.com/item?id=47979898",
         "discussion_url": "https://news.ycombinator.com/item?id=47979898",
         "site": "news.ycombinator.com",
-        "points": 25,
-        "comments": 5,
+        "points": 33,
+        "comments": 9,
         "author": "evo_9",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
@@ -776,69 +776,69 @@
         "points": 3,
         "comments": 2,
         "author": "embedding-shape",
-        "age": "5h ago"
+        "age": "6h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 47979438,
-        "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-        "url": "https://github.com/xodn348/destiny",
-        "discussion_url": "https://news.ycombinator.com/item?id=47979438",
-        "site": "github.com",
-        "points": 36,
-        "comments": 30,
-        "author": "xodn348",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
         "id": 47972511,
         "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
         "url": "https://github.com/darrylmorley/whatcable",
         "discussion_url": "https://news.ycombinator.com/item?id=47972511",
         "site": "github.com",
-        "points": 371,
-        "comments": 124,
+        "points": 384,
+        "comments": 126,
         "author": "sleepingNomad",
-        "age": "13h ago"
+        "age": "14h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 47977694,
         "title": "Show HN: AI CAD Harness",
         "url": "https://fusion.adam.new/install",
         "discussion_url": "https://news.ycombinator.com/item?id=47977694",
         "site": "fusion.adam.new",
-        "points": 45,
+        "points": 51,
         "comments": 60,
         "author": "zachdive",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 47973559,
         "title": "Show HN: Site Mogging",
         "url": "https://sitemogging.com",
         "discussion_url": "https://news.ycombinator.com/item?id=47973559",
         "site": "sitemogging.com",
-        "points": 53,
-        "comments": 63,
+        "points": 55,
+        "comments": 66,
         "author": "jilles",
-        "age": "11h ago"
+        "age": "12h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 47975472,
         "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
         "url": "https://www.ghost.charity/",
         "discussion_url": "https://news.ycombinator.com/item?id=47975472",
         "site": "ghost.charity",
-        "points": 113,
-        "comments": 66,
+        "points": 116,
+        "comments": 68,
         "author": "keepamovin",
-        "age": "7h ago"
+        "age": "8h ago"
+      },
+      {
+        "rank": 5,
+        "id": 47973093,
+        "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+        "url": "https://github.com/leox255/loopsy",
+        "discussion_url": "https://news.ycombinator.com/item?id=47973093",
+        "site": "github.com",
+        "points": 38,
+        "comments": 8,
+        "author": "todience",
+        "age": "13h ago"
       }
     ]
   }
