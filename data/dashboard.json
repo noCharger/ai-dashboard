@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-05T11:09:29Z",
+  "generated": "2026-05-05T13:07:16Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 386,
+        "trending_score": 380,
         "downloads": 631499,
-        "likes": 3542,
+        "likes": 3547,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 285,
+        "trending_score": 282,
         "downloads": 141317,
-        "likes": 1275,
+        "likes": 1281,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "mistralai/Mistral-Medium-3.5-128B",
         "org": "mistralai",
-        "trending_score": 258,
+        "trending_score": 260,
         "downloads": 15024,
-        "likes": 260,
+        "likes": 262,
         "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
         "tags": [
           "safetensors",
@@ -55,23 +55,6 @@
       },
       {
         "rank": 4,
-        "name": "XiaomiMiMo/MiMo-V2.5-Pro",
-        "org": "XiaomiMiMo",
-        "trending_score": 225,
-        "downloads": 13317,
-        "likes": 432,
-        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
-        "tags": [
-          "safetensors",
-          "mimo_v2",
-          "text-generation",
-          "agent",
-          "long-context"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
         "org": "nvidia",
         "trending_score": 224,
@@ -84,6 +67,23 @@
           "NemotronH_Nano_Omni_Reasoning_V3",
           "feature-extraction",
           "nvidia"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "poolside/Laguna-XS.2",
+        "org": "poolside",
+        "trending_score": 212,
+        "downloads": 12027,
+        "likes": 216,
+        "url": "https://huggingface.co/poolside/Laguna-XS.2",
+        "tags": [
+          "vllm",
+          "safetensors",
+          "laguna",
+          "laguna-xs.2",
+          "text-generation"
         ],
         "rank_change": null
       }
@@ -296,8 +296,8 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 5262,
-        "stars_delta": 1274,
+        "stars": 5683,
+        "stars_delta": 2389,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -306,8 +306,8 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 42427,
-        "stars_delta": 2598,
+        "stars": 42622,
+        "stars_delta": 2441,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -316,8 +316,8 @@
         "name": "virattt/dexter",
         "description": "An autonomous agent for deep financial research",
         "url": "https://github.com/virattt/dexter",
-        "stars": 23438,
-        "stars_delta": 409,
+        "stars": 23503,
+        "stars_delta": 660,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -326,8 +326,8 @@
         "name": "docusealco/docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
         "url": "https://github.com/docusealco/docuseal",
-        "stars": 13589,
-        "stars_delta": 535,
+        "stars": 13659,
+        "stars_delta": 929,
         "language": "Ruby",
         "language_color": "#701516"
       },
@@ -336,7 +336,7 @@
         "name": "bwya77/vscode-dark-islands",
         "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
         "url": "https://github.com/bwya77/vscode-dark-islands",
-        "stars": 7573,
+        "stars": 7603,
         "stars_delta": 665,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -348,7 +348,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 54590,
+        "stars": 54666,
         "stars_delta": 27872,
         "language": "Rust",
         "language_color": "#dea584"
@@ -358,7 +358,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 59895,
+        "stars": 60061,
         "stars_delta": 31091,
         "language": "Shell",
         "language_color": "#89e051"
@@ -368,7 +368,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 68574,
+        "stars": 68694,
         "stars_delta": 13293,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 25284,
+        "stars": 25329,
         "stars_delta": 4789,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 42427,
+        "stars": 42622,
         "stars_delta": 6838,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 112635,
+        "stars": 112873,
         "stars_delta": 103293,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 133392,
+        "stars": 133524,
         "stars_delta": 108507,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 24585,
+        "stars": 24619,
         "stars_delta": 22432,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 59895,
+        "stars": 60061,
         "stars_delta": 46450,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 19801,
+        "stars": 19822,
         "stars_delta": 17030,
         "language": "Python",
         "language_color": "#3572A5"
@@ -484,8 +484,8 @@
         "rank": 4,
         "name": "VoltAgent/voltagent",
         "url": "https://github.com/VoltAgent/voltagent",
-        "stars_28d": 204,
-        "total_stars": 3983,
+        "stars_28d": 205,
+        "total_stars": 3984,
         "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
         "category": "TypeScript Agent Framework",
         "language": "TypeScript",
@@ -660,80 +660,92 @@
     "top": [
       {
         "rank": 1,
+        "id": 48021561,
+        "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+        "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48021561",
+        "site": "walletwallet.alen.ro",
+        "points": 42,
+        "comments": 26,
+        "author": "alentodorov",
+        "age": "38m ago"
+      },
+      {
+        "rank": 2,
         "id": 48019163,
         "title": "Async Rust never left the MVP state",
         "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
         "discussion_url": "https://news.ycombinator.com/item?id=48019163",
         "site": "tweedegolf.nl",
-        "points": 178,
-        "comments": 82,
+        "points": 259,
+        "comments": 134,
         "author": "pjmlp",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 47962032,
         "title": "Should I Run Plain Docker Compose in Production in 2026?",
         "url": "https://distr.sh/blog/running-docker-in-production/",
         "discussion_url": "https://news.ycombinator.com/item?id=47962032",
         "site": "distr.sh",
-        "points": 52,
-        "comments": 34,
+        "points": 122,
+        "comments": 102,
         "author": "pmig",
         "age": "4d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48016880,
         "title": "Bun is being ported from Zig to Rust",
         "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
         "discussion_url": "https://news.ycombinator.com/item?id=48016880",
         "site": "github.com",
-        "points": 545,
-        "comments": 380,
+        "points": 593,
+        "comments": 422,
         "author": "SergeAx",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48018066,
         "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
         "url": "https://walzr.com/empty-screenings",
         "discussion_url": "https://news.ycombinator.com/item?id=48018066",
         "site": "walzr.com",
-        "points": 166,
-        "comments": 131,
+        "points": 196,
+        "comments": 163,
         "author": "MrBuddyCasino",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48019025,
-        "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-        "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48019025",
-        "site": "dbreunig.com",
-        "points": 78,
-        "comments": 61,
-        "author": "ingve",
-        "age": "4h ago"
+        "age": "8h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48021718,
+        "title": "Tell HN: Archive.ph Is Gone",
+        "url": "https://news.ycombinator.com/item?id=48021718",
+        "discussion_url": "https://news.ycombinator.com/item?id=48021718",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 0,
+        "author": "_tk_",
+        "age": "24m ago"
+      },
+      {
+        "rank": 2,
         "id": 48017668,
         "title": "Ask HN: Best Embedding Models?",
         "url": "https://news.ycombinator.com/item?id=48017668",
         "discussion_url": "https://news.ycombinator.com/item?id=48017668",
         "site": "news.ycombinator.com",
-        "points": 13,
-        "comments": 4,
+        "points": 14,
+        "comments": 8,
         "author": "devstein",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 47975676,
         "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
         "url": "https://news.ycombinator.com/item?id=47975676",
@@ -745,7 +757,7 @@
         "age": "3d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48018274,
         "title": "Why Does a Single Firefox Tab Take Almost 1.5GB RAM?",
         "url": "https://news.ycombinator.com/item?id=48018274",
@@ -754,93 +766,81 @@
         "points": 5,
         "comments": 7,
         "author": "syeare",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 47975570,
         "title": "Ask HN: Who wants to be hired? (May 2026)",
         "url": "https://news.ycombinator.com/item?id=47975570",
         "discussion_url": "https://news.ycombinator.com/item?id=47975570",
         "site": "news.ycombinator.com",
-        "points": 146,
-        "comments": 429,
+        "points": 147,
+        "comments": 430,
         "author": "whoishiring",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48016031,
-        "title": "Ask HN: Where are you getting your AI news from?",
-        "url": "https://news.ycombinator.com/item?id=48016031",
-        "discussion_url": "https://news.ycombinator.com/item?id=48016031",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 7,
-        "author": "baetylus",
-        "age": "12h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48020249,
-        "title": "Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative",
-        "url": "https://idiotproofseo.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48020249",
-        "site": "idiotproofseo.com",
-        "points": 4,
+        "id": 48021420,
+        "title": "Show HN: I built a new word game, Wordtrak",
+        "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+        "discussion_url": "https://news.ycombinator.com/item?id=48021420",
+        "site": "wordtrak.com",
+        "points": 6,
         "comments": 0,
-        "author": "harryfelio",
-        "age": "1h ago"
+        "author": "qrush",
+        "age": "52m ago"
       },
       {
         "rank": 2,
+        "id": 48021665,
+        "title": "Show HN: Furwall – macOS menu bar app that blocks keys when your cat sits down",
+        "url": "https://olliewagner.com/furwall",
+        "discussion_url": "https://news.ycombinator.com/item?id=48021665",
+        "site": "olliewagner.com",
+        "points": 4,
+        "comments": 1,
+        "author": "olliewagner",
+        "age": "29m ago"
+      },
+      {
+        "rank": 3,
+        "id": 48021431,
+        "title": "Show HN: Orch8 – Durable workflow engine in Rust, one binary, Postgres or SQLite",
+        "url": "https://github.com/orch8-io/engine",
+        "discussion_url": "https://news.ycombinator.com/item?id=48021431",
+        "site": "github.com",
+        "points": 7,
+        "comments": 1,
+        "author": "_alphageek",
+        "age": "52m ago"
+      },
+      {
+        "rank": 4,
         "id": 47985958,
         "title": "Show HN: nfsdiag – A NFS diagnostic application",
         "url": "https://github.com/lsferreira42/nfsdiag",
         "discussion_url": "https://news.ycombinator.com/item?id=47985958",
         "site": "github.com",
-        "points": 69,
-        "comments": 5,
+        "points": 70,
+        "comments": 6,
         "author": "lsferreira42",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 47990528,
         "title": "Show HN: I Built a Museum Exhibit",
         "url": "https://knhash.in/built-an-exhibit/",
         "discussion_url": "https://news.ycombinator.com/item?id=47990528",
         "site": "knhash.in",
-        "points": 29,
-        "comments": 2,
+        "points": 31,
+        "comments": 3,
         "author": "kn81198",
         "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48019173,
-        "title": "Show HN: Brainio – Markdown notepad that turns notes into visual mind maps",
-        "url": "https://brainio.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48019173",
-        "site": "brainio.com",
-        "points": 7,
-        "comments": 2,
-        "author": "havlenao",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48015655,
-        "title": "Show HN: I indexed 8,643 BSides talks across 227 chapters and 6 continents",
-        "url": "https://allbsides.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48015655",
-        "site": "allbsides.com",
-        "points": 12,
-        "comments": 4,
-        "author": "Parkado",
-        "age": "12h ago"
       }
     ]
   }
