@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-05T17:12:03Z",
+  "generated": "2026-05-05T19:03:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 374,
+        "trending_score": 368,
         "downloads": 631499,
-        "likes": 3560,
+        "likes": 3563,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 282,
+        "trending_score": 276,
         "downloads": 141317,
-        "likes": 1289,
+        "likes": 1291,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "mistralai/Mistral-Medium-3.5-128B",
         "org": "mistralai",
-        "trending_score": 261,
+        "trending_score": 262,
         "downloads": 15024,
-        "likes": 263,
+        "likes": 264,
         "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
         "tags": [
           "safetensors",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-        "org": "nvidia",
-        "trending_score": 221,
-        "downloads": 44631,
-        "likes": 238,
-        "url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "NemotronH_Nano_Omni_Reasoning_V3",
-          "feature-extraction",
-          "nvidia"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 210,
+        "trending_score": 215,
         "downloads": 37897,
-        "likes": 215,
+        "likes": 222,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -84,6 +67,23 @@
           "text-to-video",
           "endpoints_compatible",
           "region:us"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+        "org": "nvidia",
+        "trending_score": 208,
+        "downloads": 44631,
+        "likes": 239,
+        "url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "NemotronH_Nano_Omni_Reasoning_V3",
+          "feature-extraction",
+          "nvidia"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 60.24,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 73.2039340231605,
+        "speed_tps": 75.8600158076626,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.87,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.0315510151011,
+        "speed_tps": 72.6601128500418,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.28,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 47.2395431828083,
+        "speed_tps": 49.9324203477699,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.8,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 82.0679923091026,
+        "speed_tps": 85.7225022436023,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -296,7 +296,7 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 6575,
+        "stars": 6782,
         "stars_delta": 2389,
         "language": "Rust",
         "language_color": "#dea584"
@@ -306,7 +306,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 43074,
+        "stars": 43231,
         "stars_delta": 2441,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -316,7 +316,7 @@
         "name": "virattt/dexter",
         "description": "An autonomous agent for deep financial research",
         "url": "https://github.com/virattt/dexter",
-        "stars": 23617,
+        "stars": 23667,
         "stars_delta": 660,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -326,7 +326,7 @@
         "name": "docusealco/docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
         "url": "https://github.com/docusealco/docuseal",
-        "stars": 13799,
+        "stars": 13855,
         "stars_delta": 929,
         "language": "Ruby",
         "language_color": "#701516"
@@ -336,7 +336,7 @@
         "name": "bwya77/vscode-dark-islands",
         "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
         "url": "https://github.com/bwya77/vscode-dark-islands",
-        "stars": 7714,
+        "stars": 7760,
         "stars_delta": 665,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -348,7 +348,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 54801,
+        "stars": 54844,
         "stars_delta": 27872,
         "language": "Rust",
         "language_color": "#dea584"
@@ -358,7 +358,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 60441,
+        "stars": 60551,
         "stars_delta": 31091,
         "language": "Shell",
         "language_color": "#89e051"
@@ -368,7 +368,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 69010,
+        "stars": 69118,
         "stars_delta": 13293,
         "language": "Python",
         "language_color": "#3572A5"
@@ -378,7 +378,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 25409,
+        "stars": 25433,
         "stars_delta": 4789,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 43074,
+        "stars": 43231,
         "stars_delta": 6838,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 113409,
+        "stars": 113540,
         "stars_delta": 103293,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 133860,
+        "stars": 133944,
         "stars_delta": 108507,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 24716,
+        "stars": 24749,
         "stars_delta": 22432,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 60441,
+        "stars": 60551,
         "stars_delta": 46450,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 19880,
+        "stars": 19897,
         "stars_delta": 17030,
         "language": "Python",
         "language_color": "#3572A5"
@@ -516,7 +516,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 56,
+        "upvotes": 57,
         "published": "2024-12-28"
       },
       {
@@ -660,39 +660,39 @@
     "top": [
       {
         "rank": 1,
-        "id": 48023861,
-        "title": "Three Inverse Laws of AI",
-        "url": "https://susam.net/inverse-laws-of-robotics.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48023861",
-        "site": "susam.net",
-        "points": 133,
-        "comments": 72,
-        "author": "blenderob",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48024364,
-        "title": "UK: Two millionth electric car registered as market rebounds strongly",
-        "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48024364",
-        "site": "smmt.co.uk",
-        "points": 61,
-        "comments": 35,
-        "author": "kieranmaine",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
         "id": 48024540,
         "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
         "discussion_url": "https://news.ycombinator.com/item?id=48024540",
         "site": "blog.google",
-        "points": 51,
-        "comments": 11,
+        "points": 186,
+        "comments": 66,
         "author": "amrrs",
-        "age": "57m ago"
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48023861,
+        "title": "Three Inverse Laws of AI",
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48023861",
+        "site": "susam.net",
+        "points": 239,
+        "comments": 156,
+        "author": "blenderob",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48024859,
+        "title": "Computer Use is 45x more expensive than structured APIs",
+        "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48024859",
+        "site": "reflex.dev",
+        "points": 112,
+        "comments": 73,
+        "author": "palashawas",
+        "age": "2h ago"
       },
       {
         "rank": 4,
@@ -701,22 +701,22 @@
         "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
         "discussion_url": "https://news.ycombinator.com/item?id=48024129",
         "site": "youtube.com",
-        "points": 50,
-        "comments": 8,
+        "points": 119,
+        "comments": 27,
         "author": "brudgers",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 48024859,
-        "title": "Computer Use Is 45x More Expensive Than Structured APIs",
-        "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48024859",
-        "site": "reflex.dev",
-        "points": 25,
-        "comments": 4,
-        "author": "palashawas",
-        "age": "37m ago"
+        "id": 48026021,
+        "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+        "url": "https://arxiv.org/abs/2604.26752",
+        "discussion_url": "https://news.ycombinator.com/item?id=48026021",
+        "site": "arxiv.org",
+        "points": 39,
+        "comments": 6,
+        "author": "gmays",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -727,10 +727,10 @@
         "url": "https://news.ycombinator.com/item?id=48022948",
         "discussion_url": "https://news.ycombinator.com/item?id=48022948",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 6,
         "comments": 0,
         "author": "pinarsaas",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -752,9 +752,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48017668",
         "site": "news.ycombinator.com",
         "points": 14,
-        "comments": 13,
+        "comments": 14,
         "author": "devstein",
-        "age": "13h ago"
+        "age": "15h ago"
       },
       {
         "rank": 4,
@@ -763,8 +763,8 @@
         "url": "https://news.ycombinator.com/item?id=47975570",
         "discussion_url": "https://news.ycombinator.com/item?id=47975570",
         "site": "news.ycombinator.com",
-        "points": 147,
-        "comments": 442,
+        "points": 148,
+        "comments": 446,
         "author": "whoishiring",
         "age": "4d ago"
       },
@@ -776,7 +776,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47975571",
         "site": "news.ycombinator.com",
         "points": 303,
-        "comments": 432,
+        "comments": 436,
         "author": "whoishiring",
         "age": "4d ago"
       }
@@ -789,58 +789,58 @@
         "url": "https://news.ycombinator.com/item?id=48023496",
         "discussion_url": "https://news.ycombinator.com/item?id=48023496",
         "site": "news.ycombinator.com",
-        "points": 35,
-        "comments": 3,
+        "points": 51,
+        "comments": 6,
         "author": "mtricot",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 48026342,
+        "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+        "url": "https://paletteinspiration.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48026342",
+        "site": "paletteinspiration.com",
+        "points": 6,
+        "comments": 2,
+        "author": "ouli",
+        "age": "49m ago"
+      },
+      {
+        "rank": 3,
         "id": 48021420,
         "title": "Show HN: I built a new word game, Wordtrak",
         "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
         "discussion_url": "https://news.ycombinator.com/item?id=48021420",
         "site": "wordtrak.com",
-        "points": 49,
-        "comments": 22,
+        "points": 57,
+        "comments": 28,
         "author": "qrush",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 48026408,
+        "title": "Show HN: AI-DLC-UML (AI-Driven Development Life Cycle with UML Modeling)",
+        "url": "https://github.com/takaakit/ai-dlc-uml",
+        "discussion_url": "https://news.ycombinator.com/item?id=48026408",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "takaakit",
+        "age": "44m ago"
+      },
+      {
+        "rank": 5,
         "id": 48023587,
         "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
         "url": "https://github.com/aragossa/pii-shield",
         "discussion_url": "https://news.ycombinator.com/item?id=48023587",
         "site": "github.com",
-        "points": 11,
-        "comments": 2,
+        "points": 18,
+        "comments": 3,
         "author": "aragoss",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48024791,
-        "title": "Show HN: Pathetic – Java pathfinding: 10k concurrent paths in ~7ms",
-        "url": "https://github.com/bsommerfeld/pathetic",
-        "discussion_url": "https://news.ycombinator.com/item?id=48024791",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "bsommerfeld",
-        "age": "41m ago"
-      },
-      {
-        "rank": 5,
-        "id": 48024102,
-        "title": "Show HN: I built an API for agents visiting my personal website",
-        "url": "https://mczaykowski.com/articles/smallest-ax-surface",
-        "discussion_url": "https://news.ycombinator.com/item?id=48024102",
-        "site": "mczaykowski.com",
-        "points": 3,
-        "comments": 0,
-        "author": "selvmvde",
-        "age": "1h ago"
+        "age": "3h ago"
       }
     ]
   }
