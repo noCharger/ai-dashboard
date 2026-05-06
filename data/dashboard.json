@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-06T08:34:18Z",
+  "generated": "2026-05-06T10:54:44Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 354,
+        "trending_score": 349,
         "downloads": 786631,
-        "likes": 3600,
+        "likes": 3612,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "mistralai/Mistral-Medium-3.5-128B",
         "org": "mistralai",
-        "trending_score": 273,
+        "trending_score": 276,
         "downloads": 16576,
-        "likes": 275,
+        "likes": 279,
         "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
         "tags": [
           "safetensors",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "openai/privacy-filter",
-        "org": "openai",
-        "trending_score": 250,
-        "downloads": 155476,
-        "likes": 1307,
-        "url": "https://huggingface.co/openai/privacy-filter",
-        "tags": [
-          "transformers",
-          "onnx",
-          "safetensors",
-          "openai_privacy_filter",
-          "token-classification"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 249,
+        "trending_score": 258,
         "downloads": 55461,
-        "likes": 256,
+        "likes": 266,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -71,19 +54,36 @@
         "rank_change": null
       },
       {
-        "rank": 5,
-        "name": "XiaomiMiMo/MiMo-V2.5-Pro",
-        "org": "XiaomiMiMo",
-        "trending_score": 163,
-        "downloads": 16030,
-        "likes": 446,
-        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+        "rank": 4,
+        "name": "openai/privacy-filter",
+        "org": "openai",
+        "trending_score": 239,
+        "downloads": 155476,
+        "likes": 1309,
+        "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
+          "transformers",
+          "onnx",
           "safetensors",
-          "mimo_v2",
-          "text-generation",
-          "agent",
-          "long-context"
+          "openai_privacy_filter",
+          "token-classification"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "SeeSee21/Z-Anime",
+        "org": "SeeSee21",
+        "trending_score": 158,
+        "downloads": 3819,
+        "likes": 174,
+        "url": "https://huggingface.co/SeeSee21/Z-Anime",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "gguf",
+          "z-anime",
+          "text-to-image"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 60.24,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.8758579777607,
+        "speed_tps": 70.3291780362869,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.87,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.0315510151011,
+        "speed_tps": 68.1028308884296,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.28,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 48.788343883121,
+        "speed_tps": 47.1149515079578,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.18,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 135.69754962872,
+        "speed_tps": 135.360554749133,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.8,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 85.7225022436023,
+        "speed_tps": 83.4776372222336,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -296,50 +296,50 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 10325,
+        "stars": 11205,
         "stars_delta": 2434,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
         "rank": 2,
-        "name": "ruvnet/ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-        "url": "https://github.com/ruvnet/ruflo",
-        "stars": 44410,
-        "stars_delta": 2432,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "stars": 28979,
+        "stars_delta": 629,
+        "language": "Shell",
+        "language_color": "#89e051"
       },
       {
         "rank": 3,
-        "name": "virattt/dexter",
-        "description": "An autonomous agent for deep financial research",
-        "url": "https://github.com/virattt/dexter",
-        "stars": 24038,
-        "stars_delta": 659,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "PriorLabs/TabPFN",
+        "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+        "url": "https://github.com/PriorLabs/TabPFN",
+        "stars": 6463,
+        "stars_delta": 57,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 4,
         "name": "docusealco/docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
         "url": "https://github.com/docusealco/docuseal",
-        "stars": 14259,
+        "stars": 14340,
         "stars_delta": 927,
         "language": "Ruby",
         "language_color": "#701516"
       },
       {
         "rank": 5,
-        "name": "bwya77/vscode-dark-islands",
-        "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-        "url": "https://github.com/bwya77/vscode-dark-islands",
-        "stars": 8022,
-        "stars_delta": 321,
-        "language": "PowerShell",
-        "language_color": "#012456"
+        "name": "LearningCircuit/local-deep-research",
+        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
+        "url": "https://github.com/LearningCircuit/local-deep-research",
+        "stars": 5398,
+        "stars_delta": 197,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "weekly": [
@@ -348,50 +348,50 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 55340,
+        "stars": 55408,
         "stars_delta": 28493,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
         "rank": 2,
-        "name": "mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 61817,
-        "stars_delta": 25389,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
-        "rank": 3,
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 69778,
+        "stars": 69863,
         "stars_delta": 14697,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 4,
-        "name": "soxoj/maigret",
-        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-        "url": "https://github.com/soxoj/maigret",
-        "stars": 25744,
-        "stars_delta": 5645,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "rank": 3,
+        "name": "mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 62088,
+        "stars_delta": 25389,
+        "language": "Shell",
+        "language_color": "#89e051"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 44410,
+        "stars": 44616,
         "stars_delta": 9159,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "soxoj/maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "url": "https://github.com/soxoj/maigret",
+        "stars": 25783,
+        "stars_delta": 5645,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "monthly": [
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 115205,
+        "stars": 115516,
         "stars_delta": 105745,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 134904,
+        "stars": 135128,
         "stars_delta": 108753,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 25078,
+        "stars": 25138,
         "stars_delta": 22722,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,18 +430,18 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 61817,
+        "stars": 62088,
         "stars_delta": 48299,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
         "rank": 5,
-        "name": "Fincept-Corporation/FinceptTerminal",
-        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-        "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 20051,
-        "stars_delta": 17062,
+        "name": "Alishahryar1/free-claude-code",
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "stars": 21815,
+        "stars_delta": 19956,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -473,8 +473,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 396,
-        "total_stars": 37451,
+        "stars_28d": 397,
+        "total_stars": 37452,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -660,10 +660,10 @@
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
         "discussion_url": "https://news.ycombinator.com/item?id=48031684",
         "site": "blog.cloudflare.com",
-        "points": 273,
-        "comments": 150,
+        "points": 351,
+        "comments": 198,
         "author": "rolph",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -672,10 +672,10 @@
         "url": "https://us.starlabs.systems/pages/starfighter",
         "discussion_url": "https://news.ycombinator.com/item?id=48031261",
         "site": "us.starlabs.systems",
-        "points": 270,
-        "comments": 146,
+        "points": 368,
+        "comments": 194,
         "author": "signa11",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -684,34 +684,34 @@
         "url": "https://www.aaedmusa.com/projects/cara2",
         "discussion_url": "https://news.ycombinator.com/item?id=48005432",
         "site": "aaedmusa.com",
-        "points": 111,
-        "comments": 9,
+        "points": 171,
+        "comments": 23,
         "author": "hakonjdjohnsen",
         "age": "2d ago"
       },
       {
         "rank": 4,
+        "id": 47998638,
+        "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+        "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+        "discussion_url": "https://news.ycombinator.com/item?id=47998638",
+        "site": "coe.gatech.edu",
+        "points": 43,
+        "comments": 18,
+        "author": "gnabgib",
+        "age": "2d ago"
+      },
+      {
+        "rank": 5,
         "id": 48027897,
         "title": "DNSSEC disruption affecting .de domains – Resolved",
         "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
         "discussion_url": "https://news.ycombinator.com/item?id=48027897",
         "site": "status.denic.de",
-        "points": 652,
-        "comments": 319,
+        "points": 679,
+        "comments": 350,
         "author": "warpspin",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48031109,
-        "title": "Telus Uses AI to Alter Call-Agent Accents",
-        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-        "discussion_url": "https://news.ycombinator.com/item?id=48031109",
-        "site": "letsdatascience.com",
-        "points": 139,
-        "comments": 89,
-        "author": "debo_",
-        "age": "6h ago"
+        "age": "14h ago"
       }
     ],
     "ask": [
@@ -725,10 +725,22 @@
         "points": 4,
         "comments": 2,
         "author": "Gooblebrai",
-        "age": "46m ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 48032863,
+        "title": "Ask HN: Is the future everyone having 100 MCP processes running on their PC?",
+        "url": "https://news.ycombinator.com/item?id=48032863",
+        "discussion_url": "https://news.ycombinator.com/item?id=48032863",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 2,
+        "author": "ex-aws-dude",
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
         "id": 48029559,
         "title": ".de TLD Issue Solved",
         "url": "https://news.ycombinator.com/item?id=48029559",
@@ -737,10 +749,10 @@
         "points": 12,
         "comments": 0,
         "author": "kaltsturm",
-        "age": "10h ago"
+        "age": "12h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 47975676,
         "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
         "url": "https://news.ycombinator.com/item?id=47975676",
@@ -752,18 +764,6 @@
         "age": "4d ago"
       },
       {
-        "rank": 4,
-        "id": 48030302,
-        "title": "Codex's precision and attention to detail is *crazy* when set up correctly",
-        "url": "https://news.ycombinator.com/item?id=48030302",
-        "discussion_url": "https://news.ycombinator.com/item?id=48030302",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 11,
-        "author": "ditchfieldcaleb",
-        "age": "8h ago"
-      },
-      {
         "rank": 5,
         "id": 47975570,
         "title": "Ask HN: Who wants to be hired? (May 2026)",
@@ -771,7 +771,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=47975570",
         "site": "news.ycombinator.com",
         "points": 149,
-        "comments": 455,
+        "comments": 457,
         "author": "whoishiring",
         "age": "4d ago"
       }
@@ -779,15 +779,15 @@
     "show": [
       {
         "rank": 1,
-        "id": 48026342,
-        "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-        "url": "https://paletteinspiration.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48026342",
-        "site": "paletteinspiration.com",
-        "points": 162,
-        "comments": 58,
-        "author": "ouli",
-        "age": "14h ago"
+        "id": 48034587,
+        "title": "Show HN: Red Squares – GitHub outages as contributions",
+        "url": "https://red-squares.cian.lol/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48034587",
+        "site": "red-squares.cian.lol",
+        "points": 4,
+        "comments": 0,
+        "author": "cianmm",
+        "age": "26m ago"
       },
       {
         "rank": 2,
@@ -796,46 +796,46 @@
         "url": "https://news.ycombinator.com/item?id=48023496",
         "discussion_url": "https://news.ycombinator.com/item?id=48023496",
         "site": "news.ycombinator.com",
-        "points": 117,
-        "comments": 30,
+        "points": 121,
+        "comments": 31,
         "author": "mtricot",
-        "age": "17h ago"
+        "age": "19h ago"
       },
       {
         "rank": 3,
+        "id": 48026342,
+        "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+        "url": "https://paletteinspiration.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48026342",
+        "site": "paletteinspiration.com",
+        "points": 180,
+        "comments": 64,
+        "author": "ouli",
+        "age": "16h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48033338,
+        "title": "Show HN: Rdprrap – Rust Port of RDPWrap (Multi-Session RDP for Windows Desktop)",
+        "url": "https://github.com/kernalix7/rdprrap",
+        "discussion_url": "https://news.ycombinator.com/item?id=48033338",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "kernalix7",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 48023587,
         "title": "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
         "url": "https://github.com/aragossa/pii-shield",
         "discussion_url": "https://news.ycombinator.com/item?id=48023587",
         "site": "github.com",
-        "points": 23,
+        "points": 24,
         "comments": 4,
         "author": "aragoss",
-        "age": "17h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48021420,
-        "title": "Show HN: I built a new word game, Wordtrak",
-        "url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
-        "discussion_url": "https://news.ycombinator.com/item?id=48021420",
-        "site": "wordtrak.com",
-        "points": 69,
-        "comments": 40,
-        "author": "qrush",
-        "age": "20h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48023567,
-        "title": "Show HN: Codeberg (Forgejo) CLI, built with Xclif",
-        "url": "https://codeberg.org/thatxliner/codeberg-cli",
-        "discussion_url": "https://news.ycombinator.com/item?id=48023567",
-        "site": "codeberg.org",
-        "points": 13,
-        "comments": 1,
-        "author": "thatxliner",
-        "age": "17h ago"
+        "age": "19h ago"
       }
     ]
   }
