@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-06T15:20:32Z",
+  "generated": "2026-05-06T17:20:47Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 349,
+        "trending_score": 346,
         "downloads": 786631,
-        "likes": 3631,
+        "likes": 3637,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "mistralai/Mistral-Medium-3.5-128B",
-        "org": "mistralai",
-        "trending_score": 277,
-        "downloads": 16576,
-        "likes": 280,
-        "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
-        "tags": [
-          "safetensors",
-          "mistral3",
-          "vLLM",
-          "en",
-          "fr"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 265,
+        "trending_score": 271,
         "downloads": 55461,
-        "likes": 275,
+        "likes": 282,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -54,12 +37,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 234,
+        "trending_score": 232,
         "downloads": 155476,
-        "likes": 1316,
+        "likes": 1318,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "mistralai/Mistral-Medium-3.5-128B",
+        "org": "mistralai",
+        "trending_score": 222,
+        "downloads": 16576,
+        "likes": 281,
+        "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+        "tags": [
+          "safetensors",
+          "mistral3",
+          "vLLM",
+          "en",
+          "fr"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "XiaomiMiMo/MiMo-V2.5-Pro",
         "org": "XiaomiMiMo",
-        "trending_score": 151,
+        "trending_score": 150,
         "downloads": 16030,
-        "likes": 452,
+        "likes": 455,
         "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
         "tags": [
           "safetensors",
@@ -296,7 +296,7 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 12652,
+        "stars": 13086,
         "stars_delta": 6184,
         "language": "Rust",
         "language_color": "#dea584"
@@ -306,7 +306,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 29623,
+        "stars": 29859,
         "stars_delta": 629,
         "language": "Shell",
         "language_color": "#89e051"
@@ -316,7 +316,7 @@
         "name": "PriorLabs/TabPFN",
         "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
         "url": "https://github.com/PriorLabs/TabPFN",
-        "stars": 6507,
+        "stars": 6535,
         "stars_delta": 218,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "docusealco/docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
         "url": "https://github.com/docusealco/docuseal",
-        "stars": 14582,
+        "stars": 14655,
         "stars_delta": 772,
         "language": "Ruby",
         "language_color": "#701516"
@@ -336,7 +336,7 @@
         "name": "LearningCircuit/local-deep-research",
         "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
         "url": "https://github.com/LearningCircuit/local-deep-research",
-        "stars": 5491,
+        "stars": 5522,
         "stars_delta": 532,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 55552,
+        "stars": 55597,
         "stars_delta": 28493,
         "language": "Rust",
         "language_color": "#dea584"
@@ -358,7 +358,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 70029,
+        "stars": 70117,
         "stars_delta": 14697,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 62489,
+        "stars": 62626,
         "stars_delta": 25389,
         "language": "Shell",
         "language_color": "#89e051"
@@ -378,7 +378,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 44859,
+        "stars": 44954,
         "stars_delta": 9159,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 25856,
+        "stars": 25877,
         "stars_delta": 5645,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 116003,
+        "stars": 116156,
         "stars_delta": 105745,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 135456,
+        "stars": 135587,
         "stars_delta": 108753,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 25233,
+        "stars": 25269,
         "stars_delta": 22722,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 62489,
+        "stars": 62626,
         "stars_delta": 48299,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 21896,
+        "stars": 21938,
         "stars_delta": 19956,
         "language": "Python",
         "language_color": "#3572A5"
@@ -451,8 +451,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 903,
-        "total_stars": 14779,
+        "stars_28d": 904,
+        "total_stars": 14780,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -655,92 +655,116 @@
     "top": [
       {
         "rank": 1,
-        "id": 48034587,
-        "title": "Show HN: Red Squares – GitHub outages as contributions",
-        "url": "https://red-squares.cian.lol/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48034587",
-        "site": "red-squares.cian.lol",
-        "points": 602,
-        "comments": 135,
-        "author": "cianmm",
-        "age": "4h ago"
+        "id": 48037555,
+        "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+        "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+        "discussion_url": "https://news.ycombinator.com/item?id=48037555",
+        "site": "digitalfoundry.net",
+        "points": 267,
+        "comments": 79,
+        "author": "haunter",
+        "age": "1h ago"
       },
       {
         "rank": 2,
+        "id": 48037724,
+        "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+        "url": "https://tilde.run/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48037724",
+        "site": "tilde.run",
+        "points": 54,
+        "comments": 33,
+        "author": "ozkatz",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 48006967,
         "title": "The bottleneck was never the code",
         "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
         "discussion_url": "https://news.ycombinator.com/item?id=48006967",
         "site": "thetypicalset.com",
-        "points": 224,
-        "comments": 156,
+        "points": 327,
+        "comments": 222,
         "author": "Anon84",
         "age": "2d ago"
       },
       {
-        "rank": 3,
-        "id": 48034762,
-        "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-        "url": "https://catstret.ch/202605/srss-hipster202510/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48034762",
-        "site": "catstret.ch",
-        "points": 81,
-        "comments": 18,
-        "author": "jandeboevrie",
-        "age": "4h ago"
+        "rank": 4,
+        "id": 48038001,
+        "title": "Appearing Productive in the Workplace",
+        "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038001",
+        "site": "nooneshappy.com",
+        "points": 42,
+        "comments": 7,
+        "author": "diebillionaires",
+        "age": "1h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48031684,
         "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
         "discussion_url": "https://news.ycombinator.com/item?id=48031684",
         "site": "blog.cloudflare.com",
-        "points": 496,
-        "comments": 273,
+        "points": 552,
+        "comments": 315,
         "author": "rolph",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48031261,
-        "title": "StarFighter 16-Inch",
-        "url": "https://us.starlabs.systems/pages/starfighter",
-        "discussion_url": "https://news.ycombinator.com/item?id=48031261",
-        "site": "us.starlabs.systems",
-        "points": 526,
-        "comments": 262,
-        "author": "signa11",
-        "age": "13h ago"
+        "age": "14h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48038191,
+        "title": "Ask HN: Is anyone seriously considering a career change?",
+        "url": "https://news.ycombinator.com/item?id=48038191",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038191",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 3,
+        "author": "zeven7",
+        "age": "48m ago"
+      },
+      {
+        "rank": 2,
+        "id": 48037336,
+        "title": "Rumors of my death are slightly exaggerated",
+        "url": "https://news.ycombinator.com/item?id=48037336",
+        "discussion_url": "https://news.ycombinator.com/item?id=48037336",
+        "site": "news.ycombinator.com",
+        "points": 14,
+        "comments": 2,
+        "author": "CliffStoll",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48035508,
+        "title": "Ask HN: How to start up as an individual developer?",
+        "url": "https://news.ycombinator.com/item?id=48035508",
+        "discussion_url": "https://news.ycombinator.com/item?id=48035508",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "alexyan0431",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
         "id": 48033457,
         "title": "Ask HN: Who got hired with Who wants to be hired? (On 2026)",
         "url": "https://news.ycombinator.com/item?id=48033457",
         "discussion_url": "https://news.ycombinator.com/item?id=48033457",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 6,
+        "points": 9,
+        "comments": 7,
         "author": "Gooblebrai",
-        "age": "7h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48032863,
-        "title": "Ask HN: Is the future everyone having 100 MCP processes running on their PC?",
-        "url": "https://news.ycombinator.com/item?id=48032863",
-        "discussion_url": "https://news.ycombinator.com/item?id=48032863",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 2,
-        "author": "ex-aws-dude",
         "age": "9h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 47975676,
         "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
         "url": "https://news.ycombinator.com/item?id=47975676",
@@ -750,92 +774,68 @@
         "comments": 249,
         "author": "proberts",
         "age": "5d ago"
-      },
-      {
-        "rank": 4,
-        "id": 47975570,
-        "title": "Ask HN: Who wants to be hired? (May 2026)",
-        "url": "https://news.ycombinator.com/item?id=47975570",
-        "discussion_url": "https://news.ycombinator.com/item?id=47975570",
-        "site": "news.ycombinator.com",
-        "points": 149,
-        "comments": 467,
-        "author": "whoishiring",
-        "age": "5d ago"
-      },
-      {
-        "rank": 5,
-        "id": 47975571,
-        "title": "Ask HN: Who is hiring? (May 2026)",
-        "url": "https://news.ycombinator.com/item?id=47975571",
-        "discussion_url": "https://news.ycombinator.com/item?id=47975571",
-        "site": "news.ycombinator.com",
-        "points": 304,
-        "comments": 457,
-        "author": "whoishiring",
-        "age": "5d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48034587,
-        "title": "Show HN: Red Squares – GitHub outages as contributions",
-        "url": "https://red-squares.cian.lol/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48034587",
-        "site": "red-squares.cian.lol",
-        "points": 602,
-        "comments": 135,
-        "author": "cianmm",
-        "age": "4h ago"
+        "id": 48037724,
+        "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+        "url": "https://tilde.run/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48037724",
+        "site": "tilde.run",
+        "points": 54,
+        "comments": 33,
+        "author": "ozkatz",
+        "age": "1h ago"
       },
       {
         "rank": 2,
+        "id": 48038019,
+        "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+        "url": "https://play.templatical.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038019",
+        "site": "play.templatical.com",
+        "points": 12,
+        "comments": 0,
+        "author": "oahmadov",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48038257,
+        "title": "Show HN: Hallucinopedia",
+        "url": "http://halupedia.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038257",
+        "site": "halupedia.com",
+        "points": 14,
+        "comments": 2,
+        "author": "bstrama",
+        "age": "42m ago"
+      },
+      {
+        "rank": 4,
         "id": 48035677,
         "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
         "url": "https://github.com/sqliteai/adam",
         "discussion_url": "https://news.ycombinator.com/item?id=48035677",
         "site": "github.com",
-        "points": 13,
-        "comments": 0,
+        "points": 23,
+        "comments": 7,
         "author": "marcobambini",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 48023496,
         "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
         "url": "https://news.ycombinator.com/item?id=48023496",
         "discussion_url": "https://news.ycombinator.com/item?id=48023496",
         "site": "news.ycombinator.com",
-        "points": 131,
-        "comments": 34,
+        "points": 133,
+        "comments": 39,
         "author": "mtricot",
         "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48026342,
-        "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-        "url": "https://paletteinspiration.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48026342",
-        "site": "paletteinspiration.com",
-        "points": 195,
-        "comments": 70,
-        "author": "ouli",
-        "age": "21h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48036182,
-        "title": "Show HN: NFC tags are good material for pranks on Android",
-        "url": "https://mastodon.social/@maxwellito/116524250100439866",
-        "discussion_url": "https://news.ycombinator.com/item?id=48036182",
-        "site": "mastodon.social",
-        "points": 5,
-        "comments": 0,
-        "author": "maxwellito",
-        "age": "1h ago"
       }
     ]
   }
