@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-06T17:20:47Z",
+  "generated": "2026-05-06T19:18:57Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 346,
+        "trending_score": 351,
         "downloads": 786631,
-        "likes": 3637,
+        "likes": 3645,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 271,
+        "trending_score": 275,
         "downloads": 55461,
-        "likes": 282,
+        "likes": 286,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "openai/privacy-filter",
         "org": "openai",
-        "trending_score": 232,
+        "trending_score": 234,
         "downloads": 155476,
-        "likes": 1318,
+        "likes": 1324,
         "url": "https://huggingface.co/openai/privacy-filter",
         "tags": [
           "transformers",
@@ -57,7 +57,7 @@
         "rank": 4,
         "name": "mistralai/Mistral-Medium-3.5-128B",
         "org": "mistralai",
-        "trending_score": 222,
+        "trending_score": 211,
         "downloads": 16576,
         "likes": 281,
         "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "XiaomiMiMo/MiMo-V2.5-Pro",
-        "org": "XiaomiMiMo",
-        "trending_score": 150,
-        "downloads": 16030,
-        "likes": 455,
-        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+        "name": "SeeSee21/Z-Anime",
+        "org": "SeeSee21",
+        "trending_score": 147,
+        "downloads": 3819,
+        "likes": 186,
+        "url": "https://huggingface.co/SeeSee21/Z-Anime",
         "tags": [
+          "diffusers",
           "safetensors",
-          "mimo_v2",
-          "text-generation",
-          "agent",
-          "long-context"
+          "gguf",
+          "z-anime",
+          "text-to-image"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 60.24,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 70.3291780362869,
+        "speed_tps": 67.9428006061735,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.87,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 66.9025890225682,
+        "speed_tps": 66.8495400438939,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.28,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 46.0962144418292,
+        "speed_tps": 45.5335773549033,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.18,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 135.360554749133,
+        "speed_tps": 132.512615862978,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.8,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 83.4776372222336,
+        "speed_tps": 80.9455597984183,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -296,7 +296,7 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 13086,
+        "stars": 13337,
         "stars_delta": 6184,
         "language": "Rust",
         "language_color": "#dea584"
@@ -306,7 +306,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 29859,
+        "stars": 30064,
         "stars_delta": 629,
         "language": "Shell",
         "language_color": "#89e051"
@@ -316,7 +316,7 @@
         "name": "PriorLabs/TabPFN",
         "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
         "url": "https://github.com/PriorLabs/TabPFN",
-        "stars": 6535,
+        "stars": 6542,
         "stars_delta": 218,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "docusealco/docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
         "url": "https://github.com/docusealco/docuseal",
-        "stars": 14655,
+        "stars": 14712,
         "stars_delta": 772,
         "language": "Ruby",
         "language_color": "#701516"
@@ -336,7 +336,7 @@
         "name": "LearningCircuit/local-deep-research",
         "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
         "url": "https://github.com/LearningCircuit/local-deep-research",
-        "stars": 5522,
+        "stars": 5544,
         "stars_delta": 532,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 55597,
+        "stars": 55640,
         "stars_delta": 28493,
         "language": "Rust",
         "language_color": "#dea584"
@@ -358,7 +358,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 70117,
+        "stars": 70179,
         "stars_delta": 14697,
         "language": "Python",
         "language_color": "#3572A5"
@@ -368,7 +368,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 62626,
+        "stars": 62741,
         "stars_delta": 25389,
         "language": "Shell",
         "language_color": "#89e051"
@@ -378,7 +378,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 44954,
+        "stars": 45031,
         "stars_delta": 9159,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -388,7 +388,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 25877,
+        "stars": 25884,
         "stars_delta": 5645,
         "language": "Python",
         "language_color": "#3572A5"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 116156,
+        "stars": 116243,
         "stars_delta": 105745,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 135587,
+        "stars": 135676,
         "stars_delta": 108753,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 25269,
+        "stars": 25295,
         "stars_delta": 22722,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 62626,
+        "stars": 62742,
         "stars_delta": 48299,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 21938,
+        "stars": 21967,
         "stars_delta": 19956,
         "language": "Python",
         "language_color": "#3572A5"
@@ -660,182 +660,182 @@
         "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
         "discussion_url": "https://news.ycombinator.com/item?id=48037555",
         "site": "digitalfoundry.net",
-        "points": 267,
-        "comments": 79,
+        "points": 546,
+        "comments": 177,
         "author": "haunter",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 48037724,
-        "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
-        "url": "https://tilde.run/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48037724",
-        "site": "tilde.run",
-        "points": 54,
-        "comments": 33,
-        "author": "ozkatz",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48006967,
-        "title": "The bottleneck was never the code",
-        "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-        "discussion_url": "https://news.ycombinator.com/item?id=48006967",
-        "site": "thetypicalset.com",
-        "points": 327,
-        "comments": 222,
-        "author": "Anon84",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
         "id": 48038001,
         "title": "Appearing Productive in the Workplace",
         "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
         "discussion_url": "https://news.ycombinator.com/item?id=48038001",
         "site": "nooneshappy.com",
-        "points": 42,
-        "comments": 7,
+        "points": 222,
+        "comments": 76,
         "author": "diebillionaires",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48038827,
+        "title": "From Supabase to Clerk to Better Auth",
+        "url": "https://blog.val.town/better-auth",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038827",
+        "site": "blog.val.town",
+        "points": 78,
+        "comments": 25,
+        "author": "stevekrouse",
         "age": "1h ago"
       },
       {
+        "rank": 4,
+        "id": 48039739,
+        "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+        "url": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48039739",
+        "site": "electrek.co",
+        "points": 79,
+        "comments": 68,
+        "author": "doener",
+        "age": "53m ago"
+      },
+      {
         "rank": 5,
-        "id": 48031684,
-        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48031684",
-        "site": "blog.cloudflare.com",
-        "points": 552,
-        "comments": 315,
-        "author": "rolph",
-        "age": "14h ago"
+        "id": 48006967,
+        "title": "The bottleneck was never the code",
+        "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+        "discussion_url": "https://news.ycombinator.com/item?id=48006967",
+        "site": "thetypicalset.com",
+        "points": 385,
+        "comments": 260,
+        "author": "Anon84",
+        "age": "2d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48039702,
+        "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
+        "url": "https://news.ycombinator.com/item?id=48039702",
+        "discussion_url": "https://news.ycombinator.com/item?id=48039702",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 1,
+        "author": "tukunjil",
+        "age": "56m ago"
+      },
+      {
+        "rank": 2,
         "id": 48038191,
         "title": "Ask HN: Is anyone seriously considering a career change?",
         "url": "https://news.ycombinator.com/item?id=48038191",
         "discussion_url": "https://news.ycombinator.com/item?id=48038191",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 3,
+        "points": 19,
+        "comments": 9,
         "author": "zeven7",
-        "age": "48m ago"
+        "age": "2h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 48038079,
+        "title": "Reviewing in the Age of AI",
+        "url": "https://news.ycombinator.com/item?id=48038079",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038079",
+        "site": "news.ycombinator.com",
+        "points": 6,
+        "comments": 4,
+        "author": "maxalbarello",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 48037336,
         "title": "Rumors of my death are slightly exaggerated",
         "url": "https://news.ycombinator.com/item?id=48037336",
         "discussion_url": "https://news.ycombinator.com/item?id=48037336",
         "site": "news.ycombinator.com",
-        "points": 14,
-        "comments": 2,
+        "points": 19,
+        "comments": 3,
         "author": "CliffStoll",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 48035508,
         "title": "Ask HN: How to start up as an individual developer?",
         "url": "https://news.ycombinator.com/item?id=48035508",
         "discussion_url": "https://news.ycombinator.com/item?id=48035508",
         "site": "news.ycombinator.com",
-        "points": 2,
+        "points": 4,
         "comments": 0,
         "author": "alexyan0431",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48033457,
-        "title": "Ask HN: Who got hired with Who wants to be hired? (On 2026)",
-        "url": "https://news.ycombinator.com/item?id=48033457",
-        "discussion_url": "https://news.ycombinator.com/item?id=48033457",
-        "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 7,
-        "author": "Gooblebrai",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 47975676,
-        "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-        "url": "https://news.ycombinator.com/item?id=47975676",
-        "discussion_url": "https://news.ycombinator.com/item?id=47975676",
-        "site": "news.ycombinator.com",
-        "points": 206,
-        "comments": 249,
-        "author": "proberts",
-        "age": "5d ago"
+        "age": "6h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48037724,
-        "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
-        "url": "https://tilde.run/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48037724",
-        "site": "tilde.run",
-        "points": 54,
-        "comments": 33,
-        "author": "ozkatz",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 48038019,
         "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
         "url": "https://play.templatical.com",
         "discussion_url": "https://news.ycombinator.com/item?id=48038019",
         "site": "play.templatical.com",
-        "points": 12,
-        "comments": 0,
+        "points": 38,
+        "comments": 13,
         "author": "oahmadov",
-        "age": "1h ago"
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48037724,
+        "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+        "url": "https://tilde.run/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48037724",
+        "site": "tilde.run",
+        "points": 89,
+        "comments": 73,
+        "author": "ozkatz",
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 48038257,
-        "title": "Show HN: Hallucinopedia",
-        "url": "http://halupedia.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48038257",
-        "site": "halupedia.com",
-        "points": 14,
-        "comments": 2,
-        "author": "bstrama",
-        "age": "42m ago"
+        "id": 48039219,
+        "title": "Show HN: Tuiql – A keyboard-driven SQL database client in the terminal",
+        "url": "https://github.com/okira-e/tuiql",
+        "discussion_url": "https://news.ycombinator.com/item?id=48039219",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "okira_e",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 48035677,
-        "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
-        "url": "https://github.com/sqliteai/adam",
-        "discussion_url": "https://news.ycombinator.com/item?id=48035677",
-        "site": "github.com",
-        "points": 23,
-        "comments": 7,
-        "author": "marcobambini",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
         "id": 48023496,
         "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
         "url": "https://news.ycombinator.com/item?id=48023496",
         "discussion_url": "https://news.ycombinator.com/item?id=48023496",
         "site": "news.ycombinator.com",
-        "points": 133,
+        "points": 135,
         "comments": 39,
         "author": "mtricot",
         "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48038825,
+        "title": "Show HN: Upskill – skill to find skills for your AI agents",
+        "url": "https://github.com/Autoloops/upskill",
+        "discussion_url": "https://news.ycombinator.com/item?id=48038825",
+        "site": "github.com",
+        "points": 3,
+        "comments": 6,
+        "author": "kushalpatil07",
+        "age": "1h ago"
       }
     ]
   }
