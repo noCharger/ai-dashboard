@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-08T01:53:09Z",
+  "generated": "2026-05-08T04:47:00Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 369,
+        "trending_score": 376,
         "downloads": 71149,
-        "likes": 381,
+        "likes": 388,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 358,
+        "trending_score": 356,
         "downloads": 946264,
-        "likes": 3725,
+        "likes": 3727,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "openai/privacy-filter",
-        "org": "openai",
-        "trending_score": 199,
-        "downloads": 165240,
-        "likes": 1344,
-        "url": "https://huggingface.co/openai/privacy-filter",
-        "tags": [
-          "transformers",
-          "onnx",
-          "safetensors",
-          "openai_privacy_filter",
-          "token-classification"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "Zyphra/ZAYA1-8B",
         "org": "Zyphra",
-        "trending_score": 197,
+        "trending_score": 208,
         "downloads": 539,
-        "likes": 198,
+        "likes": 210,
         "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
         "tags": [
           "safetensors",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "openai/privacy-filter",
+        "org": "openai",
+        "trending_score": 199,
+        "downloads": 165240,
+        "likes": 1347,
+        "url": "https://huggingface.co/openai/privacy-filter",
+        "tags": [
+          "transformers",
+          "onnx",
+          "safetensors",
+          "openai_privacy_filter",
+          "token-classification"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "SeeSee21/Z-Anime",
         "org": "SeeSee21",
-        "trending_score": 161,
+        "trending_score": 168,
         "downloads": 4460,
-        "likes": 218,
+        "likes": 225,
         "url": "https://huggingface.co/SeeSee21/Z-Anime",
         "tags": [
           "diffusers",
@@ -107,7 +107,7 @@
         "intelligence_index": 58.87,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 62.2270801495457,
+        "speed_tps": 61.32705247668,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.28,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 42.3748843914905,
+        "speed_tps": 42.5142972107769,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.18,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 128.159124684252,
+        "speed_tps": 119.491286858148,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.8,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 81.2500884675576,
+        "speed_tps": 79.7016534669847,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -296,7 +296,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 11856,
+        "stars": 12340,
         "stars_delta": 1343,
         "language": "Python",
         "language_color": "#3572A5"
@@ -306,7 +306,7 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 19054,
+        "stars": 19666,
         "stars_delta": 5799,
         "language": "Rust",
         "language_color": "#dea584"
@@ -316,7 +316,7 @@
         "name": "z-lab/dflash",
         "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
         "url": "https://github.com/z-lab/dflash",
-        "stars": 3518,
+        "stars": 3564,
         "stars_delta": 671,
         "language": "Python",
         "language_color": "#3572A5"
@@ -326,7 +326,7 @@
         "name": "InsForge/InsForge",
         "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
         "url": "https://github.com/InsForge/InsForge",
-        "stars": 8882,
+        "stars": 8929,
         "stars_delta": 460,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -336,7 +336,7 @@
         "name": "LearningCircuit/local-deep-research",
         "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
         "url": "https://github.com/LearningCircuit/local-deep-research",
-        "stars": 6287,
+        "stars": 6381,
         "stars_delta": 559,
         "language": "Python",
         "language_color": "#3572A5"
@@ -348,7 +348,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 71148,
+        "stars": 71260,
         "stars_delta": 14322,
         "language": "Python",
         "language_color": "#3572A5"
@@ -358,7 +358,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 46188,
+        "stars": 46285,
         "stars_delta": 11930,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -368,7 +368,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 64965,
+        "stars": 65226,
         "stars_delta": 16579,
         "language": "Shell",
         "language_color": "#89e051"
@@ -378,7 +378,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 26261,
+        "stars": 26313,
         "stars_delta": 5580,
         "language": "Python",
         "language_color": "#3572A5"
@@ -388,7 +388,7 @@
         "name": "warpdotdev/warp",
         "description": "Warp is an agentic development environment, born out of the terminal.",
         "url": "https://github.com/warpdotdev/warp",
-        "stars": 56373,
+        "stars": 56436,
         "stars_delta": 8625,
         "language": "Rust",
         "language_color": "#dea584"
@@ -400,7 +400,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 118789,
+        "stars": 119147,
         "stars_delta": 110765,
         "language": "",
         "language_color": "#586069"
@@ -410,7 +410,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 137628,
+        "stars": 137878,
         "stars_delta": 107836,
         "language": "Python",
         "language_color": "#3572A5"
@@ -420,7 +420,7 @@
         "name": "multica-ai/multica",
         "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
         "url": "https://github.com/multica-ai/multica",
-        "stars": 25873,
+        "stars": 25941,
         "stars_delta": 23598,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -430,7 +430,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 64965,
+        "stars": 65226,
         "stars_delta": 51703,
         "language": "Shell",
         "language_color": "#89e051"
@@ -440,7 +440,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 22387,
+        "stars": 22442,
         "stars_delta": 20653,
         "language": "Python",
         "language_color": "#3572A5"
@@ -451,8 +451,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 906,
-        "total_stars": 14790,
+        "stars_28d": 908,
+        "total_stars": 14792,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -462,8 +462,8 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 445,
-        "total_stars": 116494,
+        "stars_28d": 449,
+        "total_stars": 116498,
         "description": "The agent engineering platform. Available in TypeScript!",
         "category": "General Agent Stack",
         "language": "Python",
@@ -473,8 +473,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 372,
-        "total_stars": 37465,
+        "stars_28d": 373,
+        "total_stars": 37466,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -495,8 +495,8 @@
         "rank": 5,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 157,
-        "total_stars": 175219,
+        "stars_28d": 158,
+        "total_stars": 175220,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
         "language": "Python",
@@ -547,19 +547,6 @@
       },
       {
         "rank": 4,
-        "title": "VibeVoice Technical Report",
-        "authors": [
-          "Zhiliang Peng",
-          "Jianwei Yu",
-          "Wenhui Wang"
-        ],
-        "url": "https://huggingface.co/papers/2508.19205",
-        "categories": [],
-        "upvotes": 169,
-        "published": "2025-08-26"
-      },
-      {
-        "rank": 5,
         "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
         "authors": [
           "Jiaqing Liang",
@@ -570,83 +557,100 @@
         "categories": [],
         "upvotes": 16,
         "published": "2026-04-17"
+      },
+      {
+        "rank": 5,
+        "title": "VibeVoice Technical Report",
+        "authors": [
+          "Zhiliang Peng",
+          "Jianwei Yu",
+          "Wenhui Wang"
+        ],
+        "url": "https://huggingface.co/papers/2508.19205",
+        "categories": [],
+        "upvotes": 169,
+        "published": "2025-08-26"
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
+        "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
         "authors": [
-          "Yijun Lu",
-          "Rui Ye",
-          "Yuwen Du"
+          "Daniel Zheng",
+          "Ingrid von Glehn",
+          "Yori Zwols"
         ],
-        "url": "https://arxiv.org/abs/2605.05191",
+        "url": "https://arxiv.org/abs/2605.06651",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-05-07"
+        "published": "2026-05-08"
       },
       {
         "rank": 2,
-        "title": "Executable World Models for ARC-AGI-3 in the Era of Coding Agents",
+        "title": "GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation",
         "authors": [
-          "Sergey Rodionov"
+          "Ziyu Zhai",
+          "Siyou Li",
+          "Juexi Shao"
         ],
-        "url": "https://arxiv.org/abs/2605.05138",
+        "url": "https://arxiv.org/abs/2605.06641",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CV"
         ],
         "upvotes": null,
-        "published": "2026-05-07"
+        "published": "2026-05-08"
       },
       {
         "rank": 3,
-        "title": "Position: Embodied AI Requires a Privacy-Utility Trade-off",
+        "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
         "authors": [
-          "Xiaoliang Fan",
-          "Jiarui Chen",
-          "Zhuodong Liu"
+          "Tianle Wang",
+          "Zhaoyang Wang",
+          "Guangchen Lan"
         ],
-        "url": "https://arxiv.org/abs/2605.05017",
+        "url": "https://arxiv.org/abs/2605.06638",
         "categories": [
           "cs.AI",
-          "cs.RO"
+          "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-05-07"
+        "published": "2026-05-08"
       },
       {
         "rank": 4,
-        "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
+        "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
         "authors": [
-          "Zhiqing Cui",
-          "Haotong Xie",
-          "Jiahao Yuan"
+          "Zhexuan Wang",
+          "Xuebo Liu",
+          "Li Wang"
         ],
-        "url": "https://arxiv.org/abs/2605.05007",
+        "url": "https://arxiv.org/abs/2605.06623",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-05-07"
+        "published": "2026-05-08"
       },
       {
         "rank": 5,
-        "title": "On-line Learning in Tree MDPs by Treating Policies as Bandit Arms",
+        "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
         "authors": [
-          "Anvay Shah",
-          "Ramsundar Anandanarayanan",
-          "Sharayu Moharir"
+          "Siru Ouyang",
+          "Jun Yan",
+          "Yanfei Chen"
         ],
-        "url": "https://arxiv.org/abs/2605.04979",
+        "url": "https://arxiv.org/abs/2605.06614",
         "categories": [
           "cs.AI",
-          "cs.LG"
+          "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-05-07"
+        "published": "2026-05-08"
       }
     ]
   },
@@ -655,62 +659,62 @@
       {
         "rank": 1,
         "id": 48055913,
-        "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
         "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
         "discussion_url": "https://news.ycombinator.com/item?id=48055913",
         "site": "theverge.com",
-        "points": 213,
-        "comments": 71,
+        "points": 425,
+        "comments": 294,
         "author": "stefanpie",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48053623,
-        "title": "Dirtyfrag: Universal Linux LPE",
-        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-        "discussion_url": "https://news.ycombinator.com/item?id=48053623",
-        "site": "openwall.com",
-        "points": 408,
-        "comments": 187,
-        "author": "flipped",
         "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 48056227,
         "title": "Maybe you shouldn't install new software for a bit",
         "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
         "discussion_url": "https://news.ycombinator.com/item?id=48056227",
         "site": "xeiaso.net",
-        "points": 116,
-        "comments": 56,
+        "points": 284,
+        "comments": 119,
         "author": "psxuaw",
-        "age": "2h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48053623,
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "discussion_url": "https://news.ycombinator.com/item?id=48053623",
+        "site": "openwall.com",
+        "points": 503,
+        "comments": 210,
+        "author": "flipped",
+        "age": "9h ago"
       },
       {
         "rank": 4,
-        "id": 48056158,
-        "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-        "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-        "discussion_url": "https://news.ycombinator.com/item?id=48056158",
-        "site": "uchicagomedicine.org",
-        "points": 51,
-        "comments": 18,
-        "author": "hhs",
-        "age": "2h ago"
+        "id": 48054423,
+        "title": "Cloudflare to cut about 20% workforce",
+        "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48054423",
+        "site": "reuters.com",
+        "points": 399,
+        "comments": 238,
+        "author": "PriorityLeft",
+        "age": "8h ago"
       },
       {
         "rank": 5,
         "id": 48049653,
-        "title": "The Burning Man MOOP Map",
+        "title": "The map that keeps Burning Man honest",
         "url": "https://www.not-ship.com/burning-man-moop/",
         "discussion_url": "https://news.ycombinator.com/item?id=48049653",
         "site": "not-ship.com",
-        "points": 536,
-        "comments": 282,
+        "points": 577,
+        "comments": 300,
         "author": "speckx",
-        "age": "11h ago"
+        "age": "14h ago"
       }
     ],
     "ask": [
@@ -724,7 +728,7 @@
         "points": 2,
         "comments": 0,
         "author": "paulbernard",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -734,9 +738,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48055353",
         "site": "news.ycombinator.com",
         "points": 6,
-        "comments": 8,
+        "comments": 10,
         "author": "MetaWhirledPeas",
-        "age": "4h ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
@@ -748,7 +752,7 @@
         "points": 8,
         "comments": 8,
         "author": "ex-aws-dude",
-        "age": "7h ago"
+        "age": "10h ago"
       },
       {
         "rank": 4,
@@ -760,7 +764,7 @@
         "points": 5,
         "comments": 5,
         "author": "omertt27",
-        "age": "10h ago"
+        "age": "13h ago"
       },
       {
         "rank": 5,
@@ -769,10 +773,10 @@
         "url": "https://news.ycombinator.com/item?id=48045237",
         "discussion_url": "https://news.ycombinator.com/item?id=48045237",
         "site": "news.ycombinator.com",
-        "points": 14,
-        "comments": 27,
+        "points": 15,
+        "comments": 28,
         "author": "lishunsheng",
-        "age": "21h ago"
+        "age": "1d ago"
       }
     ],
     "show": [
@@ -783,10 +787,10 @@
         "url": "https://github.com/wojtczyk/trust",
         "discussion_url": "https://news.ycombinator.com/item?id=48045939",
         "site": "github.com",
-        "points": 123,
-        "comments": 74,
+        "points": 132,
+        "comments": 75,
         "author": "wojtczyk",
-        "age": "19h ago"
+        "age": "22h ago"
       },
       {
         "rank": 2,
@@ -795,10 +799,10 @@
         "url": "https://github.com/kubetail-org/kstack",
         "discussion_url": "https://news.ycombinator.com/item?id=48045711",
         "site": "github.com",
-        "points": 16,
+        "points": 18,
         "comments": 7,
         "author": "andres",
-        "age": "20h ago"
+        "age": "23h ago"
       },
       {
         "rank": 3,
@@ -807,10 +811,10 @@
         "url": "https://github.com/ReviewStage/stage-cli",
         "discussion_url": "https://news.ycombinator.com/item?id=48050732",
         "site": "github.com",
-        "points": 31,
-        "comments": 30,
+        "points": 35,
+        "comments": 31,
         "author": "cpan22",
-        "age": "10h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
@@ -819,10 +823,10 @@
         "url": "https://github.com/darkrishabh/agent-skills-eval",
         "discussion_url": "https://news.ycombinator.com/item?id=48046023",
         "site": "github.com",
-        "points": 67,
-        "comments": 33,
+        "points": 68,
+        "comments": 34,
         "author": "darkrishabh",
-        "age": "19h ago"
+        "age": "22h ago"
       },
       {
         "rank": 5,
