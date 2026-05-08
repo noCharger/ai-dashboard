@@ -1,4 +1,4 @@
-"""Fetch SWE-bench Verified leaderboard data."""
+"""Fetch SWE-bench Verified leaderboard data (mini-SWE-agent v2 standardized)."""
 
 from __future__ import annotations
 
@@ -16,10 +16,12 @@ LEADERBOARD_DATA_PATTERN = re.compile(
     r'<script type="application/json" id="leaderboard-data">\s*(\[.*?\])\s*</script>',
     re.DOTALL,
 )
+MINI_AGENT_TAG = "Mini: 2.0.0"
+NAME_PREFIX = re.compile(r"^mini-SWE-agent\s*\+\s*", re.IGNORECASE)
 
 
 def fetch(limit: int = 5) -> list[dict]:
-    """Return top coding agents from SWE-bench Verified."""
+    """Return top coding agents from SWE-bench Verified (mini-SWE-agent v2 only)."""
     try:
         return _fetch_from_embedded_json(limit)
     except Exception as exc:
@@ -28,7 +30,6 @@ def fetch(limit: int = 5) -> list[dict]:
 
 
 def _fetch_from_embedded_json(limit: int) -> list[dict]:
-    """Parse the leaderboard JSON embedded on the SWE-bench homepage."""
     html = fetch_html(SWEBENCH_URL)
     match = LEADERBOARD_DATA_PATTERN.search(html)
     if not match:
@@ -36,62 +37,67 @@ def _fetch_from_embedded_json(limit: int) -> list[dict]:
 
     leaderboards = json.loads(match.group(1))
     verified = next(
-        (leaderboard for leaderboard in leaderboards if leaderboard.get("name") == "Verified"),
+        (lb for lb in leaderboards if lb.get("name") == "Verified"),
         None,
     )
     if not isinstance(verified, dict):
         raise RuntimeError("Verified leaderboard not found in SWE-bench payload")
 
-    entries = sorted(
-        verified.get("results", []),
-        key=lambda item: float(item.get("resolved", 0) or 0),
-        reverse=True,
-    )
+    # Keep only standardized mini-SWE-agent v2 entries that have cost data
+    entries = [
+        e for e in verified.get("results", [])
+        if MINI_AGENT_TAG in (e.get("tags") or [])
+        and e.get("resolved") is not None
+        and e.get("instance_cost") is not None
+    ]
+    entries.sort(key=lambda e: float(e.get("resolved", 0)), reverse=True)
 
     results = []
     for rank, entry in enumerate(entries[:limit], start=1):
         site = entry.get("site")
         if isinstance(site, list):
-            site = next((url for url in site if url), "")
+            site = next((u for u in site if u), "")
+
+        name = NAME_PREFIX.sub("", entry.get("name", "")).strip()
+        org = _extract_org(entry)
+        resolved = round(float(entry["resolved"]), 1)
+        cost = round(float(entry["instance_cost"]), 4)
+        cost_per_bug = round(cost / (resolved / 100), 2) if resolved else None
 
         results.append({
             "rank": rank,
-            "name": entry.get("name", ""),
-            "org": _extract_org(entry),
-            "score": round(float(entry.get("resolved", 0) or 0), 2),
+            "name": name,
+            "org": org,
+            "score": resolved,
             "score_unit": "% resolved",
+            "avg_cost_usd": cost,
+            "cost_per_bug": cost_per_bug,
             "url": site or SWEBENCH_VERIFIED_PAGE,
             "verified": bool(entry.get("checked", False)),
+            "date": entry.get("date", ""),
         })
 
-    logger.info("Fetched %d entries from SWE-bench Verified", len(results))
+    logger.info("Fetched %d entries from SWE-bench Verified (mini-SWE-agent v2)", len(results))
     return results
 
 
 def _extract_org(entry: dict) -> str:
-    """Prefer explicit Org tags, then fall back to name heuristics."""
     for tag in entry.get("tags", []):
-        if isinstance(tag, str) and tag.startswith("Org: "):
+        if isinstance(tag, str) and tag.startswith("Org: ") and tag != "Org: SWE-agent":
             return tag[5:]
-
     name = str(entry.get("name", ""))
     known = {
-        "Claude": "Anthropic",
-        "Anthropic": "Anthropic",
-        "GPT": "OpenAI",
-        "OpenAI": "OpenAI",
-        "o1": "OpenAI",
-        "o3": "OpenAI",
-        "Gemini": "Google",
-        "Google": "Google",
+        "Claude": "Anthropic", "Anthropic": "Anthropic",
+        "GPT": "OpenAI", "OpenAI": "OpenAI", "o1": "OpenAI", "o3": "OpenAI", "Codex": "OpenAI",
+        "Gemini": "Google", "Google": "Google",
         "Grok": "xAI",
         "DeepSeek": "DeepSeek",
         "Llama": "Meta",
-        "Devstral": "Mistral AI",
-        "Mistral": "Mistral AI",
-        "Amazon": "Amazon",
-        "Nova": "Amazon",
-        "Codex": "OpenAI",
+        "Devstral": "Mistral AI", "Mistral": "Mistral AI",
+        "Amazon": "Amazon", "Nova": "Amazon",
+        "Kimi": "Moonshot AI",
+        "GLM": "Zhipu AI",
+        "MiniMax": "Minimax",
     }
     for keyword, org in known.items():
         if keyword.lower() in name.lower():

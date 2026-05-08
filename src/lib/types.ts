@@ -34,6 +34,10 @@ export interface AgentEntry {
   score_unit: string; // e.g. "%", "pass@1"
   url: string;
   verified: boolean;
+  // SWE-bench specific (coding tab only)
+  avg_cost_usd?: number | null;
+  cost_per_bug?: number | null;
+  date?: string;
 }
 
 // ---- GitHub Repos ----
@@ -71,6 +75,8 @@ export interface Paper {
   categories: string[]; // e.g. ["cs.CL", "cs.AI"]
   upvotes: number | null;
   published: string; // ISO date
+  github_repo?: string | null;
+  github_stars?: number | null;
 }
 
 // ---- Hacker News ----

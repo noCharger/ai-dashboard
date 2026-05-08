@@ -101,6 +101,67 @@ const agentColumns = [
   },
 ];
 
+function CodingCard({ entry, maxScore }: { entry: AgentEntry; maxScore: number }) {
+  const barPct = maxScore > 0 ? (entry.score / maxScore) * 100 : 0;
+  const costColor =
+    entry.cost_per_bug == null
+      ? ""
+      : entry.cost_per_bug < 0.2
+      ? "text-emerald-600 dark:text-emerald-400"
+      : entry.cost_per_bug < 0.6
+      ? "text-amber-600 dark:text-amber-400"
+      : "text-rose-500 dark:text-rose-400";
+
+  return (
+    <div className="py-3 border-b border-slate-100 dark:border-slate-800 last:border-b-0">
+      <div className="flex items-start gap-3">
+        <span className="w-6 flex-shrink-0 text-center font-mono text-sm text-slate-400 pt-0.5">
+          {entry.rank}
+        </span>
+        <div className="flex-1 min-w-0">
+          {/* Name + score */}
+          <div className="flex items-baseline justify-between gap-2">
+            <a
+              href={entry.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm font-semibold text-slate-900 dark:text-slate-100 hover:underline leading-snug truncate"
+            >
+              {entry.name}
+            </a>
+            <span className="flex-shrink-0 font-mono text-sm font-bold text-blue-600 dark:text-blue-400">
+              {entry.score}%
+            </span>
+          </div>
+
+          {/* Bar */}
+          <div className="mt-1.5 h-1.5 w-full rounded-full bg-slate-100 dark:bg-slate-800 overflow-hidden">
+            <div
+              className="h-full rounded-full bg-blue-500 dark:bg-blue-400 transition-all"
+              style={{ width: `${barPct}%` }}
+            />
+          </div>
+
+          {/* Org + cost metrics */}
+          <div className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-0.5 text-xs">
+            <span className="text-slate-400 dark:text-slate-500">{entry.org}</span>
+            {entry.avg_cost_usd != null && (
+              <span className="text-slate-500 dark:text-slate-400">
+                ${entry.avg_cost_usd.toFixed(2)}/task
+              </span>
+            )}
+            {entry.cost_per_bug != null && (
+              <span className={`font-semibold ${costColor}`} title="Average cost per bug resolved">
+                ${entry.cost_per_bug.toFixed(2)}/bug fixed
+              </span>
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 const trendingColumns = [
   {
     header: "#",
@@ -269,13 +330,37 @@ export default function ModelSection({
           <TabGroup tabs={AGENT_MODEL_TABS}>
             {(activeTab) => {
               const meta = AGENT_MODEL_META[activeTab];
+              const entries = agentDataMap[activeTab] ?? [];
               return (
                 <>
                   <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
                     <p className="text-xs text-slate-500 dark:text-slate-400">{meta.note}</p>
                     <VizSource source={meta.source} />
                   </div>
-                  <RankTable data={agentDataMap[activeTab] ?? []} columns={agentColumns} />
+                  {activeTab === "coding" ? (
+                    <>
+                      <div className="mb-2 flex justify-end gap-4 text-[10px] font-medium uppercase tracking-wide text-slate-400 dark:text-slate-500">
+                        <span>resolve %</span>
+                        <span className="text-emerald-600 dark:text-emerald-500">&lt;$0.20</span>
+                        <span className="text-amber-600 dark:text-amber-500">$0.20–0.60</span>
+                        <span className="text-rose-500 dark:text-rose-400">&gt;$0.60 / bug</span>
+                      </div>
+                      <div>
+                        {entries.map((entry) => (
+                          <CodingCard
+                            key={entry.name}
+                            entry={entry}
+                            maxScore={entries[0]?.score ?? 100}
+                          />
+                        ))}
+                      </div>
+                      <p className="mt-2 text-[10px] text-slate-400 dark:text-slate-500">
+                        Standardized with mini-SWE-agent v2 · SWE-bench Verified (500 instances)
+                      </p>
+                    </>
+                  ) : (
+                    <RankTable data={entries} columns={agentColumns} />
+                  )}
                 </>
               );
             }}

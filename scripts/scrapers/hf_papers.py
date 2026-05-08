@@ -95,6 +95,8 @@ def _normalize_papers(
             "categories": [],
             "upvotes": paper.get("upvotes", 0),
             "published": published,
+            "github_repo": paper.get("githubRepo") or None,
+            "github_stars": paper.get("githubStars") or None,
         })
         if len(results) >= limit:
             break
