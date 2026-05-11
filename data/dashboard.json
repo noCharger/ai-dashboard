@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-11T01:56:50Z",
+  "generated": "2026-05-11T05:53:04Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 405,
+        "trending_score": 408,
         "downloads": 144251,
-        "likes": 540,
+        "likes": 557,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Zyphra/ZAYA1-8B",
         "org": "Zyphra",
-        "trending_score": 372,
+        "trending_score": 380,
         "downloads": 44834,
-        "likes": 376,
+        "likes": 385,
         "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
         "tags": [
           "safetensors",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 288,
+        "trending_score": 289,
         "downloads": 1339144,
-        "likes": 3820,
+        "likes": 3827,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "google/gemma-4-31B-it-assistant",
-        "org": "google",
-        "trending_score": 191,
-        "downloads": 56628,
-        "likes": 196,
-        "url": "https://huggingface.co/google/gemma-4-31B-it-assistant",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "gemma4_assistant",
-          "text-generation",
-          "any-to-any"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "HiDream-ai/HiDream-O1-Image",
         "org": "HiDream-ai",
-        "trending_score": 182,
+        "trending_score": 193,
         "downloads": 692,
-        "likes": 184,
+        "likes": 195,
         "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen3_vl",
           "image-text-to-text",
           "image-text-to-image"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "google/gemma-4-31B-it-assistant",
+        "org": "google",
+        "trending_score": 192,
+        "downloads": 56628,
+        "likes": 198,
+        "url": "https://huggingface.co/google/gemma-4-31B-it-assistant",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "gemma4_assistant",
+          "text-generation",
+          "any-to-any"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "bytedance/UI-TARS-desktop",
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "url": "https://github.com/bytedance/UI-TARS-desktop",
-        "stars": 32185,
+        "stars": 32404,
         "stars_delta": 669,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 18926,
+        "stars": 19278,
         "stars_delta": 1449,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 38495,
+        "stars": 38787,
         "stars_delta": 1065,
         "language": "Shell",
         "language_color": "#89e051"
@@ -341,7 +341,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 4792,
+        "stars": 5059,
         "stars_delta": 496,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "HKUDS/AI-Trader",
         "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
         "url": "https://github.com/HKUDS/AI-Trader",
-        "stars": 15612,
+        "stars": 15775,
         "stars_delta": 163,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 24112,
+        "stars": 24384,
         "stars_delta": 22034,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 18926,
+        "stars": 19278,
         "stars_delta": 10272,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 48508,
+        "stars": 48604,
         "stars_delta": 10779,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "docusealco/docuseal",
         "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
         "url": "https://github.com/docusealco/docuseal",
-        "stars": 16237,
+        "stars": 16267,
         "stars_delta": 4020,
         "language": "Ruby",
         "language_color": "#701516"
@@ -403,7 +403,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 73245,
+        "stars": 73356,
         "stars_delta": 8872,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "forrestchang/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-        "stars": 123713,
+        "stars": 124042,
         "stars_delta": 112371,
         "language": "",
         "language_color": "#586069"
@@ -425,7 +425,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 69178,
+        "stars": 69676,
         "stars_delta": 55276,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 23531,
+        "stars": 23582,
         "stars_delta": 21766,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 142611,
+        "stars": 143004,
         "stars_delta": 92870,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 10543,
+        "stars": 10653,
         "stars_delta": 9574,
         "language": "Python",
         "language_color": "#3572A5"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 918,
-        "total_stars": 14816,
+        "stars_28d": 920,
+        "total_stars": 14818,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -477,9 +477,9 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 405,
-        "total_stars": 116532,
-        "description": "The agent engineering platform. Available in TypeScript!",
+        "stars_28d": 409,
+        "total_stars": 116536,
+        "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
         "language_color": "#3572A5"
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 332,
-        "total_stars": 37490,
+        "stars_28d": 336,
+        "total_stars": 37494,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 140,
-        "total_stars": 48165,
+        "stars_28d": 142,
+        "total_stars": 48167,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -579,7 +579,7 @@
         "upvotes": 78,
         "published": "2026-02-05",
         "github_repo": "https://github.com/z-lab/dflash",
-        "github_stars": 4206
+        "github_stars": 4291
       },
       {
         "rank": 5,
@@ -594,88 +594,81 @@
         "upvotes": 501,
         "published": "2026-04-01",
         "github_repo": "https://github.com/HongyuanLuke/frequencylaw",
-        "github_stars": 1183
+        "github_stars": 1277
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+        "title": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection",
         "authors": [
-          "Daniel Zheng",
-          "Ingrid von Glehn",
-          "Yori Zwols"
+          "James Petullo",
+          "Sonny George",
+          "Dylan Cashman"
         ],
-        "url": "https://arxiv.org/abs/2605.06651",
+        "url": "https://arxiv.org/abs/2605.08070",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-05-08"
+        "published": "2026-05-11"
       },
       {
         "rank": 2,
-        "title": "GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation",
+        "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
         "authors": [
-          "Ziyu Zhai",
-          "Siyou Li",
-          "Juexi Shao"
+          "Manish Bhattarai",
+          "Ismael Boureima",
+          "Nishath Rajiv Ranasinghe"
         ],
-        "url": "https://arxiv.org/abs/2605.06641",
+        "url": "https://arxiv.org/abs/2605.08061",
         "categories": [
-          "cs.AI",
-          "cs.CV"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-05-08"
+        "published": "2026-05-11"
       },
       {
         "rank": 3,
-        "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+        "title": "MPD$^2$-Router: Mask-aware Multi-expert Prior-regularized Dual-head Deferral Router in Glaucoma Screening and Diagnosis",
         "authors": [
-          "Tianle Wang",
-          "Zhaoyang Wang",
-          "Guangchen Lan"
+          "Wenxin Zhan"
         ],
-        "url": "https://arxiv.org/abs/2605.06638",
+        "url": "https://arxiv.org/abs/2605.08024",
         "categories": [
-          "cs.AI",
-          "cs.CL"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-05-08"
+        "published": "2026-05-11"
       },
       {
         "rank": 4,
-        "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
+        "title": "Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners",
         "authors": [
-          "Zhexuan Wang",
-          "Xuebo Liu",
-          "Li Wang"
+          "Botos Csaba",
+          "Sreejan Kumar",
+          "Austin Tudor David Andrews"
         ],
-        "url": "https://arxiv.org/abs/2605.06623",
+        "url": "https://arxiv.org/abs/2605.08019",
         "categories": [
-          "cs.AI",
-          "cs.CL"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-05-08"
+        "published": "2026-05-11"
       },
       {
         "rank": 5,
-        "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+        "title": "Learning CLI Agents with Structured Action Credit under Selective Observation",
         "authors": [
-          "Siru Ouyang",
-          "Jun Yan",
-          "Yanfei Chen"
+          "Haoyang Su",
+          "Ying Wen"
         ],
-        "url": "https://arxiv.org/abs/2605.06614",
+        "url": "https://arxiv.org/abs/2605.08013",
         "categories": [
-          "cs.AI",
-          "cs.CL"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-05-08"
+        "published": "2026-05-11"
       }
     ]
   },
@@ -688,10 +681,10 @@
         "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
         "discussion_url": "https://news.ycombinator.com/item?id=48086190",
         "site": "grapheneos.social",
-        "points": 893,
-        "comments": 327,
+        "points": 1205,
+        "comments": 398,
         "author": "ChuckMcM",
-        "age": "8h ago"
+        "age": "11h ago"
       },
       {
         "rank": 2,
@@ -700,46 +693,46 @@
         "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
         "discussion_url": "https://news.ycombinator.com/item?id=48085821",
         "site": "unix.foo",
-        "points": 583,
-        "comments": 274,
+        "points": 847,
+        "comments": 383,
         "author": "cylo",
-        "age": "8h ago"
+        "age": "12h ago"
       },
       {
         "rank": 3,
+        "id": 48091085,
+        "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+        "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48091085",
+        "site": "matt.might.net",
+        "points": 16,
+        "comments": 0,
+        "author": "azhenley",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48090521,
+        "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+        "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48090521",
+        "site": "openculture.com",
+        "points": 80,
+        "comments": 28,
+        "author": "susam",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 48090029,
         "title": "I'm going back to writing code by hand",
         "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
         "discussion_url": "https://news.ycombinator.com/item?id=48090029",
         "site": "blog.k10s.dev",
-        "points": 24,
-        "comments": 5,
+        "points": 198,
+        "comments": 73,
         "author": "dropbox_miner",
-        "age": "32m ago"
-      },
-      {
-        "rank": 4,
-        "id": 48086082,
-        "title": "Incident Report: CVE-2024-YIKES",
-        "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48086082",
-        "site": "nesbitt.io",
-        "points": 393,
-        "comments": 94,
-        "author": "miniBill",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48088576,
-        "title": "Obsidian plugin was abused to deploy a remote access trojan",
-        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48088576",
-        "site": "cyber.netsecops.io",
-        "points": 80,
-        "comments": 37,
-        "author": "cmbailey",
-        "age": "3h ago"
+        "age": "4h ago"
       }
     ],
     "ask": [
@@ -750,46 +743,46 @@
         "url": "https://news.ycombinator.com/item?id=48085993",
         "discussion_url": "https://news.ycombinator.com/item?id=48085993",
         "site": "news.ycombinator.com",
-        "points": 133,
-        "comments": 454,
+        "points": 164,
+        "comments": 575,
         "author": "david927",
-        "age": "8h ago"
+        "age": "12h ago"
       },
       {
         "rank": 2,
-        "id": 48087925,
-        "title": "Ask HN: Will low quality AI customer support be the new normal?",
-        "url": "https://news.ycombinator.com/item?id=48087925",
-        "discussion_url": "https://news.ycombinator.com/item?id=48087925",
-        "site": "news.ycombinator.com",
-        "points": 14,
-        "comments": 8,
-        "author": "0-bad-sectors",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
         "id": 48060054,
         "title": "Ask HN: We just had an actual UUID v4 collision...",
         "url": "https://news.ycombinator.com/item?id=48060054",
         "discussion_url": "https://news.ycombinator.com/item?id=48060054",
         "site": "news.ycombinator.com",
-        "points": 446,
+        "points": 448,
         "comments": 328,
         "author": "mittermayr",
         "age": "2d ago"
       },
       {
-        "rank": 4,
-        "id": 48085384,
-        "title": "Remind HN: Today is Mother's Day, call your moms",
-        "url": "https://news.ycombinator.com/item?id=48085384",
-        "discussion_url": "https://news.ycombinator.com/item?id=48085384",
+        "rank": 3,
+        "id": 48087925,
+        "title": "Ask HN: Will low quality AI customer support be the new normal?",
+        "url": "https://news.ycombinator.com/item?id=48087925",
+        "discussion_url": "https://news.ycombinator.com/item?id=48087925",
         "site": "news.ycombinator.com",
-        "points": 344,
-        "comments": 143,
-        "author": "rationalist",
-        "age": "9h ago"
+        "points": 19,
+        "comments": 10,
+        "author": "0-bad-sectors",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48090164,
+        "title": "Ask HN: What Wintel/AMD (Laptop) Harware are you liking?",
+        "url": "https://news.ycombinator.com/item?id=48090164",
+        "discussion_url": "https://news.ycombinator.com/item?id=48090164",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "aagha",
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -798,7 +791,7 @@
         "url": "https://news.ycombinator.com/item?id=48037336",
         "discussion_url": "https://news.ycombinator.com/item?id=48037336",
         "site": "news.ycombinator.com",
-        "points": 1639,
+        "points": 1642,
         "comments": 251,
         "author": "CliffStoll",
         "age": "4d ago"
@@ -807,51 +800,51 @@
     "show": [
       {
         "rank": 1,
+        "id": 48090276,
+        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "discussion_url": "https://news.ycombinator.com/item?id=48090276",
+        "site": "github.com",
+        "points": 15,
+        "comments": 1,
+        "author": "adamthegoalie",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 48083580,
         "title": "Show HN: An index of indie web/blog indexes",
         "url": "https://theindex.fyi",
         "discussion_url": "https://news.ycombinator.com/item?id=48083580",
         "site": "theindex.fyi",
-        "points": 94,
-        "comments": 35,
+        "points": 113,
+        "comments": 37,
         "author": "rocketpastsix",
-        "age": "13h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48076815,
         "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
         "url": "https://github.com/nooga/let-go",
         "discussion_url": "https://news.ycombinator.com/item?id=48076815",
         "site": "github.com",
-        "points": 248,
-        "comments": 79,
+        "points": 253,
+        "comments": 80,
         "author": "marcingas",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48080587,
         "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
         "url": "https://github.com/imtomt/ymawky",
         "discussion_url": "https://news.ycombinator.com/item?id=48080587",
         "site": "github.com",
-        "points": 388,
-        "comments": 209,
+        "points": 396,
+        "comments": 213,
         "author": "imtomt",
-        "age": "22h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48088819,
-        "title": "Show HN: I trained a chess engine to play like humans",
-        "url": "https://news.ycombinator.com/item?id=48088819",
-        "discussion_url": "https://news.ycombinator.com/item?id=48088819",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 0,
-        "author": "hazard",
-        "age": "3h ago"
+        "age": "1d ago"
       },
       {
         "rank": 5,
@@ -860,7 +853,7 @@
         "url": "https://github.com/ThatXliner/rust-but-lisp",
         "discussion_url": "https://news.ycombinator.com/item?id=48078575",
         "site": "github.com",
-        "points": 191,
+        "points": 194,
         "comments": 69,
         "author": "thatxliner",
         "age": "1d ago"
