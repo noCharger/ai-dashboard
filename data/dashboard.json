@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-13T23:48:13Z",
+  "generated": "2026-05-14T01:59:43Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 491,
+        "trending_score": 499,
         "downloads": 535069,
-        "likes": 825,
+        "likes": 838,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "Zyphra/ZAYA1-8B",
-        "org": "Zyphra",
-        "trending_score": 412,
-        "downloads": 110182,
-        "likes": 474,
-        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
-        "tags": [
-          "safetensors",
-          "zaya",
-          "arxiv:2605.05365",
-          "base_model:Zyphra/ZAYA1-reasoning-base",
-          "base_model:finetune:Zyphra/ZAYA1-reasoning-base"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 411,
+        "trending_score": 413,
         "downloads": 3494,
-        "likes": 480,
+        "likes": 482,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "safetensors",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Zyphra/ZAYA1-8B",
+        "org": "Zyphra",
+        "trending_score": 403,
+        "downloads": 110182,
+        "likes": 475,
+        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+        "tags": [
+          "safetensors",
+          "zaya",
+          "arxiv:2605.05365",
+          "base_model:Zyphra/ZAYA1-reasoning-base",
+          "base_model:finetune:Zyphra/ZAYA1-reasoning-base"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "HiDream-ai/HiDream-O1-Image",
         "org": "HiDream-ai",
-        "trending_score": 287,
+        "trending_score": 292,
         "downloads": 7747,
-        "likes": 295,
+        "likes": 300,
         "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 231,
+        "trending_score": 226,
         "downloads": 2420384,
-        "likes": 3925,
+        "likes": 3926,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 72.3538538963889,
+        "speed_tps": 71.2909230248059,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 65.3184372124993,
+        "speed_tps": 64.4370534176184,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 72.7584069362959,
+        "speed_tps": 72.6407620812907,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 132.527337497577,
+        "speed_tps": 133.173226330709,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.7997233488278,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 84.4745554751393,
+        "speed_tps": 84.8296239127146,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -311,8 +311,8 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 5397,
-        "stars_delta": 1595,
+        "stars": 5658,
+        "stars_delta": 1696,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -321,8 +321,8 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 7572,
-        "stars_delta": 1335,
+        "stars": 7737,
+        "stars_delta": 1379,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -331,8 +331,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 189472,
-        "stars_delta": 1506,
+        "stars": 189608,
+        "stars_delta": 1401,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -341,8 +341,8 @@
         "name": "yikart/AiToEarn",
         "description": "Let's use AI to Earn!",
         "url": "https://github.com/yikart/AiToEarn",
-        "stars": 12888,
-        "stars_delta": 987,
+        "stars": 12980,
+        "stars_delta": 981,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -351,8 +351,8 @@
         "name": "influxdata/telegraf",
         "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
         "url": "https://github.com/influxdata/telegraf",
-        "stars": 16991,
-        "stars_delta": 6,
+        "stars": 17020,
+        "stars_delta": 13,
         "language": "Go",
         "language_color": "#00ADD8"
       }
@@ -363,8 +363,8 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 22251,
-        "stars_delta": 13176,
+        "stars": 22310,
+        "stars_delta": 13555,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 27712,
-        "stars_delta": 20835,
+        "stars": 27869,
+        "stars_delta": 15975,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -383,8 +383,8 @@
         "name": "bytedance/UI-TARS-desktop",
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "url": "https://github.com/bytedance/UI-TARS-desktop",
-        "stars": 33721,
-        "stars_delta": 3872,
+        "stars": 33750,
+        "stars_delta": 4096,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "decolua/9router",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "url": "https://github.com/decolua/9router",
-        "stars": 9854,
-        "stars_delta": 5204,
+        "stars": 9898,
+        "stars_delta": 5796,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -403,8 +403,8 @@
         "name": "yikart/AiToEarn",
         "description": "Let's use AI to Earn!",
         "url": "https://github.com/yikart/AiToEarn",
-        "stars": 12888,
-        "stars_delta": 2348,
+        "stars": 12980,
+        "stars_delta": 3302,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -415,8 +415,8 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 128334,
-        "stars_delta": 112357,
+        "stars": 128470,
+        "stars_delta": 108189,
         "language": "",
         "language_color": "#586069"
       },
@@ -425,8 +425,8 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 78899,
-        "stars_delta": 60612,
+        "stars": 79135,
+        "stars_delta": 63639,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -435,8 +435,8 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 24368,
-        "stars_delta": 22285,
+        "stars": 24386,
+        "stars_delta": 22569,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 11221,
-        "stars_delta": 10192,
+        "stars": 11236,
+        "stars_delta": 10322,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -455,8 +455,8 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 16165,
-        "stars_delta": 12025,
+        "stars": 16243,
+        "stars_delta": 12334,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 915,
-        "total_stars": 14827,
+        "stars_28d": 882,
+        "total_stars": 14828,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -477,7 +477,7 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 389,
+        "stars_28d": 376,
         "total_stars": 116551,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 329,
-        "total_stars": 37511,
+        "stars_28d": 320,
+        "total_stars": 37512,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -499,8 +499,8 @@
         "rank": 4,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 148,
-        "total_stars": 175240,
+        "stars_28d": 141,
+        "total_stars": 175241,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
         "language": "Python",
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 138,
-        "total_stars": 48174,
+        "stars_28d": 132,
+        "total_stars": 48175,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -534,7 +534,7 @@
         "upvotes": 67,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 74761
+        "github_stars": 74951
       },
       {
         "rank": 2,
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2605.12090",
         "categories": [],
-        "upvotes": 47,
+        "upvotes": 48,
         "published": "2026-05-11",
         "github_repo": "https://github.com/OpenMOSS/Awesome-WAM",
         "github_stars": 129
@@ -687,46 +687,46 @@
         "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
         "discussion_url": "https://news.ycombinator.com/item?id=48087887",
         "site": "xda-developers.com",
-        "points": 439,
-        "comments": 281,
+        "points": 530,
+        "comments": 346,
         "author": "haunter",
         "age": "3d ago"
       },
       {
         "rank": 2,
+        "id": 48129694,
+        "title": "Scorched Earth 2000 is back",
+        "url": "http://www.scorch2000.com/web/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48129694",
+        "site": "scorch2000.com",
+        "points": 31,
+        "comments": 13,
+        "author": "meshko",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 48122635,
         "title": "Setting up a free *.city.state.us locality domain (2025)",
         "url": "https://fredchan.org/blog/locality-domains-guide/",
         "discussion_url": "https://news.ycombinator.com/item?id=48122635",
         "site": "fredchan.org",
-        "points": 457,
-        "comments": 149,
+        "points": 491,
+        "comments": 156,
         "author": "speckx",
-        "age": "9h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48073979,
         "title": "A History of IDEs at Google",
         "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
         "discussion_url": "https://news.ycombinator.com/item?id=48073979",
         "site": "laurent.le-brun.eu",
-        "points": 243,
-        "comments": 179,
+        "points": 275,
+        "comments": 197,
         "author": "laurentlb",
         "age": "4d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48126848,
-        "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-        "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-        "discussion_url": "https://news.ycombinator.com/item?id=48126848",
-        "site": "dailyprincetonian.com",
-        "points": 204,
-        "comments": 260,
-        "author": "bookofjoe",
-        "age": "3h ago"
       },
       {
         "rank": 5,
@@ -735,8 +735,8 @@
         "url": "https://ardoedo.it/kempelen/",
         "discussion_url": "https://news.ycombinator.com/item?id=48096760",
         "site": "ardoedo.it",
-        "points": 54,
-        "comments": 15,
+        "points": 86,
+        "comments": 28,
         "author": "Eswo",
         "age": "2d ago"
       }
@@ -749,13 +749,25 @@
         "url": "https://news.ycombinator.com/item?id=48128003",
         "discussion_url": "https://news.ycombinator.com/item?id=48128003",
         "site": "news.ycombinator.com",
-        "points": 108,
-        "comments": 41,
+        "points": 169,
+        "comments": 60,
         "author": "pycassa",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
+        "id": 48122103,
+        "title": "Ask HN: What are you working on (non-AI)?",
+        "url": "https://news.ycombinator.com/item?id=48122103",
+        "discussion_url": "https://news.ycombinator.com/item?id=48122103",
+        "site": "news.ycombinator.com",
+        "points": 28,
+        "comments": 35,
+        "author": "BrunoBernardino",
+        "age": "11h ago"
+      },
+      {
+        "rank": 3,
         "id": 48126435,
         "title": "Ask HN: Is Anthropic doing too much vibe coding?",
         "url": "https://news.ycombinator.com/item?id=48126435",
@@ -764,34 +776,10 @@
         "points": 4,
         "comments": 3,
         "author": "terabytest",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48122103,
-        "title": "Ask HN: What are you working on (non-AI)?",
-        "url": "https://news.ycombinator.com/item?id=48122103",
-        "discussion_url": "https://news.ycombinator.com/item?id=48122103",
-        "site": "news.ycombinator.com",
-        "points": 27,
-        "comments": 35,
-        "author": "BrunoBernardino",
-        "age": "9h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 48085993,
-        "title": "Ask HN: What are you working on? (May 2026)",
-        "url": "https://news.ycombinator.com/item?id=48085993",
-        "discussion_url": "https://news.ycombinator.com/item?id=48085993",
-        "site": "news.ycombinator.com",
-        "points": 279,
-        "comments": 1068,
-        "author": "david927",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
         "id": 48060054,
         "title": "Ask HN: We just had an actual UUID v4 collision...",
         "url": "https://news.ycombinator.com/item?id=48060054",
@@ -801,6 +789,18 @@
         "comments": 335,
         "author": "mittermayr",
         "age": "5d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48085993,
+        "title": "Ask HN: What are you working on? (May 2026)",
+        "url": "https://news.ycombinator.com/item?id=48085993",
+        "discussion_url": "https://news.ycombinator.com/item?id=48085993",
+        "site": "news.ycombinator.com",
+        "points": 279,
+        "comments": 1070,
+        "author": "david927",
+        "age": "3d ago"
       }
     ],
     "show": [
@@ -811,13 +811,25 @@
         "url": "https://github.com/cactus-compute/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=48111896",
         "site": "github.com",
-        "points": 632,
-        "comments": 181,
+        "points": 639,
+        "comments": 183,
         "author": "HenryNdubuaku",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 48129073,
+        "title": "Show HN: Petri – Drop-in Postgres image that forks a DB per test",
+        "url": "https://github.com/taktekhq/petri",
+        "discussion_url": "https://news.ycombinator.com/item?id=48129073",
+        "site": "github.com",
+        "points": 4,
+        "comments": 0,
+        "author": "nizarmah",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 48110593,
         "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
         "url": "https://news.ycombinator.com/item?id=48110593",
@@ -829,7 +841,7 @@
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48111143,
         "title": "Show HN: Agentic interface for mainframes and COBOL",
         "url": "https://www.hypercubic.ai/hopper",
@@ -841,7 +853,7 @@
         "age": "1d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48108778,
         "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
         "url": "https://github.com/statewright/statewright",
@@ -851,18 +863,6 @@
         "comments": 51,
         "author": "azurewraith",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48125703,
-        "title": "Show HN: Micromort Risk Visualizer",
-        "url": "https://boxed.github.io/micromort/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48125703",
-        "site": "boxed.github.io",
-        "points": 3,
-        "comments": 0,
-        "author": "boxed",
-        "age": "5h ago"
       }
     ]
   }
