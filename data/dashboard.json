@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-14T16:03:39Z",
+  "generated": "2026-05-14T18:27:28Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 499,
+        "trending_score": 497,
         "downloads": 627368,
-        "likes": 890,
+        "likes": 897,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 446,
+        "trending_score": 451,
         "downloads": 16801,
-        "likes": 516,
+        "likes": 522,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "safetensors",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Zyphra/ZAYA1-8B",
-        "org": "Zyphra",
-        "trending_score": 323,
-        "downloads": 130808,
-        "likes": 484,
-        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
-        "tags": [
-          "safetensors",
-          "zaya",
-          "arxiv:2605.05365",
-          "base_model:Zyphra/ZAYA1-reasoning-base",
-          "base_model:finetune:Zyphra/ZAYA1-reasoning-base"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "HiDream-ai/HiDream-O1-Image",
         "org": "HiDream-ai",
-        "trending_score": 308,
+        "trending_score": 309,
         "downloads": 9858,
-        "likes": 316,
+        "likes": 317,
         "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "Zyphra/ZAYA1-8B",
+        "org": "Zyphra",
+        "trending_score": 306,
+        "downloads": 130808,
+        "likes": 486,
+        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+        "tags": [
+          "safetensors",
+          "zaya",
+          "arxiv:2605.05365",
+          "base_model:Zyphra/ZAYA1-reasoning-base",
+          "base_model:finetune:Zyphra/ZAYA1-reasoning-base"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4-Pro",
         "org": "deepseek-ai",
-        "trending_score": 196,
+        "trending_score": 193,
         "downloads": 2588118,
-        "likes": 3941,
+        "likes": 3943,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 72.4851057805016,
+        "speed_tps": 73.5741358995318,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 65.3184372124993,
+        "speed_tps": 68.0327491589252,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 71.8077492966007,
+        "speed_tps": 69.4054281667454,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 133.173226330709,
+        "speed_tps": 131.328417622991,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 56.7997233488278,
         "price_input": 2.5,
         "price_output": 15,
-        "speed_tps": 84.8296239127146,
+        "speed_tps": 86.3433593399975,
         "context_window": 1050000,
         "url": "https://artificialanalysis.ai/models/gpt-5-4"
       }
@@ -311,7 +311,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 55391,
+        "stars": 55539,
         "stars_delta": 1757,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 7399,
+        "stars": 7532,
         "stars_delta": 3476,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 8757,
+        "stars": 8819,
         "stars_delta": 1978,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 190852,
+        "stars": 190979,
         "stars_delta": 1801,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 21630,
+        "stars": 21682,
         "stars_delta": 637,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 22676,
+        "stars": 22714,
         "stars_delta": 13555,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 10486,
+        "stars": 10627,
         "stars_delta": 8328,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "bytedance/UI-TARS-desktop",
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "url": "https://github.com/bytedance/UI-TARS-desktop",
-        "stars": 33886,
+        "stars": 33900,
         "stars_delta": 4096,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "Hmbown/DeepSeek-TUI",
         "description": "Coding agent for DeepSeek models that runs in your terminal",
         "url": "https://github.com/Hmbown/DeepSeek-TUI",
-        "stars": 28836,
+        "stars": 28900,
         "stars_delta": 15975,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 8757,
+        "stars": 8819,
         "stars_delta": 4450,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 129411,
+        "stars": 129506,
         "stars_delta": 108189,
         "language": "",
         "language_color": "#586069"
@@ -425,7 +425,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 81457,
+        "stars": 81754,
         "stars_delta": 63639,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 24536,
+        "stars": 24554,
         "stars_delta": 22569,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 16607,
+        "stars": 16638,
         "stars_delta": 12334,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "lsdefine/GenericAgent",
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "url": "https://github.com/lsdefine/GenericAgent",
-        "stars": 11368,
+        "stars": 11375,
         "stars_delta": 10322,
         "language": "Python",
         "language_color": "#3572A5"
@@ -576,25 +576,25 @@
         ],
         "url": "https://huggingface.co/papers/2605.13724",
         "categories": [],
-        "upvotes": 73,
+        "upvotes": 75,
         "published": "2026-05-12",
         "github_repo": "https://github.com/NVlabs/AnyFlow",
         "github_stars": 190
       },
       {
         "rank": 5,
-        "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
+        "title": "Kronos: A Foundation Model for the Language of Financial Markets",
         "authors": [
-          "Jiaqing Liang",
-          "Jinyi Han",
-          "Weijia Li"
+          "Yu Shi",
+          "Zongliang Fu",
+          "Shuo Chen"
         ],
-        "url": "https://huggingface.co/papers/2604.17091",
+        "url": "https://huggingface.co/papers/2508.02739",
         "categories": [],
-        "upvotes": 19,
-        "published": "2026-04-17",
-        "github_repo": "https://github.com/lsdefine/GenericAgent",
-        "github_stars": 11312
+        "upvotes": 34,
+        "published": "2025-08-02",
+        "github_repo": "https://github.com/shiyu-coder/Kronos",
+        "github_stars": 24714
       }
     ],
     "arxiv_recent": [
@@ -682,104 +682,92 @@
     "top": [
       {
         "rank": 1,
+        "id": 48138136,
+        "title": "Removing the Modem and GPS from My 2024 RAV4 Hybrid",
+        "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48138136",
+        "site": "arkadiyt.com",
+        "points": 117,
+        "comments": 33,
+        "author": "arkadiyt",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48137145,
+        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48137145",
+        "site": "scottjg.com",
+        "points": 252,
+        "comments": 72,
+        "author": "allenleee",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48138268,
+        "title": "New Nginx Exploit",
+        "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+        "discussion_url": "https://news.ycombinator.com/item?id=48138268",
+        "site": "github.com",
+        "points": 87,
+        "comments": 26,
+        "author": "hetsaraiya",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 48134743,
         "title": "Computer Hobby Movement in Canada",
         "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
         "discussion_url": "https://news.ycombinator.com/item?id=48134743",
         "site": "museum.eecs.yorku.ca",
-        "points": 97,
-        "comments": 28,
+        "points": 141,
+        "comments": 36,
         "author": "rbanffy",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48136262,
-        "title": "MIT: 20% drop in incoming graduate students",
-        "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-        "discussion_url": "https://news.ycombinator.com/item?id=48136262",
-        "site": "president.mit.edu",
-        "points": 227,
-        "comments": 230,
-        "author": "dmayo",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48136240,
-        "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-        "discussion_url": "https://news.ycombinator.com/item?id=48136240",
-        "site": "tomshardware.com",
-        "points": 103,
-        "comments": 43,
-        "author": "cednore",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48136662,
-        "title": "Anthropic forms $200M partnership with the Gates Foundation",
-        "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-        "discussion_url": "https://news.ycombinator.com/item?id=48136662",
-        "site": "anthropic.com",
-        "points": 31,
-        "comments": 14,
-        "author": "surprisetalk",
-        "age": "48m ago"
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 48136992,
-        "title": "On The Conflation of Money and Things",
-        "url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48136992",
-        "site": "lithub.com",
-        "points": 5,
-        "comments": 0,
-        "author": "bookofjoe",
-        "age": "27m ago"
+        "id": 48137553,
+        "title": "HDD Firmware Hacking",
+        "url": "https://icode4.coffee/?p=1465",
+        "discussion_url": "https://news.ycombinator.com/item?id=48137553",
+        "site": "icode4.coffee",
+        "points": 35,
+        "comments": 1,
+        "author": "jsploit",
+        "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 48135807,
-        "title": "Ask HN: What's the hardest part of building a SaaS that users keep paying for?",
-        "url": "https://news.ycombinator.com/item?id=48135807",
-        "discussion_url": "https://news.ycombinator.com/item?id=48135807",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 1,
-        "author": "specwiseai",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 48128003,
         "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
         "url": "https://news.ycombinator.com/item?id=48128003",
         "discussion_url": "https://news.ycombinator.com/item?id=48128003",
         "site": "news.ycombinator.com",
-        "points": 278,
-        "comments": 79,
+        "points": 283,
+        "comments": 80,
         "author": "pycassa",
-        "age": "18h ago"
+        "age": "20h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48135807,
+        "title": "Ask HN: What's the hardest part of building a SaaS that users keep paying for?",
+        "url": "https://news.ycombinator.com/item?id=48135807",
+        "discussion_url": "https://news.ycombinator.com/item?id=48135807",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 7,
+        "author": "specwiseai",
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 48134808,
-        "title": "Claude Account Suspended Seconds After Purchase?",
-        "url": "https://news.ycombinator.com/item?id=48134808",
-        "discussion_url": "https://news.ycombinator.com/item?id=48134808",
-        "site": "news.ycombinator.com",
-        "points": 67,
-        "comments": 39,
-        "author": "AnthropicWHAT",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
         "id": 48060054,
         "title": "Ask HN: We just had an actual UUID v4 collision...",
         "url": "https://news.ycombinator.com/item?id=48060054",
@@ -791,16 +779,28 @@
         "age": "6d ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48085993,
         "title": "Ask HN: What are you working on? (May 2026)",
         "url": "https://news.ycombinator.com/item?id=48085993",
         "discussion_url": "https://news.ycombinator.com/item?id=48085993",
         "site": "news.ycombinator.com",
-        "points": 280,
-        "comments": 1075,
+        "points": 281,
+        "comments": 1079,
         "author": "david927",
-        "age": "3d ago"
+        "age": "4d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48037336,
+        "title": "Rumors of my death are slightly exaggerated",
+        "url": "https://news.ycombinator.com/item?id=48037336",
+        "discussion_url": "https://news.ycombinator.com/item?id=48037336",
+        "site": "news.ycombinator.com",
+        "points": 1668,
+        "comments": 257,
+        "author": "CliffStoll",
+        "age": "8d ago"
       }
     ],
     "show": [
@@ -811,10 +811,10 @@
         "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48133561",
         "site": "numa.rs",
-        "points": 89,
-        "comments": 28,
+        "points": 100,
+        "comments": 32,
         "author": "rdme",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -823,46 +823,46 @@
         "url": "https://github.com/cactus-compute/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=48111896",
         "site": "github.com",
-        "points": 705,
-        "comments": 200,
+        "points": 716,
+        "comments": 206,
         "author": "HenryNdubuaku",
-        "age": "1d ago"
+        "age": "2d ago"
       },
       {
         "rank": 3,
+        "id": 48137651,
+        "title": "Show HN: Yes We Scan: rescue old scanners with an in-browser Linux VM and WebUSB",
+        "url": "https://yes-we-scan.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48137651",
+        "site": "yes-we-scan.app",
+        "points": 2,
+        "comments": 1,
+        "author": "gmac",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 48130186,
         "title": "Show HN: Nibble",
         "url": "https://github.com/glouw/nibble",
         "discussion_url": "https://news.ycombinator.com/item?id=48130186",
         "site": "github.com",
-        "points": 85,
-        "comments": 22,
+        "points": 88,
+        "comments": 23,
         "author": "glouwbug",
-        "age": "14h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48135828,
-        "title": "Show HN: A simple Claude skin for ChatGPT",
-        "url": "https://github.com/dmd/aimpostor",
-        "discussion_url": "https://news.ycombinator.com/item?id=48135828",
-        "site": "github.com",
-        "points": 4,
-        "comments": 0,
-        "author": "dmd",
-        "age": "1h ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
-        "id": 48135450,
-        "title": "Show HN: Aion a Rust Database",
-        "url": "https://github.com/ayoubnabil/aiondb",
-        "discussion_url": "https://news.ycombinator.com/item?id=48135450",
-        "site": "github.com",
-        "points": 4,
+        "id": 48139017,
+        "title": "Show HN: Browse 61 3D Printable Robots",
+        "url": "https://orobot.io/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48139017",
+        "site": "orobot.io",
+        "points": 2,
         "comments": 0,
-        "author": "K9987plus",
-        "age": "2h ago"
+        "author": "xanderjanz",
+        "age": "17m ago"
       }
     ]
   }
