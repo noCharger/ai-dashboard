@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-16T07:47:06Z",
+  "generated": "2026-05-16T08:11:25Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 537,
+        "trending_score": 538,
         "downloads": 28627,
-        "likes": 610,
+        "likes": 611,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "safetensors",
@@ -40,7 +40,7 @@
         "rank": 3,
         "name": "HiDream-ai/HiDream-O1-Image",
         "org": "HiDream-ai",
-        "trending_score": 302,
+        "trending_score": 299,
         "downloads": 13587,
         "likes": 347,
         "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
@@ -55,6 +55,23 @@
       },
       {
         "rank": 4,
+        "name": "Supertone/supertonic-3",
+        "org": "Supertone",
+        "trending_score": 208,
+        "downloads": 16496,
+        "likes": 253,
+        "url": "https://huggingface.co/Supertone/supertonic-3",
+        "tags": [
+          "supertonic",
+          "onnx",
+          "text-to-speech",
+          "speech-synthesis",
+          "tts"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "Zyphra/ZAYA1-8B",
         "org": "Zyphra",
         "trending_score": 207,
@@ -67,23 +84,6 @@
           "arxiv:2605.05365",
           "base_model:Zyphra/ZAYA1-reasoning-base",
           "base_model:finetune:Zyphra/ZAYA1-reasoning-base"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "Supertone/supertonic-3",
-        "org": "Supertone",
-        "trending_score": 207,
-        "downloads": 16496,
-        "likes": 252,
-        "url": "https://huggingface.co/Supertone/supertonic-3",
-        "tags": [
-          "supertonic",
-          "onnx",
-          "text-to-speech",
-          "speech-synthesis",
-          "tts"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 9516,
+        "stars": 9561,
         "stars_delta": 1271,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 193190,
+        "stars": 193218,
         "stars_delta": 1648,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 22649,
+        "stars": 22658,
         "stars_delta": 646,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "supertone-inc/supertonic",
         "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
         "url": "https://github.com/supertone-inc/supertonic",
-        "stars": 6235,
+        "stars": 6242,
         "stars_delta": 719,
         "language": "Swift",
         "language_color": "#F05138"
@@ -351,7 +351,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 57715,
+        "stars": 57735,
         "stars_delta": 1859,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 23441,
+        "stars": 23449,
         "stars_delta": 9480,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 12068,
+        "stars": 12088,
         "stars_delta": 9120,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "yikart/AiToEarn",
         "description": "Let's use AI to Earn!",
         "url": "https://github.com/yikart/AiToEarn",
-        "stars": 14138,
+        "stars": 14144,
         "stars_delta": 4762,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 9840,
+        "stars": 9855,
         "stars_delta": 6865,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "bytedance/UI-TARS-desktop",
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "url": "https://github.com/bytedance/UI-TARS-desktop",
-        "stars": 34138,
+        "stars": 34142,
         "stars_delta": 3529,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 85543,
+        "stars": 85583,
         "stars_delta": 69142,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 24862,
+        "stars": 24865,
         "stars_delta": 22992,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 131413,
+        "stars": 131448,
         "stars_delta": 91995,
         "language": "",
         "language_color": "#586069"
@@ -445,7 +445,7 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 17167,
+        "stars": 17173,
         "stars_delta": 13040,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 9913,
+        "stars": 9921,
         "stars_delta": 9051,
         "language": "Python",
         "language_color": "#3572A5"
@@ -497,23 +497,23 @@
       },
       {
         "rank": 4,
-        "name": "microsoft/autogen",
-        "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 131,
-        "total_stars": 48187,
-        "description": "A programming framework for agentic AI",
-        "category": "Conversational Agents",
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "stars_28d": 131,
         "total_stars": 175249,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
+        "stars_28d": 131,
+        "total_stars": 48187,
+        "description": "A programming framework for agentic AI",
+        "category": "Conversational Agents",
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 72,
+        "upvotes": 73,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 75923
@@ -684,14 +684,14 @@
       {
         "rank": 1,
         "id": 48157559,
-        "title": "The CTF scene is dead",
+        "title": "Frontier AI has broken the open CTF format",
         "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
         "discussion_url": "https://news.ycombinator.com/item?id=48157559",
         "site": "kabir.au",
-        "points": 33,
-        "comments": 9,
+        "points": 53,
+        "comments": 24,
         "author": "frays",
-        "age": "45m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -700,7 +700,7 @@
         "url": "https://www.gutenberg.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48150431",
         "site": "gutenberg.org",
-        "points": 894,
+        "points": 900,
         "comments": 189,
         "author": "JSeiko",
         "age": "15h ago"
@@ -712,8 +712,8 @@
         "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
         "discussion_url": "https://news.ycombinator.com/item?id=48155212",
         "site": "analytics.fixelsmith.com",
-        "points": 149,
-        "comments": 41,
+        "points": 161,
+        "comments": 47,
         "author": "redbell",
         "age": "8h ago"
       },
@@ -724,8 +724,8 @@
         "url": "https://ploopy.co/shop/bean-pointing-stick/",
         "discussion_url": "https://news.ycombinator.com/item?id=48114208",
         "site": "ploopy.co",
-        "points": 81,
-        "comments": 35,
+        "points": 84,
+        "comments": 38,
         "author": "jibcage",
         "age": "3d ago"
       },
@@ -736,8 +736,8 @@
         "url": "https://twitter.com/mitchellh/status/2055380239711457578",
         "discussion_url": "https://news.ycombinator.com/item?id=48153379",
         "site": "twitter.com",
-        "points": 1239,
-        "comments": 580,
+        "points": 1263,
+        "comments": 604,
         "author": "reasonableklout",
         "age": "11h ago"
       }
@@ -781,18 +781,6 @@
       },
       {
         "rank": 4,
-        "id": 48152960,
-        "title": "Load testing in your infra, not cloud",
-        "url": "https://news.ycombinator.com/item?id=48152960",
-        "discussion_url": "https://news.ycombinator.com/item?id=48152960",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "vitalicset",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
         "id": 48139188,
         "title": "Which country will be the first to pass laws limiting Meta Ray-Ban glasses?",
         "url": "https://news.ycombinator.com/item?id=48139188",
@@ -802,6 +790,18 @@
         "comments": 7,
         "author": "nothrowaways",
         "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48152960,
+        "title": "Load testing in your infra, not cloud",
+        "url": "https://news.ycombinator.com/item?id=48152960",
+        "discussion_url": "https://news.ycombinator.com/item?id=48152960",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "vitalicset",
+        "age": "12h ago"
       }
     ],
     "show": [
@@ -812,7 +812,7 @@
         "url": "https://ljtn.github.io/epiq/",
         "discussion_url": "https://news.ycombinator.com/item?id=48155570",
         "site": "ljtn.github.io",
-        "points": 47,
+        "points": 50,
         "comments": 14,
         "author": "jolaflow",
         "age": "7h ago"
@@ -824,34 +824,34 @@
         "url": "https://ppo.gradexp.xyz/",
         "discussion_url": "https://news.ycombinator.com/item?id=48136981",
         "site": "ppo.gradexp.xyz",
-        "points": 146,
+        "points": 152,
         "comments": 36,
         "author": "c1b",
         "age": "1d ago"
       },
       {
         "rank": 3,
-        "id": 48151287,
-        "title": "Show HN: Burn, baby, burn (those tokens)",
-        "url": "https://github.com/dtnewman/burn-baby-burn",
-        "discussion_url": "https://news.ycombinator.com/item?id=48151287",
-        "site": "github.com",
-        "points": 90,
-        "comments": 18,
-        "author": "dtnewman",
-        "age": "14h ago"
-      },
-      {
-        "rank": 4,
         "id": 48156878,
         "title": "Show HN: AI that audits your codebase in 60 seconds",
         "url": "https://triyambakam-apex-corp.hf.space",
         "discussion_url": "https://news.ycombinator.com/item?id=48156878",
         "site": "triyambakam-apex-corp.hf.space",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "author": "haapatel",
         "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48151287,
+        "title": "Show HN: Burn, baby, burn (those tokens)",
+        "url": "https://github.com/dtnewman/burn-baby-burn",
+        "discussion_url": "https://news.ycombinator.com/item?id=48151287",
+        "site": "github.com",
+        "points": 92,
+        "comments": 19,
+        "author": "dtnewman",
+        "age": "14h ago"
       },
       {
         "rank": 5,
@@ -863,7 +863,7 @@
         "points": 42,
         "comments": 24,
         "author": "detkin",
-        "age": "14h ago"
+        "age": "15h ago"
       }
     ]
   }
