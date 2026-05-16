@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-16T01:51:40Z",
+  "generated": "2026-05-16T05:18:23Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 527,
+        "trending_score": 532,
         "downloads": 22483,
-        "likes": 600,
+        "likes": 605,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "safetensors",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 492,
+        "trending_score": 496,
         "downloads": 783564,
-        "likes": 984,
+        "likes": 994,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "HiDream-ai/HiDream-O1-Image",
         "org": "HiDream-ai",
-        "trending_score": 332,
+        "trending_score": 330,
         "downloads": 11725,
-        "likes": 344,
+        "likes": 345,
         "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Zyphra/ZAYA1-8B",
         "org": "Zyphra",
-        "trending_score": 212,
+        "trending_score": 209,
         "downloads": 141203,
-        "likes": 502,
+        "likes": 506,
         "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
         "tags": [
           "safetensors",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Supertone/supertonic-3",
         "org": "Supertone",
-        "trending_score": 196,
+        "trending_score": 200,
         "downloads": 12832,
-        "likes": 236,
+        "likes": 244,
         "url": "https://huggingface.co/Supertone/supertonic-3",
         "tags": [
           "supertonic",
@@ -150,6 +150,15 @@
     "general": [
       {
         "rank": 1,
+        "name": "Co-Sight Pro v1.0.1",
+        "org": "ZTE-AICloud",
+        "score": 93.02,
+        "score_unit": "%",
+        "url": "https://github.com/ZTE-AICloud/Co-Sight",
+        "verified": true
+      },
+      {
+        "rank": 2,
         "name": "OPS-Agentic-Search",
         "org": "Alibaba Cloud",
         "score": 92.36,
@@ -158,7 +167,7 @@
         "verified": true
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Co-Sight Pro v1.0.0",
         "org": "ZTE-AICloud",
         "score": 92.03,
@@ -167,7 +176,7 @@
         "verified": true
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "openJiuwen-deepagent",
         "org": "openJiuwen",
         "score": 91.69,
@@ -176,21 +185,12 @@
         "verified": true
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Lemon",
         "org": "LR AILab of Lenovo CTO Org",
         "score": 91.36,
         "score_unit": "%",
         "url": "https://github.com/Open-Lemon/LemonAgent",
-        "verified": true
-      },
-      {
-        "rank": 5,
-        "name": "JoinAI_V2.2",
-        "org": "JoinAI-CMCC",
-        "score": 90.7,
-        "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       }
     ],
@@ -311,7 +311,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 9096,
+        "stars": 9266,
         "stars_delta": 1271,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 192862,
+        "stars": 193043,
         "stars_delta": 1648,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 22473,
+        "stars": 22588,
         "stars_delta": 646,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "supertone-inc/supertonic",
         "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
         "url": "https://github.com/supertone-inc/supertonic",
-        "stars": 6067,
+        "stars": 6159,
         "stars_delta": 719,
         "language": "Swift",
         "language_color": "#F05138"
@@ -351,7 +351,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 57532,
+        "stars": 57631,
         "stars_delta": 1859,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 23309,
+        "stars": 23363,
         "stars_delta": 9480,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 11889,
+        "stars": 11991,
         "stars_delta": 9120,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "yikart/AiToEarn",
         "description": "Let's use AI to Earn!",
         "url": "https://github.com/yikart/AiToEarn",
-        "stars": 14081,
+        "stars": 14106,
         "stars_delta": 4762,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 9688,
+        "stars": 9780,
         "stars_delta": 6865,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "bytedance/UI-TARS-desktop",
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "url": "https://github.com/bytedance/UI-TARS-desktop",
-        "stars": 34098,
+        "stars": 34122,
         "stars_delta": 3529,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 85027,
+        "stars": 85310,
         "stars_delta": 69142,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 24825,
+        "stars": 24844,
         "stars_delta": 22992,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 131057,
+        "stars": 131260,
         "stars_delta": 91995,
         "language": "",
         "language_color": "#586069"
@@ -445,7 +445,7 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 17081,
+        "stars": 17127,
         "stars_delta": 13040,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "ComposioHQ/awesome-codex-skills",
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-        "stars": 9860,
+        "stars": 9887,
         "stars_delta": 9051,
         "language": "Python",
         "language_color": "#3572A5"
@@ -477,8 +477,8 @@
         "rank": 2,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 344,
-        "total_stars": 116561,
+        "stars_28d": 347,
+        "total_stars": 116564,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 312,
-        "total_stars": 37527,
+        "stars_28d": 316,
+        "total_stars": 37531,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -497,23 +497,23 @@
       },
       {
         "rank": 4,
-        "name": "microsoft/autogen",
-        "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 126,
-        "total_stars": 48182,
-        "description": "A programming framework for agentic AI",
-        "category": "Conversational Agents",
+        "name": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stars_28d": 130,
+        "total_stars": 175248,
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "category": "Autonomous Agent Platform",
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "Significant-Gravitas/AutoGPT",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 126,
-        "total_stars": 175244,
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "category": "Autonomous Agent Platform",
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
+        "stars_28d": 128,
+        "total_stars": 48184,
+        "description": "A programming framework for agentic AI",
+        "category": "Conversational Agents",
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -564,7 +564,7 @@
         "upvotes": 35,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 25032
+        "github_stars": 25088
       },
       {
         "rank": 4,
@@ -579,22 +579,22 @@
         "upvotes": 24,
         "published": "2026-05-10",
         "github_repo": "https://github.com/TencentARC/Pixal3D",
-        "github_stars": 701
+        "github_stars": 738
       },
       {
         "rank": 5,
-        "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
+        "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
         "authors": [
-          "Jiaqing Liang",
-          "Jinyi Han",
-          "Weijia Li"
+          "Yuchao Gu",
+          "Guian Fang",
+          "Yuxin Jiang"
         ],
-        "url": "https://huggingface.co/papers/2604.17091",
+        "url": "https://huggingface.co/papers/2605.13724",
         "categories": [],
-        "upvotes": 20,
-        "published": "2026-04-17",
-        "github_repo": "https://github.com/lsdefine/GenericAgent",
-        "github_stars": 11512
+        "upvotes": 86,
+        "published": "2026-05-12",
+        "github_repo": "https://github.com/NVlabs/AnyFlow",
+        "github_stars": 239
       }
     ],
     "arxiv_recent": [
@@ -683,63 +683,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 48155297,
-        "title": "Erlang/OTP 29.0",
-        "url": "https://www.erlang.org/news/188",
-        "discussion_url": "https://news.ycombinator.com/item?id=48155297",
-        "site": "erlang.org",
-        "points": 95,
-        "comments": 4,
-        "author": "pyinstallwoes",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
         "id": 48150431,
         "title": "Project Gutenberg – keeps getting better",
         "url": "https://www.gutenberg.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48150431",
         "site": "gutenberg.org",
-        "points": 718,
-        "comments": 175,
+        "points": 818,
+        "comments": 182,
         "author": "JSeiko",
-        "age": "9h ago"
+        "age": "13h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48114208,
+        "title": "Ploopy Bean: a trackpoint for every computer",
+        "url": "https://ploopy.co/shop/bean-pointing-stick/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48114208",
+        "site": "ploopy.co",
+        "points": 36,
+        "comments": 11,
+        "author": "jibcage",
+        "age": "3d ago"
       },
       {
         "rank": 3,
-        "id": 48155690,
-        "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
-        "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48155690",
-        "site": "kevinpatel.xyz",
-        "points": 52,
-        "comments": 11,
-        "author": "alligatorplum",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
         "id": 48153379,
         "title": "I believe there are entire companies right now under AI psychosis",
         "url": "https://twitter.com/mitchellh/status/2055380239711457578",
         "discussion_url": "https://news.ycombinator.com/item?id=48153379",
         "site": "twitter.com",
-        "points": 805,
-        "comments": 350,
+        "points": 1054,
+        "comments": 461,
         "author": "reasonableklout",
-        "age": "5h ago"
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48149259,
+        "title": "Additive Blending on the Nintendo 64",
+        "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+        "discussion_url": "https://news.ycombinator.com/item?id=48149259",
+        "site": "phoboslab.org",
+        "points": 65,
+        "comments": 7,
+        "author": "ibobev",
+        "age": "14h ago"
       },
       {
         "rank": 5,
         "id": 48155324,
-        "title": "The main thing about P2P meth is that there's so much of it (2022)",
+        "title": "The main thing about P2P meth is that there's so much of it (2021)",
         "url": "https://dynomight.net/p2p-meth/",
         "discussion_url": "https://news.ycombinator.com/item?id=48155324",
         "site": "dynomight.net",
-        "points": 44,
-        "comments": 19,
+        "points": 88,
+        "comments": 76,
         "author": "tomjakubowski",
-        "age": "2h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -750,22 +750,22 @@
         "url": "https://news.ycombinator.com/item?id=48145524",
         "discussion_url": "https://news.ycombinator.com/item?id=48145524",
         "site": "news.ycombinator.com",
-        "points": 127,
-        "comments": 113,
+        "points": 134,
+        "comments": 115,
         "author": "sochix",
-        "age": "18h ago"
+        "age": "22h ago"
       },
       {
         "rank": 2,
-        "id": 48151496,
-        "title": "Ask HN: Can I take Meta to court for banning business Insta or FB account?",
-        "url": "https://news.ycombinator.com/item?id=48151496",
-        "discussion_url": "https://news.ycombinator.com/item?id=48151496",
+        "id": 48156006,
+        "title": "Ask HN: What happened to ssh-audit.com?",
+        "url": "https://news.ycombinator.com/item?id=48156006",
+        "discussion_url": "https://news.ycombinator.com/item?id=48156006",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 4,
-        "author": "milanspeaks",
-        "age": "8h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "Bender",
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -781,15 +781,15 @@
       },
       {
         "rank": 4,
-        "id": 48151051,
-        "title": "Ask HN: What happened to the movie \"Pirates of the Silicon Valley\"",
-        "url": "https://news.ycombinator.com/item?id=48151051",
-        "discussion_url": "https://news.ycombinator.com/item?id=48151051",
+        "id": 48152960,
+        "title": "Load testing in your infra, not cloud",
+        "url": "https://news.ycombinator.com/item?id=48152960",
+        "discussion_url": "https://news.ycombinator.com/item?id=48152960",
         "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 3,
-        "author": "acossta",
-        "age": "8h ago"
+        "points": 3,
+        "comments": 0,
+        "author": "vitalicset",
+        "age": "9h ago"
       },
       {
         "rank": 5,
@@ -812,58 +812,58 @@
         "url": "https://ljtn.github.io/epiq/",
         "discussion_url": "https://news.ycombinator.com/item?id=48155570",
         "site": "ljtn.github.io",
-        "points": 14,
-        "comments": 4,
+        "points": 34,
+        "comments": 12,
         "author": "jolaflow",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
+        "id": 48156878,
+        "title": "Show HN: AI that audits your codebase in 60 seconds",
+        "url": "https://triyambakam-apex-corp.hf.space",
+        "discussion_url": "https://news.ycombinator.com/item?id=48156878",
+        "site": "triyambakam-apex-corp.hf.space",
+        "points": 2,
+        "comments": 0,
+        "author": "haapatel",
+        "age": "42m ago"
+      },
+      {
+        "rank": 3,
         "id": 48136981,
         "title": "Show HN: Watch a neural net learn to play Snake",
         "url": "https://ppo.gradexp.xyz/",
         "discussion_url": "https://news.ycombinator.com/item?id=48136981",
         "site": "ppo.gradexp.xyz",
-        "points": 120,
-        "comments": 30,
+        "points": 130,
+        "comments": 33,
         "author": "c1b",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48151287,
         "title": "Show HN: Burn, baby, burn (those tokens)",
         "url": "https://github.com/dtnewman/burn-baby-burn",
         "discussion_url": "https://news.ycombinator.com/item?id=48151287",
         "site": "github.com",
-        "points": 70,
-        "comments": 14,
+        "points": 81,
+        "comments": 18,
         "author": "dtnewman",
-        "age": "8h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48151058,
         "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
         "url": "https://github.com/sleuth-io/sx",
         "discussion_url": "https://news.ycombinator.com/item?id=48151058",
         "site": "github.com",
-        "points": 35,
-        "comments": 22,
+        "points": 40,
+        "comments": 23,
         "author": "detkin",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48154867,
-        "title": "Show HN: ShaderKit – A browser GLSL editor I built for my own art",
-        "url": "https://shaderkit.com/app",
-        "discussion_url": "https://news.ycombinator.com/item?id=48154867",
-        "site": "shaderkit.com",
-        "points": 3,
-        "comments": 0,
-        "author": "scrygl",
-        "age": "3h ago"
+        "age": "12h ago"
       }
     ]
   }
