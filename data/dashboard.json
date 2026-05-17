@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-17T12:52:22Z",
+  "generated": "2026-05-17T14:20:33Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 595,
+        "trending_score": 602,
         "downloads": 56518,
-        "likes": 670,
+        "likes": 677,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "safetensors",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 490,
+        "trending_score": 489,
         "downloads": 970124,
-        "likes": 1052,
+        "likes": 1056,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Supertone/supertonic-3",
         "org": "Supertone",
-        "trending_score": 278,
+        "trending_score": 280,
         "downloads": 20208,
-        "likes": 336,
+        "likes": 339,
         "url": "https://huggingface.co/Supertone/supertonic-3",
         "tags": [
           "supertonic",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "HiDream-ai/HiDream-O1-Image",
-        "org": "HiDream-ai",
-        "trending_score": 211,
-        "downloads": 14285,
-        "likes": 367,
-        "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_vl",
-          "image-text-to-text",
-          "image-text-to-image"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "unsloth/Qwen3.6-27B-MTP-GGUF",
         "org": "unsloth",
-        "trending_score": 209,
+        "trending_score": 211,
         "downloads": 185303,
-        "likes": 215,
+        "likes": 217,
         "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "unsloth",
           "qwen",
           "qwen3_5"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "HiDream-ai/HiDream-O1-Image",
+        "org": "HiDream-ai",
+        "trending_score": 210,
+        "downloads": 14285,
+        "likes": 369,
+        "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_vl",
+          "image-text-to-text",
+          "image-text-to-image"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 11716,
+        "stars": 11985,
         "stars_delta": 1694,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 35268,
+        "stars": 35314,
         "stars_delta": 333,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "calcom/cal.diy",
         "description": "Scheduling infrastructure for absolutely everyone.",
         "url": "https://github.com/calcom/cal.diy",
-        "stars": 43018,
+        "stars": 43048,
         "stars_delta": 425,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "oven-sh/bun",
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
         "url": "https://github.com/oven-sh/bun",
-        "stars": 91600,
+        "stars": 91613,
         "stars_delta": 908,
         "language": "Rust",
         "language_color": "#dea584"
@@ -351,7 +351,7 @@
         "name": "Anil-matcha/Open-Generative-AI",
         "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-        "stars": 14780,
+        "stars": 14824,
         "stars_delta": 704,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -363,7 +363,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 13154,
+        "stars": 13231,
         "stars_delta": 8618,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 10782,
+        "stars": 10882,
         "stars_delta": 6907,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "yikart/AiToEarn",
         "description": "Let's use AI to Earn!",
         "url": "https://github.com/yikart/AiToEarn",
-        "stars": 14475,
+        "stars": 14510,
         "stars_delta": 4765,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 24078,
+        "stars": 24128,
         "stars_delta": 6935,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "oven-sh/bun",
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
         "url": "https://github.com/oven-sh/bun",
-        "stars": 91600,
+        "stars": 91613,
         "stars_delta": 1328,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 87935,
+        "stars": 88110,
         "stars_delta": 70819,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 25119,
+        "stars": 25137,
         "stars_delta": 23165,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 133368,
+        "stars": 133490,
         "stars_delta": 85711,
         "language": "",
         "language_color": "#586069"
@@ -445,7 +445,7 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 21333,
+        "stars": 21341,
         "stars_delta": 18337,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 17654,
+        "stars": 17681,
         "stars_delta": 13265,
         "language": "Python",
         "language_color": "#3572A5"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 487,
-        "total_stars": 14840,
+        "stars_28d": 486,
+        "total_stars": 14839,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 127,
-        "total_stars": 48191,
+        "stars_28d": 128,
+        "total_stars": 48192,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -534,7 +534,7 @@
         "upvotes": 73,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 76194
+        "github_stars": 76371
       },
       {
         "rank": 2,
@@ -683,27 +683,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 48168058,
-        "title": "Native all the way, until you need text",
-        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48168058",
-        "site": "justsitandgrin.im",
-        "points": 52,
-        "comments": 27,
-        "author": "dive",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 48168221,
         "title": "I don't think AI will make your processes go faster",
         "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
         "discussion_url": "https://news.ycombinator.com/item?id=48168221",
         "site": "frederickvanbrabant.com",
-        "points": 23,
-        "comments": 6,
+        "points": 119,
+        "comments": 61,
         "author": "TheEdonian",
-        "age": "38m ago"
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48168058,
+        "title": "Native all the way, until you need text",
+        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48168058",
+        "site": "justsitandgrin.im",
+        "points": 168,
+        "comments": 108,
+        "author": "dive",
+        "age": "2h ago"
       },
       {
         "rank": 3,
@@ -712,34 +712,34 @@
         "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48168198",
         "site": "williamangel.net",
-        "points": 32,
-        "comments": 18,
+        "points": 102,
+        "comments": 64,
         "author": "datadrivenangel",
-        "age": "42m ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 48168056,
-        "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "discussion_url": "https://news.ycombinator.com/item?id=48168056",
-        "site": "thestateofbrand.com",
-        "points": 11,
-        "comments": 3,
-        "author": "mooreds",
-        "age": "1h ago"
+        "id": 48168708,
+        "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+        "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48168708",
+        "site": "nytimes.com",
+        "points": 52,
+        "comments": 9,
+        "author": "zzzeek",
+        "age": "58m ago"
       },
       {
         "rank": 5,
-        "id": 48164287,
-        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-        "url": "https://crates.io/crates/zerostack/1.0.0",
-        "discussion_url": "https://news.ycombinator.com/item?id=48164287",
-        "site": "crates.io",
-        "points": 451,
-        "comments": 225,
-        "author": "gidellav",
-        "age": "14h ago"
+        "id": 48168856,
+        "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+        "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48168856",
+        "site": "techspot.com",
+        "points": 27,
+        "comments": 8,
+        "author": "nolok",
+        "age": "38m ago"
       }
     ],
     "ask": [
@@ -750,10 +750,10 @@
         "url": "https://news.ycombinator.com/item?id=48167752",
         "discussion_url": "https://news.ycombinator.com/item?id=48167752",
         "site": "news.ycombinator.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "author": "souravroy78",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -762,34 +762,34 @@
         "url": "https://news.ycombinator.com/item?id=48145524",
         "discussion_url": "https://news.ycombinator.com/item?id=48145524",
         "site": "news.ycombinator.com",
-        "points": 157,
-        "comments": 129,
+        "points": 158,
+        "comments": 130,
         "author": "sochix",
         "age": "2d ago"
       },
       {
         "rank": 3,
-        "id": 48166147,
-        "title": "Ask HN: What LLM models are you using and why?",
-        "url": "https://news.ycombinator.com/item?id=48166147",
-        "discussion_url": "https://news.ycombinator.com/item?id=48166147",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 5,
-        "author": "rubyn00bie",
-        "age": "7h ago"
-      },
-      {
-        "rank": 4,
         "id": 48165211,
         "title": "Tell HN: Mindie.dev is scraping emails from profiles to send spam",
         "url": "https://news.ycombinator.com/item?id=48165211",
         "discussion_url": "https://news.ycombinator.com/item?id=48165211",
         "site": "news.ycombinator.com",
-        "points": 14,
+        "points": 17,
         "comments": 1,
         "author": "stackghost",
-        "age": "11h ago"
+        "age": "13h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48166147,
+        "title": "Ask HN: What LLM models are you using and why?",
+        "url": "https://news.ycombinator.com/item?id=48166147",
+        "discussion_url": "https://news.ycombinator.com/item?id=48166147",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 6,
+        "author": "rubyn00bie",
+        "age": "9h ago"
       },
       {
         "rank": 5,
@@ -798,7 +798,7 @@
         "url": "https://news.ycombinator.com/item?id=48060054",
         "discussion_url": "https://news.ycombinator.com/item?id=48060054",
         "site": "news.ycombinator.com",
-        "points": 474,
+        "points": 475,
         "comments": 342,
         "author": "mittermayr",
         "age": "9d ago"
@@ -812,10 +812,10 @@
         "url": "https://tangled.org/rocksky.app/rocksky",
         "discussion_url": "https://news.ycombinator.com/item?id=48161881",
         "site": "tangled.org",
-        "points": 91,
-        "comments": 39,
+        "points": 96,
+        "comments": 40,
         "author": "tsiry",
-        "age": "19h ago"
+        "age": "21h ago"
       },
       {
         "rank": 2,
@@ -824,8 +824,8 @@
         "url": "https://ppo.gradexp.xyz/",
         "discussion_url": "https://news.ycombinator.com/item?id=48136981",
         "site": "ppo.gradexp.xyz",
-        "points": 191,
-        "comments": 44,
+        "points": 192,
+        "comments": 45,
         "author": "c1b",
         "age": "2d ago"
       },
@@ -836,7 +836,7 @@
         "url": "https://github.com/cactus-compute/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=48111896",
         "site": "github.com",
-        "points": 761,
+        "points": 762,
         "comments": 210,
         "author": "HenryNdubuaku",
         "age": "4d ago"
@@ -855,15 +855,15 @@
       },
       {
         "rank": 5,
-        "id": 48165898,
-        "title": "Show HN: Serene Bach – a Go weblog engine that runs as CGI or HTTP",
-        "url": "https://github.com/serendipitynz/serenebach",
-        "discussion_url": "https://news.ycombinator.com/item?id=48165898",
+        "id": 48151287,
+        "title": "Show HN: Burn, baby, burn (those tokens)",
+        "url": "https://github.com/dtnewman/burn-baby-burn",
+        "discussion_url": "https://news.ycombinator.com/item?id=48151287",
         "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "takkyun",
-        "age": "9h ago"
+        "points": 124,
+        "comments": 28,
+        "author": "dtnewman",
+        "age": "1d ago"
       }
     ]
   }
