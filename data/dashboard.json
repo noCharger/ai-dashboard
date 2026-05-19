@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-19T16:43:38Z",
+  "generated": "2026-05-19T18:51:36Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 412,
+        "trending_score": 411,
         "downloads": 1114657,
-        "likes": 1158,
+        "likes": 1164,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 393,
+        "trending_score": 391,
         "downloads": 144826,
-        "likes": 794,
+        "likes": 800,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Supertone/supertonic-3",
         "org": "Supertone",
-        "trending_score": 336,
+        "trending_score": 335,
         "downloads": 28681,
-        "likes": 455,
+        "likes": 460,
         "url": "https://huggingface.co/Supertone/supertonic-3",
         "tags": [
           "supertonic",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "unsloth/Qwen3.6-27B-MTP-GGUF",
-        "org": "unsloth",
-        "trending_score": 258,
-        "downloads": 337076,
-        "likes": 316,
-        "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-        "tags": [
-          "transformers",
-          "gguf",
-          "unsloth",
-          "qwen",
-          "qwen3_5"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "bytedance-research/Lance",
         "org": "bytedance-research",
-        "trending_score": 249,
+        "trending_score": 274,
         "downloads": 171,
-        "likes": 250,
+        "likes": 275,
         "url": "https://huggingface.co/bytedance-research/Lance",
         "tags": [
           "Lance",
@@ -84,6 +67,23 @@
           "multimodal",
           "image-generation",
           "video-generation"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "unsloth/Qwen3.6-27B-MTP-GGUF",
+        "org": "unsloth",
+        "trending_score": 259,
+        "downloads": 337076,
+        "likes": 320,
+        "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
+        "tags": [
+          "transformers",
+          "gguf",
+          "unsloth",
+          "qwen",
+          "qwen3_5"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 62.1891396937833,
+        "speed_tps": 62.6768299680723,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 70.3718095333586,
+        "speed_tps": 72.0760881642396,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 49.1266302251608,
+        "speed_tps": 49.4129303980001,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 121.430422769645,
+        "speed_tps": 122.546313989072,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -311,7 +311,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 20337,
+        "stars": 20623,
         "stars_delta": 3991,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 37523,
+        "stars": 37575,
         "stars_delta": 1027,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 13843,
+        "stars": 13921,
         "stars_delta": 3184,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 198085,
+        "stars": 198191,
         "stars_delta": 1620,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 19993,
+        "stars": 20057,
         "stars_delta": 127,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 20337,
+        "stars": 20623,
         "stars_delta": 15349,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 13870,
+        "stars": 13947,
         "stars_delta": 7830,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 16243,
+        "stars": 16355,
         "stars_delta": 9124,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 13843,
+        "stars": 13921,
         "stars_delta": 4402,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "oven-sh/bun",
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
         "url": "https://github.com/oven-sh/bun",
-        "stars": 92042,
+        "stars": 92052,
         "stars_delta": 2350,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 93940,
+        "stars": 94087,
         "stars_delta": 75156,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 26118,
+        "stars": 26196,
         "stars_delta": 23648,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 137525,
+        "stars": 137668,
         "stars_delta": 79827,
         "language": "",
         "language_color": "#586069"
@@ -445,7 +445,7 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 18381,
+        "stars": 18393,
         "stars_delta": 13920,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 16243,
+        "stars": 16355,
         "stars_delta": 13346,
         "language": "Python",
         "language_color": "#3572A5"
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2605.18678",
         "categories": [],
-        "upvotes": 59,
+        "upvotes": 61,
         "published": "2026-05-17",
         "github_repo": "https://github.com/bytedance/Lance",
         "github_stars": 259
@@ -682,50 +682,50 @@
       {
         "rank": 1,
         "id": 48195009,
-        "title": "I've built a virtual museum with nearly every operating system you can think of",
+        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
         "url": "https://virtualosmuseum.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48195009",
         "site": "virtualosmuseum.org",
-        "points": 74,
-        "comments": 14,
+        "points": 308,
+        "comments": 63,
         "author": "andreww591",
-        "age": "49m ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 48196764,
+        "title": "Google Search as you know it is over",
+        "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48196764",
+        "site": "techcrunch.com",
+        "points": 47,
+        "comments": 25,
+        "author": "evo_9",
+        "age": "54m ago"
+      },
+      {
+        "rank": 3,
         "id": 48192224,
         "title": "Apple unveils new accessibility features",
         "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
         "discussion_url": "https://news.ycombinator.com/item?id=48192224",
         "site": "apple.com",
-        "points": 349,
-        "comments": 184,
+        "points": 454,
+        "comments": 238,
         "author": "interpol_p",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48194352,
         "title": "I’ve joined Anthropic",
         "url": "https://twitter.com/karpathy/status/2056753169888334312",
         "discussion_url": "https://news.ycombinator.com/item?id=48194352",
         "site": "twitter.com",
-        "points": 448,
-        "comments": 175,
+        "points": 796,
+        "comments": 311,
         "author": "dmarcos",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48194614,
-        "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-        "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48194614",
-        "site": "gentoo.org",
-        "points": 33,
-        "comments": 3,
-        "author": "akhuettel",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
@@ -734,10 +734,10 @@
         "url": "https://superspl.at/scene/84df8849",
         "discussion_url": "https://news.ycombinator.com/item?id=48191602",
         "site": "superspl.at",
-        "points": 334,
-        "comments": 135,
+        "points": 391,
+        "comments": 151,
         "author": "danybittel",
-        "age": "6h ago"
+        "age": "8h ago"
       }
     ],
     "ask": [
@@ -749,12 +749,24 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48193451",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 7,
+        "comments": 10,
         "author": "Mnexium",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
+        "id": 48191893,
+        "title": "Did moving to new place have intended effect?",
+        "url": "https://news.ycombinator.com/item?id=48191893",
+        "discussion_url": "https://news.ycombinator.com/item?id=48191893",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 6,
+        "author": "Jeff2Serve",
+        "age": "7h ago"
+      },
+      {
+        "rank": 3,
         "id": 48192078,
         "title": "Ask HN: How often do you code the expected way instead of a better one?",
         "url": "https://news.ycombinator.com/item?id=48192078",
@@ -763,19 +775,7 @@
         "points": 4,
         "comments": 4,
         "author": "recycling",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48191893,
-        "title": "Did moving to new place have intended effect?",
-        "url": "https://news.ycombinator.com/item?id=48191893",
-        "discussion_url": "https://news.ycombinator.com/item?id=48191893",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 5,
-        "author": "Jeff2Serve",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -787,19 +787,19 @@
         "points": 2,
         "comments": 0,
         "author": "tukunjil",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 48191051,
-        "title": "Ask HN: How to enforce engineers to understand the code they are shipping",
-        "url": "https://news.ycombinator.com/item?id=48191051",
-        "discussion_url": "https://news.ycombinator.com/item?id=48191051",
+        "id": 48145524,
+        "title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
+        "url": "https://news.ycombinator.com/item?id=48145524",
+        "discussion_url": "https://news.ycombinator.com/item?id=48145524",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 5,
-        "author": "hchua",
-        "age": "7h ago"
+        "points": 171,
+        "comments": 136,
+        "author": "sochix",
+        "age": "4d ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://superlog.sh/",
         "discussion_url": "https://news.ycombinator.com/item?id=48195021",
         "site": "superlog.sh",
-        "points": 12,
-        "comments": 3,
+        "points": 30,
+        "comments": 27,
         "author": "Magnanten",
-        "age": "49m ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -822,46 +822,46 @@
         "url": "https://setpose.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48193474",
         "site": "setpose.com",
-        "points": 37,
-        "comments": 17,
+        "points": 53,
+        "comments": 27,
         "author": "augustvdv",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 48194739,
-        "title": "Show HN: Autodidact – Self-evolving local-first AI agent",
-        "url": "https://github.com/BuffaloTechRider/Autodidact",
-        "discussion_url": "https://news.ycombinator.com/item?id=48194739",
-        "site": "github.com",
-        "points": 4,
-        "comments": 0,
-        "author": "waterbuffaloai",
-        "age": "1h ago"
+        "id": 48182856,
+        "title": "Show HN: Haystack – Review the PRs that need human attention",
+        "url": "https://haystackeditor.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48182856",
+        "site": "haystackeditor.com",
+        "points": 10,
+        "comments": 5,
+        "author": "akshaysg",
+        "age": "1d ago"
       },
       {
         "rank": 4,
+        "id": 48196207,
+        "title": "Show HN: How Expensive Is Your (Steam) Wishlist?",
+        "url": "https://weloveit.io/how-expensive-is-your-wishlist/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48196207",
+        "site": "weloveit.io",
+        "points": 2,
+        "comments": 0,
+        "author": "dejobaan",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 48123359,
         "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
         "url": "https://isabisabel.com/gacha/",
         "discussion_url": "https://news.ycombinator.com/item?id=48123359",
         "site": "isabisabel.com",
-        "points": 220,
-        "comments": 110,
+        "points": 222,
+        "comments": 115,
         "author": "babel16",
         "age": "6d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48194368,
-        "title": "Show HN: Gpubook – An order book for GPU compute",
-        "url": "https://gpubook.io",
-        "discussion_url": "https://news.ycombinator.com/item?id=48194368",
-        "site": "gpubook.io",
-        "points": 3,
-        "comments": 0,
-        "author": "jesse_portal",
-        "age": "1h ago"
       }
     ]
   }
