@@ -1,12 +1,29 @@
 {
-  "generated": "2026-05-20T09:45:23Z",
+  "generated": "2026-05-20T10:16:44Z",
   "models": {
     "trending": [
       {
         "rank": 1,
+        "name": "bytedance-research/Lance",
+        "org": "bytedance-research",
+        "trending_score": 384,
+        "downloads": 438,
+        "likes": 389,
+        "url": "https://huggingface.co/bytedance-research/Lance",
+        "tags": [
+          "Lance",
+          "safetensors",
+          "multimodal",
+          "image-generation",
+          "video-generation"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 2,
         "name": "SulphurAI/Sulphur-2-base",
         "org": "SulphurAI",
-        "trending_score": 383,
+        "trending_score": 382,
         "downloads": 1157497,
         "likes": 1191,
         "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
@@ -20,29 +37,12 @@
         "rank_change": null
       },
       {
-        "rank": 2,
-        "name": "bytedance-research/Lance",
-        "org": "bytedance-research",
-        "trending_score": 380,
-        "downloads": 438,
-        "likes": 382,
-        "url": "https://huggingface.co/bytedance-research/Lance",
-        "tags": [
-          "Lance",
-          "safetensors",
-          "multimodal",
-          "image-generation",
-          "video-generation"
-        ],
-        "rank_change": null
-      },
-      {
         "rank": 3,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 352,
+        "trending_score": 354,
         "downloads": 166049,
-        "likes": 811,
+        "likes": 813,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Supertone/supertonic-3",
         "org": "Supertone",
-        "trending_score": 325,
+        "trending_score": 326,
         "downloads": 31940,
-        "likes": 478,
+        "likes": 479,
         "url": "https://huggingface.co/Supertone/supertonic-3",
         "tags": [
           "supertonic",
@@ -76,7 +76,7 @@
         "org": "unsloth",
         "trending_score": 243,
         "downloads": 411598,
-        "likes": 334,
+        "likes": 336,
         "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
         "tags": [
           "transformers",
@@ -311,7 +311,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 22757,
+        "stars": 22841,
         "stars_delta": 3973,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 38142,
+        "stars": 38161,
         "stars_delta": 1038,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 14870,
+        "stars": 14904,
         "stars_delta": 3164,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 199274,
+        "stars": 199311,
         "stars_delta": 1623,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 20462,
+        "stars": 20474,
         "stars_delta": 171,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 22757,
+        "stars": 22841,
         "stars_delta": 17793,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 14599,
+        "stars": 14624,
         "stars_delta": 8390,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 17120,
+        "stars": 17155,
         "stars_delta": 8997,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 14870,
+        "stars": 14904,
         "stars_delta": 7443,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "oven-sh/bun",
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
         "url": "https://github.com/oven-sh/bun",
-        "stars": 92103,
+        "stars": 92106,
         "stars_delta": 2438,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 95701,
+        "stars": 95761,
         "stars_delta": 77724,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 26647,
+        "stars": 26663,
         "stars_delta": 24210,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 139429,
+        "stars": 139485,
         "stars_delta": 78225,
         "language": "",
         "language_color": "#586069"
@@ -445,7 +445,7 @@
         "name": "AIDC-AI/Pixelle-Video",
         "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
         "url": "https://github.com/AIDC-AI/Pixelle-Video",
-        "stars": 18552,
+        "stars": 18560,
         "stars_delta": 14219,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 17120,
+        "stars": 17155,
         "stars_delta": 14849,
         "language": "Python",
         "language_color": "#3572A5"
@@ -549,7 +549,7 @@
         "upvotes": 50,
         "published": "2025-09-29",
         "github_repo": "https://github.com/NVlabs/Sana",
-        "github_stars": 7021
+        "github_stars": 7112
       },
       {
         "rank": 3,
@@ -568,6 +568,21 @@
       },
       {
         "rank": 4,
+        "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
+        "authors": [
+          "Junbo Niu",
+          "Zheng Liu",
+          "Zhuangcheng Gu"
+        ],
+        "url": "https://huggingface.co/papers/2509.22186",
+        "categories": [],
+        "upvotes": 162,
+        "published": "2025-09-26",
+        "github_repo": "https://github.com/opendatalab/MinerU",
+        "github_stars": 64055
+      },
+      {
+        "rank": 5,
         "title": "AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets",
         "authors": [
           "Tianyu Fan",
@@ -580,21 +595,6 @@
         "published": "2025-11-30",
         "github_repo": "https://github.com/HKUDS/AI-Trader",
         "github_stars": 18264
-      },
-      {
-        "rank": 5,
-        "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
-        "authors": [
-          "Junbo Niu",
-          "Zheng Liu",
-          "Zhuangcheng Gu"
-        ],
-        "url": "https://huggingface.co/papers/2509.22186",
-        "categories": [],
-        "upvotes": 162,
-        "published": "2025-09-26",
-        "github_repo": "https://github.com/opendatalab/MinerU",
-        "github_stars": 63854
       }
     ],
     "arxiv_recent": [
@@ -678,15 +678,15 @@
     "top": [
       {
         "rank": 1,
-        "id": 48201973,
-        "title": "FiveThirtyEight articles on the Internet Archive",
-        "url": "https://fivethirtyeightindex.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48201973",
-        "site": "fivethirtyeightindex.com",
-        "points": 200,
-        "comments": 44,
-        "author": "ChocMontePy",
-        "age": "8h ago"
+        "id": 48203698,
+        "title": "Everything in C is undefined behavior",
+        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48203698",
+        "site": "blog.habets.se",
+        "points": 183,
+        "comments": 218,
+        "author": "lycopodiopsida",
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -695,46 +695,46 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
         "discussion_url": "https://news.ycombinator.com/item?id=48196570",
         "site": "blog.google",
-        "points": 778,
-        "comments": 551,
+        "points": 795,
+        "comments": 556,
         "author": "spectraldrift",
         "age": "16h ago"
       },
       {
         "rank": 3,
+        "id": 48201973,
+        "title": "FiveThirtyEight articles on the Internet Archive",
+        "url": "https://fivethirtyeightindex.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48201973",
+        "site": "fivethirtyeightindex.com",
+        "points": 205,
+        "comments": 47,
+        "author": "ChocMontePy",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
         "id": 48195009,
         "title": "I’ve built a virtual museum with nearly every operating system you can think of",
         "url": "https://virtualosmuseum.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48195009",
         "site": "virtualosmuseum.org",
-        "points": 771,
-        "comments": 171,
+        "points": 779,
+        "comments": 172,
         "author": "andreww591",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48203536,
         "title": "Infomaniak transitions to a foundation model to protect user data privacy",
         "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
         "discussion_url": "https://news.ycombinator.com/item?id=48203536",
         "site": "news.infomaniak.com",
-        "points": 71,
-        "comments": 13,
+        "points": 75,
+        "comments": 16,
         "author": "darktoto",
         "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48197370,
-        "title": "Google changes its search box",
-        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48197370",
-        "site": "blog.google",
-        "points": 546,
-        "comments": 722,
-        "author": "berkeleyjunk",
-        "age": "15h ago"
       }
     ],
     "ask": [
@@ -745,8 +745,8 @@
         "url": "https://news.ycombinator.com/item?id=48202486",
         "discussion_url": "https://news.ycombinator.com/item?id=48202486",
         "site": "news.ycombinator.com",
-        "points": 21,
-        "comments": 12,
+        "points": 24,
+        "comments": 13,
         "author": "summonerOS",
         "age": "7h ago"
       },
@@ -760,7 +760,7 @@
         "points": 24,
         "comments": 13,
         "author": "sergiotapia",
-        "age": "9h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
@@ -782,7 +782,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48203050",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 4,
+        "comments": 5,
         "author": "deku2099",
         "age": "5h ago"
       },
@@ -796,24 +796,36 @@
         "points": 3,
         "comments": 1,
         "author": "sbinnee",
-        "age": "5h ago"
+        "age": "6h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48204843,
+        "title": "Show HN: The AI Quant Desk for Onchain Finance",
+        "url": "https://grid.raster.finance/en/portfolio-analytics",
+        "discussion_url": "https://news.ycombinator.com/item?id=48204843",
+        "site": "grid.raster.finance",
+        "points": 8,
+        "comments": 1,
+        "author": "Iwan-Raster",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48192383,
         "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
         "url": "https://github.com/antoinezambelli/forge",
         "discussion_url": "https://news.ycombinator.com/item?id=48192383",
         "site": "github.com",
-        "points": 478,
-        "comments": 172,
+        "points": 487,
+        "comments": 174,
         "author": "zambelli",
         "age": "21h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48195021,
         "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
         "url": "https://superlog.sh/",
@@ -822,22 +834,22 @@
         "points": 65,
         "comments": 44,
         "author": "Magnanten",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48191602,
         "title": "Show HN: Gaussian Splat of a Strawberry",
         "url": "https://superspl.at/scene/84df8849",
         "discussion_url": "https://news.ycombinator.com/item?id=48191602",
         "site": "superspl.at",
-        "points": 498,
+        "points": 499,
         "comments": 190,
         "author": "danybittel",
         "age": "23h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48193474,
         "title": "Show HN: I made a 3D pose maker for artists",
         "url": "https://setpose.com/",
@@ -846,19 +858,7 @@
         "points": 79,
         "comments": 30,
         "author": "augustvdv",
-        "age": "19h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48182856,
-        "title": "Show HN: Haystack – Review the PRs that need human attention",
-        "url": "https://haystackeditor.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48182856",
-        "site": "haystackeditor.com",
-        "points": 38,
-        "comments": 11,
-        "author": "akshaysg",
-        "age": "1d ago"
+        "age": "20h ago"
       }
     ]
   }
