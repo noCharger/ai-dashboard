@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-23T11:53:09Z",
+  "generated": "2026-05-23T14:25:59Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "bytedance-research/Lance",
         "org": "bytedance-research",
-        "trending_score": 641,
+        "trending_score": 649,
         "downloads": 1227,
-        "likes": 667,
+        "likes": 677,
         "url": "https://huggingface.co/bytedance-research/Lance",
         "tags": [
           "Lance",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "Supertone/supertonic-3",
-        "org": "Supertone",
-        "trending_score": 323,
-        "downloads": 40368,
-        "likes": 598,
-        "url": "https://huggingface.co/Supertone/supertonic-3",
-        "tags": [
-          "supertonic",
-          "onnx",
-          "text-to-speech",
-          "speech-synthesis",
-          "tts"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "tencent/Hy-MT2-1.8B",
         "org": "tencent",
-        "trending_score": 308,
+        "trending_score": 326,
         "downloads": 2564,
-        "likes": 320,
+        "likes": 341,
         "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
         "tags": [
           "transformers",
@@ -54,10 +37,44 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Supertone/supertonic-3",
+        "org": "Supertone",
+        "trending_score": 316,
+        "downloads": 40368,
+        "likes": 601,
+        "url": "https://huggingface.co/Supertone/supertonic-3",
+        "tags": [
+          "supertonic",
+          "onnx",
+          "text-to-speech",
+          "speech-synthesis",
+          "tts"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
+        "name": "tencent/Hy-MT2-30B-A3B",
+        "org": "tencent",
+        "trending_score": 266,
+        "downloads": 970,
+        "likes": 282,
+        "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hy_v3",
+          "text-generation",
+          "translation"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 269,
+        "trending_score": 262,
         "downloads": 247170,
         "likes": 910,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
@@ -67,23 +84,6 @@
           "minicpmv4_6",
           "image-text-to-text",
           "minicpm-v"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "tencent/Hy-MT2-30B-A3B",
-        "org": "tencent",
-        "trending_score": 264,
-        "downloads": 970,
-        "likes": 280,
-        "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hy_v3",
-          "text-generation",
-          "translation"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 19632,
-        "stars_delta": 1393,
+        "stars": 20078,
+        "stars_delta": 2331,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,8 +321,8 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 25839,
-        "stars_delta": 2549,
+        "stars": 25993,
+        "stars_delta": 2172,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 17917,
-        "stars_delta": 3684,
+        "stars": 18256,
+        "stars_delta": 2434,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 12742,
-        "stars_delta": 988,
+        "stars": 12982,
+        "stars_delta": 1523,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "Fincept-Corporation/FinceptTerminal",
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-        "stars": 22872,
-        "stars_delta": 367,
+        "stars": 22932,
+        "stars_delta": 537,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,7 +363,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 17917,
+        "stars": 18256,
         "stars_delta": 14072,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 26017,
+        "stars": 26082,
         "stars_delta": 17124,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 19382,
+        "stars": 19470,
         "stars_delta": 11550,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 64392,
+        "stars": 64469,
         "stars_delta": 6773,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 16589,
+        "stars": 16648,
         "stars_delta": 6891,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 101735,
+        "stars": 101921,
         "stars_delta": 83850,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 17917,
+        "stars": 18256,
         "stars_delta": 15112,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 26880,
+        "stars": 26919,
         "stars_delta": 19054,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 19139,
+        "stars": 19264,
         "stars_delta": 17246,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 16589,
+        "stars": 16648,
         "stars_delta": 14360,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 203,
-        "total_stars": 14850,
+        "stars_28d": 204,
+        "total_stars": 14851,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -499,8 +499,8 @@
         "rank": 4,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 113,
-        "total_stars": 48210,
+        "stars_28d": 112,
+        "total_stars": 48209,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 106,
-        "total_stars": 175262,
+        "stars_28d": 105,
+        "total_stars": 175261,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
         "language": "Python",
@@ -538,21 +538,6 @@
       },
       {
         "rank": 2,
-        "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
-        "authors": [
-          "Junbo Niu",
-          "Zheng Liu",
-          "Zhuangcheng Gu"
-        ],
-        "url": "https://huggingface.co/papers/2509.22186",
-        "categories": [],
-        "upvotes": 162,
-        "published": "2025-09-26",
-        "github_repo": "https://github.com/opendatalab/MinerU",
-        "github_stars": 64536
-      },
-      {
-        "rank": 3,
         "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
         "authors": [
           "Fengyi Fu",
@@ -567,6 +552,21 @@
         "github_stars": 766
       },
       {
+        "rank": 3,
+        "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
+        "authors": [
+          "Junbo Niu",
+          "Zheng Liu",
+          "Zhuangcheng Gu"
+        ],
+        "url": "https://huggingface.co/papers/2509.22186",
+        "categories": [],
+        "upvotes": 162,
+        "published": "2025-09-26",
+        "github_repo": "https://github.com/opendatalab/MinerU",
+        "github_stars": 64593
+      },
+      {
         "rank": 4,
         "title": "SANA-Video: Efficient Video Generation with Block Linear Diffusion\n  Transformer",
         "authors": [
@@ -579,7 +579,7 @@
         "upvotes": 53,
         "published": "2025-09-29",
         "github_repo": "https://github.com/NVlabs/Sana",
-        "github_stars": 7291
+        "github_stars": 7349
       },
       {
         "rank": 5,
@@ -594,7 +594,7 @@
         "upvotes": 126,
         "published": "2026-05-18",
         "github_repo": "https://github.com/xzf-thu/Mega-ASR",
-        "github_stars": 319
+        "github_stars": 372
       }
     ],
     "arxiv_recent": [
@@ -684,63 +684,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 48241997,
-        "title": "Shipping a laptop to a refugee camp in Uganda",
-        "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-        "discussion_url": "https://news.ycombinator.com/item?id=48241997",
-        "site": "notesbylex.com",
-        "points": 513,
-        "comments": 181,
-        "author": "lexandstuff",
-        "age": "14h ago"
+        "id": 48247127,
+        "title": "I Miss Terry Pratchett",
+        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48247127",
+        "site": "mahl.me",
+        "points": 146,
+        "comments": 93,
+        "author": "gorgmah",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 48245262,
-        "title": "Rubish: A Unix shell written in pure Ruby",
-        "url": "https://github.com/amatsuda/rubish",
-        "discussion_url": "https://news.ycombinator.com/item?id=48245262",
-        "site": "github.com",
-        "points": 63,
-        "comments": 27,
-        "author": "winebarrel",
-        "age": "5h ago"
+        "id": 48247325,
+        "title": "On The <dl>",
+        "url": "https://benmyers.dev/blog/on-the-dl/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48247325",
+        "site": "benmyers.dev",
+        "points": 51,
+        "comments": 14,
+        "author": "ravenical",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 48237163,
-        "title": "Why Japanese companies do so many different things",
-        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-        "discussion_url": "https://news.ycombinator.com/item?id=48237163",
-        "site": "davidoks.blog",
-        "points": 710,
-        "comments": 339,
-        "author": "d0ks",
-        "age": "20h ago"
+        "id": 48247004,
+        "title": "80386 Microcode Disassembled",
+        "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48247004",
+        "site": "reenigne.org",
+        "points": 87,
+        "comments": 15,
+        "author": "nand2mario",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 48246614,
-        "title": "US tech firms share Dutch regulator officials' names with Senate",
-        "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48246614",
-        "site": "dutchnews.nl",
-        "points": 39,
-        "comments": 12,
-        "author": "zqna",
-        "age": "55m ago"
+        "id": 48246889,
+        "title": "Making Deep Learning Go Brrrr from First Principles",
+        "url": "https://horace.io/brrr_intro.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48246889",
+        "site": "horace.io",
+        "points": 42,
+        "comments": 17,
+        "author": "tosh",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 48245862,
-        "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-        "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-        "discussion_url": "https://news.ycombinator.com/item?id=48245862",
-        "site": "xcancel.com",
-        "points": 118,
-        "comments": 29,
-        "author": "Tomte",
-        "age": "3h ago"
+        "id": 48198615,
+        "title": "Solving the \"Zork\" Mystery",
+        "url": "https://www.dpolakovic.space/blogs/zork-part2",
+        "discussion_url": "https://news.ycombinator.com/item?id=48198615",
+        "site": "dpolakovic.space",
+        "points": 9,
+        "comments": 2,
+        "author": "dpola",
+        "age": "3d ago"
       }
     ],
     "ask": [
@@ -751,10 +751,10 @@
         "url": "https://news.ycombinator.com/item?id=48245259",
         "discussion_url": "https://news.ycombinator.com/item?id=48245259",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 4,
+        "points": 10,
+        "comments": 5,
         "author": "noduerme",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -763,25 +763,13 @@
         "url": "https://news.ycombinator.com/item?id=48244739",
         "discussion_url": "https://news.ycombinator.com/item?id=48244739",
         "site": "news.ycombinator.com",
-        "points": 6,
+        "points": 7,
         "comments": 3,
         "author": "Cheesebh",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 48245740,
-        "title": "Ask HN: How do small teams securely share env files?",
-        "url": "https://news.ycombinator.com/item?id=48245740",
-        "discussion_url": "https://news.ycombinator.com/item?id=48245740",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 4,
-        "author": "tmr_praveen",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
         "id": 48243163,
         "title": "Ask HN: What to learn and do, that makes me least affected by AI in STEM?",
         "url": "https://news.ycombinator.com/item?id=48243163",
@@ -790,7 +778,19 @@
         "points": 5,
         "comments": 4,
         "author": "s3arch",
-        "age": "11h ago"
+        "age": "14h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48245740,
+        "title": "Ask HN: How do small teams securely share env files?",
+        "url": "https://news.ycombinator.com/item?id=48245740",
+        "discussion_url": "https://news.ycombinator.com/item?id=48245740",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 5,
+        "author": "tmr_praveen",
+        "age": "6h ago"
       },
       {
         "rank": 5,
@@ -808,15 +808,15 @@
     "show": [
       {
         "rank": 1,
-        "id": 48245914,
-        "title": "Show HN: Ifmhy – An Internationalization Version of Fmhy",
-        "url": "https://ifmhy.org/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48245914",
-        "site": "ifmhy.org",
+        "id": 48247541,
+        "title": "Show HN: Calculator Music – play songs with number keys in the browser",
+        "url": "https://news.ycombinator.com/item?id=48247541",
+        "discussion_url": "https://news.ycombinator.com/item?id=48247541",
+        "site": "news.ycombinator.com",
         "points": 2,
         "comments": 0,
-        "author": "valorantPanda",
-        "age": "3h ago"
+        "author": "zice0503",
+        "age": "52m ago"
       },
       {
         "rank": 2,
@@ -837,34 +837,34 @@
         "url": "https://freenet.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48223362",
         "site": "freenet.org",
-        "points": 363,
-        "comments": 249,
+        "points": 364,
+        "comments": 255,
         "author": "sanity",
         "age": "1d ago"
       },
       {
         "rank": 4,
+        "id": 48245914,
+        "title": "Show HN: Ifmhy – An Internationalization Version of Fmhy",
+        "url": "https://ifmhy.org/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48245914",
+        "site": "ifmhy.org",
+        "points": 2,
+        "comments": 0,
+        "author": "valorantPanda",
+        "age": "5h ago"
+      },
+      {
+        "rank": 5,
         "id": 48225596,
         "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
         "url": "https://news.ycombinator.com/item?id=48225596",
         "discussion_url": "https://news.ycombinator.com/item?id=48225596",
         "site": "news.ycombinator.com",
-        "points": 87,
-        "comments": 101,
+        "points": 88,
+        "comments": 103,
         "author": "adisingh13",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48219918,
-        "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-        "url": "https://github.com/helvesec/rmux",
-        "discussion_url": "https://news.ycombinator.com/item?id=48219918",
-        "site": "github.com",
-        "points": 182,
-        "comments": 88,
-        "author": "shideneyu",
-        "age": "2d ago"
       }
     ]
   }
