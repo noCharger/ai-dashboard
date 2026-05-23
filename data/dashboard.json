@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-23T05:57:07Z",
+  "generated": "2026-05-23T08:09:29Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "bytedance-research/Lance",
         "org": "bytedance-research",
-        "trending_score": 631,
-        "downloads": 1001,
-        "likes": 655,
+        "trending_score": 633,
+        "downloads": 1227,
+        "likes": 658,
         "url": "https://huggingface.co/bytedance-research/Lance",
         "tags": [
           "Lance",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Supertone/supertonic-3",
         "org": "Supertone",
-        "trending_score": 328,
-        "downloads": 37545,
-        "likes": 587,
+        "trending_score": 323,
+        "downloads": 40368,
+        "likes": 589,
         "url": "https://huggingface.co/Supertone/supertonic-3",
         "tags": [
           "supertonic",
@@ -38,10 +38,27 @@
       },
       {
         "rank": 3,
+        "name": "tencent/Hy-MT2-1.8B",
+        "org": "tencent",
+        "trending_score": 279,
+        "downloads": 2564,
+        "likes": 287,
+        "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hunyuan_v1_dense",
+          "text-generation",
+          "translation"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 4,
         "name": "openbmb/MiniCPM-V-4.6",
         "org": "openbmb",
-        "trending_score": 282,
-        "downloads": 221612,
+        "trending_score": 277,
+        "downloads": 247170,
         "likes": 907,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
         "tags": [
@@ -54,36 +71,19 @@
         "rank_change": null
       },
       {
-        "rank": 4,
-        "name": "tencent/Hy-MT2-1.8B",
+        "rank": 5,
+        "name": "tencent/Hy-MT2-30B-A3B",
         "org": "tencent",
-        "trending_score": 277,
-        "downloads": 564,
-        "likes": 285,
-        "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+        "trending_score": 259,
+        "downloads": 970,
+        "likes": 275,
+        "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
         "tags": [
           "transformers",
           "safetensors",
-          "hunyuan_v1_dense",
+          "hy_v3",
           "text-generation",
           "translation"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "NemoStation/Marlin-2B",
-        "org": "NemoStation",
-        "trending_score": 246,
-        "downloads": 4002,
-        "likes": 253,
-        "url": "https://huggingface.co/NemoStation/Marlin-2B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "text-generation",
-          "video"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 25340,
+        "stars": 25526,
         "stars_delta": 2549,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 17079,
+        "stars": 17427,
         "stars_delta": 3684,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 64185,
+        "stars": 64270,
         "stars_delta": 978,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 12265,
+        "stars": 12433,
         "stars_delta": 988,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "ChromeDevTools/chrome-devtools-mcp",
         "description": "Chrome DevTools for coding agents",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "stars": 41068,
+        "stars": 41103,
         "stars_delta": 501,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 17079,
+        "stars": 17427,
         "stars_delta": 14072,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 25825,
+        "stars": 25902,
         "stars_delta": 17124,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 19180,
+        "stars": 19262,
         "stars_delta": 11550,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 64185,
+        "stars": 64271,
         "stars_delta": 6773,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 16498,
+        "stars": 16534,
         "stars_delta": 6891,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 101357,
+        "stars": 101496,
         "stars_delta": 83850,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 28129,
+        "stars": 28185,
         "stars_delta": 25874,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 18848,
+        "stars": 18957,
         "stars_delta": 17246,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 17079,
+        "stars": 17427,
         "stars_delta": 15112,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 26810,
+        "stars": 26841,
         "stars_delta": 19054,
         "language": "Python",
         "language_color": "#3572A5"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 256,
-        "total_stars": 116612,
+        "stars_28d": 258,
+        "total_stars": 116614,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -477,8 +477,8 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 242,
-        "total_stars": 37568,
+        "stars_28d": 241,
+        "total_stars": 37567,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 202,
-        "total_stars": 14849,
+        "stars_28d": 203,
+        "total_stars": 14850,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
         "language": "Python",
@@ -499,8 +499,8 @@
         "rank": 4,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 111,
-        "total_stars": 48208,
+        "stars_28d": 112,
+        "total_stars": 48209,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 106,
-        "total_stars": 175262,
+        "stars_28d": 105,
+        "total_stars": 175261,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
         "language": "Python",
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+        "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
         "authors": [
-          "Ruofeng Yang",
-          "Yongcan Li",
-          "Shuai Li"
+          "Zhifei Xie",
+          "Kaiyu Pang",
+          "Haobin Zhang"
         ],
-        "url": "https://huggingface.co/papers/2605.03042",
+        "url": "https://huggingface.co/papers/2605.19833",
         "categories": [],
-        "upvotes": 120,
-        "published": "2026-05-03",
-        "github_repo": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-        "github_stars": 10394
+        "upvotes": 126,
+        "published": "2026-05-18",
+        "github_repo": "https://github.com/xzf-thu/Mega-ASR",
+        "github_stars": 319
       }
     ],
     "arxiv_recent": [
@@ -689,87 +689,99 @@
         "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
         "discussion_url": "https://news.ycombinator.com/item?id=48241997",
         "site": "notesbylex.com",
-        "points": 311,
-        "comments": 98,
+        "points": 388,
+        "comments": 133,
         "author": "lexandstuff",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
-        "id": 48244434,
-        "title": "Microsoft reports AI is more expensive than paying human employees",
-        "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48244434",
-        "site": "fortune.com",
-        "points": 182,
-        "comments": 43,
-        "author": "nreece",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
         "id": 48237163,
         "title": "Why Japanese companies do so many different things",
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "discussion_url": "https://news.ycombinator.com/item?id=48237163",
         "site": "davidoks.blog",
-        "points": 592,
-        "comments": 299,
+        "points": 632,
+        "comments": 312,
         "author": "d0ks",
-        "age": "14h ago"
+        "age": "16h ago"
       },
       {
-        "rank": 4,
-        "id": 48207043,
-        "title": "Sp.h is the standard library that C deserves",
-        "url": "https://spader.zone/sp/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48207043",
-        "site": "spader.zone",
-        "points": 56,
-        "comments": 26,
-        "author": "dboon",
+        "rank": 3,
+        "id": 48206387,
+        "title": "The Quadratic Sandwich",
+        "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48206387",
+        "site": "fedemagnani.github.io",
+        "points": 17,
+        "comments": 1,
+        "author": "cpp_frog",
         "age": "2d ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48240419,
         "title": "Project Glasswing: An Initial Update",
         "url": "https://www.anthropic.com/research/glasswing-initial-update",
         "discussion_url": "https://news.ycombinator.com/item?id=48240419",
         "site": "anthropic.com",
-        "points": 387,
-        "comments": 229,
+        "points": 412,
+        "comments": 248,
         "author": "louiereederson",
-        "age": "10h ago"
+        "age": "12h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48245571,
+        "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+        "discussion_url": "https://news.ycombinator.com/item?id=48245571",
+        "site": "theguardian.com",
+        "points": 17,
+        "comments": 1,
+        "author": "Michelangelo11",
+        "age": "34m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48245259,
+        "title": "Ask HN: Is $300/HR too low these days for custom full stack?",
+        "url": "https://news.ycombinator.com/item?id=48245259",
+        "discussion_url": "https://news.ycombinator.com/item?id=48245259",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "noduerme",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48244739,
         "title": "Ask HN: How to increase depth instead of breadth as 10 yoe as swe?",
         "url": "https://news.ycombinator.com/item?id=48244739",
         "discussion_url": "https://news.ycombinator.com/item?id=48244739",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
+        "points": 5,
+        "comments": 3,
         "author": "Cheesebh",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48243163,
         "title": "Ask HN: What to learn and do, that makes me least affected by AI in STEM?",
         "url": "https://news.ycombinator.com/item?id=48243163",
         "discussion_url": "https://news.ycombinator.com/item?id=48243163",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 2,
+        "comments": 3,
         "author": "s3arch",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48238442,
         "title": "Ask HN: What's New in Crypto?",
         "url": "https://news.ycombinator.com/item?id=48238442",
@@ -778,10 +790,10 @@
         "points": 4,
         "comments": 7,
         "author": "kaycebasques",
-        "age": "13h ago"
+        "age": "15h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48238426,
         "title": "Tell HN: The Threat to US Citizen's ID / Voting Is Private Services",
         "url": "https://news.ycombinator.com/item?id=48238426",
@@ -790,19 +802,7 @@
         "points": 2,
         "comments": 4,
         "author": "m3047",
-        "age": "13h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48237521,
-        "title": "Ask HN: OpenAI, SpaceX/xAI, Anthropic all to IPO, is this a sign of the peak?",
-        "url": "https://news.ycombinator.com/item?id=48237521",
-        "discussion_url": "https://news.ycombinator.com/item?id=48237521",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 7,
-        "author": "virgildotcodes",
-        "age": "14h ago"
+        "age": "15h ago"
       }
     ],
     "show": [
@@ -813,10 +813,10 @@
         "url": "https://github.com/unprovable/ShadowCat",
         "discussion_url": "https://news.ycombinator.com/item?id=48234287",
         "site": "github.com",
-        "points": 141,
-        "comments": 47,
+        "points": 143,
+        "comments": 53,
         "author": "unprovable",
-        "age": "18h ago"
+        "age": "20h ago"
       },
       {
         "rank": 2,
@@ -825,34 +825,34 @@
         "url": "https://freenet.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48223362",
         "site": "freenet.org",
-        "points": 356,
-        "comments": 245,
+        "points": 359,
+        "comments": 246,
         "author": "sanity",
         "age": "1d ago"
       },
       {
         "rank": 3,
+        "id": 48225596,
+        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+        "url": "https://news.ycombinator.com/item?id=48225596",
+        "discussion_url": "https://news.ycombinator.com/item?id=48225596",
+        "site": "news.ycombinator.com",
+        "points": 87,
+        "comments": 101,
+        "author": "adisingh13",
+        "age": "1d ago"
+      },
+      {
+        "rank": 4,
         "id": 48237415,
         "title": "Show HN: Pablo – a Chrome extension that copies UI from any website",
         "url": "https://www.usepablo.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=48237415",
         "site": "usepablo.dev",
         "points": 22,
-        "comments": 5,
+        "comments": 6,
         "author": "rayansaleh",
-        "age": "14h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48225596,
-        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-        "url": "https://news.ycombinator.com/item?id=48225596",
-        "discussion_url": "https://news.ycombinator.com/item?id=48225596",
-        "site": "news.ycombinator.com",
-        "points": 86,
-        "comments": 100,
-        "author": "adisingh13",
-        "age": "1d ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
