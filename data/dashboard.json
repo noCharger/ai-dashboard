@@ -1,31 +1,14 @@
 {
-  "generated": "2026-05-25T18:23:04Z",
+  "generated": "2026-05-25T20:17:53Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "bytedance-research/Lance",
-        "org": "bytedance-research",
-        "trending_score": 722,
-        "downloads": 1679,
-        "likes": 810,
-        "url": "https://huggingface.co/bytedance-research/Lance",
-        "tags": [
-          "Lance",
-          "safetensors",
-          "multimodal",
-          "image-generation",
-          "video-generation"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "tencent/Hy-MT2-1.8B",
         "org": "tencent",
-        "trending_score": 716,
+        "trending_score": 729,
         "downloads": 5552,
-        "likes": 755,
+        "likes": 769,
         "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "bytedance-research/Lance",
+        "org": "bytedance-research",
+        "trending_score": 722,
+        "downloads": 1679,
+        "likes": 813,
+        "url": "https://huggingface.co/bytedance-research/Lance",
+        "tags": [
+          "Lance",
+          "safetensors",
+          "multimodal",
+          "image-generation",
+          "video-generation"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "NemoStation/Marlin-2B",
         "org": "NemoStation",
-        "trending_score": 324,
+        "trending_score": 328,
         "downloads": 7291,
-        "likes": 337,
+        "likes": 341,
         "url": "https://huggingface.co/NemoStation/Marlin-2B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "tencent/Hy-MT2-30B-A3B",
         "org": "tencent",
-        "trending_score": 305,
+        "trending_score": 306,
         "downloads": 1494,
-        "likes": 321,
+        "likes": 322,
         "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "sapientinc/HRM-Text-1B",
         "org": "sapientinc",
-        "trending_score": 267,
+        "trending_score": 276,
         "downloads": 90026,
-        "likes": 277,
+        "likes": 287,
         "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 68.1208250525284,
+        "speed_tps": 69.5102103328033,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 49.714042377797,
+        "speed_tps": 49.1776044875973,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -311,7 +311,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 30350,
+        "stars": 30581,
         "stars_delta": 5625,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 15099,
+        "stars": 15193,
         "stars_delta": 1448,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 18165,
+        "stars": 18261,
         "stars_delta": 3167,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 192125,
+        "stars": 192191,
         "stars_delta": 2052,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 9045,
+        "stars": 9100,
         "stars_delta": 999,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 24603,
+        "stars": 24692,
         "stars_delta": 18136,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 27717,
+        "stars": 27738,
         "stars_delta": 15194,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 30351,
+        "stars": 30581,
         "stars_delta": 9102,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 21375,
+        "stars": 21400,
         "stars_delta": 11401,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 18165,
+        "stars": 18261,
         "stars_delta": 6944,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 104983,
+        "stars": 105069,
         "stars_delta": 85843,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 24603,
+        "stars": 24692,
         "stars_delta": 20676,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 27509,
+        "stars": 27521,
         "stars_delta": 19626,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 20881,
+        "stars": 20915,
         "stars_delta": 18723,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 17757,
+        "stars": 17783,
         "stars_delta": 15283,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2605.23904",
         "categories": [],
-        "upvotes": 147,
+        "upvotes": 149,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
         "github_stars": 72
@@ -564,7 +564,7 @@
         "upvotes": 164,
         "published": "2025-09-26",
         "github_repo": "https://github.com/opendatalab/MinerU",
-        "github_stars": 64805
+        "github_stars": 64869
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 53,
         "published": "2025-09-29",
         "github_repo": "https://github.com/NVlabs/Sana",
-        "github_stars": 7562
+        "github_stars": 7610
       },
       {
         "rank": 5,
@@ -683,63 +683,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 48269580,
+        "title": "Exit IP VPN servers mitigation rollout",
+        "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+        "discussion_url": "https://news.ycombinator.com/item?id=48269580",
+        "site": "mullvad.net",
+        "points": 117,
+        "comments": 20,
+        "author": "Cider9986",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 48265206,
         "title": "Magnifica Humanitas",
         "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48265206",
         "site": "vatican.va",
-        "points": 852,
-        "comments": 369,
+        "points": 1099,
+        "comments": 493,
         "author": "theletterf",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 48269961,
+        "title": "California moves to exempt Linux from its age-verification law after backlash",
+        "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+        "discussion_url": "https://news.ycombinator.com/item?id=48269961",
+        "site": "tomshardware.com",
+        "points": 200,
+        "comments": 106,
+        "author": "rbanffy",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 48267126,
         "title": "C extensions, portability, and alternative compilers",
         "url": "https://lemon.rip/w/6-c-extensions-compilers/",
         "discussion_url": "https://news.ycombinator.com/item?id=48267126",
         "site": "lemon.rip",
-        "points": 90,
-        "comments": 21,
+        "points": 109,
+        "comments": 35,
         "author": "xngbuilds",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48267829,
-        "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-        "url": "https://www.trychert.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48267829",
-        "site": "trychert.com",
-        "points": 29,
-        "comments": 115,
-        "author": "garygao",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48266906,
-        "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48266906",
-        "site": "krebsonsecurity.com",
-        "points": 183,
-        "comments": 46,
-        "author": "jruohonen",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 48265056,
-        "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-        "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48265056",
-        "site": "futurumgroup.com",
-        "points": 102,
-        "comments": 33,
-        "author": "rbanffy",
-        "age": "8h ago"
+        "id": 48270111,
+        "title": "The bootstrapper's EU stack for under €10 per month",
+        "url": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48270111",
+        "site": "eualternative.eu",
+        "points": 94,
+        "comments": 19,
+        "author": "sparkling",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -750,10 +750,10 @@
         "url": "https://news.ycombinator.com/item?id=48269051",
         "discussion_url": "https://news.ycombinator.com/item?id=48269051",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
+        "points": 4,
+        "comments": 6,
         "author": "DmitriyBuchilin",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -762,10 +762,10 @@
         "url": "https://news.ycombinator.com/item?id=48265379",
         "discussion_url": "https://news.ycombinator.com/item?id=48265379",
         "site": "news.ycombinator.com",
-        "points": 14,
-        "comments": 13,
+        "points": 16,
+        "comments": 15,
         "author": "simonebrunozzi",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
@@ -777,7 +777,7 @@
         "points": 13,
         "comments": 11,
         "author": "amichail",
-        "age": "22h ago"
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -789,7 +789,7 @@
         "points": 7,
         "comments": 12,
         "author": "coolcoder613",
-        "age": "12h ago"
+        "age": "13h ago"
       },
       {
         "rank": 5,
@@ -807,27 +807,27 @@
     "show": [
       {
         "rank": 1,
+        "id": 48270848,
+        "title": "Show HN: I made Pokémon but with real animals in the real world",
+        "url": "https://apps.apple.com/gb/app/animalis-game/id6762081213",
+        "discussion_url": "https://news.ycombinator.com/item?id=48270848",
+        "site": "apps.apple.com",
+        "points": 2,
+        "comments": 0,
+        "author": "robert-whiteley",
+        "age": "29m ago"
+      },
+      {
+        "rank": 2,
         "id": 48258015,
         "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
         "url": "https://audiomass.co/?multitrack=1",
         "discussion_url": "https://news.ycombinator.com/item?id=48258015",
         "site": "audiomass.co",
-        "points": 468,
-        "comments": 104,
+        "points": 488,
+        "comments": 108,
         "author": "pantelisk",
         "age": "1d ago"
-      },
-      {
-        "rank": 2,
-        "id": 48269679,
-        "title": "Show HN: Cursed Browser – a VLM reads the HTML and hallucinates the page",
-        "url": "https://github.com/scosman/cursed_browser",
-        "discussion_url": "https://news.ycombinator.com/item?id=48269679",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "scosman",
-        "age": "29m ago"
       },
       {
         "rank": 3,
@@ -836,34 +836,34 @@
         "url": "https://www.tinyvolt.com/geomatic",
         "discussion_url": "https://news.ycombinator.com/item?id=48264635",
         "site": "tinyvolt.com",
-        "points": 54,
+        "points": 55,
         "comments": 13,
         "author": "nivter",
-        "age": "9h ago"
+        "age": "11h ago"
       },
       {
         "rank": 4,
+        "id": 48269679,
+        "title": "Show HN: Cursed Browser – a VLM reads the HTML and hallucinates the page",
+        "url": "https://github.com/scosman/cursed_browser",
+        "discussion_url": "https://news.ycombinator.com/item?id=48269679",
+        "site": "github.com",
+        "points": 3,
+        "comments": 1,
+        "author": "scosman",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
         "id": 48266698,
         "title": "Show HN: Volt – front end tooling for Phoenix that runs inside the BEAM",
         "url": "https://github.com/elixir-volt/volt",
         "discussion_url": "https://news.ycombinator.com/item?id=48266698",
         "site": "github.com",
-        "points": 5,
+        "points": 7,
         "comments": 0,
         "author": "dannote",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48267496,
-        "title": "Show HN: NanoApps: Run custom homebrew apps on iPod nano 7th generation",
-        "url": "https://twitter.com/freemyipod/status/2058920520708468974",
-        "discussion_url": "https://news.ycombinator.com/item?id=48267496",
-        "site": "twitter.com",
-        "points": 3,
-        "comments": 0,
-        "author": "user890104",
-        "age": "3h ago"
+        "age": "6h ago"
       }
     ]
   }
