@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-26T17:18:43Z",
+  "generated": "2026-05-26T19:53:12Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "bytedance-research/Lance",
         "org": "bytedance-research",
-        "trending_score": 560,
+        "trending_score": 530,
         "downloads": 1908,
-        "likes": 851,
+        "likes": 853,
         "url": "https://huggingface.co/bytedance-research/Lance",
         "tags": [
           "Lance",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "NemoStation/Marlin-2B",
         "org": "NemoStation",
-        "trending_score": 346,
+        "trending_score": 351,
         "downloads": 9144,
-        "likes": 364,
+        "likes": 369,
         "url": "https://huggingface.co/NemoStation/Marlin-2B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "sapientinc/HRM-Text-1B",
-        "org": "sapientinc",
-        "trending_score": 274,
-        "downloads": 103033,
-        "likes": 369,
-        "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hrm_text",
-          "text-generation",
-          "hrm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
         "org": "meituan-longcat",
-        "trending_score": 270,
+        "trending_score": 280,
         "downloads": 0,
-        "likes": 279,
+        "likes": 289,
         "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
         "tags": [
           "diffusers",
@@ -71,19 +54,36 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "sapientinc/HRM-Text-1B",
+        "org": "sapientinc",
+        "trending_score": 268,
+        "downloads": 103033,
+        "likes": 372,
+        "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hrm_text",
+          "text-generation",
+          "hrm"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "openbmb/MiniCPM5-1B",
         "org": "openbmb",
-        "trending_score": 256,
+        "trending_score": 259,
         "downloads": 2409,
-        "likes": 291,
+        "likes": 294,
         "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
         "tags": [
           "transformers",
           "safetensors",
-          "minicpm",
-          "minicpm5",
-          "llama"
+          "llama",
+          "text-generation",
+          "minicpm"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.4103603724012,
+        "speed_tps": 71.7564395332386,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 50.7811497004435,
+        "speed_tps": 51.8867291347295,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 138.586274940064,
+        "speed_tps": 135.988258295102,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       },
@@ -311,7 +311,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 34929,
+        "stars": 35285,
         "stars_delta": 4721,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 193929,
+        "stars": 194094,
         "stars_delta": 1912,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 20356,
+        "stars": 20500,
         "stars_delta": 2169,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 16487,
+        "stars": 16555,
         "stars_delta": 1698,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 9886,
+        "stars": 9965,
         "stars_delta": 871,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 27314,
+        "stars": 27497,
         "stars_delta": 20208,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 34929,
+        "stars": 35285,
         "stars_delta": 14750,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 20356,
+        "stars": 20500,
         "stars_delta": 10035,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 28225,
+        "stars": 28259,
         "stars_delta": 11906,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 22071,
+        "stars": 22111,
         "stars_delta": 10678,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 27314,
+        "stars": 27497,
         "stars_delta": 23688,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 106617,
+        "stars": 106728,
         "stars_delta": 86188,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 27737,
+        "stars": 27756,
         "stars_delta": 19853,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 21347,
+        "stars": 21385,
         "stars_delta": 19438,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 18137,
+        "stars": 18169,
         "stars_delta": 15782,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 98,
-        "total_stars": 175276,
+        "stars_28d": 97,
+        "total_stars": 175275,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
         "language": "Python",
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
+        "title": "Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution",
         "authors": [
-          "Junbo Niu",
-          "Zheng Liu",
-          "Zhuangcheng Gu"
+          "Hongbo Wang",
+          "Huaibo Huang",
+          "Pin Wang"
         ],
-        "url": "https://huggingface.co/papers/2509.22186",
+        "url": "https://huggingface.co/papers/2605.23264",
         "categories": [],
-        "upvotes": 164,
-        "published": "2025-09-26",
-        "github_repo": "https://github.com/opendatalab/MinerU",
-        "github_stars": 65009
+        "upvotes": 3,
+        "published": "2026-05-21",
+        "github_repo": "https://github.com/wafer-bob/ASASR",
+        "github_stars": 71
       }
     ],
     "arxiv_recent": [
@@ -678,68 +678,80 @@
     "top": [
       {
         "rank": 1,
-        "id": 48281226,
-        "title": "Language Models Need Sleep",
-        "url": "https://arxiv.org/abs/2605.26099",
-        "discussion_url": "https://news.ycombinator.com/item?id=48281226",
-        "site": "arxiv.org",
-        "points": 85,
-        "comments": 51,
-        "author": "juxtapose",
+        "id": 48283914,
+        "title": "Stop Advertising in Your Commits",
+        "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48283914",
+        "site": "akselmo.dev",
+        "points": 84,
+        "comments": 44,
+        "author": "speckx",
         "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 48281509,
-        "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-        "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48281509",
-        "site": "reuters.com",
-        "points": 92,
-        "comments": 28,
-        "author": "onemoresoop",
-        "age": "1h ago"
+        "id": 48271448,
+        "title": "A few interesting modern pixel fonts",
+        "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48271448",
+        "site": "unsung.aresluna.org",
+        "points": 70,
+        "comments": 17,
+        "author": "zdw",
+        "age": "23h ago"
       },
       {
         "rank": 3,
+        "id": 48238703,
+        "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+        "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48238703",
+        "site": "djspeckhals.com",
+        "points": 33,
+        "comments": 13,
+        "author": "dustin1114",
+        "age": "4d ago"
+      },
+      {
+        "rank": 4,
         "id": 48281367,
         "title": "The Ballad of TIGIT",
         "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
         "discussion_url": "https://news.ycombinator.com/item?id=48281367",
         "site": "owlposting.com",
-        "points": 26,
-        "comments": 0,
+        "points": 71,
+        "comments": 12,
         "author": "crescit_eundo",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48280729,
-        "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-        "url": "https://www.minicor.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48280729",
-        "site": "minicor.com",
-        "points": 31,
-        "comments": 19,
-        "author": "fchishtie",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 48281515,
-        "title": "What Color is Your Function? (2015)",
-        "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48281515",
-        "site": "journal.stuffwithstuff.com",
-        "points": 19,
-        "comments": 4,
-        "author": "tosh",
-        "age": "1h ago"
+        "id": 48222600,
+        "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+        "url": "https://github.com/logannye/rosalind",
+        "discussion_url": "https://news.ycombinator.com/item?id=48222600",
+        "site": "github.com",
+        "points": 54,
+        "comments": 8,
+        "author": "samuell",
+        "age": "5d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48275508,
+        "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+        "url": "https://news.ycombinator.com/item?id=48275508",
+        "discussion_url": "https://news.ycombinator.com/item?id=48275508",
+        "site": "news.ycombinator.com",
+        "points": 134,
+        "comments": 93,
+        "author": "widenrun",
+        "age": "14h ago"
+      },
+      {
+        "rank": 2,
         "id": 48280160,
         "title": "We built a B2B API infrastructure for resume parsing and tailoring",
         "url": "https://news.ycombinator.com/item?id=48280160",
@@ -748,19 +760,7 @@
         "points": 2,
         "comments": 0,
         "author": "engspeedy",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48275508,
-        "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
-        "url": "https://news.ycombinator.com/item?id=48275508",
-        "discussion_url": "https://news.ycombinator.com/item?id=48275508",
-        "site": "news.ycombinator.com",
-        "points": 128,
-        "comments": 92,
-        "author": "widenrun",
-        "age": "11h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
@@ -772,7 +772,7 @@
         "points": 3,
         "comments": 1,
         "author": "akiarie",
-        "age": "5h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
@@ -781,10 +781,10 @@
         "url": "https://news.ycombinator.com/item?id=48271934",
         "discussion_url": "https://news.ycombinator.com/item?id=48271934",
         "site": "news.ycombinator.com",
-        "points": 18,
+        "points": 19,
         "comments": 0,
         "author": "MaxTeabag",
-        "age": "19h ago"
+        "age": "22h ago"
       },
       {
         "rank": 5,
@@ -796,57 +796,57 @@
         "points": 12,
         "comments": 3,
         "author": "hliyan",
-        "age": "22h ago"
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48282551,
-        "title": "Show HN: Speakrs Full PyAnnotate pipeline in Rust/ONNX 20-37x times faster macOS",
-        "url": "https://github.com/avencera/speakrs",
-        "discussion_url": "https://news.ycombinator.com/item?id=48282551",
+        "id": 48284484,
+        "title": "Show HN: TUI to keep track of local GSD (get-shit-done) projects",
+        "url": "https://github.com/bitcreed/gsd-meta-manager/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48284484",
         "site": "github.com",
         "points": 2,
         "comments": 0,
-        "author": "praveenperera",
-        "age": "13m ago"
+        "author": "_blk",
+        "age": "40m ago"
       },
       {
         "rank": 2,
-        "id": 48281983,
-        "title": "Show HN: A website that tracks every stock trade Congress makes",
-        "url": "https://congress.kadoa.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48281983",
-        "site": "congress.kadoa.com",
-        "points": 4,
-        "comments": 1,
-        "author": "hubraumhugo",
-        "age": "49m ago"
+        "id": 48283695,
+        "title": "Show HN: An LLM translator whose source is a single prompt",
+        "url": "https://github.com/hamsterbase/llm-translator",
+        "discussion_url": "https://news.ycombinator.com/item?id=48283695",
+        "site": "github.com",
+        "points": 5,
+        "comments": 0,
+        "author": "Cassandra99",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 48281606,
-        "title": "Show HN: NeuroFlow 55.8x video inference speedup for Vision Transformers PyTorch",
-        "url": "https://github.com/ynnk-research/-NeuroFlow",
-        "discussion_url": "https://news.ycombinator.com/item?id=48281606",
-        "site": "github.com",
+        "id": 48283108,
+        "title": "Show HN: Cross-agent messaging and shared memory over the local filesystem",
+        "url": "https://oacp.dev",
+        "discussion_url": "https://news.ycombinator.com/item?id=48283108",
+        "site": "oacp.dev",
         "points": 2,
-        "comments": 0,
-        "author": "ynnk",
-        "age": "1h ago"
+        "comments": 1,
+        "author": "haoranchg",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 48281337,
-        "title": "Show HN: Mind-expander, a visual workspace for coding with AI agents",
-        "url": "https://github.com/mbbill/mind-expander",
-        "discussion_url": "https://news.ycombinator.com/item?id=48281337",
-        "site": "github.com",
-        "points": 2,
+        "id": 48283004,
+        "title": "Show HN: I used AI to built static recompilers for 5 retro game systems",
+        "url": "https://1379.tech/nes-snes-genesis-virtualboy-and-psx-a-journey-with-ai-and-recompilation/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48283004",
+        "site": "1379.tech",
+        "points": 4,
         "comments": 0,
-        "author": "mbbill",
-        "age": "1h ago"
+        "author": "Gamemaster1379",
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -855,8 +855,8 @@
         "url": "https://github.com/boratanrikulu/gobee",
         "discussion_url": "https://news.ycombinator.com/item?id=48225338",
         "site": "github.com",
-        "points": 105,
-        "comments": 51,
+        "points": 107,
+        "comments": 52,
         "author": "boratanrikulu",
         "age": "5d ago"
       }
