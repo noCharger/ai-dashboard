@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-29T10:03:56Z",
+  "generated": "2026-05-29T12:39:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "openbmb/MiniCPM5-1B",
         "org": "openbmb",
-        "trending_score": 461,
+        "trending_score": 469,
         "downloads": 23629,
-        "likes": 518,
+        "likes": 528,
         "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
         "org": "meituan-longcat",
-        "trending_score": 338,
+        "trending_score": 340,
         "downloads": 0,
-        "likes": 379,
+        "likes": 383,
         "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "bytedance-research/Lance",
         "org": "bytedance-research",
-        "trending_score": 327,
+        "trending_score": 324,
         "downloads": 2738,
-        "likes": 965,
+        "likes": 967,
         "url": "https://huggingface.co/bytedance-research/Lance",
         "tags": [
           "Lance",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-        "org": "HauhauCS",
-        "trending_score": 281,
-        "downloads": 2114938,
-        "likes": 1020,
-        "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-        "tags": [
-          "gguf",
-          "uncensored",
-          "qwen3.6",
-          "moe",
-          "vision"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 269,
+        "trending_score": 292,
         "downloads": 7861,
-        "likes": 278,
+        "likes": 302,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "locateanything",
           "feature-extraction",
           "nvidia"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "org": "HauhauCS",
+        "trending_score": 283,
+        "downloads": 2114938,
+        "likes": 1023,
+        "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "tags": [
+          "gguf",
+          "uncensored",
+          "qwen3.6",
+          "moe",
+          "vision"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 64.2657452770612,
+        "speed_tps": 63.1392921895961,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 59.6652614290549,
+        "speed_tps": 59.5998754003811,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 55.1770341010884,
+        "speed_tps": 54.1514701369622,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -311,50 +311,50 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 68118,
-        "stars_delta": 4698,
+        "stars": 68482,
+        "stars_delta": 3563,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "affaan-m/ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC",
-        "stars": 197950,
-        "stars_delta": 1385,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
+        "name": "microsoft/markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "url": "https://github.com/microsoft/markitdown",
+        "stars": 128674,
+        "stars_delta": 1876,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "Leonxlnx/taste-skill",
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "url": "https://github.com/Leonxlnx/taste-skill",
-        "stars": 27328,
-        "stars_delta": 2234,
-        "language": "Shell",
-        "language_color": "#89e051"
+        "name": "EveryInc/compound-engineering-plugin",
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "url": "https://github.com/EveryInc/compound-engineering-plugin",
+        "stars": 17958,
+        "stars_delta": 354,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "hardikpandya/stop-slop",
-        "description": "A skill file for removing AI tells from prose",
-        "url": "https://github.com/hardikpandya/stop-slop",
-        "stars": 6665,
-        "stars_delta": 761,
-        "language": "",
-        "language_color": "#586069"
-      },
-      {
-        "rank": 5,
         "name": "twentyhq/twenty",
         "description": "The open alternative to Salesforce, designed for AI.",
         "url": "https://github.com/twentyhq/twenty",
-        "stars": 48097,
-        "stars_delta": 493,
+        "stars": 48151,
+        "stars_delta": 575,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+        "url": "https://github.com/anthropics/claude-code",
+        "stars": 127607,
+        "stars_delta": 319,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "weekly": [
@@ -363,48 +363,48 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 43740,
+        "stars": 43903,
         "stars_delta": 26212,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 32620,
-        "stars_delta": 19128,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "harry0703/MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "stars": 68482,
+        "stars_delta": 7948,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 3,
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 24242,
+        "stars": 24325,
         "stars_delta": 13159,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "anthropics/knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 17920,
-        "stars_delta": 5282,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "stars": 32751,
+        "stars_delta": 19128,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "harry0703/MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 68119,
-        "stars_delta": 7948,
+        "name": "anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "stars": 17956,
+        "stars_delta": 5282,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 32620,
+        "stars": 32751,
         "stars_delta": 30718,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 28599,
+        "stars": 28618,
         "stars_delta": 20790,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,30 +435,30 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 22233,
+        "stars": 22268,
         "stars_delta": 20646,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "rohitg00/agentmemory",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 19469,
-        "stars_delta": 17217,
+        "name": "Lum1104/Understand-Anything",
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
+        "url": "https://github.com/Lum1104/Understand-Anything",
+        "stars": 43903,
+        "stars_delta": 33147,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 110820,
-        "stars_delta": 75448,
-        "language": "Shell",
-        "language_color": "#89e051"
+        "name": "rohitg00/agentmemory",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "url": "https://github.com/rohitg00/agentmemory",
+        "stars": 19508,
+        "stars_delta": 17217,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "frameworks": [
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2605.23904",
         "categories": [],
-        "upvotes": 199,
+        "upvotes": 200,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
         "github_stars": 2277
@@ -564,7 +564,7 @@
         "upvotes": 35,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 27137
+        "github_stars": 27210
       },
       {
         "rank": 4,
@@ -681,63 +681,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 48321631,
+        "title": "Is AI causing a repeat of Front end's Lost Decade?",
+        "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48321631",
+        "site": "mastrojs.github.io",
+        "points": 73,
+        "comments": 57,
+        "author": "xyzal",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48311647,
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
         "discussion_url": "https://news.ycombinator.com/item?id=48311647",
         "site": "anthropic.com",
-        "points": 1533,
-        "comments": 1198,
+        "points": 1604,
+        "comments": 1255,
         "author": "craigmart",
-        "age": "17h ago"
+        "age": "19h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 48321956,
+        "title": "Tulip mania: when a single flower was worth more than a house",
+        "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48321956",
+        "site": "dutchreview.com",
+        "points": 10,
+        "comments": 2,
+        "author": "dotcoma",
+        "age": "47m ago"
+      },
+      {
+        "rank": 4,
         "id": 48314136,
         "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
         "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
         "discussion_url": "https://news.ycombinator.com/item?id=48314136",
         "site": "mybricklog.com",
-        "points": 951,
-        "comments": 442,
+        "points": 1064,
+        "comments": 490,
         "author": "philips",
-        "age": "14h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48319509,
-        "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-        "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-        "discussion_url": "https://news.ycombinator.com/item?id=48319509",
-        "site": "github.com",
-        "points": 166,
-        "comments": 84,
-        "author": "Kwastie",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48314951,
-        "title": "I made a million dollar product from my dorm room (2025)",
-        "url": "https://nick.winans.io/blog/nice-nano/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48314951",
-        "site": "nick.winans.io",
-        "points": 404,
-        "comments": 62,
-        "author": "mattrighetti",
-        "age": "13h ago"
+        "age": "17h ago"
       },
       {
         "rank": 5,
-        "id": 48318174,
-        "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-        "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-        "discussion_url": "https://news.ycombinator.com/item?id=48318174",
-        "site": "buildingbetter.tech",
-        "points": 94,
-        "comments": 21,
-        "author": "ankitg12",
-        "age": "7h ago"
+        "id": 48322118,
+        "title": "We should be more tired than the model",
+        "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48322118",
+        "site": "vickiboykis.com",
+        "points": 7,
+        "comments": 0,
+        "author": "tosh",
+        "age": "26m ago"
       }
     ],
     "ask": [
@@ -749,9 +749,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48312377",
         "site": "news.ycombinator.com",
         "points": 16,
-        "comments": 25,
+        "comments": 26,
         "author": "seattle_spring",
-        "age": "16h ago"
+        "age": "19h ago"
       },
       {
         "rank": 2,
@@ -761,9 +761,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48315680",
         "site": "news.ycombinator.com",
         "points": 6,
-        "comments": 7,
+        "comments": 8,
         "author": "ex-aws-dude",
-        "age": "12h ago"
+        "age": "15h ago"
       },
       {
         "rank": 3,
@@ -775,10 +775,22 @@
         "points": 3,
         "comments": 0,
         "author": "saeedq",
-        "age": "10h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
+        "id": 48256791,
+        "title": "Ask HN: Are Tech Meetups Dead?",
+        "url": "https://news.ycombinator.com/item?id=48256791",
+        "discussion_url": "https://news.ycombinator.com/item?id=48256791",
+        "site": "news.ycombinator.com",
+        "points": 33,
+        "comments": 29,
+        "author": "mlinhares",
+        "age": "4d ago"
+      },
+      {
+        "rank": 5,
         "id": 48315950,
         "title": "Do not use Cloudflare DNS regsitrar",
         "url": "https://news.ycombinator.com/item?id=48315950",
@@ -787,19 +799,7 @@
         "points": 10,
         "comments": 0,
         "author": "talkingtab",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48312716,
-        "title": "Ask HN: I found out that I'm about to be laid off. How do people find jobs?",
-        "url": "https://news.ycombinator.com/item?id=48312716",
-        "discussion_url": "https://news.ycombinator.com/item?id=48312716",
-        "site": "news.ycombinator.com",
-        "points": 19,
-        "comments": 14,
-        "author": "wwwthrowaway256",
-        "age": "16h ago"
+        "age": "14h ago"
       }
     ],
     "show": [
@@ -810,34 +810,34 @@
         "url": "https://llmgame.scalex.dev",
         "discussion_url": "https://news.ycombinator.com/item?id=48308376",
         "site": "llmgame.scalex.dev",
-        "points": 325,
-        "comments": 133,
+        "points": 343,
+        "comments": 136,
         "author": "Wirbelwind",
-        "age": "21h ago"
+        "age": "23h ago"
       },
       {
         "rank": 2,
+        "id": 48280231,
+        "title": "Show HN: Compile-time model-id validation with declared capability",
+        "url": "https://github.com/yujonglee/openrouter-toolkit",
+        "discussion_url": "https://news.ycombinator.com/item?id=48280231",
+        "site": "github.com",
+        "points": 4,
+        "comments": 2,
+        "author": "yujonglee",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
         "id": 48309986,
         "title": "Show HN: Ktx – Open-source executable context layer for data agents",
         "url": "https://github.com/Kaelio/ktx",
         "discussion_url": "https://news.ycombinator.com/item?id=48309986",
         "site": "github.com",
-        "points": 75,
+        "points": 77,
         "comments": 17,
         "author": "lucamrtl",
-        "age": "18h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48320917,
-        "title": "Show HN: Terraforming game where the Python code you write IS the gameplay",
-        "url": "https://store.steampowered.com/app/868160/Code_Terraform/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48320917",
-        "site": "store.steampowered.com",
-        "points": 2,
-        "comments": 1,
-        "author": "investorsHeaven",
-        "age": "39m ago"
+        "age": "21h ago"
       },
       {
         "rank": 4,
@@ -846,7 +846,7 @@
         "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
         "discussion_url": "https://news.ycombinator.com/item?id=48300280",
         "site": "elodin.systems",
-        "points": 69,
+        "points": 72,
         "comments": 20,
         "author": "danAtElodin",
         "age": "1d ago"
@@ -858,8 +858,8 @@
         "url": "https://hallucinate.site",
         "discussion_url": "https://news.ycombinator.com/item?id=48304260",
         "site": "hallucinate.site",
-        "points": 423,
-        "comments": 188,
+        "points": 427,
+        "comments": 189,
         "author": "stagas",
         "age": "1d ago"
       }
