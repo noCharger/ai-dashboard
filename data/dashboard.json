@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-30T20:42:38Z",
+  "generated": "2026-05-30T21:49:05Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "openbmb/MiniCPM5-1B",
         "org": "openbmb",
-        "trending_score": 525,
+        "trending_score": 527,
         "downloads": 28793,
-        "likes": 602,
+        "likes": 604,
         "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 466,
+        "trending_score": 469,
         "downloads": 18327,
-        "likes": 485,
+        "likes": 488,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "org": "HauhauCS",
-        "trending_score": 335,
+        "trending_score": 336,
         "downloads": 2227885,
-        "likes": 1097,
+        "likes": 1098,
         "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
         "org": "meituan-longcat",
-        "trending_score": 332,
+        "trending_score": 336,
         "downloads": 0,
-        "likes": 405,
+        "likes": 409,
         "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
         "tags": [
           "diffusers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "bytedance-research/Lance",
-        "org": "bytedance-research",
-        "trending_score": 259,
-        "downloads": 2856,
-        "likes": 980,
-        "url": "https://huggingface.co/bytedance-research/Lance",
+        "name": "LiquidAI/LFM2.5-8B-A1B",
+        "org": "LiquidAI",
+        "trending_score": 262,
+        "downloads": 17084,
+        "likes": 267,
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
         "tags": [
-          "Lance",
+          "transformers",
           "safetensors",
-          "multimodal",
-          "image-generation",
-          "video-generation"
+          "lfm2_moe",
+          "text-generation",
+          "liquid"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 58.2481571592076,
+        "speed_tps": 58.6798067656949,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 44.6894486430644,
+        "speed_tps": 42.8462579336622,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 114.19099879921,
+        "speed_tps": 113.528848830622,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       }
@@ -311,7 +311,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 132047,
+        "stars": 132143,
         "stars_delta": 2473,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 71793,
+        "stars": 71842,
         "stars_delta": 2775,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 128341,
+        "stars": 128363,
         "stars_delta": 595,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 1428,
+        "stars": 1433,
         "stars_delta": 206,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "revfactory/harness",
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "url": "https://github.com/revfactory/harness",
-        "stars": 4205,
+        "stars": 4219,
         "stars_delta": 80,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -363,7 +363,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 71793,
+        "stars": 71842,
         "stars_delta": 11147,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 45809,
+        "stars": 45847,
         "stars_delta": 26685,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 25105,
+        "stars": 25118,
         "stars_delta": 13139,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 18221,
+        "stars": 18229,
         "stars_delta": 5586,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 34261,
+        "stars": 34282,
         "stars_delta": 17309,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 34261,
+        "stars": 34282,
         "stars_delta": 32217,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 28850,
+        "stars": 28857,
         "stars_delta": 20958,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 22617,
+        "stars": 22623,
         "stars_delta": 20907,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 45809,
+        "stars": 45847,
         "stars_delta": 34687,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 19900,
+        "stars": 19910,
         "stars_delta": 17529,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -564,7 +564,7 @@
         "upvotes": 35,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 27494
+        "github_stars": 27595
       },
       {
         "rank": 4,
@@ -686,22 +686,22 @@
         "url": "https://openrouter.ai/announcements/series-b",
         "discussion_url": "https://news.ycombinator.com/item?id=48338660",
         "site": "openrouter.ai",
-        "points": 226,
-        "comments": 105,
+        "points": 294,
+        "comments": 126,
         "author": "freeCandy",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 48338673,
-        "title": "Zig ELF Linker Improvements Devlog",
-        "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-        "discussion_url": "https://news.ycombinator.com/item?id=48338673",
-        "site": "ziglang.org",
-        "points": 117,
-        "comments": 15,
-        "author": "kristoff_it",
-        "age": "3h ago"
+        "id": 48340411,
+        "title": "Domain expertise has always been the real moat",
+        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48340411",
+        "site": "brethorsting.com",
+        "points": 54,
+        "comments": 24,
+        "author": "aaronbrethorst",
+        "age": "1h ago"
       },
       {
         "rank": 3,
@@ -710,34 +710,34 @@
         "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
         "discussion_url": "https://news.ycombinator.com/item?id=48318402",
         "site": "github.com",
-        "points": 43,
-        "comments": 2,
+        "points": 112,
+        "comments": 25,
         "author": "Hawzen",
         "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 48339753,
-        "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-        "url": "https://ajin.im/is/building/omen.ops/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48339753",
-        "site": "ajin.im",
-        "points": 34,
-        "comments": 1,
-        "author": "poppypetalmask",
-        "age": "1h ago"
+        "id": 48337987,
+        "title": "Accenture to acquire Ookla",
+        "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+        "discussion_url": "https://news.ycombinator.com/item?id=48337987",
+        "site": "newsroom.accenture.com",
+        "points": 178,
+        "comments": 91,
+        "author": "Garbage",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 48339180,
-        "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-        "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
-        "discussion_url": "https://news.ycombinator.com/item?id=48339180",
-        "site": "lloydslist.com",
-        "points": 93,
-        "comments": 47,
-        "author": "mooreds",
-        "age": "2h ago"
+        "id": 48338673,
+        "title": "Zig ELF Linker Improvements Devlog",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+        "discussion_url": "https://news.ycombinator.com/item?id=48338673",
+        "site": "ziglang.org",
+        "points": 140,
+        "comments": 20,
+        "author": "kristoff_it",
+        "age": "4h ago"
       }
     ],
     "ask": [
@@ -748,37 +748,25 @@
         "url": "https://news.ycombinator.com/item?id=48337409",
         "discussion_url": "https://news.ycombinator.com/item?id=48337409",
         "site": "news.ycombinator.com",
-        "points": 55,
-        "comments": 49,
+        "points": 57,
+        "comments": 55,
         "author": "karakoram",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
-        "id": 48333319,
-        "title": "NPM Packages Attacks",
-        "url": "https://news.ycombinator.com/item?id=48333319",
-        "discussion_url": "https://news.ycombinator.com/item?id=48333319",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "carlostkd",
-        "age": "14h ago"
-      },
-      {
-        "rank": 3,
         "id": 48325208,
         "title": "Ask HN: Any advice on how to learn good software architecture practices?",
         "url": "https://news.ycombinator.com/item?id=48325208",
         "discussion_url": "https://news.ycombinator.com/item?id=48325208",
         "site": "news.ycombinator.com",
-        "points": 13,
+        "points": 14,
         "comments": 9,
         "author": "jimsojim",
         "age": "1d ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 48326267,
         "title": "Ask HN: If I cancel Codex today whats the next best local inference agent?",
         "url": "https://news.ycombinator.com/item?id=48326267",
@@ -790,7 +778,7 @@
         "age": "1d ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48329446,
         "title": "Ask HN: How is your org managing PR review load as AI multiplies code output?",
         "url": "https://news.ycombinator.com/item?id=48329446",
@@ -799,7 +787,19 @@
         "points": 9,
         "comments": 10,
         "author": "meteor333",
-        "age": "23h ago"
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48312377,
+        "title": "Ask HN: What Is an \"AI Engineer\"?",
+        "url": "https://news.ycombinator.com/item?id=48312377",
+        "discussion_url": "https://news.ycombinator.com/item?id=48312377",
+        "site": "news.ycombinator.com",
+        "points": 17,
+        "comments": 29,
+        "author": "seattle_spring",
+        "age": "2d ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://ajin.im/is/building/omen.ops/",
         "discussion_url": "https://news.ycombinator.com/item?id=48339753",
         "site": "ajin.im",
-        "points": 34,
-        "comments": 1,
+        "points": 53,
+        "comments": 4,
         "author": "poppypetalmask",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -822,10 +822,10 @@
         "url": "https://helios.southlondonscientific.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48334949",
         "site": "helios.southlondonscientific.com",
-        "points": 96,
-        "comments": 35,
+        "points": 103,
+        "comments": 36,
         "author": "ruaraidh",
-        "age": "9h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
@@ -837,7 +837,7 @@
         "points": 2,
         "comments": 0,
         "author": "donghaxkim",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
@@ -846,7 +846,7 @@
         "url": "https://github.com/jmaczan/tiny-vllm",
         "discussion_url": "https://news.ycombinator.com/item?id=48328184",
         "site": "github.com",
-        "points": 180,
+        "points": 181,
         "comments": 16,
         "author": "yu3zhou4",
         "age": "1d ago"
@@ -858,10 +858,10 @@
         "url": "https://github.com/secluso/core",
         "discussion_url": "https://news.ycombinator.com/item?id=48330192",
         "site": "github.com",
-        "points": 106,
+        "points": 109,
         "comments": 23,
         "author": "arrdalan",
-        "age": "22h ago"
+        "age": "23h ago"
       }
     ]
   }
