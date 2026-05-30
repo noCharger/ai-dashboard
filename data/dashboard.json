@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-30T14:23:07Z",
+  "generated": "2026-05-30T15:57:40Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "openbmb/MiniCPM5-1B",
         "org": "openbmb",
-        "trending_score": 515,
+        "trending_score": 517,
         "downloads": 28793,
-        "likes": 590,
+        "likes": 592,
         "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 439,
+        "trending_score": 448,
         "downloads": 18327,
-        "likes": 456,
+        "likes": 467,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
-        "org": "meituan-longcat",
-        "trending_score": 328,
-        "downloads": 0,
-        "likes": 399,
-        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-        "tags": [
-          "diffusers",
-          "onnx",
-          "safetensors",
-          "audio-text-to-video",
-          "audio-image-text-to-video"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "org": "HauhauCS",
-        "trending_score": 324,
+        "trending_score": 329,
         "downloads": 2227885,
-        "likes": 1083,
+        "likes": 1089,
         "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "tags": [
           "gguf",
@@ -71,10 +54,27 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
+        "org": "meituan-longcat",
+        "trending_score": 329,
+        "downloads": 0,
+        "likes": 401,
+        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+        "tags": [
+          "diffusers",
+          "onnx",
+          "safetensors",
+          "audio-text-to-video",
+          "audio-image-text-to-video"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "bytedance-research/Lance",
         "org": "bytedance-research",
-        "trending_score": 274,
+        "trending_score": 269,
         "downloads": 2856,
         "likes": 978,
         "url": "https://huggingface.co/bytedance-research/Lance",
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 51.4688693649878,
+        "speed_tps": 51.6261049955114,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -311,7 +311,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 131282,
+        "stars": 131525,
         "stars_delta": 2473,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 71360,
+        "stars": 71520,
         "stars_delta": 2775,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 128212,
+        "stars": 128255,
         "stars_delta": 595,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 1384,
+        "stars": 1398,
         "stars_delta": 206,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "revfactory/harness",
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "url": "https://github.com/revfactory/harness",
-        "stars": 4142,
+        "stars": 4159,
         "stars_delta": 313,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -363,7 +363,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 71360,
+        "stars": 71520,
         "stars_delta": 11147,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 45440,
+        "stars": 45585,
         "stars_delta": 26685,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 24954,
+        "stars": 25006,
         "stars_delta": 13139,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 18163,
+        "stars": 18187,
         "stars_delta": 5586,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 33990,
+        "stars": 34093,
         "stars_delta": 17309,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 33990,
+        "stars": 34093,
         "stars_delta": 32217,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 28801,
+        "stars": 28817,
         "stars_delta": 20958,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 22539,
+        "stars": 22569,
         "stars_delta": 20907,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 45440,
+        "stars": 45585,
         "stars_delta": 34687,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 19795,
+        "stars": 19831,
         "stars_delta": 17529,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -686,34 +686,34 @@
         "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
         "discussion_url": "https://news.ycombinator.com/item?id=48336233",
         "site": "qazinform.com",
-        "points": 58,
-        "comments": 34,
+        "points": 244,
+        "comments": 230,
         "author": "Bolat14",
-        "age": "26m ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 48336564,
+        "title": "Voxel Space",
+        "url": "https://s-macke.github.io/VoxelSpace/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48336564",
+        "site": "s-macke.github.io",
+        "points": 66,
+        "comments": 11,
+        "author": "davikr",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 48334515,
         "title": "Pandoc Templates",
         "url": "https://pandoc-templates.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=48334515",
         "site": "pandoc-templates.org",
-        "points": 203,
-        "comments": 22,
+        "points": 246,
+        "comments": 36,
         "author": "ankitg12",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48334048,
-        "title": "Zig: Build System Reworked",
-        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-        "discussion_url": "https://news.ycombinator.com/item?id=48334048",
-        "site": "ziglang.org",
-        "points": 189,
-        "comments": 96,
-        "author": "tosh",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
@@ -722,39 +722,51 @@
         "url": "https://github.com/kristapsdz/openrsync",
         "discussion_url": "https://news.ycombinator.com/item?id=48334854",
         "site": "github.com",
-        "points": 68,
-        "comments": 32,
+        "points": 134,
+        "comments": 52,
         "author": "sph",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 48334710,
-        "title": "Leo's first encyclical attacks technological messianism",
-        "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-        "discussion_url": "https://news.ycombinator.com/item?id=48334710",
-        "site": "economist.com",
-        "points": 70,
-        "comments": 48,
-        "author": "1vuio0pswjnm7",
-        "age": "3h ago"
+        "id": 48336760,
+        "title": "AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers",
+        "url": "https://jackmaguire.org/blog/ai-job-grief/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48336760",
+        "site": "jackmaguire.org",
+        "points": 37,
+        "comments": 12,
+        "author": "LilBytes",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48337409,
+        "title": "Ask HN: What Is the State of App Development in 2026?",
+        "url": "https://news.ycombinator.com/item?id=48337409",
+        "discussion_url": "https://news.ycombinator.com/item?id=48337409",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "karakoram",
+        "age": "16m ago"
+      },
+      {
+        "rank": 2,
         "id": 48333319,
         "title": "NPM Packages Attacks",
         "url": "https://news.ycombinator.com/item?id=48333319",
         "discussion_url": "https://news.ycombinator.com/item?id=48333319",
         "site": "news.ycombinator.com",
-        "points": 2,
+        "points": 3,
         "comments": 1,
         "author": "carlostkd",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48325208,
         "title": "Ask HN: Any advice on how to learn good software architecture practices?",
         "url": "https://news.ycombinator.com/item?id=48325208",
@@ -763,22 +775,22 @@
         "points": 13,
         "comments": 8,
         "author": "jimsojim",
-        "age": "22h ago"
+        "age": "23h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48326267,
         "title": "Ask HN: If I cancel Codex today whats the next best local inference agent?",
         "url": "https://news.ycombinator.com/item?id=48326267",
         "discussion_url": "https://news.ycombinator.com/item?id=48326267",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 4,
+        "points": 9,
+        "comments": 5,
         "author": "Bulbasaur2015",
-        "age": "21h ago"
+        "age": "22h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48329446,
         "title": "Ask HN: How is your org managing PR review load as AI multiplies code output?",
         "url": "https://news.ycombinator.com/item?id=48329446",
@@ -787,19 +799,7 @@
         "points": 8,
         "comments": 8,
         "author": "meteor333",
-        "age": "17h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48334224,
-        "title": "Ask HN: What's the hardest problem you've ever solved?",
-        "url": "https://news.ycombinator.com/item?id=48334224",
-        "discussion_url": "https://news.ycombinator.com/item?id=48334224",
-        "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 4,
-        "author": "chistev",
-        "age": "5h ago"
+        "age": "18h ago"
       }
     ],
     "show": [
@@ -810,46 +810,46 @@
         "url": "https://helios.southlondonscientific.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48334949",
         "site": "helios.southlondonscientific.com",
-        "points": 39,
-        "comments": 7,
+        "points": 63,
+        "comments": 14,
         "author": "ruaraidh",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 48336119,
-        "title": "Show HN: Jynx, a matchmaking app to find gaming teammates",
-        "url": "https://jynx.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48336119",
-        "site": "jynx.app",
-        "points": 2,
-        "comments": 0,
-        "author": "akiro____",
-        "age": "37m ago"
-      },
-      {
-        "rank": 3,
         "id": 48328184,
         "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
         "url": "https://github.com/jmaczan/tiny-vllm",
         "discussion_url": "https://news.ycombinator.com/item?id=48328184",
         "site": "github.com",
-        "points": 167,
-        "comments": 14,
+        "points": 171,
+        "comments": 15,
         "author": "yu3zhou4",
-        "age": "18h ago"
+        "age": "20h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 48330192,
         "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
         "url": "https://github.com/secluso/core",
         "discussion_url": "https://news.ycombinator.com/item?id=48330192",
         "site": "github.com",
-        "points": 92,
+        "points": 97,
         "comments": 21,
         "author": "arrdalan",
-        "age": "15h ago"
+        "age": "17h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48336119,
+        "title": "Show HN: Jynx, a matchmaking app to find gaming teammates",
+        "url": "https://jynx.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48336119",
+        "site": "jynx.app",
+        "points": 3,
+        "comments": 1,
+        "author": "akiro____",
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -858,10 +858,10 @@
         "url": "https://tvexplorer.live",
         "discussion_url": "https://news.ycombinator.com/item?id=48325624",
         "site": "tvexplorer.live",
-        "points": 157,
+        "points": 161,
         "comments": 46,
         "author": "dtagames",
-        "age": "21h ago"
+        "age": "23h ago"
       }
     ]
   }
