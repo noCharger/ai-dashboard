@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-02T05:20:59Z",
+  "generated": "2026-06-02T09:59:32Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 784,
-        "downloads": 35783,
-        "likes": 824,
+        "trending_score": 821,
+        "downloads": 61604,
+        "likes": 863,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "openbmb/MiniCPM5-1B",
-        "org": "openbmb",
-        "trending_score": 434,
-        "downloads": 45698,
-        "likes": 695,
-        "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "llama",
-          "text-generation",
-          "minicpm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "LiquidAI/LFM2.5-8B-A1B",
         "org": "LiquidAI",
-        "trending_score": 396,
-        "downloads": 37893,
-        "likes": 405,
+        "trending_score": 407,
+        "downloads": 47742,
+        "likes": 416,
         "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "openbmb/MiniCPM5-1B",
+        "org": "openbmb",
+        "trending_score": 377,
+        "downloads": 57683,
+        "likes": 700,
+        "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "llama",
+          "text-generation",
+          "minicpm"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "org": "HauhauCS",
-        "trending_score": 290,
-        "downloads": 2533393,
-        "likes": 1232,
+        "trending_score": 292,
+        "downloads": 2573320,
+        "likes": 1251,
         "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "tags": [
           "gguf",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
         "org": "meituan-longcat",
-        "trending_score": 221,
-        "downloads": 0,
-        "likes": 469,
+        "trending_score": 209,
+        "downloads": 174,
+        "likes": 472,
         "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
         "tags": [
           "diffusers",
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 60.081144256749,
+        "speed_tps": 61.9391324185234,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 62.0634711007197,
+        "speed_tps": 60.7144067978262,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 60.022310582637,
+        "speed_tps": 59.2927597394903,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 134.466898274033,
+        "speed_tps": 134.236809890376,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       }
@@ -311,7 +311,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 139108,
+        "stars": 139973,
         "stars_delta": 3034,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "nesquena/hermes-webui",
         "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
         "url": "https://github.com/nesquena/hermes-webui",
-        "stars": 11601,
+        "stars": 12018,
         "stars_delta": 945,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "supermemoryai/supermemory",
         "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
         "url": "https://github.com/supermemoryai/supermemory",
-        "stars": 24122,
+        "stars": 24292,
         "stars_delta": 647,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 77131,
+        "stars": 77517,
         "stars_delta": 3375,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "D4Vinci/Scrapling",
         "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
         "url": "https://github.com/D4Vinci/Scrapling",
-        "stars": 58314,
+        "stars": 58594,
         "stars_delta": 1486,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 77131,
+        "stars": 77517,
         "stars_delta": 18917,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 49128,
+        "stars": 49527,
         "stars_delta": 19223,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 139108,
+        "stars": 139973,
         "stars_delta": 11962,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "hardikpandya/stop-slop",
         "description": "A skill file for removing AI tells from prose",
         "url": "https://github.com/hardikpandya/stop-slop",
-        "stars": 8071,
+        "stars": 8131,
         "stars_delta": 3770,
         "language": "",
         "language_color": "#586069"
@@ -403,7 +403,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 26896,
+        "stars": 27066,
         "stars_delta": 8744,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "Hmbown/CodeWhale",
         "description": "DeepSeek + MiMo coding agent in terminal",
         "url": "https://github.com/Hmbown/CodeWhale",
-        "stars": 36518,
+        "stars": 36602,
         "stars_delta": 35709,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 37078,
+        "stars": 37443,
         "stars_delta": 35822,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 29340,
+        "stars": 29396,
         "stars_delta": 21528,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 23191,
+        "stars": 23257,
         "stars_delta": 21656,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 20560,
+        "stars": 20636,
         "stars_delta": 18378,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 182,
-        "total_stars": 116657,
+        "stars_28d": 183,
+        "total_stars": 116658,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -477,8 +477,8 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 150,
-        "total_stars": 37598,
+        "stars_28d": 151,
+        "total_stars": 37599,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -534,7 +534,7 @@
         "upvotes": 213,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 4068
+        "github_stars": 4212
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 83,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 81668
+        "github_stars": 81999
       },
       {
         "rank": 3,
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2508.02739",
         "categories": [],
-        "upvotes": 36,
+        "upvotes": 37,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
         "github_stars": 27985
@@ -594,7 +594,7 @@
         "upvotes": 5,
         "published": "2026-01-05",
         "github_repo": "https://github.com/EverMind-AI/EverMemOS",
-        "github_stars": 6660
+        "github_stars": 6713
       }
     ],
     "arxiv_recent": [
@@ -683,15 +683,15 @@
     "top": [
       {
         "rank": 1,
-        "id": 48364800,
-        "title": "macOS needs its grid back",
-        "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48364800",
-        "site": "blog.hopefullyuseful.com",
-        "points": 151,
-        "comments": 76,
-        "author": "ranebo",
-        "age": "3h ago"
+        "id": 48367907,
+        "title": "Why Janet?",
+        "url": "https://ianthehenry.com/posts/why-janet/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48367907",
+        "site": "ianthehenry.com",
+        "points": 36,
+        "comments": 2,
+        "author": "yacin",
+        "age": "24m ago"
       },
       {
         "rank": 2,
@@ -700,10 +700,10 @@
         "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
         "discussion_url": "https://news.ycombinator.com/item?id=48359102",
         "site": "0xsid.com",
-        "points": 1513,
-        "comments": 354,
+        "points": 1810,
+        "comments": 415,
         "author": "ssiddharth",
-        "age": "12h ago"
+        "age": "17h ago"
       },
       {
         "rank": 3,
@@ -712,34 +712,34 @@
         "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
         "discussion_url": "https://news.ycombinator.com/item?id=48364055",
         "site": "economist.com",
-        "points": 199,
-        "comments": 399,
+        "points": 368,
+        "comments": 641,
         "author": "1vuio0pswjnm7",
-        "age": "5h ago"
+        "age": "10h ago"
       },
       {
         "rank": 4,
-        "id": 48363765,
-        "title": "Chipotlai Max",
-        "url": "https://github.com/cyberpapiii/chipotlai-max",
-        "discussion_url": "https://news.ycombinator.com/item?id=48363765",
-        "site": "github.com",
-        "points": 137,
-        "comments": 25,
-        "author": "nigelgutzmann",
-        "age": "6h ago"
+        "id": 48364800,
+        "title": "macOS needs its grid back",
+        "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48364800",
+        "site": "blog.hopefullyuseful.com",
+        "points": 256,
+        "comments": 145,
+        "author": "ranebo",
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 48363132,
-        "title": "OpenAI frontier models and Codex are now available on AWS",
-        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48363132",
-        "site": "openai.com",
-        "points": 199,
-        "comments": 67,
-        "author": "typpo",
-        "age": "7h ago"
+        "id": 48342399,
+        "title": "Muxcard, a dyi credit card size computer",
+        "url": "https://github.com/krauseler/muxcard",
+        "discussion_url": "https://news.ycombinator.com/item?id=48342399",
+        "site": "github.com",
+        "points": 36,
+        "comments": 3,
+        "author": "sargstuff",
+        "age": "2d ago"
       }
     ],
     "ask": [
@@ -750,10 +750,10 @@
         "url": "https://news.ycombinator.com/item?id=48357725",
         "discussion_url": "https://news.ycombinator.com/item?id=48357725",
         "site": "news.ycombinator.com",
-        "points": 175,
-        "comments": 251,
+        "points": 191,
+        "comments": 269,
         "author": "whoishiring",
-        "age": "14h ago"
+        "age": "18h ago"
       },
       {
         "rank": 2,
@@ -762,10 +762,10 @@
         "url": "https://news.ycombinator.com/item?id=48357724",
         "discussion_url": "https://news.ycombinator.com/item?id=48357724",
         "site": "news.ycombinator.com",
-        "points": 108,
-        "comments": 296,
+        "points": 121,
+        "comments": 343,
         "author": "whoishiring",
-        "age": "14h ago"
+        "age": "18h ago"
       },
       {
         "rank": 3,
@@ -774,96 +774,96 @@
         "url": "https://news.ycombinator.com/item?id=48342117",
         "discussion_url": "https://news.ycombinator.com/item?id=48342117",
         "site": "news.ycombinator.com",
-        "points": 36,
-        "comments": 17,
+        "points": 54,
+        "comments": 25,
         "author": "Throwaway_sys",
         "age": "2d ago"
       },
       {
         "rank": 4,
-        "id": 48361292,
-        "title": "The AI tool discovery problem",
-        "url": "https://news.ycombinator.com/item?id=48361292",
-        "discussion_url": "https://news.ycombinator.com/item?id=48361292",
+        "id": 48366907,
+        "title": "Tell HN: In the old days, computers used to get constantly faster and cheaper",
+        "url": "https://news.ycombinator.com/item?id=48366907",
+        "discussion_url": "https://news.ycombinator.com/item?id=48366907",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 4,
-        "author": "meenabhagvat",
-        "age": "10h ago"
+        "points": 8,
+        "comments": 8,
+        "author": "wewewedxfgdf",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 48360332,
-        "title": "Architect MCP and TUI",
-        "url": "https://news.ycombinator.com/item?id=48360332",
-        "discussion_url": "https://news.ycombinator.com/item?id=48360332",
+        "id": 48366380,
+        "title": "I'm Done Using AI",
+        "url": "https://news.ycombinator.com/item?id=48366380",
+        "discussion_url": "https://news.ycombinator.com/item?id=48366380",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "tonycdr",
-        "age": "11h ago"
+        "points": 9,
+        "comments": 6,
+        "author": "nyxtom",
+        "age": "4h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48367723,
+        "title": "Show HN: Eyeball",
+        "url": "https://eyeball.rory.codes/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48367723",
+        "site": "eyeball.rory.codes",
+        "points": 3,
+        "comments": 1,
+        "author": "mrroryflint",
+        "age": "54m ago"
+      },
+      {
+        "rank": 2,
         "id": 48359478,
         "title": "Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs",
         "url": "https://github.com/arnica/depsguard",
         "discussion_url": "https://news.ycombinator.com/item?id=48359478",
         "site": "github.com",
-        "points": 21,
-        "comments": 0,
+        "points": 30,
+        "comments": 1,
         "author": "eranation",
-        "age": "12h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48356946,
         "title": "Show HN: A CSS 3D Engine (no WebGL)",
         "url": "https://github.com/LayoutitStudio/polycss",
         "discussion_url": "https://news.ycombinator.com/item?id=48356946",
         "site": "github.com",
-        "points": 63,
-        "comments": 24,
+        "points": 70,
+        "comments": 25,
         "author": "rofko",
-        "age": "15h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48361054,
-        "title": "Show HN: Textile – A desktop app for weaving together bits of text",
-        "url": "https://www.gettextile.app",
-        "discussion_url": "https://news.ycombinator.com/item?id=48361054",
-        "site": "gettextile.app",
-        "points": 29,
-        "comments": 15,
-        "author": "stack_framer",
-        "age": "10h ago"
+        "age": "20h ago"
       },
       {
         "rank": 4,
-        "id": 48338145,
-        "title": "Show HN: A free Linux adaptation of NETworkManager by BornToBeRoot",
-        "url": "https://github.com/thongor77/nmlinux",
-        "discussion_url": "https://news.ycombinator.com/item?id=48338145",
+        "id": 48366607,
+        "title": "Show HN: Viveka: filter LLM output against a Lean-verified Advaita Vedanta model",
+        "url": "https://github.com/SpecStudio-net/Viveka",
+        "discussion_url": "https://news.ycombinator.com/item?id=48366607",
         "site": "github.com",
-        "points": 21,
-        "comments": 3,
-        "author": "magetriste",
-        "age": "2d ago"
+        "points": 4,
+        "comments": 0,
+        "author": "adyashakti",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 48364701,
-        "title": "Show HN: NUA an agent that tests for product correctness",
-        "url": "https://trynua.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48364701",
-        "site": "trynua.dev",
-        "points": 8,
-        "comments": 4,
-        "author": "Paster335",
-        "age": "4h ago"
+        "id": 48366605,
+        "title": "Show HN: See the JA3 TLS fingerprint your scraper sends to Cloudflare",
+        "url": "https://check.jibaoproxy.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48366605",
+        "site": "check.jibaoproxy.com",
+        "points": 2,
+        "comments": 0,
+        "author": "jibaoproxy",
+        "age": "3h ago"
       }
     ]
   }
