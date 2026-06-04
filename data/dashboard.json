@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-04T05:48:51Z",
+  "generated": "2026-06-04T09:40:56Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 1040,
-        "downloads": 78925,
-        "likes": 1191,
+        "trending_score": 1043,
+        "downloads": 91834,
+        "likes": 1215,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "LiquidAI/LFM2.5-8B-A1B",
         "org": "LiquidAI",
-        "trending_score": 473,
-        "downloads": 60171,
-        "likes": 485,
+        "trending_score": 474,
+        "downloads": 72114,
+        "likes": 487,
         "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "org": "HauhauCS",
-        "trending_score": 318,
-        "downloads": 2602333,
-        "likes": 1358,
+        "trending_score": 323,
+        "downloads": 2646756,
+        "likes": 1370,
         "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "tags": [
           "gguf",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "openbmb/MiniCPM5-1B",
-        "org": "openbmb",
-        "trending_score": 287,
-        "downloads": 68494,
-        "likes": 758,
-        "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "llama",
-          "text-generation",
-          "minicpm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 234,
-        "downloads": 463,
-        "likes": 235,
+        "trending_score": 288,
+        "downloads": 14866,
+        "likes": 290,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "gemma4_unified",
           "image-text-to-text",
           "any-to-any"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "openbmb/MiniCPM5-1B",
+        "org": "openbmb",
+        "trending_score": 268,
+        "downloads": 79427,
+        "likes": 762,
+        "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "llama",
+          "text-generation",
+          "minicpm"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 63.73437220414,
+        "speed_tps": 62.4285361208932,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 68.183806587551,
+        "speed_tps": 63.58996624596,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 70.6182370438422,
+        "speed_tps": 66.5382296872402,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 50.1096223944169,
+        "speed_tps": 50.0354215112919,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 138.115882813485,
+        "speed_tps": 135.593811018305,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       }
@@ -311,7 +311,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 10483,
+        "stars": 11088,
         "stars_delta": 3530,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 206084,
+        "stars": 206396,
         "stars_delta": 2141,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "aquasecurity/trivy",
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "url": "https://github.com/aquasecurity/trivy",
-        "stars": 35476,
+        "stars": 35527,
         "stars_delta": 24,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -341,7 +341,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 179567,
+        "stars": 179945,
         "stars_delta": 1735,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 143205,
+        "stars": 143490,
         "stars_delta": 1984,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 79001,
+        "stars": 79158,
         "stars_delta": 18553,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 10483,
+        "stars": 11088,
         "stars_delta": 6245,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 143205,
+        "stars": 143490,
         "stars_delta": 17108,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 51364,
+        "stars": 51631,
         "stars_delta": 12726,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "revfactory/harness",
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "url": "https://github.com/revfactory/harness",
-        "stars": 5769,
+        "stars": 5809,
         "stars_delta": 2005,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 39840,
+        "stars": 40248,
         "stars_delta": 38467,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 29827,
+        "stars": 29869,
         "stars_delta": 21999,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 23706,
+        "stars": 23776,
         "stars_delta": 22190,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "Hmbown/CodeWhale",
         "description": "DeepSeek + MiMo coding agent in terminal",
         "url": "https://github.com/Hmbown/CodeWhale",
-        "stars": 36943,
+        "stars": 36990,
         "stars_delta": 35225,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 21039,
+        "stars": 21094,
         "stars_delta": 18882,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "mastra-ai/mastra",
         "url": "https://github.com/mastra-ai/mastra",
-        "stars_28d": 66,
-        "total_stars": 16139,
+        "stars_28d": 67,
+        "total_stars": 16140,
         "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
         "category": "Full-Stack Agent Platform",
         "language": "TypeScript",
@@ -564,7 +564,7 @@
         "upvotes": 38,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 28318
+        "github_stars": 28372
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 165,
         "published": "2025-09-26",
         "github_repo": "https://github.com/opendatalab/MinerU",
-        "github_stars": 66301
+        "github_stars": 66369
       },
       {
         "rank": 5,
@@ -680,26 +680,26 @@
     "top": [
       {
         "rank": 1,
-        "id": 48391611,
-        "title": "\"They're made out of weights\"",
-        "url": "https://maxleiter.com/blog/weights",
-        "discussion_url": "https://news.ycombinator.com/item?id=48391611",
-        "site": "maxleiter.com",
-        "points": 269,
-        "comments": 88,
-        "author": "MaxLeiter",
-        "age": "6h ago"
+        "id": 48395938,
+        "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+        "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48395938",
+        "site": "aoav.org.uk",
+        "points": 44,
+        "comments": 13,
+        "author": "XzetaU8",
+        "age": "55m ago"
       },
       {
         "rank": 2,
-        "id": 48388324,
-        "title": "Elixir v1.20: Now a gradually typed language",
-        "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48388324",
-        "site": "elixir-lang.org",
-        "points": 665,
-        "comments": 245,
-        "author": "cloud8421",
+        "id": 48391611,
+        "title": "They’re made out of weights",
+        "url": "https://maxleiter.com/blog/weights",
+        "discussion_url": "https://news.ycombinator.com/item?id=48391611",
+        "site": "maxleiter.com",
+        "points": 674,
+        "comments": 249,
+        "author": "MaxLeiter",
         "age": "10h ago"
       },
       {
@@ -709,22 +709,22 @@
         "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48392004",
         "site": "dailycal.org",
-        "points": 135,
-        "comments": 76,
+        "points": 284,
+        "comments": 218,
         "author": "littlexsparkee",
-        "age": "5h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
-        "id": 48392343,
-        "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-        "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48392343",
-        "site": "kasra.blog",
-        "points": 124,
-        "comments": 48,
-        "author": "jc4p",
-        "age": "4h ago"
+        "id": 48388324,
+        "title": "Elixir v1.20: Now a gradually typed language",
+        "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48388324",
+        "site": "elixir-lang.org",
+        "points": 765,
+        "comments": 279,
+        "author": "cloud8421",
+        "age": "14h ago"
       },
       {
         "rank": 5,
@@ -733,10 +733,10 @@
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
         "discussion_url": "https://news.ycombinator.com/item?id=48385906",
         "site": "blog.google",
-        "points": 774,
-        "comments": 313,
+        "points": 832,
+        "comments": 324,
         "author": "rvz",
-        "age": "13h ago"
+        "age": "17h ago"
       }
     ],
     "ask": [
@@ -747,25 +747,13 @@
         "url": "https://news.ycombinator.com/item?id=48369964",
         "discussion_url": "https://news.ycombinator.com/item?id=48369964",
         "site": "news.ycombinator.com",
-        "points": 13,
-        "comments": 0,
+        "points": 25,
+        "comments": 1,
         "author": "cpu_",
         "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 48393472,
-        "title": "Tell HN: Max messenger app removed from App Store",
-        "url": "https://news.ycombinator.com/item?id=48393472",
-        "discussion_url": "https://news.ycombinator.com/item?id=48393472",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 1,
-        "author": "secondary_op",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
         "id": 48357725,
         "title": "Ask HN: Who is hiring? (June 2026)",
         "url": "https://news.ycombinator.com/item?id=48357725",
@@ -777,90 +765,102 @@
         "age": "2d ago"
       },
       {
-        "rank": 4,
-        "id": 48391260,
-        "title": "We're temporarily restricting Show HNs because of an influx",
-        "url": "https://news.ycombinator.com/item?id=48391260",
-        "discussion_url": "https://news.ycombinator.com/item?id=48391260",
-        "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 3,
-        "author": "cskilbeck",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "id": 48357724,
         "title": "Ask HN: Who wants to be hired? (June 2026)",
         "url": "https://news.ycombinator.com/item?id=48357724",
         "discussion_url": "https://news.ycombinator.com/item?id=48357724",
         "site": "news.ycombinator.com",
         "points": 144,
-        "comments": 477,
+        "comments": 479,
         "author": "whoishiring",
         "age": "2d ago"
+      },
+      {
+        "rank": 4,
+        "id": 48391260,
+        "title": "We're temporarily restricting Show HNs because of an influx",
+        "url": "https://news.ycombinator.com/item?id=48391260",
+        "discussion_url": "https://news.ycombinator.com/item?id=48391260",
+        "site": "news.ycombinator.com",
+        "points": 11,
+        "comments": 3,
+        "author": "cskilbeck",
+        "age": "10h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48393472,
+        "title": "Tell HN: Max messenger app removed from App Store",
+        "url": "https://news.ycombinator.com/item?id=48393472",
+        "discussion_url": "https://news.ycombinator.com/item?id=48393472",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 2,
+        "author": "secondary_op",
+        "age": "5h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48396004,
+        "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+        "url": "https://uruky.com/?il=en",
+        "discussion_url": "https://news.ycombinator.com/item?id=48396004",
+        "site": "uruky.com",
+        "points": 3,
+        "comments": 0,
+        "author": "BrunoBernardino",
+        "age": "44m ago"
+      },
+      {
+        "rank": 2,
         "id": 48374552,
         "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
         "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48374552",
         "site": "handwritten.danieljanus.pl",
-        "points": 242,
+        "points": 245,
         "comments": 34,
         "author": "nathell",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48389586,
         "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
         "url": "https://github.com/zaydmulani09/mnemo",
         "discussion_url": "https://news.ycombinator.com/item?id=48389586",
         "site": "github.com",
-        "points": 37,
+        "points": 43,
         "comments": 17,
         "author": "zaydmulani",
-        "age": "9h ago"
+        "age": "13h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48344327,
         "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
         "url": "https://github.com/s-macke/Test-Drive-3-Maps",
         "discussion_url": "https://news.ycombinator.com/item?id=48344327",
         "site": "github.com",
-        "points": 200,
+        "points": 204,
         "comments": 54,
         "author": "s-macke",
         "age": "3d ago"
       },
       {
-        "rank": 4,
-        "id": 48386129,
-        "title": "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
-        "url": "https://nutrepedia.com/en-us/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48386129",
-        "site": "nutrepedia.com",
-        "points": 120,
-        "comments": 27,
-        "author": "llovan",
-        "age": "13h ago"
-      },
-      {
         "rank": 5,
-        "id": 48392012,
-        "title": "Show HN: Bio Glyph – Turn Your Face into a One-Line Drawing",
-        "url": "https://bio.bairui.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48392012",
-        "site": "bio.bairui.dev",
-        "points": 9,
-        "comments": 2,
-        "author": "subairui",
-        "age": "5h ago"
+        "id": 48395157,
+        "title": "Show HN: I've hooked up 2D LiDARs to Raspberry Pi, wrote Python library lds2d",
+        "url": "https://github.com/kaiaai/lds2d/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48395157",
+        "site": "github.com",
+        "points": 3,
+        "comments": 1,
+        "author": "iliaov",
+        "age": "2h ago"
       }
     ]
   }
