@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-05T12:30:01Z",
+  "generated": "2026-06-05T15:47:29Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 969,
+        "trending_score": 952,
         "downloads": 101823,
-        "likes": 1334,
+        "likes": 1348,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 475,
+        "trending_score": 490,
         "downloads": 142851,
-        "likes": 496,
+        "likes": 512,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "LiquidAI/LFM2.5-8B-A1B",
         "org": "LiquidAI",
-        "trending_score": 346,
+        "trending_score": 338,
         "downloads": 82709,
-        "likes": 519,
+        "likes": 522,
         "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-        "org": "HauhauCS",
-        "trending_score": 333,
-        "downloads": 2687304,
-        "likes": 1436,
-        "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-        "tags": [
-          "gguf",
-          "uncensored",
-          "qwen3.6",
-          "moe",
-          "vision"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "unsloth/gemma-4-12b-it-GGUF",
         "org": "unsloth",
-        "trending_score": 328,
+        "trending_score": 334,
         "downloads": 296410,
-        "likes": 342,
+        "likes": 348,
         "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
         "tags": [
           "gguf",
@@ -84,6 +67,23 @@
           "unsloth",
           "gemma",
           "google"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "org": "HauhauCS",
+        "trending_score": 326,
+        "downloads": 2687304,
+        "likes": 1440,
+        "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "tags": [
+          "gguf",
+          "uncensored",
+          "qwen3.6",
+          "moe",
+          "vision"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 59.7565651279623,
+        "speed_tps": 57.3241979178309,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 64.2938789696124,
+        "speed_tps": 63.3775088099657,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 62.701975757717,
+        "speed_tps": 61.7031387794624,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -311,7 +311,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 181965,
+        "stars": 182416,
         "stars_delta": 1821,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 13901,
+        "stars": 14135,
         "stars_delta": 2503,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "CopilotKit/CopilotKit",
         "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
         "url": "https://github.com/CopilotKit/CopilotKit",
-        "stars": 32347,
+        "stars": 32460,
         "stars_delta": 350,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "lfnovo/open-notebook",
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "url": "https://github.com/lfnovo/open-notebook",
-        "stars": 25559,
+        "stars": 25709,
         "stars_delta": 1142,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 207898,
+        "stars": 208055,
         "stars_delta": 1368,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -363,7 +363,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 13901,
+        "stars": 14135,
         "stars_delta": 9421,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 144895,
+        "stars": 145070,
         "stars_delta": 17165,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 79802,
+        "stars": 79855,
         "stars_delta": 14566,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "revfactory/harness",
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "url": "https://github.com/revfactory/harness",
-        "stars": 6076,
+        "stars": 6092,
         "stars_delta": 2159,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -403,7 +403,7 @@
         "name": "run-llama/liteparse",
         "description": "A fast, helpful, and open-source document parser",
         "url": "https://github.com/run-llama/liteparse",
-        "stars": 9170,
+        "stars": 9181,
         "stars_delta": 2877,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 41932,
+        "stars": 42088,
         "stars_delta": 39989,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 24074,
+        "stars": 24120,
         "stars_delta": 22392,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 21327,
+        "stars": 21354,
         "stars_delta": 19078,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 52585,
+        "stars": 52719,
         "stars_delta": 40734,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 13901,
+        "stars": 14136,
         "stars_delta": 10008,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,13 +531,28 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 84,
+        "upvotes": 85,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 83068
       },
       {
         "rank": 2,
+        "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
+        "authors": [
+          "Zelun Zhang",
+          "Hongen Liu",
+          "Suyin Liang"
+        ],
+        "url": "https://huggingface.co/papers/2606.03264",
+        "categories": [],
+        "upvotes": 13,
+        "published": "2026-06-01",
+        "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+        "github_stars": 80323
+      },
+      {
+        "rank": 3,
         "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
         "authors": [
           "Yifan Yang",
@@ -552,7 +567,7 @@
         "github_stars": 5006
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Cosmos 3: Omnimodal World Models for Physical AI",
         "authors": [
           "Aditi",
@@ -565,21 +580,6 @@
         "published": "2026-05-31",
         "github_repo": "https://github.com/NVIDIA/cosmos",
         "github_stars": 9238
-      },
-      {
-        "rank": 4,
-        "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
-        "authors": [
-          "Zelun Zhang",
-          "Hongen Liu",
-          "Suyin Liang"
-        ],
-        "url": "https://huggingface.co/papers/2606.03264",
-        "categories": [],
-        "upvotes": 13,
-        "published": "2026-06-01",
-        "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-        "github_stars": 79929
       },
       {
         "rank": 5,
@@ -680,89 +680,89 @@
     "top": [
       {
         "rank": 1,
-        "id": 48411190,
-        "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-        "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-        "discussion_url": "https://news.ycombinator.com/item?id=48411190",
-        "site": "ajph.aphapublications.org",
-        "points": 44,
-        "comments": 13,
-        "author": "giuliomagnifico",
-        "age": "33m ago"
+        "id": 48413464,
+        "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "discussion_url": "https://news.ycombinator.com/item?id=48413464",
+        "site": "bbc.com",
+        "points": 88,
+        "comments": 30,
+        "author": "janpot",
+        "age": "46m ago"
       },
       {
         "rank": 2,
+        "id": 48383667,
+        "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+        "url": "https://mouseless.click",
+        "discussion_url": "https://news.ycombinator.com/item?id=48383667",
+        "site": "mouseless.click",
+        "points": 206,
+        "comments": 105,
+        "author": "riddley",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
+        "id": 48380174,
+        "title": "Cooldown Support for Ruby Bundler",
+        "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48380174",
+        "site": "blog.rubygems.org",
+        "points": 52,
+        "comments": 12,
+        "author": "calyhre",
+        "age": "2d ago"
+      },
+      {
+        "rank": 4,
+        "id": 48413183,
+        "title": "Technical Interviews Reject the Wrong Engineers",
+        "url": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
+        "discussion_url": "https://news.ycombinator.com/item?id=48413183",
+        "site": "fagnerbrack.com",
+        "points": 23,
+        "comments": 15,
+        "author": "fagnerbrack",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 48409664,
         "title": "Tracing a powerful GNSS interference source over Europe",
         "url": "https://arxiv.org/abs/2606.03673",
         "discussion_url": "https://news.ycombinator.com/item?id=48409664",
         "site": "arxiv.org",
-        "points": 141,
-        "comments": 39,
+        "points": 249,
+        "comments": 112,
         "author": "mimorigasaka",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48382047,
-        "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-        "url": "https://redis.io/blog/announcing-redis-8-8/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48382047",
-        "site": "redis.io",
-        "points": 32,
-        "comments": 7,
-        "author": "ksec",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48409191,
-        "title": "Changing How We Develop Ladybird",
-        "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48409191",
-        "site": "ladybird.org",
-        "points": 435,
-        "comments": 281,
-        "author": "EdwinHoksberg",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48410769,
-        "title": "We spent $50 to measure Pearl's \"AI mining\" – 320K GPUs produce zero AI",
-        "url": "https://arxiv.org/abs/2606.04819",
-        "discussion_url": "https://news.ycombinator.com/item?id=48410769",
-        "site": "arxiv.org",
-        "points": 21,
-        "comments": 2,
-        "author": "abhinaba_ai",
-        "age": "1h ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48413629,
+        "title": "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+        "url": "https://news.ycombinator.com/item?id=48413629",
+        "discussion_url": "https://news.ycombinator.com/item?id=48413629",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 6,
+        "author": "dv35z",
+        "age": "33m ago"
+      },
+      {
+        "rank": 2,
         "id": 48410589,
         "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
         "url": "https://news.ycombinator.com/item?id=48410589",
         "discussion_url": "https://news.ycombinator.com/item?id=48410589",
         "site": "news.ycombinator.com",
-        "points": 22,
-        "comments": 30,
+        "points": 29,
+        "comments": 51,
         "author": "sunshine-o",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48410522,
-        "title": "Ask HN: Is Azure capacity this constraind or am I doing it wrong?",
-        "url": "https://news.ycombinator.com/item?id=48410522",
-        "discussion_url": "https://news.ycombinator.com/item?id=48410522",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 5,
-        "author": "lanycrost",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
@@ -772,33 +772,33 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48397731",
         "site": "news.ycombinator.com",
         "points": 97,
-        "comments": 94,
+        "comments": 97,
         "author": "juliusceasar",
-        "age": "23h ago"
+        "age": "1d ago"
       },
       {
         "rank": 4,
+        "id": 48410522,
+        "title": "Ask HN: Is Azure capacity this constraind or am I doing it wrong?",
+        "url": "https://news.ycombinator.com/item?id=48410522",
+        "discussion_url": "https://news.ycombinator.com/item?id=48410522",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 11,
+        "author": "lanycrost",
+        "age": "5h ago"
+      },
+      {
+        "rank": 5,
         "id": 48397634,
         "title": "Ask HN: How do you find deep technical content?",
         "url": "https://news.ycombinator.com/item?id=48397634",
         "discussion_url": "https://news.ycombinator.com/item?id=48397634",
         "site": "news.ycombinator.com",
-        "points": 33,
-        "comments": 20,
+        "points": 34,
+        "comments": 24,
         "author": "f311a",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48398358,
-        "title": "Ask HN: Gin rummy strategies",
-        "url": "https://news.ycombinator.com/item?id=48398358",
-        "discussion_url": "https://news.ycombinator.com/item?id=48398358",
-        "site": "news.ycombinator.com",
-        "points": 22,
-        "comments": 4,
-        "author": "bix6",
-        "age": "23h ago"
       }
     ],
     "show": [
@@ -809,10 +809,10 @@
         "url": "https://github.com/zdk/lowfat",
         "discussion_url": "https://news.ycombinator.com/item?id=48409955",
         "site": "github.com",
-        "points": 7,
-        "comments": 4,
+        "points": 48,
+        "comments": 35,
         "author": "zdkaster",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -821,25 +821,37 @@
         "url": "https://github.com/kouhxp/textsnap",
         "discussion_url": "https://news.ycombinator.com/item?id=48410841",
         "site": "github.com",
-        "points": 4,
-        "comments": 2,
+        "points": 10,
+        "comments": 12,
         "author": "mrkn1",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
+        "id": 48411543,
+        "title": "Show HN: Fast Android File Manager that works",
+        "url": "https://github.com/djanogly/fast-android-file-manager",
+        "discussion_url": "https://news.ycombinator.com/item?id=48411543",
+        "site": "github.com",
+        "points": 2,
+        "comments": 3,
+        "author": "jackjayd",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 48404732,
         "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
         "url": "https://www.mercek.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=48404732",
         "site": "mercek.dev",
-        "points": 58,
-        "comments": 23,
+        "points": 60,
+        "comments": 26,
         "author": "utibeumanah",
-        "age": "15h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48356563,
         "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
         "url": "https://github.com/remysucre/prela",
@@ -848,19 +860,7 @@
         "points": 70,
         "comments": 13,
         "author": "remywang",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48408647,
-        "title": "Show HN: Altersend – File sharing without cloud",
-        "url": "https://github.com/denislupookov/altersend",
-        "discussion_url": "https://news.ycombinator.com/item?id=48408647",
-        "site": "github.com",
-        "points": 7,
-        "comments": 1,
-        "author": "denisdev1",
-        "age": "6h ago"
+        "age": "4d ago"
       }
     ]
   }
