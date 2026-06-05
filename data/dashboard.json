@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-04T23:00:12Z",
+  "generated": "2026-06-05T00:08:57Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 1030,
+        "trending_score": 1025,
         "downloads": 91834,
-        "likes": 1268,
+        "likes": 1279,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "LiquidAI/LFM2.5-8B-A1B",
-        "org": "LiquidAI",
-        "trending_score": 400,
-        "downloads": 72114,
-        "likes": 506,
-        "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "lfm2_moe",
-          "text-generation",
-          "liquid"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 379,
+        "trending_score": 394,
         "downloads": 14866,
-        "likes": 391,
+        "likes": 406,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "LiquidAI/LFM2.5-8B-A1B",
+        "org": "LiquidAI",
+        "trending_score": 386,
+        "downloads": 72114,
+        "likes": 507,
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "lfm2_moe",
+          "text-generation",
+          "liquid"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "org": "HauhauCS",
-        "trending_score": 329,
+        "trending_score": 328,
         "downloads": 2646756,
-        "likes": 1396,
+        "likes": 1400,
         "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
         "tags": [
           "gguf",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "unsloth/gemma-4-12b-it-GGUF",
         "org": "unsloth",
-        "trending_score": 258,
+        "trending_score": 270,
         "downloads": 62850,
-        "likes": 268,
+        "likes": 280,
         "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
         "tags": [
           "gguf",
@@ -150,47 +150,47 @@
     "general": [
       {
         "rank": 1,
-        "name": "SU AI Zero",
-        "org": "Suzhou AI Lab",
-        "score": 76.41,
+        "name": "CustomGPT.ai Research Lab v44",
+        "org": "CustomGPT.ai",
+        "score": 93.36,
         "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "url": "https://github.com/adorosario/customgpt-agent",
         "verified": true
       },
       {
         "rank": 2,
-        "name": "h2oGPTe Agent v1.6.27 | March 17 original date",
-        "org": "h2o.ai",
-        "score": 74.75,
+        "name": "Co-Sight Pro v1.0.1",
+        "org": "ZTE-AICloud",
+        "score": 93.02,
         "score_unit": "%",
-        "url": "https://h2ogpte.genai.h2o.ai/",
+        "url": "https://github.com/ZTE-AICloud/Co-Sight",
         "verified": true
       },
       {
         "rank": 3,
-        "name": "Trase Agent v0.3",
-        "org": "Trase Systems",
-        "score": 66.78,
+        "name": "OPS-Agentic-Search",
+        "org": "Alibaba Cloud",
+        "score": 92.36,
         "score_unit": "%",
-        "url": "https://trasesystems.com",
+        "url": "https://www.alibabacloud.com/en/product/opensearch?_p_lc=1",
         "verified": true
       },
       {
         "rank": 4,
-        "name": "h2oGPTe Agent v1.6.8",
-        "org": "h2o.ai",
-        "score": 65.12,
+        "name": "Co-Sight Pro v1.0.0",
+        "org": "ZTE-AICloud",
+        "score": 92.03,
         "score_unit": "%",
-        "url": "https://h2ogpte.genai.h2o.ai/",
+        "url": "https://github.com/ZTE-AICloud/Co-Sight",
         "verified": true
       },
       {
         "rank": 5,
-        "name": "Anges",
-        "org": "Anges.AI",
-        "score": 56.48,
+        "name": "CustomGPT.ai Research Lab v41",
+        "org": "CustomGPT.ai",
+        "score": 92.03,
         "score_unit": "%",
-        "url": "anges.ai",
+        "url": "https://github.com/adorosario/customgpt-agent",
         "verified": true
       }
     ],
@@ -311,8 +311,8 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 12356,
-        "stars_delta": 3139,
+        "stars": 12425,
+        "stars_delta": 3142,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 180902,
-        "stars_delta": 1951,
+        "stars": 180946,
+        "stars_delta": 1913,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 207161,
-        "stars_delta": 1736,
+        "stars": 207203,
+        "stars_delta": 1750,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -341,8 +341,8 @@
         "name": "PaddlePaddle/PaddleOCR",
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
         "url": "https://github.com/PaddlePaddle/PaddleOCR",
-        "stars": 79825,
-        "stars_delta": 105,
+        "stars": 79843,
+        "stars_delta": 141,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "github/spec-kit",
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
         "url": "https://github.com/github/spec-kit",
-        "stars": 108541,
-        "stars_delta": 311,
+        "stars": 108563,
+        "stars_delta": 321,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,8 +363,8 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 79424,
-        "stars_delta": 18553,
+        "stars": 79434,
+        "stars_delta": 14566,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 12356,
-        "stars_delta": 6245,
+        "stars": 12425,
+        "stars_delta": 9421,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 144210,
-        "stars_delta": 17108,
+        "stars": 144238,
+        "stars_delta": 17165,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "revfactory/harness",
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "url": "https://github.com/revfactory/harness",
-        "stars": 5940,
-        "stars_delta": 2005,
+        "stars": 5951,
+        "stars_delta": 2159,
         "language": "HTML",
         "language_color": "#e34c26"
       },
@@ -403,8 +403,8 @@
         "name": "EveryInc/compound-engineering-plugin",
         "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
         "url": "https://github.com/EveryInc/compound-engineering-plugin",
-        "stars": 19736,
-        "stars_delta": 2116,
+        "stars": 19739,
+        "stars_delta": 2111,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -415,8 +415,8 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 40844,
-        "stars_delta": 38467,
+        "stars": 40860,
+        "stars_delta": 39989,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -425,8 +425,8 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 23897,
-        "stars_delta": 22190,
+        "stars": 23907,
+        "stars_delta": 22392,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -435,8 +435,8 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 29954,
-        "stars_delta": 21999,
+        "stars": 29960,
+        "stars_delta": 22190,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 21196,
-        "stars_delta": 18882,
+        "stars": 21199,
+        "stars_delta": 19078,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 51971,
-        "stars_delta": 40416,
+        "stars": 51985,
+        "stars_delta": 40734,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -466,7 +466,7 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 174,
+        "stars_28d": 167,
         "total_stars": 116666,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
@@ -477,7 +477,7 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 141,
+        "stars_28d": 138,
         "total_stars": 37605,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 82,
-        "total_stars": 48230,
+        "stars_28d": 80,
+        "total_stars": 48231,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -499,7 +499,7 @@
         "rank": 4,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 80,
+        "stars_28d": 71,
         "total_stars": 14868,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
@@ -510,7 +510,7 @@
         "rank": 5,
         "name": "mastra-ai/mastra",
         "url": "https://github.com/mastra-ai/mastra",
-        "stars_28d": 69,
+        "stars_28d": 67,
         "total_stars": 16142,
         "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
         "category": "Full-Stack Agent Platform",
@@ -549,7 +549,7 @@
         "upvotes": 221,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 4829
+        "github_stars": 4894
       },
       {
         "rank": 3,
@@ -561,10 +561,10 @@
         ],
         "url": "https://huggingface.co/papers/2606.02800",
         "categories": [],
-        "upvotes": 62,
+        "upvotes": 66,
         "published": "2026-05-31",
         "github_repo": "https://github.com/NVIDIA/cosmos",
-        "github_stars": 8774
+        "github_stars": 8973
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 5,
         "published": "2026-06-02",
         "github_repo": "https://github.com/NVlabs/GRAIL",
-        "github_stars": 90
+        "github_stars": 118
       },
       {
         "rank": 5,
@@ -680,88 +680,88 @@
     "top": [
       {
         "rank": 1,
+        "id": 48405931,
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "discussion_url": "https://news.ycombinator.com/item?id=48405931",
+        "site": "arxiv.org",
+        "points": 47,
+        "comments": 5,
+        "author": "Anon84",
+        "age": "56m ago"
+      },
+      {
+        "rank": 2,
         "id": 48403980,
         "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "url": "https://github.com/anthropics/defending-code-reference-harness",
         "discussion_url": "https://news.ycombinator.com/item?id=48403980",
         "site": "github.com",
-        "points": 178,
-        "comments": 61,
+        "points": 224,
+        "comments": 74,
         "author": "binyu",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48405019,
         "title": "IPv6 zones in URLs are a mistake",
         "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
         "discussion_url": "https://news.ycombinator.com/item?id=48405019",
         "site": "xeiaso.net",
-        "points": 29,
-        "comments": 15,
+        "points": 59,
+        "comments": 45,
         "author": "xena",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48398055,
         "title": "VoidZero Is Joining Cloudflare",
         "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
         "discussion_url": "https://news.ycombinator.com/item?id=48398055",
         "site": "blog.cloudflare.com",
-        "points": 535,
-        "comments": 242,
+        "points": 550,
+        "comments": 246,
         "author": "coloneltcb",
-        "age": "9h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48400842,
         "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
         "discussion_url": "https://news.ycombinator.com/item?id=48400842",
         "site": "anthropic.com",
-        "points": 243,
-        "comments": 324,
+        "points": 292,
+        "comments": 377,
         "author": "meetpateltech",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48375445,
-        "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-        "url": "https://tiki.li/blog/blqsort",
-        "discussion_url": "https://news.ycombinator.com/item?id=48375445",
-        "site": "tiki.li",
-        "points": 31,
-        "comments": 6,
-        "author": "birdculture",
-        "age": "2d ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 48398358,
-        "title": "Ask HN: Gin rummy strategies",
-        "url": "https://news.ycombinator.com/item?id=48398358",
-        "discussion_url": "https://news.ycombinator.com/item?id=48398358",
-        "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 1,
-        "author": "bix6",
-        "age": "9h ago"
-      },
-      {
-        "rank": 2,
         "id": 48397731,
         "title": "Ask HN: So what happened to Facebook \"localhost\" tracking?",
         "url": "https://news.ycombinator.com/item?id=48397731",
         "discussion_url": "https://news.ycombinator.com/item?id=48397731",
         "site": "news.ycombinator.com",
-        "points": 69,
-        "comments": 79,
+        "points": 73,
+        "comments": 82,
         "author": "juliusceasar",
+        "age": "11h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48398358,
+        "title": "Ask HN: Gin rummy strategies",
+        "url": "https://news.ycombinator.com/item?id=48398358",
+        "discussion_url": "https://news.ycombinator.com/item?id=48398358",
+        "site": "news.ycombinator.com",
+        "points": 18,
+        "comments": 2,
+        "author": "bix6",
         "age": "10h ago"
       },
       {
@@ -771,10 +771,10 @@
         "url": "https://news.ycombinator.com/item?id=48396218",
         "discussion_url": "https://news.ycombinator.com/item?id=48396218",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 8,
+        "points": 9,
+        "comments": 13,
         "author": "petebay",
-        "age": "13h ago"
+        "age": "14h ago"
       },
       {
         "rank": 4,
@@ -786,19 +786,19 @@
         "points": 3,
         "comments": 0,
         "author": "iliaov",
-        "age": "57m ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 48399793,
-        "title": "Ask HN: Why is it still so hard for LLMs to query NoSQL databases?",
-        "url": "https://news.ycombinator.com/item?id=48399793",
-        "discussion_url": "https://news.ycombinator.com/item?id=48399793",
+        "id": 48397634,
+        "title": "Ask HN: How do you find deep technical content?",
+        "url": "https://news.ycombinator.com/item?id=48397634",
+        "discussion_url": "https://news.ycombinator.com/item?id=48397634",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "cammasmith",
-        "age": "7h ago"
+        "points": 20,
+        "comments": 10,
+        "author": "f311a",
+        "age": "11h ago"
       }
     ],
     "show": [
@@ -809,10 +809,10 @@
         "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
         "discussion_url": "https://news.ycombinator.com/item?id=48404224",
         "site": "github.com",
-        "points": 50,
-        "comments": 13,
+        "points": 63,
+        "comments": 22,
         "author": "tejaswigowda",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -821,46 +821,46 @@
         "url": "https://hitoku.me/draft/",
         "discussion_url": "https://news.ycombinator.com/item?id=48402082",
         "site": "hitoku.me",
-        "points": 5,
-        "comments": 0,
+        "points": 9,
+        "comments": 1,
         "author": "lostathome",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
-        "id": 48405264,
-        "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-        "url": "https://github.com/schildep/verified-polygon-intersection",
-        "discussion_url": "https://news.ycombinator.com/item?id=48405264",
-        "site": "github.com",
-        "points": 27,
-        "comments": 3,
-        "author": "permute",
-        "age": "53m ago"
-      },
-      {
-        "rank": 4,
         "id": 48404732,
         "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
         "url": "https://www.mercek.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=48404732",
         "site": "mercek.dev",
-        "points": 6,
-        "comments": 0,
+        "points": 14,
+        "comments": 2,
         "author": "utibeumanah",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48396004,
         "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
         "url": "https://uruky.com/?il=en",
         "discussion_url": "https://news.ycombinator.com/item?id=48396004",
         "site": "uruky.com",
-        "points": 200,
-        "comments": 188,
+        "points": 204,
+        "comments": 193,
         "author": "BrunoBernardino",
-        "age": "14h ago"
+        "age": "15h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48406065,
+        "title": "Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable",
+        "url": "https://github.com/marcj/papernews",
+        "discussion_url": "https://news.ycombinator.com/item?id=48406065",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "bourbonproof",
+        "age": "40m ago"
       }
     ]
   }
