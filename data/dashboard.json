@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-05T23:59:25Z",
+  "generated": "2026-06-06T03:27:24Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 927,
+        "trending_score": 922,
         "downloads": 101823,
-        "likes": 1374,
+        "likes": 1384,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 518,
+        "trending_score": 526,
         "downloads": 142851,
-        "likes": 544,
+        "likes": 554,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/gemma-4-12b-it-GGUF",
         "org": "unsloth",
-        "trending_score": 354,
+        "trending_score": 365,
         "downloads": 296410,
-        "likes": 371,
+        "likes": 382,
         "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
         "tags": [
           "gguf",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-        "org": "HauhauCS",
-        "trending_score": 322,
-        "downloads": 2687304,
-        "likes": 1449,
-        "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-        "tags": [
-          "gguf",
-          "uncensored",
-          "qwen3.6",
-          "moe",
-          "vision"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "google/gemma-4-12B",
         "org": "google",
-        "trending_score": 319,
+        "trending_score": 324,
         "downloads": 53525,
-        "likes": 335,
+        "likes": 340,
         "url": "https://huggingface.co/google/gemma-4-12B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "gemma4_unified",
           "image-text-to-text",
           "any-to-any"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "org": "HauhauCS",
+        "trending_score": 321,
+        "downloads": 2687304,
+        "likes": 1453,
+        "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "tags": [
+          "gguf",
+          "uncensored",
+          "qwen3.6",
+          "moe",
+          "vision"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 57.3741070393051,
+        "speed_tps": 57.4240161607793,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 60.044608943272,
+        "speed_tps": 60.9785489866233,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 139.804755125316,
+        "speed_tps": 140.514402355868,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       }
@@ -311,8 +311,8 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 183075,
-        "stars_delta": 1821,
+        "stars": 183343,
+        "stars_delta": 1845,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 14480,
-        "stars_delta": 2503,
+        "stars": 14619,
+        "stars_delta": 2473,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "CopilotKit/CopilotKit",
         "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
         "url": "https://github.com/CopilotKit/CopilotKit",
-        "stars": 32660,
-        "stars_delta": 350,
+        "stars": 32748,
+        "stars_delta": 366,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "lfnovo/open-notebook",
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "url": "https://github.com/lfnovo/open-notebook",
-        "stars": 25981,
-        "stars_delta": 1142,
+        "stars": 26077,
+        "stars_delta": 1152,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -351,8 +351,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 208341,
-        "stars_delta": 1368,
+        "stars": 208427,
+        "stars_delta": 1361,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -363,8 +363,8 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 14480,
-        "stars_delta": 9421,
+        "stars": 14619,
+        "stars_delta": 11993,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 145359,
-        "stars_delta": 17165,
+        "stars": 145528,
+        "stars_delta": 16376,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 79940,
-        "stars_delta": 14566,
+        "stars": 79994,
+        "stars_delta": 11388,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "revfactory/harness",
         "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
         "url": "https://github.com/revfactory/harness",
-        "stars": 6125,
-        "stars_delta": 2159,
+        "stars": 6144,
+        "stars_delta": 2030,
         "language": "HTML",
         "language_color": "#e34c26"
       },
@@ -403,8 +403,8 @@
         "name": "run-llama/liteparse",
         "description": "A fast, helpful, and open-source document parser",
         "url": "https://github.com/run-llama/liteparse",
-        "stars": 9214,
-        "stars_delta": 2877,
+        "stars": 9232,
+        "stars_delta": 2380,
         "language": "Rust",
         "language_color": "#dea584"
       }
@@ -415,8 +415,8 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 42253,
-        "stars_delta": 39989,
+        "stars": 42393,
+        "stars_delta": 41379,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -425,8 +425,8 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 24184,
-        "stars_delta": 22392,
+        "stars": 24217,
+        "stars_delta": 22637,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -435,8 +435,8 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 21395,
-        "stars_delta": 19078,
+        "stars": 21426,
+        "stars_delta": 19261,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -445,8 +445,8 @@
         "name": "Lum1104/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 52870,
-        "stars_delta": 40734,
+        "stars": 52969,
+        "stars_delta": 40696,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 14480,
-        "stars_delta": 10008,
+        "stars": 14619,
+        "stars_delta": 12410,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -466,7 +466,7 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 167,
+        "stars_28d": 153,
         "total_stars": 116666,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
@@ -477,8 +477,8 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 140,
-        "total_stars": 37607,
+        "stars_28d": 130,
+        "total_stars": 37609,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 80,
-        "total_stars": 48231,
+        "stars_28d": 76,
+        "total_stars": 48232,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -499,7 +499,7 @@
         "rank": 4,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 71,
+        "stars_28d": 65,
         "total_stars": 14868,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
@@ -508,14 +508,14 @@
       },
       {
         "rank": 5,
-        "name": "mastra-ai/mastra",
-        "url": "https://github.com/mastra-ai/mastra",
-        "stars_28d": 67,
-        "total_stars": 16142,
-        "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
-        "category": "Full-Stack Agent Platform",
-        "language": "TypeScript",
-        "language_color": "#3178C6"
+        "name": "FoundationAgents/MetaGPT",
+        "url": "https://github.com/FoundationAgents/MetaGPT",
+        "stars_28d": 60,
+        "total_stars": 59637,
+        "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "category": "Agent Team Simulation",
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ]
   },
@@ -523,6 +523,21 @@
     "hf_trending": [
       {
         "rank": 1,
+        "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
+        "authors": [
+          "Zelun Zhang",
+          "Hongen Liu",
+          "Suyin Liang"
+        ],
+        "url": "https://huggingface.co/papers/2606.03264",
+        "categories": [],
+        "upvotes": 13,
+        "published": "2026-06-01",
+        "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+        "github_stars": 80532
+      },
+      {
+        "rank": 2,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -537,21 +552,6 @@
         "github_stars": 83153
       },
       {
-        "rank": 2,
-        "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
-        "authors": [
-          "Zelun Zhang",
-          "Hongen Liu",
-          "Suyin Liang"
-        ],
-        "url": "https://huggingface.co/papers/2606.03264",
-        "categories": [],
-        "upvotes": 13,
-        "published": "2026-06-01",
-        "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-        "github_stars": 80323
-      },
-      {
         "rank": 3,
         "title": "Cosmos 3: Omnimodal World Models for Physical AI",
         "authors": [
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.02800",
         "categories": [],
-        "upvotes": 83,
+        "upvotes": 85,
         "published": "2026-05-31",
         "github_repo": "https://github.com/NVIDIA/cosmos",
         "github_stars": 9372
@@ -680,51 +680,51 @@
     "top": [
       {
         "rank": 1,
-        "id": 48413464,
-        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-        "discussion_url": "https://news.ycombinator.com/item?id=48413464",
-        "site": "bbc.com",
-        "points": 343,
-        "comments": 219,
-        "author": "janpot",
-        "age": "8h ago"
+        "id": 48420148,
+        "title": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48420148",
+        "site": "salvagedcircuitry.com",
+        "points": 85,
+        "comments": 19,
+        "author": "transistor-man",
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 48389360,
+        "title": "How LLMs Work",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48389360",
+        "site": "0xkato.xyz",
+        "points": 28,
+        "comments": 3,
+        "author": "0xkato",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
         "id": 48414367,
         "title": "pg_durable: Microsoft open sources in-database durable execution",
         "url": "https://github.com/microsoft/pg_durable",
         "discussion_url": "https://news.ycombinator.com/item?id=48414367",
         "site": "github.com",
-        "points": 281,
-        "comments": 72,
+        "points": 348,
+        "comments": 81,
         "author": "coffeemug",
-        "age": "7h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48414653,
-        "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48414653",
-        "site": "blog.google",
-        "points": 235,
-        "comments": 78,
-        "author": "theanonymousone",
-        "age": "7h ago"
+        "age": "11h ago"
       },
       {
         "rank": 4,
-        "id": 48419023,
-        "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-        "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48419023",
-        "site": "disassociated.com",
-        "points": 53,
-        "comments": 48,
-        "author": "berlianta",
-        "age": "1h ago"
+        "id": 48413464,
+        "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "discussion_url": "https://news.ycombinator.com/item?id=48413464",
+        "site": "bbc.com",
+        "points": 365,
+        "comments": 238,
+        "author": "janpot",
+        "age": "12h ago"
       },
       {
         "rank": 5,
@@ -733,10 +733,10 @@
         "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
         "discussion_url": "https://news.ycombinator.com/item?id=48413500",
         "site": "rochester.edu",
-        "points": 212,
-        "comments": 100,
+        "points": 285,
+        "comments": 125,
         "author": "speckx",
-        "age": "8h ago"
+        "age": "12h ago"
       }
     ],
     "ask": [
@@ -747,46 +747,46 @@
         "url": "https://news.ycombinator.com/item?id=48406174",
         "discussion_url": "https://news.ycombinator.com/item?id=48406174",
         "site": "news.ycombinator.com",
-        "points": 131,
-        "comments": 317,
+        "points": 200,
+        "comments": 431,
         "author": "andrehacker",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 48420827,
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "url": "https://news.ycombinator.com/item?id=48420827",
+        "discussion_url": "https://news.ycombinator.com/item?id=48420827",
+        "site": "news.ycombinator.com",
+        "points": 6,
+        "comments": 11,
+        "author": "Ekami",
+        "age": "55m ago"
+      },
+      {
+        "rank": 3,
+        "id": 48413167,
+        "title": "Ask HN: How did you discover Hacker News?",
+        "url": "https://news.ycombinator.com/item?id=48413167",
+        "discussion_url": "https://news.ycombinator.com/item?id=48413167",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 12,
+        "author": "chistev",
+        "age": "12h ago"
+      },
+      {
+        "rank": 4,
         "id": 48413629,
         "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
         "url": "https://news.ycombinator.com/item?id=48413629",
         "discussion_url": "https://news.ycombinator.com/item?id=48413629",
         "site": "news.ycombinator.com",
-        "points": 108,
-        "comments": 106,
+        "points": 122,
+        "comments": 108,
         "author": "dv35z",
-        "age": "8h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48407391,
-        "title": "Bad MCP design costs your agent 5x more tokens",
-        "url": "https://news.ycombinator.com/item?id=48407391",
-        "discussion_url": "https://news.ycombinator.com/item?id=48407391",
-        "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 0,
-        "author": "JohnnyZhang483",
-        "age": "21h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48406829,
-        "title": "Ask HN: My competitors have flawed products but I can't get traction",
-        "url": "https://news.ycombinator.com/item?id=48406829",
-        "discussion_url": "https://news.ycombinator.com/item?id=48406829",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 8,
-        "author": "saveitincork",
-        "age": "22h ago"
+        "age": "12h ago"
       },
       {
         "rank": 5,
@@ -795,7 +795,7 @@
         "url": "https://news.ycombinator.com/item?id=48397731",
         "discussion_url": "https://news.ycombinator.com/item?id=48397731",
         "site": "news.ycombinator.com",
-        "points": 100,
+        "points": 101,
         "comments": 99,
         "author": "juliusceasar",
         "age": "1d ago"
@@ -804,63 +804,63 @@
     "show": [
       {
         "rank": 1,
+        "id": 48420494,
+        "title": "Show HN: ABC Classic 100 Rankings visualised",
+        "url": "https://classic100.gotski.workers.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48420494",
+        "site": "classic100.gotski.workers.dev",
+        "points": 18,
+        "comments": 13,
+        "author": "gotski",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48405264,
+        "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+        "url": "https://github.com/schildep/verified-polygon-intersection",
+        "discussion_url": "https://news.ycombinator.com/item?id=48405264",
+        "site": "github.com",
+        "points": 61,
+        "comments": 14,
+        "author": "permute",
+        "age": "1d ago"
+      },
+      {
+        "rank": 3,
         "id": 48409955,
         "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
         "url": "https://github.com/zdk/lowfat",
         "discussion_url": "https://news.ycombinator.com/item?id=48409955",
         "site": "github.com",
-        "points": 102,
-        "comments": 53,
+        "points": 121,
+        "comments": 61,
         "author": "zdkaster",
-        "age": "14h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48419614,
-        "title": "Show HN: I nerfed our coding agents on purpose",
-        "url": "https://news.ycombinator.com/item?id=48419614",
-        "discussion_url": "https://news.ycombinator.com/item?id=48419614",
-        "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 8,
-        "author": "noahfradin",
-        "age": "40m ago"
-      },
-      {
-        "rank": 3,
-        "id": 48415709,
-        "title": "Show HN: On-device transcriber that's 97% accurate at identifying speakers",
-        "url": "https://mimicscribe.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48415709",
-        "site": "mimicscribe.app",
-        "points": 8,
-        "comments": 2,
-        "author": "marshalla",
-        "age": "6h ago"
+        "age": "18h ago"
       },
       {
         "rank": 4,
-        "id": 48417643,
-        "title": "Show HN: OWASP VulnerableApp Modern Extensible and Scalable vulnerable app",
-        "url": "https://github.com/SasanLabs/VulnerableApp",
-        "discussion_url": "https://news.ycombinator.com/item?id=48417643",
-        "site": "github.com",
-        "points": 3,
+        "id": 48419626,
+        "title": "Show HN: Omni – Local-first multimodal file search on macOS",
+        "url": "https://hanxiao.io/omni/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48419626",
+        "site": "hanxiao.io",
+        "points": 5,
         "comments": 1,
-        "author": "newaccount12344",
-        "age": "3h ago"
+        "author": "artex_xh",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 48417542,
-        "title": "Show HN: I rebuilt a tiny old volleyball game I loved",
-        "url": "https://volleyhop.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48417542",
-        "site": "volleyhop.com",
-        "points": 3,
-        "comments": 2,
-        "author": "cebceb",
-        "age": "3h ago"
+        "id": 48420247,
+        "title": "Show HN: Documenting an Obscure Japanese Wii Game – and-Kensaku",
+        "url": "https://github.com/TylerJaacks/AndKensakuResearch",
+        "discussion_url": "https://news.ycombinator.com/item?id=48420247",
+        "site": "github.com",
+        "points": 2,
+        "comments": 1,
+        "author": "TylerJaacks",
+        "age": "2h ago"
       }
     ]
   }
