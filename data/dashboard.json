@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-08T12:20:09Z",
+  "generated": "2026-06-08T16:42:43Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 800,
+        "trending_score": 796,
         "downloads": 121594,
-        "likes": 1570,
+        "likes": 1597,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 660,
+        "trending_score": 671,
         "downloads": 554173,
-        "likes": 718,
+        "likes": 733,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/gemma-4-12b-it-GGUF",
         "org": "unsloth",
-        "trending_score": 442,
+        "trending_score": 454,
         "downloads": 645263,
-        "likes": 472,
+        "likes": 484,
         "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "google/gemma-4-12B",
         "org": "google",
-        "trending_score": 405,
+        "trending_score": 413,
         "downloads": 117509,
-        "likes": 428,
+        "likes": 438,
         "url": "https://huggingface.co/google/gemma-4-12B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "ideogram-ai/ideogram-4-fp8",
         "org": "ideogram-ai",
-        "trending_score": 353,
+        "trending_score": 364,
         "downloads": 5495,
-        "likes": 370,
+        "likes": 382,
         "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
         "tags": [
           "diffusers",
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 66.7994328656002,
+        "speed_tps": 69.3006658554752,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 65.8901261825389,
+        "speed_tps": 67.2401059294195,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 55.135874141781,
+        "speed_tps": 59.3640501951666,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 141.677437942255,
+        "speed_tps": 143.485424370253,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       }
@@ -311,7 +311,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 33030,
+        "stars": 33733,
         "stars_delta": 3558,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "RyanCodrai/turbovec",
         "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
         "url": "https://github.com/RyanCodrai/turbovec",
-        "stars": 7967,
+        "stars": 8367,
         "stars_delta": 1730,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "google/skills",
         "description": "Agent Skills for Google products and technologies",
         "url": "https://github.com/google/skills",
-        "stars": 12095,
+        "stars": 12221,
         "stars_delta": 481,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "refactoringhq/tolaria",
         "description": "Desktop app to manage markdown knowledge bases",
         "url": "https://github.com/refactoringhq/tolaria",
-        "stars": 13232,
+        "stars": 13401,
         "stars_delta": 649,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,8 +351,8 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 23588,
-        "stars_delta": 961,
+        "stars": 23863,
+        "stars_delta": 796,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,7 +363,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 17671,
+        "stars": 18263,
         "stars_delta": 14272,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 148017,
+        "stars": 148216,
         "stars_delta": 13359,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 33033,
+        "stars": 33733,
         "stars_delta": 2718,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "Open-LLM-VTuber/Open-LLM-VTuber",
         "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
         "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-        "stars": 10458,
+        "stars": 10489,
         "stars_delta": 2388,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 23588,
+        "stars": 23863,
         "stars_delta": 2289,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 44572,
+        "stars": 44712,
         "stars_delta": 42778,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,17 +425,17 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 17672,
+        "stars": 18263,
         "stars_delta": 14922,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "Lum1104/Understand-Anything",
+        "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
-        "url": "https://github.com/Lum1104/Understand-Anything",
-        "stars": 54927,
+        "url": "https://github.com/Egonex-AI/Understand-Anything",
+        "stars": 55073,
         "stars_delta": 41326,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 24838,
+        "stars": 24880,
         "stars_delta": 22732,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "rohitg00/agentmemory",
         "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
         "url": "https://github.com/rohitg00/agentmemory",
-        "stars": 21845,
+        "stars": 21883,
         "stars_delta": 19547,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -477,8 +477,8 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 122,
-        "total_stars": 37623,
+        "stars_28d": 121,
+        "total_stars": 37622,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -534,7 +534,7 @@
         "upvotes": 90,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 84141
+        "github_stars": 84394
       },
       {
         "rank": 2,
@@ -564,7 +564,7 @@
         "upvotes": 221,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 5356
+        "github_stars": 5424
       },
       {
         "rank": 4,
@@ -576,10 +576,10 @@
         ],
         "url": "https://huggingface.co/papers/2606.02800",
         "categories": [],
-        "upvotes": 100,
+        "upvotes": 101,
         "published": "2026-05-31",
         "github_repo": "https://github.com/NVIDIA/cosmos",
-        "github_stars": 9662
+        "github_stars": 9709
       },
       {
         "rank": 5,
@@ -683,63 +683,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 48442725,
-        "title": "The Cypherpunk Library",
-        "url": "https://www.cypherpunkbooks.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48442725",
-        "site": "cypherpunkbooks.com",
-        "points": 137,
-        "comments": 30,
-        "author": "yu3zhou4",
-        "age": "3h ago"
+        "id": 48446639,
+        "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "discussion_url": "https://news.ycombinator.com/item?id=48446639",
+        "site": "mimo.xiaomi.com",
+        "points": 152,
+        "comments": 81,
+        "author": "gainsurier",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 48440792,
-        "title": "Dopamine Fracking",
-        "url": "https://igerman.cc/blog/dopamine-fracking/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48440792",
-        "site": "igerman.cc",
-        "points": 433,
-        "comments": 198,
-        "author": "igmn",
-        "age": "9h ago"
+        "id": 48445554,
+        "title": "Show HN: Performative-UI – a react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48445554",
+        "site": "vorpus.github.io",
+        "points": 270,
+        "comments": 64,
+        "author": "lizhang",
+        "age": "2h ago"
       },
       {
         "rank": 3,
-        "id": 48440952,
-        "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-        "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48440952",
-        "site": "troyhunt.com",
-        "points": 187,
-        "comments": 68,
-        "author": "882542F3884314B",
-        "age": "9h ago"
+        "id": 48445171,
+        "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+        "url": "https://intunedhq.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48445171",
+        "site": "intunedhq.com",
+        "points": 76,
+        "comments": 18,
+        "author": "fkilaiwi",
+        "age": "3h ago"
       },
       {
         "rank": 4,
-        "id": 48442075,
-        "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-        "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48442075",
-        "site": "reeserichardson.blog",
-        "points": 63,
-        "comments": 23,
-        "author": "mhrmsn",
-        "age": "5h ago"
+        "id": 48444228,
+        "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+        "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+        "discussion_url": "https://news.ycombinator.com/item?id=48444228",
+        "site": "bbc.com",
+        "points": 288,
+        "comments": 242,
+        "author": "1vuio0pswjnm7",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 48413645,
-        "title": "A Family Project (2022)",
-        "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-        "discussion_url": "https://news.ycombinator.com/item?id=48413645",
-        "site": "bittersoutherner.com",
-        "points": 42,
-        "comments": 2,
-        "author": "surprisetalk",
-        "age": "2d ago"
+        "id": 48444871,
+        "title": "Zig by Example",
+        "url": "https://github.com/boringcollege/zig-by-example",
+        "discussion_url": "https://news.ycombinator.com/item?id=48444871",
+        "site": "github.com",
+        "points": 163,
+        "comments": 76,
+        "author": "dariubs",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -750,120 +750,120 @@
         "url": "https://news.ycombinator.com/item?id=48406174",
         "discussion_url": "https://news.ycombinator.com/item?id=48406174",
         "site": "news.ycombinator.com",
-        "points": 705,
-        "comments": 1087,
+        "points": 720,
+        "comments": 1094,
         "author": "andrehacker",
         "age": "3d ago"
       },
       {
         "rank": 2,
+        "id": 48445113,
+        "title": "Ask HN: Open-Source Software in Aerospace Imaging?",
+        "url": "https://news.ycombinator.com/item?id=48445113",
+        "discussion_url": "https://news.ycombinator.com/item?id=48445113",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 0,
+        "author": "lightedman",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48445024,
+        "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
+        "url": "https://news.ycombinator.com/item?id=48445024",
+        "discussion_url": "https://news.ycombinator.com/item?id=48445024",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 5,
+        "author": "postexitus",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48420827,
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "url": "https://news.ycombinator.com/item?id=48420827",
+        "discussion_url": "https://news.ycombinator.com/item?id=48420827",
+        "site": "news.ycombinator.com",
+        "points": 451,
+        "comments": 750,
+        "author": "Ekami",
+        "age": "2d ago"
+      },
+      {
+        "rank": 5,
         "id": 48443152,
         "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
         "url": "https://news.ycombinator.com/item?id=48443152",
         "discussion_url": "https://news.ycombinator.com/item?id=48443152",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 2,
+        "comments": 3,
         "author": "postexitus",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48420827,
-        "title": "Ask HN: Why is the HN crowd so anti-AI?",
-        "url": "https://news.ycombinator.com/item?id=48420827",
-        "discussion_url": "https://news.ycombinator.com/item?id=48420827",
-        "site": "news.ycombinator.com",
-        "points": 450,
-        "comments": 745,
-        "author": "Ekami",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48443359,
-        "title": "Ask HN: How do you stay focused while working from home?",
-        "url": "https://news.ycombinator.com/item?id=48443359",
-        "discussion_url": "https://news.ycombinator.com/item?id=48443359",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 7,
-        "author": "infoinlet",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48397731,
-        "title": "Ask HN: So what happened to Facebook \"localhost\" tracking?",
-        "url": "https://news.ycombinator.com/item?id=48397731",
-        "discussion_url": "https://news.ycombinator.com/item?id=48397731",
-        "site": "news.ycombinator.com",
-        "points": 106,
-        "comments": 102,
-        "author": "juliusceasar",
-        "age": "3d ago"
+        "age": "7h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48445554,
+        "title": "Show HN: Performative-UI – a react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48445554",
+        "site": "vorpus.github.io",
+        "points": 270,
+        "comments": 64,
+        "author": "lizhang",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48447484,
+        "title": "Show HN: Startup sci-fi novel that took me 5 years to write",
+        "url": "https://www.blockchainednovel.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48447484",
+        "site": "blockchainednovel.com",
+        "points": 3,
+        "comments": 0,
+        "author": "mck-",
+        "age": "13m ago"
+      },
+      {
+        "rank": 3,
+        "id": 48447238,
+        "title": "Show HN: Quick games disguised as boring spreadsheets",
+        "url": "https://boredspreadsheet.com/workbook",
+        "discussion_url": "https://news.ycombinator.com/item?id=48447238",
+        "site": "boredspreadsheet.com",
+        "points": 3,
+        "comments": 0,
+        "author": "kevinclelland",
+        "age": "29m ago"
+      },
+      {
+        "rank": 4,
         "id": 48408854,
         "title": "Show HN: I Derived a Pancake",
         "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
         "discussion_url": "https://news.ycombinator.com/item?id=48408854",
         "site": "absurdlyoptimized.com",
-        "points": 257,
-        "comments": 102,
+        "points": 308,
+        "comments": 125,
         "author": "bkazez",
         "age": "3d ago"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "id": 48433756,
         "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
         "url": "https://github.com/devenjarvis/lathe",
         "discussion_url": "https://news.ycombinator.com/item?id=48433756",
         "site": "github.com",
-        "points": 333,
-        "comments": 60,
+        "points": 365,
+        "comments": 67,
         "author": "devenjarvis",
         "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 48438180,
-        "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-        "url": "https://github.com/ninoxAI/nightwatch",
-        "discussion_url": "https://news.ycombinator.com/item?id=48438180",
-        "site": "github.com",
-        "points": 23,
-        "comments": 9,
-        "author": "egorferber",
-        "age": "15h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48432722,
-        "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
-        "url": "https://kyushu.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48432722",
-        "site": "kyushu.dev",
-        "points": 77,
-        "comments": 33,
-        "author": "le_chuck",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48372138,
-        "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-        "url": "https://uonr.github.io/poincake/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48372138",
-        "site": "uonr.github.io",
-        "points": 184,
-        "comments": 32,
-        "author": "uonr",
-        "age": "5d ago"
       }
     ]
   }
