@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T13:35:12Z",
+  "generated": "2026-06-09T16:24:07Z",
   "models": {
     "trending": [
       {
@@ -8,7 +8,7 @@
         "org": "nvidia",
         "trending_score": 737,
         "downloads": 123922,
-        "likes": 1683,
+        "likes": 1698,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 705,
+        "trending_score": 712,
         "downloads": 581354,
-        "likes": 782,
+        "likes": 790,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/gemma-4-12b-it-GGUF",
         "org": "unsloth",
-        "trending_score": 482,
+        "trending_score": 483,
         "downloads": 660140,
-        "likes": 520,
+        "likes": 521,
         "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "google/gemma-4-12B",
         "org": "google",
-        "trending_score": 436,
+        "trending_score": 440,
         "downloads": 122464,
-        "likes": 467,
+        "likes": 472,
         "url": "https://huggingface.co/google/gemma-4-12B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "ideogram-ai/ideogram-4-fp8",
         "org": "ideogram-ai",
-        "trending_score": 405,
+        "trending_score": 407,
         "downloads": 5915,
-        "likes": 424,
+        "likes": 427,
         "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
         "tags": [
           "diffusers",
@@ -96,7 +96,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 68.5467134676776,
+        "speed_tps": 64.478449305181,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 65.3299682363323,
+        "speed_tps": 57.4472250534216,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 52.415366507393,
+        "speed_tps": 51.5698465538517,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 48.4470331020498,
+        "speed_tps": 46.6373284990567,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.1754980007686,
         "price_input": 2,
         "price_output": 12,
-        "speed_tps": 134.115846667378,
+        "speed_tps": 127.544933955508,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gemini-3-1-pro-preview"
       }
@@ -311,7 +311,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 36300,
+        "stars": 36671,
         "stars_delta": 3177,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "RyanCodrai/turbovec",
         "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
         "url": "https://github.com/RyanCodrai/turbovec",
-        "stars": 9815,
+        "stars": 9931,
         "stars_delta": 1800,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "roboflow/supervision",
         "description": "We write your reusable computer vision tools. 💜",
         "url": "https://github.com/roboflow/supervision",
-        "stars": 42727,
+        "stars": 42815,
         "stars_delta": 735,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "opencv/opencv",
         "description": "Open Source Computer Vision Library",
         "url": "https://github.com/opencv/opencv",
-        "stars": 88449,
+        "stars": 88506,
         "stars_delta": 395,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -351,7 +351,7 @@
         "name": "refactoringhq/tolaria",
         "description": "Desktop app to manage markdown knowledge bases",
         "url": "https://github.com/refactoringhq/tolaria",
-        "stars": 14078,
+        "stars": 14162,
         "stars_delta": 821,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 19878,
+        "stars": 20112,
         "stars_delta": 14266,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 36300,
+        "stars": 36671,
         "stars_delta": 6616,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 149029,
+        "stars": 149141,
         "stars_delta": 11177,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 2490,
+        "stars": 2516,
         "stars_delta": 899,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 25240,
+        "stars": 25382,
         "stars_delta": 3006,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 45616,
+        "stars": 45739,
         "stars_delta": 43749,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 19878,
+        "stars": 20112,
         "stars_delta": 16237,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 55710,
+        "stars": 55798,
         "stars_delta": 41974,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 83187,
+        "stars": 83354,
         "stars_delta": 25436,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "CloakHQ/CloakBrowser",
         "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
         "url": "https://github.com/CloakHQ/CloakBrowser",
-        "stars": 25089,
+        "stars": 25119,
         "stars_delta": 22447,
         "language": "Python",
         "language_color": "#3572A5"
@@ -549,7 +549,7 @@
         "upvotes": 15,
         "published": "2026-06-01",
         "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-        "github_stars": 81519
+        "github_stars": 81609
       },
       {
         "rank": 3,
@@ -684,27 +684,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 48458890,
-        "title": "GentleOS – Classic operating system with a lovely retro GUI",
-        "url": "https://github.com/luke8086/gentleos32",
-        "discussion_url": "https://news.ycombinator.com/item?id=48458890",
-        "site": "github.com",
-        "points": 206,
-        "comments": 48,
-        "author": "tekkertje",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
         "id": 48459294,
         "title": "Making Graphics Like it's 1993",
         "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
         "discussion_url": "https://news.ycombinator.com/item?id=48459294",
         "site": "staniks.github.io",
-        "points": 155,
-        "comments": 26,
+        "points": 422,
+        "comments": 60,
         "author": "sklopec",
-        "age": "2h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48463024,
+        "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+        "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48463024",
+        "site": "reuters.com",
+        "points": 12,
+        "comments": 0,
+        "author": "flanged",
+        "age": "10m ago"
       },
       {
         "rank": 3,
@@ -713,34 +713,34 @@
         "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
         "discussion_url": "https://news.ycombinator.com/item?id=48457830",
         "site": "techcrunch.com",
-        "points": 309,
-        "comments": 125,
+        "points": 394,
+        "comments": 156,
         "author": "raffael_de",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
-        "id": 48458586,
-        "title": "Cleaning up after AI rockstar developers",
-        "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48458586",
-        "site": "codingwithjesse.com",
-        "points": 85,
-        "comments": 36,
-        "author": "BrunoBernardino",
-        "age": "4h ago"
+        "id": 48462062,
+        "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+        "url": "https://arxiv.org/abs/2603.24647",
+        "discussion_url": "https://news.ycombinator.com/item?id=48462062",
+        "site": "arxiv.org",
+        "points": 39,
+        "comments": 4,
+        "author": "galsapir",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 48421858,
-        "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-        "url": "https://opencv.org/opencv-5/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48421858",
-        "site": "opencv.org",
-        "points": 373,
-        "comments": 59,
-        "author": "ternaus",
-        "age": "3d ago"
+        "id": 48462823,
+        "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+        "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48462823",
+        "site": "404media.co",
+        "points": 39,
+        "comments": 5,
+        "author": "doener",
+        "age": "24m ago"
       }
     ],
     "ask": [
@@ -751,10 +751,10 @@
         "url": "https://news.ycombinator.com/item?id=48449187",
         "discussion_url": "https://news.ycombinator.com/item?id=48449187",
         "site": "news.ycombinator.com",
-        "points": 363,
-        "comments": 584,
+        "points": 389,
+        "comments": 650,
         "author": "aryamaan",
-        "age": "19h ago"
+        "age": "22h ago"
       },
       {
         "rank": 2,
@@ -763,10 +763,10 @@
         "url": "https://news.ycombinator.com/item?id=48448313",
         "discussion_url": "https://news.ycombinator.com/item?id=48448313",
         "site": "news.ycombinator.com",
-        "points": 206,
-        "comments": 187,
+        "points": 225,
+        "comments": 206,
         "author": "mdni007",
-        "age": "20h ago"
+        "age": "22h ago"
       },
       {
         "rank": 3,
@@ -778,93 +778,93 @@
         "points": 2,
         "comments": 2,
         "author": "JasonHEIN",
-        "age": "2h ago"
+        "age": "5h ago"
       },
       {
         "rank": 4,
+        "id": 48406174,
+        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+        "url": "https://news.ycombinator.com/item?id=48406174",
+        "discussion_url": "https://news.ycombinator.com/item?id=48406174",
+        "site": "news.ycombinator.com",
+        "points": 730,
+        "comments": 1106,
+        "author": "andrehacker",
+        "age": "4d ago"
+      },
+      {
+        "rank": 5,
         "id": 48447980,
         "title": "Ask HN: How to escalate a rejected Google extension?",
         "url": "https://news.ycombinator.com/item?id=48447980",
         "discussion_url": "https://news.ycombinator.com/item?id=48447980",
         "site": "news.ycombinator.com",
-        "points": 20,
+        "points": 21,
         "comments": 12,
         "author": "modzu",
-        "age": "20h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48448447,
-        "title": "HN seems dead compared to say 10-15 years ago",
-        "url": "https://news.ycombinator.com/item?id=48448447",
-        "discussion_url": "https://news.ycombinator.com/item?id=48448447",
-        "site": "news.ycombinator.com",
-        "points": 37,
-        "comments": 38,
-        "author": "morpheos137",
-        "age": "19h ago"
+        "age": "23h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48460210,
-        "title": "Show HN: We post-trained a model that pen tests instead of refusing your code",
-        "url": "https://www.argusred.com/cli",
-        "discussion_url": "https://news.ycombinator.com/item?id=48460210",
-        "site": "argusred.com",
-        "points": 7,
-        "comments": 4,
-        "author": "dk189",
-        "age": "1h ago"
+        "id": 48435943,
+        "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+        "url": "https://github.com/luke8086/gentleos32",
+        "discussion_url": "https://news.ycombinator.com/item?id=48435943",
+        "site": "github.com",
+        "points": 30,
+        "comments": 66,
+        "author": "luke8086",
+        "age": "2d ago"
       },
       {
         "rank": 2,
-        "id": 48445554,
-        "title": "Show HN: Performative-UI – A react component library of design tropes",
-        "url": "https://vorpus.github.io/performativeUI/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48445554",
-        "site": "vorpus.github.io",
-        "points": 1049,
-        "comments": 190,
-        "author": "lizhang",
-        "age": "23h ago"
-      },
-      {
-        "rank": 3,
         "id": 48459837,
         "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
         "url": "https://qunabu.github.io/Gravity/",
         "discussion_url": "https://news.ycombinator.com/item?id=48459837",
         "site": "qunabu.github.io",
-        "points": 12,
-        "comments": 4,
+        "points": 68,
+        "comments": 19,
         "author": "qunabu",
-        "age": "1h ago"
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48445554,
+        "title": "Show HN: Performative-UI – A react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48445554",
+        "site": "vorpus.github.io",
+        "points": 1097,
+        "comments": 196,
+        "author": "lizhang",
+        "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 48460682,
-        "title": "Show HN: Simten – design hardware in TypeScript and simulate it in the browser",
-        "url": "https://simten.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48460682",
-        "site": "simten.dev",
-        "points": 2,
-        "comments": 0,
-        "author": "charlesfrisbee",
-        "age": "23m ago"
-      },
-      {
-        "rank": 5,
-        "id": 48460640,
-        "title": "Show HN: UK sold house prices, uncapped, by postcode/county (Land Registry)",
-        "url": "https://github.com/vladignatyev/uk-land-registry-price-paid",
-        "discussion_url": "https://news.ycombinator.com/item?id=48460640",
+        "id": 48462968,
+        "title": "Show HN: AutoGPU – AI designs a real 7nm GPU, from Verilog to GDSII",
+        "url": "https://github.com/npip99/autogpu",
+        "discussion_url": "https://news.ycombinator.com/item?id=48462968",
         "site": "github.com",
         "points": 3,
         "comments": 0,
-        "author": "v_ignatyev",
-        "age": "26m ago"
+        "author": "npip99",
+        "age": "14m ago"
+      },
+      {
+        "rank": 5,
+        "id": 48462928,
+        "title": "Show HN: Claw Patrol, a security firewall for agents",
+        "url": "https://github.com/denoland/clawpatrol",
+        "discussion_url": "https://news.ycombinator.com/item?id=48462928",
+        "site": "github.com",
+        "points": 7,
+        "comments": 0,
+        "author": "rough-sea",
+        "age": "17m ago"
       }
     ]
   }
