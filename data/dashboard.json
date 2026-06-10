@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-10T17:49:17Z",
+  "generated": "2026-06-10T20:08:07Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 718,
+        "trending_score": 682,
         "downloads": 675936,
-        "likes": 869,
+        "likes": 875,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 601,
+        "trending_score": 593,
         "downloads": 131794,
-        "likes": 1786,
+        "likes": 1790,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/gemma-4-12b-it-GGUF",
         "org": "unsloth",
-        "trending_score": 465,
+        "trending_score": 434,
         "downloads": 711706,
-        "likes": 546,
+        "likes": 548,
         "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "google/gemma-4-12B",
         "org": "google",
-        "trending_score": 419,
+        "trending_score": 401,
         "downloads": 140221,
-        "likes": 496,
+        "likes": 499,
         "url": "https://huggingface.co/google/gemma-4-12B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "ideogram-ai/ideogram-4-fp8",
         "org": "ideogram-ai",
-        "trending_score": 409,
+        "trending_score": 390,
         "downloads": 7170,
-        "likes": 464,
+        "likes": 466,
         "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
         "tags": [
           "diffusers",
@@ -107,7 +107,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 60.9907772240787,
+        "speed_tps": 60.9272097520077,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 49.0837119471203,
+        "speed_tps": 48.3829873328819,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 6.25,
         "price_output": 25,
-        "speed_tps": 44.5862361610152,
+        "speed_tps": 43.888269982782,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       }
@@ -311,7 +311,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 51162,
+        "stars": 51399,
         "stars_delta": 781,
         "language": "Shell",
         "language_color": "#89e051"
@@ -321,7 +321,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 14504,
+        "stars": 14633,
         "stars_delta": 775,
         "language": "",
         "language_color": "#586069"
@@ -331,7 +331,7 @@
         "name": "refactoringhq/tolaria",
         "description": "Desktop app to manage markdown knowledge bases",
         "url": "https://github.com/refactoringhq/tolaria",
-        "stars": 14786,
+        "stars": 14830,
         "stars_delta": 618,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 38879,
+        "stars": 38940,
         "stars_delta": 2561,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 31869,
+        "stars": 31914,
         "stars_delta": 261,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 38879,
+        "stars": 38940,
         "stars_delta": 9307,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 21532,
+        "stars": 21604,
         "stars_delta": 15060,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "lfnovo/open-notebook",
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "url": "https://github.com/lfnovo/open-notebook",
-        "stars": 28900,
+        "stars": 28915,
         "stars_delta": 4245,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 2734,
+        "stars": 2738,
         "stars_delta": 1144,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 25986,
+        "stars": 26005,
         "stars_delta": 4361,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 46648,
+        "stars": 46676,
         "stars_delta": 44599,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 31329,
+        "stars": 31345,
         "stars_delta": 30988,
         "language": "Rust",
         "language_color": "#dea584"
@@ -435,7 +435,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 21532,
+        "stars": 21604,
         "stars_delta": 18138,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 56471,
+        "stars": 56530,
         "stars_delta": 42402,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 84761,
+        "stars": 84853,
         "stars_delta": 26621,
         "language": "Python",
         "language_color": "#3572A5"
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.05405",
         "categories": [],
-        "upvotes": 161,
+        "upvotes": 163,
         "published": "2026-06-02",
         "github_repo": "https://github.com/rdi-berkeley/agents-last-exam",
         "github_stars": 499
@@ -568,21 +568,6 @@
       },
       {
         "rank": 4,
-        "title": "VibeVoice Technical Report",
-        "authors": [
-          "Zhiliang Peng",
-          "Jianwei Yu",
-          "Wenhui Wang"
-        ],
-        "url": "https://huggingface.co/papers/2508.19205",
-        "categories": [],
-        "upvotes": 172,
-        "published": "2025-08-26",
-        "github_repo": "https://github.com/microsoft/VibeVoice",
-        "github_stars": 49204
-      },
-      {
-        "rank": 5,
         "title": "Rethinking the Divergence Regularization in LLM RL",
         "authors": [
           "Jiarui Yao",
@@ -595,6 +580,21 @@
         "published": "2026-06-07",
         "github_repo": "https://github.com/Tencent-Hunyuan/UniRL",
         "github_stars": 408
+      },
+      {
+        "rank": 5,
+        "title": "VibeVoice Technical Report",
+        "authors": [
+          "Zhiliang Peng",
+          "Jianwei Yu",
+          "Wenhui Wang"
+        ],
+        "url": "https://huggingface.co/papers/2508.19205",
+        "categories": [],
+        "upvotes": 172,
+        "published": "2025-08-26",
+        "github_repo": "https://github.com/microsoft/VibeVoice",
+        "github_stars": 49224
       }
     ],
     "arxiv_recent": [
@@ -682,63 +682,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 48475483,
-        "title": "Building an HTML-first site doubled our users overnight",
-        "url": "https://mohkohn.co.uk/writing/html-first/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48475483",
-        "site": "mohkohn.co.uk",
-        "points": 712,
-        "comments": 317,
-        "author": "edent",
-        "age": "5h ago"
+        "id": 48479452,
+        "title": "Claude Desktop spins up a VM without no way of stopping it",
+        "url": "https://github.com/anthropics/claude-code/issues/29045",
+        "discussion_url": "https://news.ycombinator.com/item?id=48479452",
+        "site": "github.com",
+        "points": 194,
+        "comments": 112,
+        "author": "tonyrice",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 48479177,
-        "title": "Textbooks Should Be Free",
-        "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48479177",
-        "site": "from-a-to-remzi.blogspot.com",
-        "points": 46,
-        "comments": 34,
-        "author": "jimsojim",
-        "age": "54m ago"
+        "id": 48480852,
+        "title": "Anthropic's Model Naming, Extrapolated",
+        "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+        "discussion_url": "https://news.ycombinator.com/item?id=48480852",
+        "site": "samwilkinson.io",
+        "points": 70,
+        "comments": 16,
+        "author": "sammycdubs",
+        "age": "1h ago"
       },
       {
         "rank": 3,
+        "id": 48479705,
+        "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+        "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+        "discussion_url": "https://news.ycombinator.com/item?id=48479705",
+        "site": "spectrum.ieee.org",
+        "points": 86,
+        "comments": 6,
+        "author": "pseudolus",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 48477135,
         "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
         "url": "https://news.ycombinator.com/item?id=48477135",
         "discussion_url": "https://news.ycombinator.com/item?id=48477135",
         "site": "news.ycombinator.com",
-        "points": 229,
-        "comments": 156,
+        "points": 362,
+        "comments": 296,
         "author": "eries",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48476466,
         "title": "PgDog is funded and coming to a database near you",
         "url": "https://pgdog.dev/blog/our-funding-announcement",
         "discussion_url": "https://news.ycombinator.com/item?id=48476466",
         "site": "pgdog.dev",
-        "points": 201,
-        "comments": 106,
+        "points": 290,
+        "comments": 149,
         "author": "levkk",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48478410,
-        "title": "Postgres by Example",
-        "url": "https://github.com/boringcollege/postgres-by-example",
-        "discussion_url": "https://news.ycombinator.com/item?id=48478410",
-        "site": "github.com",
-        "points": 33,
-        "comments": 4,
-        "author": "thenewedrock",
-        "age": "1h ago"
+        "age": "6h ago"
       }
     ],
     "ask": [
@@ -749,10 +749,10 @@
         "url": "https://news.ycombinator.com/item?id=48477135",
         "discussion_url": "https://news.ycombinator.com/item?id=48477135",
         "site": "news.ycombinator.com",
-        "points": 229,
-        "comments": 156,
+        "points": 362,
+        "comments": 296,
         "author": "eries",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
@@ -761,10 +761,10 @@
         "url": "https://news.ycombinator.com/item?id=48475871",
         "discussion_url": "https://news.ycombinator.com/item?id=48475871",
         "site": "news.ycombinator.com",
-        "points": 114,
-        "comments": 125,
+        "points": 170,
+        "comments": 190,
         "author": "hnthrow10282910",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
@@ -773,25 +773,13 @@
         "url": "https://news.ycombinator.com/item?id=48473166",
         "discussion_url": "https://news.ycombinator.com/item?id=48473166",
         "site": "news.ycombinator.com",
-        "points": 349,
-        "comments": 208,
+        "points": 374,
+        "comments": 218,
         "author": "TomAnthony",
-        "age": "9h ago"
+        "age": "11h ago"
       },
       {
         "rank": 4,
-        "id": 48478317,
-        "title": "Tell HN: Stack Overflow seems down",
-        "url": "https://news.ycombinator.com/item?id=48478317",
-        "discussion_url": "https://news.ycombinator.com/item?id=48478317",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "tom1337",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
         "id": 48448313,
         "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
         "url": "https://news.ycombinator.com/item?id=48448313",
@@ -801,68 +789,80 @@
         "comments": 230,
         "author": "mdni007",
         "age": "2d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48465702,
+        "title": "Ask HN: Are you still using a Vision Pro?",
+        "url": "https://news.ycombinator.com/item?id=48465702",
+        "discussion_url": "https://news.ycombinator.com/item?id=48465702",
+        "site": "news.ycombinator.com",
+        "points": 161,
+        "comments": 205,
+        "author": "y1n0",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48478469,
+        "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+        "url": "https://www.extend.ai/ui",
+        "discussion_url": "https://news.ycombinator.com/item?id=48478469",
+        "site": "extend.ai",
+        "points": 48,
+        "comments": 9,
+        "author": "kbyatnal",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 48478148,
         "title": "Show HN: HelixDB – A graph database built on object storage",
         "url": "https://github.com/HelixDB/helix-db/tree/main",
         "discussion_url": "https://news.ycombinator.com/item?id=48478148",
         "site": "github.com",
-        "points": 9,
-        "comments": 13,
+        "points": 46,
+        "comments": 24,
         "author": "GeorgeCurtis",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48479973,
-        "title": "Show HN: I built a microlearning app to learn personal finance",
-        "url": "https://finance.usescroll.app",
-        "discussion_url": "https://news.ycombinator.com/item?id=48479973",
-        "site": "finance.usescroll.app",
-        "points": 2,
-        "comments": 0,
-        "author": "maclinz",
-        "age": "2m ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 48453618,
-        "title": "Show HN: Ustps (UDP Speedy Transmission Protocol Secure) and USSH",
-        "url": "https://github.com/x1colegal/USTP-Secure",
-        "discussion_url": "https://news.ycombinator.com/item?id=48453618",
-        "site": "github.com",
-        "points": 3,
-        "comments": 1,
-        "author": "x1colegal",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48479165,
-        "title": "Show HN: Learn while you wait for your agents to code",
-        "url": "https://github.com/get-foyer/foyer",
-        "discussion_url": "https://news.ycombinator.com/item?id=48479165",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "dennis3124",
-        "age": "55m ago"
-      },
-      {
-        "rank": 5,
         "id": 48473845,
         "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
         "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
         "discussion_url": "https://news.ycombinator.com/item?id=48473845",
         "site": "github.com",
-        "points": 53,
-        "comments": 33,
+        "points": 55,
+        "comments": 35,
         "author": "grzracz",
-        "age": "8h ago"
+        "age": "10h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48453618,
+        "title": "Show HN: Ustps (UDP Speedy Transmission Protocol Secure) and USSH",
+        "url": "https://github.com/x1colegal/USTP-Secure",
+        "discussion_url": "https://news.ycombinator.com/item?id=48453618",
+        "site": "github.com",
+        "points": 4,
+        "comments": 2,
+        "author": "x1colegal",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48479973,
+        "title": "Show HN: I built a microlearning app to learn personal finance",
+        "url": "https://finance.usescroll.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=48479973",
+        "site": "finance.usescroll.app",
+        "points": 4,
+        "comments": 4,
+        "author": "maclinz",
+        "age": "2h ago"
       }
     ]
   }
