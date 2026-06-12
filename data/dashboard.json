@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-12T00:13:32Z",
+  "generated": "2026-06-12T05:28:06Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 525,
+        "trending_score": 517,
         "downloads": 131794,
-        "likes": 1869,
+        "likes": 1882,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "google/diffusiongemma-26B-A4B-it",
         "org": "google",
-        "trending_score": 476,
+        "trending_score": 506,
         "downloads": 0,
-        "likes": 484,
+        "likes": 514,
         "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "google/gemma-4-12B-it",
         "org": "google",
-        "trending_score": 447,
+        "trending_score": 413,
         "downloads": 675936,
-        "likes": 939,
+        "likes": 943,
         "url": "https://huggingface.co/google/gemma-4-12B-it",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "bosonai/higgs-audio-v3-tts-4b",
         "org": "bosonai",
-        "trending_score": 317,
+        "trending_score": 305,
         "downloads": 19948,
-        "likes": 355,
+        "likes": 366,
         "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "CohereLabs/North-Mini-Code-1.0",
         "org": "CohereLabs",
-        "trending_score": 301,
+        "trending_score": 305,
         "downloads": 1859,
-        "likes": 305,
+        "likes": 309,
         "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
         "tags": [
           "transformers",
@@ -107,7 +107,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.7164100699034,
+        "speed_tps": 57.6215205179575,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 51.1341066712674,
+        "speed_tps": 51.5438867422244,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 44.5862361610152,
+        "speed_tps": 45.8936816204181,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       }
@@ -311,7 +311,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 32353,
+        "stars": 33220,
         "stars_delta": 2430,
         "language": "Swift",
         "language_color": "#F05138"
@@ -321,7 +321,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 54668,
+        "stars": 55265,
         "stars_delta": 3278,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "maziyarpanahi/openmed",
         "description": "open-source healthcare ai",
         "url": "https://github.com/maziyarpanahi/openmed",
-        "stars": 2741,
+        "stars": 2871,
         "stars_delta": 426,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 16192,
+        "stars": 16415,
         "stars_delta": 1978,
         "language": "",
         "language_color": "#586069"
@@ -351,7 +351,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 2625,
+        "stars": 2849,
         "stars_delta": 319,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 39707,
+        "stars": 39886,
         "stars_delta": 12422,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 23162,
+        "stars": 23461,
         "stars_delta": 11282,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "lfnovo/open-notebook",
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "url": "https://github.com/lfnovo/open-notebook",
-        "stars": 29271,
+        "stars": 29330,
         "stars_delta": 4796,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 16192,
+        "stars": 16415,
         "stars_delta": 4005,
         "language": "",
         "language_color": "#586069"
@@ -403,7 +403,7 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 2811,
+        "stars": 2822,
         "stars_delta": 1424,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 47453,
+        "stars": 47686,
         "stars_delta": 46262,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 23162,
+        "stars": 23461,
         "stars_delta": 21069,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 31548,
+        "stars": 31603,
         "stars_delta": 30683,
         "language": "Rust",
         "language_color": "#dea584"
@@ -445,7 +445,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 57392,
+        "stars": 57618,
         "stars_delta": 43295,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 86155,
+        "stars": 86305,
         "stars_delta": 29315,
         "language": "Python",
         "language_color": "#3572A5"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 137,
-        "total_stars": 116697,
+        "stars_28d": 138,
+        "total_stars": 116698,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 64,
-        "total_stars": 48245,
+        "stars_28d": 65,
+        "total_stars": 48246,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.05405",
         "categories": [],
-        "upvotes": 286,
+        "upvotes": 307,
         "published": "2026-06-02",
         "github_repo": "https://github.com/rdi-berkeley/agents-last-exam",
         "github_stars": 571
@@ -600,77 +600,81 @@
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Nonslop: A Gamified Experiment in Human-AI Collaborative Writing",
+        "title": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
         "authors": [
-          "Maria Edwards",
-          "Julian Togelius"
+          "Tobias Holtdirk",
+          "Pietro Marcolongo",
+          "Anna Steinberg Schulten"
         ],
-        "url": "https://arxiv.org/abs/2606.12350",
+        "url": "https://arxiv.org/abs/2606.13670",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-06-11"
+        "published": "2026-06-12"
       },
       {
         "rank": 2,
-        "title": "PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents",
+        "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
         "authors": [
-          "Ripon Chandra Malo",
-          "Tong Qiu"
+          "Zongsheng Cao",
+          "Bihao Zhan",
+          "Jinxin Shi"
         ],
-        "url": "https://arxiv.org/abs/2606.12329",
+        "url": "https://arxiv.org/abs/2606.13669",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-06-11"
+        "published": "2026-06-12"
       },
       {
         "rank": 3,
-        "title": "A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents",
+        "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
         "authors": [
-          "Krti Tallam"
+          "Amy Xin",
+          "Jiening Siow",
+          "Junjie Wang"
         ],
-        "url": "https://arxiv.org/abs/2606.12320",
+        "url": "https://arxiv.org/abs/2606.13662",
         "categories": [
           "cs.AI",
-          "cs.CC",
-          "cs.CR",
-          "cs.SE"
+          "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-06-11"
+        "published": "2026-06-12"
       },
       {
         "rank": 4,
-        "title": "The Impossibility of Eliciting Latent Knowledge",
+        "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
         "authors": [
-          "Korbinian Friedl",
-          "Francis Rhys Ward",
-          "Paul Yushin Rapoport"
+          "Marianna Bergamaschi Ganapini",
+          "Massimo Chiriatti",
+          "Enrico Panai"
         ],
-        "url": "https://arxiv.org/abs/2606.12268",
+        "url": "https://arxiv.org/abs/2606.13658",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-06-11"
+        "published": "2026-06-12"
       },
       {
         "rank": 5,
-        "title": "Towards Responsibly Non-Compliant Machines",
+        "title": "Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks",
         "authors": [
-          "Marija Slavkovik",
-          "Marie Farrell",
-          "Louise Dennis"
+          "Achraf Hsain",
+          "Sultan Almuhammadi"
         ],
-        "url": "https://arxiv.org/abs/2606.12147",
+        "url": "https://arxiv.org/abs/2606.13621",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CR",
+          "cs.GT",
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-06-11"
+        "published": "2026-06-12"
       }
     ]
   },
@@ -678,151 +682,151 @@
     "top": [
       {
         "rank": 1,
-        "id": 48496539,
-        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-        "url": "https://fablepool.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48496539",
-        "site": "fablepool.com",
-        "points": 180,
-        "comments": 86,
-        "author": "matthewbarras",
-        "age": "2h ago"
+        "id": 48498385,
+        "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "discussion_url": "https://news.ycombinator.com/item?id=48498385",
+        "site": "web.mit.edu",
+        "points": 271,
+        "comments": 95,
+        "author": "sam_bristow",
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 48490024,
-        "title": "Show HN: Homebrew 6.0.0",
-        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48490024",
-        "site": "brew.sh",
-        "points": 919,
-        "comments": 215,
-        "author": "mikemcquaid",
-        "age": "10h ago"
-      },
-      {
-        "rank": 3,
         "id": 48497609,
         "title": "If you are asking for human attention, demonstrate human effort",
         "url": "https://tombedor.dev/human-attention-and-human-effort/",
         "discussion_url": "https://news.ycombinator.com/item?id=48497609",
         "site": "tombedor.dev",
-        "points": 143,
-        "comments": 26,
+        "points": 448,
+        "comments": 143,
         "author": "jjfoooo4",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48490826,
-        "title": "MiMo Code is now released and open-source",
-        "url": "https://mimo.xiaomi.com/mimocode",
-        "discussion_url": "https://news.ycombinator.com/item?id=48490826",
-        "site": "mimo.xiaomi.com",
-        "points": 409,
-        "comments": 228,
-        "author": "apeters",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48491830,
-        "title": "Petition to Withdraw Canada's Bill C-22",
-        "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-        "discussion_url": "https://news.ycombinator.com/item?id=48491830",
-        "site": "ourcommons.ca",
-        "points": 331,
-        "comments": 113,
-        "author": "hmokiguess",
-        "age": "8h ago"
-      }
-    ],
-    "ask": [
-      {
-        "rank": 1,
-        "id": 48466488,
-        "title": "Ask HN: Favorite text heavy blogs that are a joy to read?",
-        "url": "https://news.ycombinator.com/item?id=48466488",
-        "discussion_url": "https://news.ycombinator.com/item?id=48466488",
-        "site": "news.ycombinator.com",
-        "points": 80,
-        "comments": 22,
-        "author": "joshmarinacci",
-        "age": "2d ago"
-      },
-      {
-        "rank": 2,
-        "id": 48486932,
-        "title": "Ask HN: Want to build something open source on nights and weekends together?",
-        "url": "https://news.ycombinator.com/item?id=48486932",
-        "discussion_url": "https://news.ycombinator.com/item?id=48486932",
-        "site": "news.ycombinator.com",
-        "points": 24,
-        "comments": 7,
-        "author": "vira28",
-        "age": "17h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
-        "id": 48434240,
-        "title": "Ask HN: How are thinking efforts implemented?",
-        "url": "https://news.ycombinator.com/item?id=48434240",
-        "discussion_url": "https://news.ycombinator.com/item?id=48434240",
-        "site": "news.ycombinator.com",
-        "points": 61,
-        "comments": 20,
-        "author": "simianwords",
-        "age": "4d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48492118,
-        "title": "Ask HN: How do you get into a flow state when using AI to code?",
-        "url": "https://news.ycombinator.com/item?id=48492118",
-        "discussion_url": "https://news.ycombinator.com/item?id=48492118",
-        "site": "news.ycombinator.com",
-        "points": 76,
-        "comments": 96,
-        "author": "kilroy123",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48481947,
-        "title": "Ask HN: Would it be useful to have a slop button in addition to flag?",
-        "url": "https://news.ycombinator.com/item?id=48481947",
-        "discussion_url": "https://news.ycombinator.com/item?id=48481947",
-        "site": "news.ycombinator.com",
-        "points": 26,
-        "comments": 11,
-        "author": "BugsJustFindMe",
-        "age": "1d ago"
-      }
-    ],
-    "show": [
-      {
-        "rank": 1,
-        "id": 48496539,
-        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-        "url": "https://fablepool.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48496539",
-        "site": "fablepool.com",
-        "points": 180,
-        "comments": 86,
-        "author": "matthewbarras",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
         "id": 48490024,
         "title": "Show HN: Homebrew 6.0.0",
         "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
         "discussion_url": "https://news.ycombinator.com/item?id=48490024",
         "site": "brew.sh",
-        "points": 919,
-        "comments": 215,
+        "points": 1103,
+        "comments": 257,
         "author": "mikemcquaid",
-        "age": "10h ago"
+        "age": "16h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48498573,
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48498573",
+        "site": "simonwillison.net",
+        "points": 268,
+        "comments": 222,
+        "author": "lumpa",
+        "age": "4h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48468852,
+        "title": "How we made hit video game Prince of Persia",
+        "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+        "discussion_url": "https://news.ycombinator.com/item?id=48468852",
+        "site": "theguardian.com",
+        "points": 30,
+        "comments": 3,
+        "author": "msephton",
+        "age": "2d ago"
+      }
+    ],
+    "ask": [
+      {
+        "rank": 1,
+        "id": 48434240,
+        "title": "Ask HN: How are thinking efforts implemented?",
+        "url": "https://news.ycombinator.com/item?id=48434240",
+        "discussion_url": "https://news.ycombinator.com/item?id=48434240",
+        "site": "news.ycombinator.com",
+        "points": 66,
+        "comments": 24,
+        "author": "simianwords",
+        "age": "4d ago"
+      },
+      {
+        "rank": 2,
+        "id": 48466488,
+        "title": "Ask HN: Favorite text heavy blogs that are a joy to read?",
+        "url": "https://news.ycombinator.com/item?id=48466488",
+        "discussion_url": "https://news.ycombinator.com/item?id=48466488",
+        "site": "news.ycombinator.com",
+        "points": 88,
+        "comments": 24,
+        "author": "joshmarinacci",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
+        "id": 48500020,
+        "title": "Are jobs and the world going to be like this, moving forward?",
+        "url": "https://news.ycombinator.com/item?id=48500020",
+        "discussion_url": "https://news.ycombinator.com/item?id=48500020",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 1,
+        "author": "chand190",
+        "age": "43m ago"
+      },
+      {
+        "rank": 4,
+        "id": 48486932,
+        "title": "Ask HN: Want to build something open source on nights and weekends together?",
+        "url": "https://news.ycombinator.com/item?id=48486932",
+        "discussion_url": "https://news.ycombinator.com/item?id=48486932",
+        "site": "news.ycombinator.com",
+        "points": 27,
+        "comments": 8,
+        "author": "vira28",
+        "age": "22h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48499703,
+        "title": "Sophia NLU Home Assistant – On Device, Low Compute, No Internet, Voice Assistant",
+        "url": "https://news.ycombinator.com/item?id=48499703",
+        "discussion_url": "https://news.ycombinator.com/item?id=48499703",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "aquila416",
+        "age": "1h ago"
+      }
+    ],
+    "show": [
+      {
+        "rank": 1,
+        "id": 48490024,
+        "title": "Show HN: Homebrew 6.0.0",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48490024",
+        "site": "brew.sh",
+        "points": 1103,
+        "comments": 257,
+        "author": "mikemcquaid",
+        "age": "16h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48496539,
+        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "url": "https://fablepool.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48496539",
+        "site": "fablepool.com",
+        "points": 328,
+        "comments": 179,
+        "author": "matthewbarras",
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -831,34 +835,34 @@
         "url": "https://github.com/coder/boo",
         "discussion_url": "https://news.ycombinator.com/item?id=48496250",
         "site": "github.com",
-        "points": 37,
-        "comments": 9,
+        "points": 65,
+        "comments": 22,
         "author": "kylecarbs",
-        "age": "3h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
-        "id": 48498158,
-        "title": "Show HN: Deploy personal apps with your agent via Buildy",
-        "url": "https://buildy.so/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48498158",
-        "site": "buildy.so",
-        "points": 2,
-        "comments": 0,
-        "author": "grouchy",
-        "age": "4m ago"
-      },
-      {
-        "rank": 5,
         "id": 48462928,
         "title": "Show HN: Claw Patrol, a security firewall for agents",
         "url": "https://github.com/denoland/clawpatrol",
         "discussion_url": "https://news.ycombinator.com/item?id=48462928",
         "site": "github.com",
-        "points": 83,
+        "points": 92,
         "comments": 26,
         "author": "rough-sea",
         "age": "2d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48499159,
+        "title": "Show HN: A Claude Code statusline that shows live World Cup scores",
+        "url": "https://github.com/arturogarrido/claudinho",
+        "discussion_url": "https://news.ycombinator.com/item?id=48499159",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "arturogarrido",
+        "age": "2h ago"
       }
     ]
   }
