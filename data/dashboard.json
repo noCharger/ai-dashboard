@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-13T17:08:16Z",
+  "generated": "2026-06-13T19:05:24Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/diffusiongemma-26B-A4B-it",
         "org": "google",
-        "trending_score": 653,
+        "trending_score": 666,
         "downloads": 92080,
-        "likes": 674,
+        "likes": 688,
         "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "nvidia/LocateAnything-3B",
-        "org": "nvidia",
-        "trending_score": 463,
-        "downloads": 69443,
-        "likes": 1948,
-        "url": "https://huggingface.co/nvidia/LocateAnything-3B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "locateanything",
-          "image-feature-extraction",
-          "nvidia"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "moonshotai/Kimi-K2.7-Code",
         "org": "moonshotai",
-        "trending_score": 457,
+        "trending_score": 476,
         "downloads": 1689,
-        "likes": 465,
+        "likes": 484,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "nvidia/LocateAnything-3B",
+        "org": "nvidia",
+        "trending_score": 462,
+        "downloads": 69443,
+        "likes": 1953,
+        "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "locateanything",
+          "image-feature-extraction",
+          "nvidia"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "MiniMaxAI/MiniMax-M3",
         "org": "MiniMaxAI",
-        "trending_score": 378,
+        "trending_score": 392,
         "downloads": 1031,
-        "likes": 385,
+        "likes": 399,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "CohereLabs/North-Mini-Code-1.0",
         "org": "CohereLabs",
-        "trending_score": 338,
+        "trending_score": 330,
         "downloads": 6533,
-        "likes": 344,
+        "likes": 345,
         "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
         "tags": [
           "transformers",
@@ -107,7 +107,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 59.03854585407,
+        "speed_tps": 57.7164100699034,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 58.198462813317,
+        "speed_tps": 58.20508874578,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 59.185813892361,
+        "speed_tps": 56.5201260880327,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 49.1524388702966,
+        "speed_tps": 48.189307078235,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       }
@@ -311,7 +311,7 @@
         "name": "iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
         "url": "https://github.com/iptv-org/iptv",
-        "stars": 118677,
+        "stars": 118808,
         "stars_delta": 650,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 57984,
+        "stars": 58100,
         "stars_delta": 1507,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "chatwoot/chatwoot",
         "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
         "url": "https://github.com/chatwoot/chatwoot",
-        "stars": 30737,
+        "stars": 30774,
         "stars_delta": 86,
         "language": "Ruby",
         "language_color": "#701516"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 226734,
+        "stars": 226788,
         "stars_delta": 931,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 36029,
+        "stars": 36109,
         "stars_delta": 1471,
         "language": "Swift",
         "language_color": "#F05138"
@@ -363,7 +363,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 41024,
+        "stars": 41084,
         "stars_delta": 12257,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 36029,
+        "stars": 36109,
         "stars_delta": 7781,
         "language": "Swift",
         "language_color": "#F05138"
@@ -383,7 +383,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 17524,
+        "stars": 17552,
         "stars_delta": 4839,
         "language": "",
         "language_color": "#586069"
@@ -393,7 +393,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 25822,
+        "stars": 25934,
         "stars_delta": 10184,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 4181,
+        "stars": 4257,
         "stars_delta": 2616,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 48527,
+        "stars": 48547,
         "stars_delta": 46941,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 25822,
+        "stars": 25934,
         "stars_delta": 22468,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 58429,
+        "stars": 58457,
         "stars_delta": 43988,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 87165,
+        "stars": 87206,
         "stars_delta": 30089,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 31879,
+        "stars": 31898,
         "stars_delta": 29805,
         "language": "Rust",
         "language_color": "#dea584"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 130,
-        "total_stars": 116701,
+        "stars_28d": 131,
+        "total_stars": 116702,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 92,
+        "upvotes": 93,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 85728
@@ -549,25 +549,10 @@
         "upvotes": 13,
         "published": "2026-05-25",
         "github_repo": "https://github.com/hexo-ai/sia",
-        "github_stars": 1601
+        "github_stars": 1636
       },
       {
         "rank": 3,
-        "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
-        "authors": [
-          "Zelun Zhang",
-          "Hongen Liu",
-          "Suyin Liang"
-        ],
-        "url": "https://huggingface.co/papers/2606.03264",
-        "categories": [],
-        "upvotes": 16,
-        "published": "2026-06-01",
-        "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-        "github_stars": 82055
-      },
-      {
-        "rank": 4,
         "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
         "authors": [
           "Yifan Yang",
@@ -582,19 +567,34 @@
         "github_stars": 6137
       },
       {
-        "rank": 5,
-        "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
+        "rank": 4,
+        "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
         "authors": [
-          "Dian Zheng",
-          "Harry Lee",
-          "Manyuan Zhang"
+          "Zelun Zhang",
+          "Hongen Liu",
+          "Suyin Liang"
         ],
-        "url": "https://huggingface.co/papers/2606.13679",
+        "url": "https://huggingface.co/papers/2606.03264",
         "categories": [],
-        "upvotes": 74,
-        "published": "2026-06-10",
-        "github_repo": "https://github.com/zhengdian1/InterleaveThinker",
-        "github_stars": 110
+        "upvotes": 16,
+        "published": "2026-06-01",
+        "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+        "github_stars": 82093
+      },
+      {
+        "rank": 5,
+        "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+        "authors": [
+          "Xingyao Wang",
+          "Boxuan Li",
+          "Yufan Song"
+        ],
+        "url": "https://huggingface.co/papers/2407.16741",
+        "categories": [],
+        "upvotes": 80,
+        "published": "2024-07-23",
+        "github_repo": "https://github.com/opendevin/opendevin",
+        "github_stars": 76828
       }
     ],
     "arxiv_recent": [
@@ -687,120 +687,120 @@
         "url": "https://desfontain.es/blog/banning-noise.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48517377",
         "site": "desfontain.es",
-        "points": 305,
-        "comments": 125,
+        "points": 441,
+        "comments": 213,
         "author": "nl",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
+        "id": 48519552,
+        "title": "GameBoy Workboy",
+        "url": "https://tcrf.net/Workboy",
+        "discussion_url": "https://news.ycombinator.com/item?id=48519552",
+        "site": "tcrf.net",
+        "points": 29,
+        "comments": 4,
+        "author": "tosh",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 48517199,
         "title": "Treating pancreatic tumours may have revealed cancer's master switch",
         "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
         "discussion_url": "https://news.ycombinator.com/item?id=48517199",
         "site": "economist.com",
-        "points": 100,
-        "comments": 23,
+        "points": 167,
+        "comments": 43,
         "author": "andsoitis",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48516251,
         "title": "Every Frame Perfect",
         "url": "https://tonsky.me/blog/every-frame-perfect/",
         "discussion_url": "https://news.ycombinator.com/item?id=48516251",
         "site": "tonsky.me",
-        "points": 171,
-        "comments": 49,
+        "points": 293,
+        "comments": 96,
         "author": "ravenical",
-        "age": "5h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48518969,
-        "title": "AI Coding at Home Without Going Broke",
-        "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48518969",
-        "site": "stephen.bochinski.dev",
-        "points": 9,
-        "comments": 2,
-        "author": "sbochins",
-        "age": "23m ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 48516710,
-        "title": "Introduction to the experience of rendering Arabic typography&its technical debt",
-        "url": "https://lr0.org/blog/p/arabic/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48516710",
-        "site": "lr0.org",
-        "points": 74,
-        "comments": 12,
-        "author": "bookofjoe",
-        "age": "4h ago"
+        "id": 48467437,
+        "title": "Appreciating Exif",
+        "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48467437",
+        "site": "brentfitzgerald.com",
+        "points": 77,
+        "comments": 13,
+        "author": "burnto",
+        "age": "3d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48519780,
+        "title": "Ask HN: Did we witness the \"Trinity moment\" for AI?",
+        "url": "https://news.ycombinator.com/item?id=48519780",
+        "discussion_url": "https://news.ycombinator.com/item?id=48519780",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 2,
+        "author": "vld_chk",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48519776,
+        "title": "Tell HN: iOS devs, get back lots of disk space: xcrun simctl delete unavailable",
+        "url": "https://news.ycombinator.com/item?id=48519776",
+        "discussion_url": "https://news.ycombinator.com/item?id=48519776",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "amichail",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48434240,
+        "title": "Ask HN: How are thinking efforts implemented?",
+        "url": "https://news.ycombinator.com/item?id=48434240",
+        "discussion_url": "https://news.ycombinator.com/item?id=48434240",
+        "site": "news.ycombinator.com",
+        "points": 92,
+        "comments": 29,
+        "author": "simianwords",
+        "age": "6d ago"
+      },
+      {
+        "rank": 4,
+        "id": 48520213,
+        "title": "Ask HN: What would you do with a trillion dollars",
+        "url": "https://news.ycombinator.com/item?id=48520213",
+        "discussion_url": "https://news.ycombinator.com/item?id=48520213",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 2,
+        "author": "brudgers",
+        "age": "20m ago"
+      },
+      {
+        "rank": 5,
         "id": 48518427,
         "title": "Ask HN: What is the AI adoption approach at your org?",
         "url": "https://news.ycombinator.com/item?id=48518427",
         "discussion_url": "https://news.ycombinator.com/item?id=48518427",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 1,
+        "comments": 4,
         "author": "iExploder",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48434240,
-        "title": "Ask HN: How are thinking efforts implemented?",
-        "url": "https://news.ycombinator.com/item?id=48434240",
-        "discussion_url": "https://news.ycombinator.com/item?id=48434240",
-        "site": "news.ycombinator.com",
-        "points": 91,
-        "comments": 29,
-        "author": "simianwords",
-        "age": "6d ago"
-      },
-      {
-        "rank": 3,
-        "id": 48466488,
-        "title": "Ask HN: Favorite text heavy blogs that are a joy to read?",
-        "url": "https://news.ycombinator.com/item?id=48466488",
-        "discussion_url": "https://news.ycombinator.com/item?id=48466488",
-        "site": "news.ycombinator.com",
-        "points": 111,
-        "comments": 28,
-        "author": "joshmarinacci",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48477135,
-        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-        "url": "https://news.ycombinator.com/item?id=48477135",
-        "discussion_url": "https://news.ycombinator.com/item?id=48477135",
-        "site": "news.ycombinator.com",
-        "points": 789,
-        "comments": 568,
-        "author": "eries",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48486932,
-        "title": "Ask HN: Want to build something open source on nights and weekends together?",
-        "url": "https://news.ycombinator.com/item?id=48486932",
-        "discussion_url": "https://news.ycombinator.com/item?id=48486932",
-        "site": "news.ycombinator.com",
-        "points": 38,
-        "comments": 14,
-        "author": "vira28",
-        "age": "2d ago"
+        "age": "3h ago"
       }
     ],
     "show": [
@@ -811,8 +811,8 @@
         "url": "https://new.roman-names.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48481400",
         "site": "new.roman-names.com",
-        "points": 72,
-        "comments": 14,
+        "points": 100,
+        "comments": 17,
         "author": "metiscus",
         "age": "2d ago"
       },
@@ -823,22 +823,22 @@
         "url": "https://github.com/Paca-AI/paca",
         "discussion_url": "https://news.ycombinator.com/item?id=48515385",
         "site": "github.com",
-        "points": 93,
-        "comments": 30,
+        "points": 109,
+        "comments": 42,
         "author": "pikann22",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 48518923,
-        "title": "Show HN: Lightweight C++23 S3 client with no extra deps (just curl and OpenSSL)",
-        "url": "https://github.com/ggcr/s3cpp",
-        "discussion_url": "https://news.ycombinator.com/item?id=48518923",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "ggcr",
-        "age": "27m ago"
+        "id": 48510341,
+        "title": "Show HN: Putt.day a daily mini golf game",
+        "url": "https://putt.day/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48510341",
+        "site": "putt.day",
+        "points": 273,
+        "comments": 102,
+        "author": "ellg",
+        "age": "20h ago"
       },
       {
         "rank": 4,
@@ -847,22 +847,22 @@
         "url": "https://hallucinate.site/gallery",
         "discussion_url": "https://news.ycombinator.com/item?id=48516510",
         "site": "hallucinate.site",
-        "points": 55,
-        "comments": 16,
+        "points": 60,
+        "comments": 21,
         "author": "stagas",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 48510341,
-        "title": "Show HN: Putt.day a daily mini golf game",
-        "url": "https://putt.day/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48510341",
-        "site": "putt.day",
-        "points": 257,
-        "comments": 98,
-        "author": "ellg",
-        "age": "18h ago"
+        "id": 48476202,
+        "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+        "url": "https://github.com/entGriff/ezra",
+        "discussion_url": "https://news.ycombinator.com/item?id=48476202",
+        "site": "github.com",
+        "points": 65,
+        "comments": 10,
+        "author": "ent1c3d",
+        "age": "3d ago"
       }
     ]
   }
