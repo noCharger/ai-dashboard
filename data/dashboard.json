@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-13T08:44:46Z",
+  "generated": "2026-06-13T09:24:31Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/diffusiongemma-26B-A4B-it",
         "org": "google",
-        "trending_score": 627,
-        "downloads": 20669,
-        "likes": 644,
+        "trending_score": 629,
+        "downloads": 92080,
+        "likes": 646,
         "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
         "tags": [
           "transformers",
@@ -24,8 +24,8 @@
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
         "trending_score": 472,
-        "downloads": 149206,
-        "likes": 1931,
+        "downloads": 69443,
+        "likes": 1932,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "moonshotai/Kimi-K2.7-Code",
         "org": "moonshotai",
-        "trending_score": 391,
-        "downloads": 0,
-        "likes": 398,
+        "trending_score": 404,
+        "downloads": 1689,
+        "likes": 411,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
         "tags": [
           "transformers",
@@ -55,27 +55,10 @@
       },
       {
         "rank": 4,
-        "name": "google/gemma-4-12B-it",
-        "org": "google",
-        "trending_score": 334,
-        "downloads": 911544,
-        "likes": 978,
-        "url": "https://huggingface.co/google/gemma-4-12B-it",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "gemma4_unified",
-          "image-text-to-text",
-          "any-to-any"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "CohereLabs/North-Mini-Code-1.0",
         "org": "CohereLabs",
         "trending_score": 334,
-        "downloads": 4054,
+        "downloads": 6533,
         "likes": 339,
         "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
         "tags": [
@@ -84,6 +67,23 @@
           "cohere2_moe",
           "text-generation",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "google/gemma-4-12B-it",
+        "org": "google",
+        "trending_score": 332,
+        "downloads": 1005883,
+        "likes": 980,
+        "url": "https://huggingface.co/google/gemma-4-12B-it",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "gemma4_unified",
+          "image-text-to-text",
+          "any-to-any"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.1732943569492,
+        "speed_tps": 56.8199577478868,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -311,7 +311,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 57316,
+        "stars": 57376,
         "stars_delta": 2656,
         "language": "Shell",
         "language_color": "#89e051"
@@ -321,7 +321,7 @@
         "name": "music-assistant/server",
         "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
         "url": "https://github.com/music-assistant/server",
-        "stars": 1864,
+        "stars": 1872,
         "stars_delta": 20,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "mattermost/mattermost",
         "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
         "url": "https://github.com/mattermost/mattermost",
-        "stars": 37705,
+        "stars": 37720,
         "stars_delta": 388,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 35550,
+        "stars": 35580,
         "stars_delta": 3504,
         "language": "Swift",
         "language_color": "#F05138"
@@ -351,7 +351,7 @@
         "name": "iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
         "url": "https://github.com/iptv-org/iptv",
-        "stars": 118188,
+        "stars": 118206,
         "stars_delta": 179,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 40698,
+        "stars": 40718,
         "stars_delta": 12257,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 25286,
+        "stars": 25333,
         "stars_delta": 10184,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 17270,
+        "stars": 17291,
         "stars_delta": 4839,
         "language": "",
         "language_color": "#586069"
@@ -393,7 +393,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 35550,
+        "stars": 35580,
         "stars_delta": 7781,
         "language": "Swift",
         "language_color": "#F05138"
@@ -403,7 +403,7 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 2921,
+        "stars": 2923,
         "stars_delta": 1435,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 48368,
+        "stars": 48376,
         "stars_delta": 46941,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 25286,
+        "stars": 25333,
         "stars_delta": 22468,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 58254,
+        "stars": 58269,
         "stars_delta": 43988,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 86921,
+        "stars": 86939,
         "stars_delta": 30089,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 31817,
+        "stars": 31820,
         "stars_delta": 29805,
         "language": "Rust",
         "language_color": "#dea584"
@@ -687,58 +687,58 @@
         "url": "https://blog.unitedheroes.net/5751",
         "discussion_url": "https://news.ycombinator.com/item?id=48513806",
         "site": "blog.unitedheroes.net",
-        "points": 95,
-        "comments": 21,
+        "points": 137,
+        "comments": 43,
         "author": "martey",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 48513728,
-        "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-        "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-        "discussion_url": "https://news.ycombinator.com/item?id=48513728",
-        "site": "koenvangilst.nl",
-        "points": 65,
-        "comments": 55,
-        "author": "vnglst",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
         "id": 48510010,
         "title": "Electric motors with no rare earths",
         "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
         "discussion_url": "https://news.ycombinator.com/item?id=48510010",
         "site": "renaultgroup.com",
-        "points": 419,
-        "comments": 110,
+        "points": 439,
+        "comments": 124,
         "author": "bestouff",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 48511072,
         "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
         "url": "https://www.anthropic.com/news/fable-mythos-access",
         "discussion_url": "https://news.ycombinator.com/item?id=48511072",
         "site": "anthropic.com",
-        "points": 2139,
-        "comments": 1551,
+        "points": 2224,
+        "comments": 1601,
         "author": "Dylan1312",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48505231,
         "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
         "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
         "discussion_url": "https://news.ycombinator.com/item?id=48505231",
         "site": "innovativegenomics.org",
-        "points": 806,
+        "points": 814,
         "comments": 190,
         "author": "gmays",
-        "age": "17h ago"
+        "age": "18h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48513728,
+        "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+        "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+        "discussion_url": "https://news.ycombinator.com/item?id=48513728",
+        "site": "koenvangilst.nl",
+        "points": 81,
+        "comments": 64,
+        "author": "vnglst",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -749,13 +749,25 @@
         "url": "https://news.ycombinator.com/item?id=48514461",
         "discussion_url": "https://news.ycombinator.com/item?id=48514461",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 1,
+        "points": 13,
+        "comments": 11,
         "author": "eisleggje",
         "age": "1h ago"
       },
       {
         "rank": 2,
+        "id": 48514921,
+        "title": "What if we legally required politicians to work regular jobs 2 months a year?",
+        "url": "https://news.ycombinator.com/item?id=48514921",
+        "discussion_url": "https://news.ycombinator.com/item?id=48514921",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "ekoeko",
+        "age": "52m ago"
+      },
+      {
+        "rank": 3,
         "id": 48434240,
         "title": "Ask HN: How are thinking efforts implemented?",
         "url": "https://news.ycombinator.com/item?id=48434240",
@@ -767,7 +779,7 @@
         "age": "5d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48513703,
         "title": "Ask HN: What features do you miss in Google Docs for desktop?",
         "url": "https://news.ycombinator.com/item?id=48513703",
@@ -779,7 +791,7 @@
         "age": "3h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48466488,
         "title": "Ask HN: Favorite text heavy blogs that are a joy to read?",
         "url": "https://news.ycombinator.com/item?id=48466488",
@@ -789,18 +801,6 @@
         "comments": 28,
         "author": "joshmarinacci",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48477135,
-        "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-        "url": "https://news.ycombinator.com/item?id=48477135",
-        "discussion_url": "https://news.ycombinator.com/item?id=48477135",
-        "site": "news.ycombinator.com",
-        "points": 788,
-        "comments": 568,
-        "author": "eries",
-        "age": "2d ago"
       }
     ],
     "show": [
@@ -811,10 +811,10 @@
         "url": "https://putt.day/",
         "discussion_url": "https://news.ycombinator.com/item?id=48510341",
         "site": "putt.day",
-        "points": 156,
-        "comments": 71,
+        "points": 168,
+        "comments": 73,
         "author": "ellg",
-        "age": "9h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
@@ -823,7 +823,7 @@
         "url": "https://github.com/entGriff/ezra",
         "discussion_url": "https://news.ycombinator.com/item?id=48476202",
         "site": "github.com",
-        "points": 28,
+        "points": 33,
         "comments": 5,
         "author": "ent1c3d",
         "age": "2d ago"
@@ -835,8 +835,8 @@
         "url": "https://github.com/vladignatyev/brain-map-skill",
         "discussion_url": "https://news.ycombinator.com/item?id=48514124",
         "site": "github.com",
-        "points": 3,
-        "comments": 0,
+        "points": 6,
+        "comments": 1,
         "author": "v_ignatyev",
         "age": "2h ago"
       },
@@ -859,7 +859,7 @@
         "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
         "discussion_url": "https://news.ycombinator.com/item?id=48490024",
         "site": "brew.sh",
-        "points": 1411,
+        "points": 1412,
         "comments": 343,
         "author": "mikemcquaid",
         "age": "1d ago"
