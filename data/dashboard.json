@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-13T11:08:17Z",
+  "generated": "2026-06-13T13:21:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/diffusiongemma-26B-A4B-it",
         "org": "google",
-        "trending_score": 629,
+        "trending_score": 638,
         "downloads": 92080,
-        "likes": 646,
+        "likes": 658,
         "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "nvidia/LocateAnything-3B",
         "org": "nvidia",
-        "trending_score": 469,
+        "trending_score": 468,
         "downloads": 69443,
-        "likes": 1936,
+        "likes": 1943,
         "url": "https://huggingface.co/nvidia/LocateAnything-3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "moonshotai/Kimi-K2.7-Code",
         "org": "moonshotai",
-        "trending_score": 417,
+        "trending_score": 434,
         "downloads": 1689,
-        "likes": 424,
+        "likes": 442,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
         "tags": [
           "transformers",
@@ -55,6 +55,23 @@
       },
       {
         "rank": 4,
+        "name": "MiniMaxAI/MiniMax-M3",
+        "org": "MiniMaxAI",
+        "trending_score": 348,
+        "downloads": 1031,
+        "likes": 354,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "minimax_m3_vl",
+          "image-text-to-text",
+          "multimodal"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "CohereLabs/North-Mini-Code-1.0",
         "org": "CohereLabs",
         "trending_score": 335,
@@ -67,23 +84,6 @@
           "cohere2_moe",
           "text-generation",
           "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "MiniMaxAI/MiniMax-M3",
-        "org": "MiniMaxAI",
-        "trending_score": 331,
-        "downloads": 1031,
-        "likes": 337,
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "minimax_m3_vl",
-          "image-text-to-text",
-          "multimodal"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 61.4409265512178,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.1732943569492,
+        "speed_tps": 56.8199577478868,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 60.2375549867282,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 56.5173340296309,
+        "speed_tps": 58.0042727382731,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.8680908633507,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 55.0477915016184,
+        "speed_tps": 56.410945216132,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 57.277499136068,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 46.2010322857412,
+        "speed_tps": 47.3488450146496,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       }
@@ -311,7 +311,7 @@
         "name": "iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
         "url": "https://github.com/iptv-org/iptv",
-        "stars": 118235,
+        "stars": 118386,
         "stars_delta": 179,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,8 +321,8 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 57536,
-        "stars_delta": 2656,
+        "stars": 57691,
+        "stars_delta": 1507,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,8 +331,8 @@
         "name": "chatwoot/chatwoot",
         "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
         "url": "https://github.com/chatwoot/chatwoot",
-        "stars": 30623,
-        "stars_delta": 437,
+        "stars": 30673,
+        "stars_delta": 86,
         "language": "Ruby",
         "language_color": "#701516"
       },
@@ -341,8 +341,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 226427,
-        "stars_delta": 1275,
+        "stars": 226529,
+        "stars_delta": 931,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -351,8 +351,8 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 35678,
-        "stars_delta": 3504,
+        "stars": 35817,
+        "stars_delta": 1471,
         "language": "Swift",
         "language_color": "#F05138"
       }
@@ -363,7 +363,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 40792,
+        "stars": 40878,
         "stars_delta": 12257,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 35678,
+        "stars": 35817,
         "stars_delta": 7781,
         "language": "Swift",
         "language_color": "#F05138"
@@ -383,7 +383,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 17346,
+        "stars": 17416,
         "stars_delta": 4839,
         "language": "",
         "language_color": "#586069"
@@ -393,7 +393,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 25429,
+        "stars": 25577,
         "stars_delta": 10184,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 3851,
+        "stars": 3961,
         "stars_delta": 2616,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 48400,
+        "stars": 48446,
         "stars_delta": 46941,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 25429,
+        "stars": 25577,
         "stars_delta": 22468,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 58295,
+        "stars": 58343,
         "stars_delta": 43988,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 86972,
+        "stars": 87049,
         "stars_delta": 30089,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tinyhumansai/openhuman",
         "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
         "url": "https://github.com/tinyhumansai/openhuman",
-        "stars": 31830,
+        "stars": 31845,
         "stars_delta": 29805,
         "language": "Rust",
         "language_color": "#dea584"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 131,
-        "total_stars": 116702,
+        "stars_28d": 130,
+        "total_stars": 116701,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -594,7 +594,7 @@
         "upvotes": 74,
         "published": "2026-06-10",
         "github_repo": "https://github.com/zhengdian1/InterleaveThinker",
-        "github_stars": 99
+        "github_stars": 110
       }
     ],
     "arxiv_recent": [
@@ -682,63 +682,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 48515336,
+        "title": "A low-carbon computing platform from your retired phones",
+        "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48515336",
+        "site": "research.google",
+        "points": 89,
+        "comments": 35,
+        "author": "vikas-sharma",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48516510,
+        "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+        "url": "https://hallucinate.site/gallery",
+        "discussion_url": "https://news.ycombinator.com/item?id=48516510",
+        "site": "hallucinate.site",
+        "points": 33,
+        "comments": 7,
+        "author": "stagas",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48516573,
+        "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+        "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+        "discussion_url": "https://news.ycombinator.com/item?id=48516573",
+        "site": "chipsandcheese.com",
+        "points": 10,
+        "comments": 0,
+        "author": "lumpa",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48516504,
+        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+        "url": "https://github.com/tensorzero/tensorzero",
+        "discussion_url": "https://news.ycombinator.com/item?id=48516504",
+        "site": "github.com",
+        "points": 12,
+        "comments": 1,
+        "author": "hek2sch",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 48513806,
         "title": "Leaving Mozilla",
         "url": "https://blog.unitedheroes.net/5751",
         "discussion_url": "https://news.ycombinator.com/item?id=48513806",
         "site": "blog.unitedheroes.net",
-        "points": 220,
-        "comments": 114,
+        "points": 320,
+        "comments": 186,
         "author": "martey",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48510010,
-        "title": "Electric motors with no rare earths",
-        "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48510010",
-        "site": "renaultgroup.com",
-        "points": 493,
-        "comments": 140,
-        "author": "bestouff",
-        "age": "13h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48515385,
-        "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-        "url": "https://github.com/Paca-AI/paca",
-        "discussion_url": "https://news.ycombinator.com/item?id=48515385",
-        "site": "github.com",
-        "points": 18,
-        "comments": 7,
-        "author": "pikann22",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48511072,
-        "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-        "url": "https://www.anthropic.com/news/fable-mythos-access",
-        "discussion_url": "https://news.ycombinator.com/item?id=48511072",
-        "site": "anthropic.com",
-        "points": 2412,
-        "comments": 1732,
-        "author": "Dylan1312",
-        "age": "10h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48505231,
-        "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-        "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48505231",
-        "site": "innovativegenomics.org",
-        "points": 837,
-        "comments": 190,
-        "author": "gmays",
-        "age": "19h ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
@@ -749,22 +749,22 @@
         "url": "https://news.ycombinator.com/item?id=48434240",
         "discussion_url": "https://news.ycombinator.com/item?id=48434240",
         "site": "news.ycombinator.com",
-        "points": 86,
+        "points": 88,
         "comments": 29,
         "author": "simianwords",
-        "age": "5d ago"
+        "age": "6d ago"
       },
       {
         "rank": 2,
-        "id": 48514921,
-        "title": "What if we legally required politicians to work regular jobs 2 months a year?",
-        "url": "https://news.ycombinator.com/item?id=48514921",
-        "discussion_url": "https://news.ycombinator.com/item?id=48514921",
+        "id": 48515589,
+        "title": "Ask HN: How to deal with App Store rejections?",
+        "url": "https://news.ycombinator.com/item?id=48515589",
+        "discussion_url": "https://news.ycombinator.com/item?id=48515589",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 3,
-        "author": "ekoeko",
-        "age": "2h ago"
+        "points": 2,
+        "comments": 1,
+        "author": "high_byte",
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -773,7 +773,7 @@
         "url": "https://news.ycombinator.com/item?id=48466488",
         "discussion_url": "https://news.ycombinator.com/item?id=48466488",
         "site": "news.ycombinator.com",
-        "points": 108,
+        "points": 109,
         "comments": 28,
         "author": "joshmarinacci",
         "age": "3d ago"
@@ -785,84 +785,84 @@
         "url": "https://news.ycombinator.com/item?id=48477135",
         "discussion_url": "https://news.ycombinator.com/item?id=48477135",
         "site": "news.ycombinator.com",
-        "points": 788,
+        "points": 789,
         "comments": 568,
         "author": "eries",
         "age": "2d ago"
       },
       {
         "rank": 5,
-        "id": 48486932,
-        "title": "Ask HN: Want to build something open source on nights and weekends together?",
-        "url": "https://news.ycombinator.com/item?id=48486932",
-        "discussion_url": "https://news.ycombinator.com/item?id=48486932",
+        "id": 48514921,
+        "title": "What if we legally required politicians to work regular jobs 2 months a year?",
+        "url": "https://news.ycombinator.com/item?id=48514921",
+        "discussion_url": "https://news.ycombinator.com/item?id=48514921",
         "site": "news.ycombinator.com",
-        "points": 37,
-        "comments": 14,
-        "author": "vira28",
-        "age": "2d ago"
+        "points": 5,
+        "comments": 5,
+        "author": "ekoeko",
+        "age": "4h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48516510,
+        "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+        "url": "https://hallucinate.site/gallery",
+        "discussion_url": "https://news.ycombinator.com/item?id=48516510",
+        "site": "hallucinate.site",
+        "points": 33,
+        "comments": 7,
+        "author": "stagas",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48515385,
         "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
         "url": "https://github.com/Paca-AI/paca",
         "discussion_url": "https://news.ycombinator.com/item?id=48515385",
         "site": "github.com",
-        "points": 18,
-        "comments": 7,
+        "points": 52,
+        "comments": 22,
         "author": "pikann22",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48510341,
         "title": "Show HN: Putt.day a daily mini golf game",
         "url": "https://putt.day/",
         "discussion_url": "https://news.ycombinator.com/item?id=48510341",
         "site": "putt.day",
-        "points": 194,
-        "comments": 83,
+        "points": 217,
+        "comments": 91,
         "author": "ellg",
-        "age": "12h ago"
+        "age": "14h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48476202,
         "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
         "url": "https://github.com/entGriff/ezra",
         "discussion_url": "https://news.ycombinator.com/item?id=48476202",
         "site": "github.com",
-        "points": 42,
-        "comments": 8,
+        "points": 50,
+        "comments": 9,
         "author": "ent1c3d",
         "age": "2d ago"
       },
       {
-        "rank": 4,
-        "id": 48514124,
-        "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-        "url": "https://github.com/vladignatyev/brain-map-skill",
-        "discussion_url": "https://news.ycombinator.com/item?id=48514124",
-        "site": "github.com",
-        "points": 8,
-        "comments": 9,
-        "author": "v_ignatyev",
-        "age": "4h ago"
-      },
-      {
         "rank": 5,
-        "id": 48490024,
-        "title": "Show HN: Homebrew 6.0.0",
-        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48490024",
-        "site": "brew.sh",
-        "points": 1415,
-        "comments": 346,
-        "author": "mikemcquaid",
-        "age": "1d ago"
+        "id": 48516202,
+        "title": "Show HN: Quant Picker – which GGUF file fits your model and machine",
+        "url": "https://vettedconsumer.com/quant-picker/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48516202",
+        "site": "vettedconsumer.com",
+        "points": 2,
+        "comments": 0,
+        "author": "ermantrout",
+        "age": "1h ago"
       }
     ]
   }
