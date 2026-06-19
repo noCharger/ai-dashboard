@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-19T06:05:55Z",
+  "generated": "2026-06-19T10:47:00Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "org": "yuxinlu1",
-        "trending_score": 1535,
-        "downloads": 211424,
-        "likes": 1732,
+        "trending_score": 1551,
+        "downloads": 268102,
+        "likes": 1754,
         "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "tags": [
           "gguf",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 1307,
-        "downloads": 4307,
-        "likes": 1381,
+        "trending_score": 1348,
+        "downloads": 11871,
+        "likes": 1427,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "MiniMaxAI/MiniMax-M3",
         "org": "MiniMaxAI",
-        "trending_score": 943,
-        "downloads": 56162,
-        "likes": 1105,
+        "trending_score": 948,
+        "downloads": 67836,
+        "likes": 1111,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "moonshotai/Kimi-K2.7-Code",
         "org": "moonshotai",
-        "trending_score": 847,
-        "downloads": 229156,
-        "likes": 889,
+        "trending_score": 826,
+        "downloads": 274865,
+        "likes": 893,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "google/diffusiongemma-26B-A4B-it",
-        "org": "google",
-        "trending_score": 433,
-        "downloads": 527080,
-        "likes": 1005,
-        "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+        "name": "WeiboAI/VibeThinker-3B",
+        "org": "WeiboAI",
+        "trending_score": 413,
+        "downloads": 12148,
+        "likes": 423,
+        "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
         "tags": [
           "transformers",
           "safetensors",
-          "diffusion_gemma",
-          "image-text-to-text",
-          "conversational"
+          "qwen2",
+          "text-generation",
+          "math"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 61.8605670221249,
+        "speed_tps": 58.769323856758,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 58.2933979840272,
+        "speed_tps": 56.4773067371014,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5296569524586,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.1728464202593,
+        "speed_tps": 51.3834327515158,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.1275095349873,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 59.4068078058274,
+        "speed_tps": 52.2261577081013,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       }
@@ -311,7 +311,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 23438,
+        "stars": 23757,
         "stars_delta": 844,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "n0-computer/iroh",
         "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
         "url": "https://github.com/n0-computer/iroh",
-        "stars": 10062,
+        "stars": 10124,
         "stars_delta": 369,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "stars": 449625,
+        "stars": 449723,
         "stars_delta": 417,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 232597,
+        "stars": 232852,
         "stars_delta": 1429,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "zai-org/GLM-5",
         "description": "GLM-5: From Vibe Coding to Agentic Engineering",
         "url": "https://github.com/zai-org/GLM-5",
-        "stars": 4235,
+        "stars": 4330,
         "stars_delta": 202,
         "language": "",
         "language_color": "#586069"
@@ -363,7 +363,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 7986,
+        "stars": 8069,
         "stars_delta": 5505,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 63031,
+        "stars": 63123,
         "stars_delta": 9285,
         "language": "Shell",
         "language_color": "#89e051"
@@ -383,7 +383,7 @@
         "name": "iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
         "url": "https://github.com/iptv-org/iptv",
-        "stars": 125564,
+        "stars": 125624,
         "stars_delta": 7899,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 38638,
+        "stars": 38711,
         "stars_delta": 7671,
         "language": "Swift",
         "language_color": "#F05138"
@@ -403,7 +403,7 @@
         "name": "phuryn/pm-skills",
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
         "url": "https://github.com/phuryn/pm-skills",
-        "stars": 19627,
+        "stars": 19670,
         "stars_delta": 3663,
         "language": "",
         "language_color": "#586069"
@@ -415,7 +415,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 35337,
+        "stars": 36319,
         "stars_delta": 30943,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 63650,
+        "stars": 63793,
         "stars_delta": 48608,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 89755,
+        "stars": 89836,
         "stars_delta": 32867,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "colbymchenry/codegraph",
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
         "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 51709,
+        "stars": 51804,
         "stars_delta": 47770,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 38638,
+        "stars": 38711,
         "stars_delta": 12067,
         "language": "Swift",
         "language_color": "#F05138"
@@ -477,8 +477,8 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 79,
-        "total_stars": 37644,
+        "stars_28d": 80,
+        "total_stars": 37645,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
         "language": "Python",
@@ -488,8 +488,8 @@
         "rank": 3,
         "name": "mastra-ai/mastra",
         "url": "https://github.com/mastra-ai/mastra",
-        "stars_28d": 49,
-        "total_stars": 16162,
+        "stars_28d": 50,
+        "total_stars": 16163,
         "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
         "category": "Full-Stack Agent Platform",
         "language": "TypeScript",
@@ -499,8 +499,8 @@
         "rank": 4,
         "name": "microsoft/autogen",
         "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 45,
-        "total_stars": 48251,
+        "stars_28d": 46,
+        "total_stars": 48252,
         "description": "A programming framework for agentic AI",
         "category": "Conversational Agents",
         "language": "Python",
@@ -568,6 +568,21 @@
       },
       {
         "rank": 4,
+        "title": "GLM-5: from Vibe Coding to Agentic Engineering",
+        "authors": [
+          "GLM-5 Team",
+          "Aohan Zeng",
+          "Xin Lv"
+        ],
+        "url": "https://huggingface.co/papers/2602.15763",
+        "categories": [],
+        "upvotes": 166,
+        "published": "2026-02-17",
+        "github_repo": "https://github.com/zai-org/GLM-5",
+        "github_stars": 4304
+      },
+      {
+        "rank": 5,
         "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
         "authors": [
           "Zelun Zhang",
@@ -580,21 +595,6 @@
         "published": "2026-06-01",
         "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
         "github_stars": 83011
-      },
-      {
-        "rank": 5,
-        "title": "GLM-5: from Vibe Coding to Agentic Engineering",
-        "authors": [
-          "GLM-5 Team",
-          "Aohan Zeng",
-          "Xin Lv"
-        ],
-        "url": "https://huggingface.co/papers/2602.15763",
-        "categories": [],
-        "upvotes": 166,
-        "published": "2026-02-17",
-        "github_repo": "https://github.com/zai-org/GLM-5",
-        "github_stars": 4084
       }
     ],
     "arxiv_recent": [
@@ -681,27 +681,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 48594715,
-        "title": "Many Let's Encrypt renewals had errors today",
-        "url": "https://letsencrypt.status.io/#2026",
-        "discussion_url": "https://news.ycombinator.com/item?id=48594715",
-        "site": "letsencrypt.status.io",
-        "points": 111,
-        "comments": 61,
-        "author": "widdakay",
-        "age": "1h ago"
+        "id": 48595511,
+        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "discussion_url": "https://news.ycombinator.com/item?id=48595511",
+        "site": "jvm-weekly.com",
+        "points": 151,
+        "comments": 69,
+        "author": "philonoist",
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 48594592,
-        "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
-        "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-        "discussion_url": "https://news.ycombinator.com/item?id=48594592",
-        "site": "jacc.org",
-        "points": 82,
-        "comments": 20,
-        "author": "js2",
-        "age": "2h ago"
+        "id": 48553388,
+        "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+        "discussion_url": "https://news.ycombinator.com/item?id=48553388",
+        "site": "greybeam.ai",
+        "points": 193,
+        "comments": 61,
+        "author": "marklit",
+        "age": "2d ago"
       },
       {
         "rank": 3,
@@ -710,34 +710,34 @@
         "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
         "discussion_url": "https://news.ycombinator.com/item?id=48543311",
         "site": "news.mit.edu",
-        "points": 121,
-        "comments": 10,
+        "points": 197,
+        "comments": 27,
         "author": "speckx",
         "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 48553388,
-        "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-        "discussion_url": "https://news.ycombinator.com/item?id=48553388",
-        "site": "greybeam.ai",
-        "points": 65,
-        "comments": 35,
-        "author": "marklit",
-        "age": "2d ago"
+        "id": 48546890,
+        "title": "Ten years of ClickHouse in open source",
+        "url": "https://clickhouse.com/blog/open-source-10",
+        "discussion_url": "https://news.ycombinator.com/item?id=48546890",
+        "site": "clickhouse.com",
+        "points": 38,
+        "comments": 7,
+        "author": "saisrirampur",
+        "age": "3d ago"
       },
       {
         "rank": 5,
-        "id": 48541062,
-        "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-        "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48541062",
-        "site": "mickael.canouil.fr",
-        "points": 29,
-        "comments": 1,
-        "author": "mcanouil",
-        "age": "3d ago"
+        "id": 48595331,
+        "title": "So You Want to Define a Well-Known URI",
+        "url": "https://mnot.net/blog/2026/well_known_uris",
+        "discussion_url": "https://news.ycombinator.com/item?id=48595331",
+        "site": "mnot.net",
+        "points": 70,
+        "comments": 35,
+        "author": "ingve",
+        "age": "4h ago"
       }
     ],
     "ask": [
@@ -748,120 +748,120 @@
         "url": "https://news.ycombinator.com/item?id=48582679",
         "discussion_url": "https://news.ycombinator.com/item?id=48582679",
         "site": "news.ycombinator.com",
-        "points": 75,
-        "comments": 38,
+        "points": 81,
+        "comments": 40,
         "author": "asim",
-        "age": "21h ago"
+        "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 48596176,
+        "title": "Trillions of dollars spent just to work on customer services?",
+        "url": "https://news.ycombinator.com/item?id=48596176",
+        "discussion_url": "https://news.ycombinator.com/item?id=48596176",
+        "site": "news.ycombinator.com",
+        "points": 6,
+        "comments": 0,
+        "author": "YihaoZhang",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 48587808,
         "title": "Ask HN: What tools are you using for AI-assisted code review?",
         "url": "https://news.ycombinator.com/item?id=48587808",
         "discussion_url": "https://news.ycombinator.com/item?id=48587808",
         "site": "news.ycombinator.com",
-        "points": 16,
-        "comments": 12,
+        "points": 20,
+        "comments": 16,
         "author": "agos",
-        "age": "13h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 48595558,
+        "title": "Every independent nation should work on three things",
+        "url": "https://news.ycombinator.com/item?id=48595558",
+        "discussion_url": "https://news.ycombinator.com/item?id=48595558",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "manishtiwari09",
+        "age": "4h ago"
+      },
+      {
+        "rank": 5,
         "id": 48542100,
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
         "url": "https://news.ycombinator.com/item?id=48542100",
         "discussion_url": "https://news.ycombinator.com/item?id=48542100",
         "site": "news.ycombinator.com",
-        "points": 1299,
-        "comments": 552,
+        "points": 1302,
+        "comments": 553,
         "author": "cloudking",
         "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48589194,
-        "title": "Anthropic confident of re-enabling Mythos, Fable 5 access 'in coming days'",
-        "url": "https://news.ycombinator.com/item?id=48589194",
-        "discussion_url": "https://news.ycombinator.com/item?id=48589194",
-        "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 3,
-        "author": "getbowtied",
-        "age": "11h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48588831,
-        "title": "Ask HN: I'm lost. How can I define ICP (Ideal Customer Profile)?",
-        "url": "https://news.ycombinator.com/item?id=48588831",
-        "discussion_url": "https://news.ycombinator.com/item?id=48588831",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 6,
-        "author": "snowhy",
-        "age": "12h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48596771,
+        "title": "Show HN: I built an 11-LLM consensus engine to detect AI hallucination",
+        "url": "https://github.com/jaquelinejaque/quorum-saas-starter",
+        "discussion_url": "https://news.ycombinator.com/item?id=48596771",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "jaquelinejaque",
+        "age": "53m ago"
+      },
+      {
+        "rank": 2,
         "id": 48584761,
         "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
         "url": "https://github.com/cajal-technologies/talos",
         "discussion_url": "https://news.ycombinator.com/item?id=48584761",
         "site": "github.com",
-        "points": 33,
-        "comments": 3,
+        "points": 54,
+        "comments": 7,
         "author": "mfornet",
-        "age": "16h ago"
+        "age": "21h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48591348,
         "title": "Show HN: Are You in the Weights?",
         "url": "https://www.intheweights.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48591348",
         "site": "intheweights.com",
-        "points": 294,
-        "comments": 156,
+        "points": 352,
+        "comments": 206,
         "author": "turtlesoup",
-        "age": "9h ago"
+        "age": "13h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48585739,
         "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
         "url": "https://gerrymandle.cc/",
         "discussion_url": "https://news.ycombinator.com/item?id=48585739",
         "site": "gerrymandle.cc",
-        "points": 163,
-        "comments": 68,
+        "points": 176,
+        "comments": 70,
         "author": "realmofthemad",
-        "age": "15h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48594526,
-        "title": "Show HN: Building Cursor for Traders",
-        "url": "https://runhalcyon.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48594526",
-        "site": "runhalcyon.com",
-        "points": 2,
-        "comments": 1,
-        "author": "chips2011",
-        "age": "2h ago"
+        "age": "20h ago"
       },
       {
         "rank": 5,
-        "id": 48592731,
-        "title": "Show HN: Crawlie – Free open-source SEO audit tool for humans and agents",
-        "url": "https://github.com/spronta/crawlie",
-        "discussion_url": "https://news.ycombinator.com/item?id=48592731",
-        "site": "github.com",
-        "points": 9,
-        "comments": 0,
-        "author": "seandotexe",
-        "age": "7h ago"
+        "id": 48595638,
+        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "url": "https://www.appaca.ai/index.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48595638",
+        "site": "appaca.ai",
+        "points": 3,
+        "comments": 1,
+        "author": "susros",
+        "age": "3h ago"
       }
     ]
   }
