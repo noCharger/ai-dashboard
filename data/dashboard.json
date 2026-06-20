@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-20T09:57:12Z",
+  "generated": "2026-06-20T11:52:18Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "org": "yuxinlu1",
-        "trending_score": 1649,
+        "trending_score": 1652,
         "downloads": 312332,
-        "likes": 1886,
+        "likes": 1896,
         "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "tags": [
           "gguf",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 1479,
+        "trending_score": 1486,
         "downloads": 19683,
-        "likes": 1577,
+        "likes": 1584,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "MiniMaxAI/MiniMax-M3",
         "org": "MiniMaxAI",
-        "trending_score": 647,
+        "trending_score": 642,
         "downloads": 85771,
-        "likes": 1141,
+        "likes": 1144,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "moonshotai/Kimi-K2.7-Code",
-        "org": "moonshotai",
-        "trending_score": 466,
-        "downloads": 317963,
-        "likes": 915,
-        "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "kimi_k25",
-          "image-feature-extraction",
-          "compressed-tensors"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "WeiboAI/VibeThinker-3B",
         "org": "WeiboAI",
-        "trending_score": 466,
+        "trending_score": 469,
         "downloads": 16270,
-        "likes": 477,
+        "likes": 480,
         "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen2",
           "text-generation",
           "math"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "moonshotai/Kimi-K2.7-Code",
+        "org": "moonshotai",
+        "trending_score": 457,
+        "downloads": 317963,
+        "likes": 917,
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "kimi_k25",
+          "image-feature-extraction",
+          "compressed-tensors"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.8079816465213,
+        "speed_tps": 58.445977375989,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 63.4481980476321,
+        "speed_tps": 63.0627377747138,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.1275095349873,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 58.9009989714147,
+        "speed_tps": 57.6316974278105,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       }
@@ -308,103 +308,103 @@
     "daily": [
       {
         "rank": 1,
-        "name": "DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 8697,
-        "stars_delta": 1058,
-        "language": "C",
-        "language_color": "#555555"
-      },
-      {
-        "rank": 2,
-        "name": "google-research/timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "url": "https://github.com/google-research/timesfm",
-        "stars": 24220,
-        "stars_delta": 1510,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
         "name": "palmier-io/palmier-pro",
         "description": "macOS video editor built for AI",
         "url": "https://github.com/palmier-io/palmier-pro",
-        "stars": 2193,
+        "stars": 2283,
         "stars_delta": 756,
         "language": "Swift",
         "language_color": "#F05138"
       },
       {
-        "rank": 4,
-        "name": "koala73/worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "url": "https://github.com/koala73/worldmonitor",
-        "stars": 57533,
+        "rank": 2,
+        "name": "penpot/penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "url": "https://github.com/penpot/penpot",
+        "stars": 50782,
+        "stars_delta": 85,
+        "language": "Clojure",
+        "language_color": "#db5855"
+      },
+      {
+        "rank": 3,
+        "name": "calesthio/OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "url": "https://github.com/calesthio/OpenMontage",
+        "stars": 6560,
         "stars_delta": 156,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 4,
+        "name": "tursodatabase/turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "url": "https://github.com/tursodatabase/turso",
+        "stars": 20002,
+        "stars_delta": 774,
+        "language": "Rust",
+        "language_color": "#dea584"
       },
       {
         "rank": 5,
-        "name": "aishwaryanr/awesome-generative-ai-guide",
-        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-        "stars": 27752,
-        "stars_delta": 107,
-        "language": "HTML",
-        "language_color": "#e34c26"
+        "name": "DeusData/codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "stars": 8777,
+        "stars_delta": 1058,
+        "language": "C",
+        "language_color": "#555555"
       }
     ],
     "weekly": [
       {
         "rank": 1,
-        "name": "NVIDIA/SkillSpector",
-        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-        "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 8463,
-        "stars_delta": 5026,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
-        "name": "iptv-org/iptv",
-        "description": "Collection of publicly available IPTV channels from all over the world",
-        "url": "https://github.com/iptv-org/iptv",
-        "stars": 125959,
-        "stars_delta": 8035,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 8697,
+        "stars": 8777,
         "stars_delta": 4212,
         "language": "C",
         "language_color": "#555555"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "name": "chopratejas/headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "url": "https://github.com/chopratejas/headroom",
+        "stars": 40257,
+        "stars_delta": 12793,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 35379,
+        "stars": 35431,
         "stars_delta": 8324,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
+        "rank": 4,
+        "name": "iptv-org/iptv",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "url": "https://github.com/iptv-org/iptv",
+        "stars": 125987,
+        "stars_delta": 8035,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 5,
-        "name": "chopratejas/headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "url": "https://github.com/chopratejas/headroom",
-        "stars": 39946,
-        "stars_delta": 12793,
+        "name": "NVIDIA/SkillSpector",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "url": "https://github.com/NVIDIA/SkillSpector",
+        "stars": 8490,
+        "stars_delta": 5026,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,7 +415,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 39946,
+        "stars": 40257,
         "stars_delta": 34870,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 90194,
+        "stars": 90226,
         "stars_delta": 33118,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,30 +435,30 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 64253,
+        "stars": 64293,
         "stars_delta": 49015,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "colbymchenry/codegraph",
-        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "url": "https://github.com/colbymchenry/codegraph",
-        "stars": 52148,
-        "stars_delta": 46315,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 38959,
+        "stars": 38971,
         "stars_delta": 12350,
         "language": "Swift",
         "language_color": "#F05138"
+      },
+      {
+        "rank": 5,
+        "name": "colbymchenry/codegraph",
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "url": "https://github.com/colbymchenry/codegraph",
+        "stars": 52178,
+        "stars_delta": 46315,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "frameworks": [
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 104,
-        "total_stars": 116715,
+        "stars_28d": 105,
+        "total_stars": 116716,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -579,7 +579,7 @@
         "upvotes": 240,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 8372
+        "github_stars": 8408
       },
       {
         "rank": 5,
@@ -686,10 +686,10 @@
         "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
         "discussion_url": "https://news.ycombinator.com/item?id=48606619",
         "site": "timwehrle.de",
-        "points": 129,
-        "comments": 43,
+        "points": 169,
+        "comments": 64,
         "author": "theanonymousone",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -698,10 +698,10 @@
         "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
         "discussion_url": "https://news.ycombinator.com/item?id=48606140",
         "site": "moultano.wordpress.com",
-        "points": 116,
-        "comments": 31,
+        "points": 169,
+        "comments": 41,
         "author": "moultano",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -710,8 +710,8 @@
         "url": "https://mattmahoney.net/dc/dce.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48562662",
         "site": "mattmahoney.net",
-        "points": 124,
-        "comments": 16,
+        "points": 143,
+        "comments": 18,
         "author": "mtdewcmu",
         "age": "3d ago"
       },
@@ -722,10 +722,10 @@
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "discussion_url": "https://news.ycombinator.com/item?id=48599515",
         "site": "overreacted.io",
-        "points": 446,
-        "comments": 227,
+        "points": 465,
+        "comments": 234,
         "author": "danabramov",
-        "age": "18h ago"
+        "age": "20h ago"
       },
       {
         "rank": 5,
@@ -734,8 +734,8 @@
         "url": "https://www.not-ship.com/can-you-see-three-trees/",
         "discussion_url": "https://news.ycombinator.com/item?id=48582374",
         "site": "not-ship.com",
-        "points": 112,
-        "comments": 58,
+        "points": 145,
+        "comments": 83,
         "author": "Pamar",
         "age": "2d ago"
       }
@@ -743,18 +743,30 @@
     "ask": [
       {
         "rank": 1,
+        "id": 48608491,
+        "title": "Ask HN: Need advice on distributing and testing what I build",
+        "url": "https://news.ycombinator.com/item?id=48608491",
+        "discussion_url": "https://news.ycombinator.com/item?id=48608491",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "darth-pixit",
+        "age": "12m ago"
+      },
+      {
+        "rank": 2,
         "id": 48604232,
         "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
         "url": "https://news.ycombinator.com/item?id=48604232",
         "discussion_url": "https://news.ycombinator.com/item?id=48604232",
         "site": "news.ycombinator.com",
-        "points": 111,
-        "comments": 184,
+        "points": 118,
+        "comments": 200,
         "author": "amichail",
-        "age": "11h ago"
+        "age": "13h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48607507,
         "title": "\"Show HN\" \" alternative to dark matter, tested across galaxy to cosmic scales\"",
         "url": "https://news.ycombinator.com/item?id=48607507",
@@ -763,19 +775,7 @@
         "points": 2,
         "comments": 0,
         "author": "SPruynIDR",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48605896,
-        "title": "Forked CozoDB to give agents cognitive primitives",
-        "url": "https://news.ycombinator.com/item?id=48605896",
-        "discussion_url": "https://news.ycombinator.com/item?id=48605896",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "shanrizvi",
-        "age": "7h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
@@ -791,56 +791,68 @@
       },
       {
         "rank": 5,
-        "id": 48574082,
-        "title": "Ask HN: How do you separate intentional test boilerplate from real duplication?",
-        "url": "https://news.ycombinator.com/item?id=48574082",
-        "discussion_url": "https://news.ycombinator.com/item?id=48574082",
+        "id": 48605896,
+        "title": "Forked CozoDB to give agents cognitive primitives",
+        "url": "https://news.ycombinator.com/item?id=48605896",
+        "discussion_url": "https://news.ycombinator.com/item?id=48605896",
         "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 7,
-        "author": "rafaepta",
-        "age": "2d ago"
+        "points": 3,
+        "comments": 0,
+        "author": "shanrizvi",
+        "age": "9h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48556082,
+        "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+        "url": "https://metiq.space",
+        "discussion_url": "https://news.ycombinator.com/item?id=48556082",
+        "site": "metiq.space",
+        "points": 132,
+        "comments": 35,
+        "author": "rakeda",
+        "age": "3d ago"
+      },
+      {
+        "rank": 2,
         "id": 48607415,
         "title": "Show HN: Aastro – Extendable API Gateway in Go",
         "url": "https://starwalkn.github.io/aastro-docs/",
         "discussion_url": "https://news.ycombinator.com/item?id=48607415",
         "site": "starwalkn.github.io",
         "points": 2,
-        "comments": 0,
+        "comments": 1,
         "author": "starwalkn",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 48556082,
-        "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-        "url": "https://metiq.space",
-        "discussion_url": "https://news.ycombinator.com/item?id=48556082",
-        "site": "metiq.space",
-        "points": 123,
-        "comments": 33,
-        "author": "rakeda",
-        "age": "3d ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
+        "id": 48585739,
+        "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+        "url": "https://gerrymandle.cc/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48585739",
+        "site": "gerrymandle.cc",
+        "points": 216,
+        "comments": 78,
+        "author": "realmofthemad",
+        "age": "1d ago"
+      },
+      {
+        "rank": 4,
         "id": 48607073,
         "title": "Show HN: Make every bug perfectly reproducible",
         "url": "https://workers.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=48607073",
         "site": "workers.io",
-        "points": 6,
+        "points": 7,
         "comments": 0,
         "author": "chaitanyya",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48606882,
         "title": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
         "url": "https://autonomy-landing-page.vercel.app/",
@@ -849,19 +861,7 @@
         "points": 3,
         "comments": 0,
         "author": "agentic_vector",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48606801,
-        "title": "Show HN: Pytest-tia – run only the tests your Git diff affects, with receipts",
-        "url": "https://github.com/breadMSA/pytest-tia",
-        "discussion_url": "https://news.ycombinator.com/item?id=48606801",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "BreadWasEaten",
-        "age": "3h ago"
+        "age": "5h ago"
       }
     ]
   }
