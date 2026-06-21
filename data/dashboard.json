@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-21T09:57:48Z",
+  "generated": "2026-06-21T12:03:42Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "org": "yuxinlu1",
-        "trending_score": 1726,
+        "trending_score": 1735,
         "downloads": 358677,
-        "likes": 2009,
+        "likes": 2024,
         "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "tags": [
           "gguf",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 1612,
+        "trending_score": 1621,
         "downloads": 27413,
-        "likes": 1730,
+        "likes": 1741,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "MiniMaxAI/MiniMax-M3",
         "org": "MiniMaxAI",
-        "trending_score": 560,
+        "trending_score": 556,
         "downloads": 104076,
-        "likes": 1167,
+        "likes": 1168,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "WeiboAI/VibeThinker-3B",
         "org": "WeiboAI",
-        "trending_score": 514,
+        "trending_score": 518,
         "downloads": 20277,
-        "likes": 529,
+        "likes": 533,
         "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "moonshotai/Kimi-K2.7-Code",
         "org": "moonshotai",
-        "trending_score": 342,
+        "trending_score": 334,
         "downloads": 363308,
-        "likes": 935,
+        "likes": 938,
         "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": "$undefined",
+        "speed_tps": null,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.4846351657522,
+        "speed_tps": 58.8079816465213,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 63.4481980476321,
+        "speed_tps": 63.0627377747138,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5296569524586,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 50.3616248529398,
+        "speed_tps": 49.7680277997836,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -311,28 +311,28 @@
         "name": "palmier-io/palmier-pro",
         "description": "macOS video editor built for AI",
         "url": "https://github.com/palmier-io/palmier-pro",
-        "stars": 3989,
+        "stars": 4116,
         "stars_delta": 902,
         "language": "Swift",
         "language_color": "#F05138"
       },
       {
         "rank": 2,
-        "name": "penpot/penpot",
-        "description": "Penpot: The open-source design tool for design and code collaboration",
-        "url": "https://github.com/penpot/penpot",
-        "stars": 51818,
-        "stars_delta": 420,
-        "language": "Clojure",
-        "language_color": "#db5855"
-      },
-      {
-        "rank": 3,
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 7407,
+        "stars": 7550,
         "stars_delta": 677,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "chopratejas/headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "url": "https://github.com/chopratejas/headroom",
+        "stars": 42866,
+        "stars_delta": 3795,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,20 +341,20 @@
         "name": "tursodatabase/turso",
         "description": "Turso is an in-process SQL database, compatible with SQLite.",
         "url": "https://github.com/tursodatabase/turso",
-        "stars": 20503,
+        "stars": 20547,
         "stars_delta": 801,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
         "rank": 5,
-        "name": "DeusData/codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-        "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 9721,
-        "stars_delta": 1271,
-        "language": "C",
-        "language_color": "#555555"
+        "name": "penpot/penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "url": "https://github.com/penpot/penpot",
+        "stars": 51902,
+        "stars_delta": 420,
+        "language": "Clojure",
+        "language_color": "#db5855"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 9721,
+        "stars": 9807,
         "stars_delta": 5419,
         "language": "C",
         "language_color": "#555555"
@@ -373,7 +373,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 42671,
+        "stars": 42866,
         "stars_delta": 14982,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 36316,
+        "stars": 36402,
         "stars_delta": 8483,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,20 +393,20 @@
         "name": "iptv-org/iptv",
         "description": "Collection of publicly available IPTV channels from all over the world",
         "url": "https://github.com/iptv-org/iptv",
-        "stars": 126810,
+        "stars": 126882,
         "stars_delta": 7856,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "NVIDIA/SkillSpector",
-        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-        "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 8833,
-        "stars_delta": 4631,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "n0-computer/iroh",
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "url": "https://github.com/n0-computer/iroh",
+        "stars": 10403,
+        "stars_delta": 1621,
+        "language": "Rust",
+        "language_color": "#dea584"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "chopratejas/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/chopratejas/headroom",
-        "stars": 42671,
+        "stars": 42866,
         "stars_delta": 38927,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 90519,
+        "stars": 90562,
         "stars_delta": 33448,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 64876,
+        "stars": 64962,
         "stars_delta": 49332,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "esengine/DeepSeek-Reasonix",
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
         "url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "stars": 23443,
+        "stars": 23460,
         "stars_delta": 18518,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -455,7 +455,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 39182,
+        "stars": 39192,
         "stars_delta": 12617,
         "language": "Swift",
         "language_color": "#F05138"
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 29,
-        "total_stars": 175296,
+        "stars_28d": 30,
+        "total_stars": 175297,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
         "language": "Python",
@@ -564,7 +564,7 @@
         "upvotes": 101,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 87634
+        "github_stars": 87720
       },
       {
         "rank": 4,
@@ -681,63 +681,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 48616800,
-        "title": "Google Hits 50% IPv6",
-        "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48616800",
-        "site": "blog.apnic.net",
-        "points": 74,
-        "comments": 46,
-        "author": "barqawiz",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 48616713,
         "title": "A 3D voxel game engine written in APL",
         "url": "https://github.com/namgyaaal/avoxelgame",
         "discussion_url": "https://news.ycombinator.com/item?id=48616713",
         "site": "github.com",
-        "points": 37,
-        "comments": 6,
+        "points": 68,
+        "comments": 7,
         "author": "sph",
-        "age": "1h ago"
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48616800,
+        "title": "Google Hits 50% IPv6",
+        "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48616800",
+        "site": "blog.apnic.net",
+        "points": 170,
+        "comments": 162,
+        "author": "barqawiz",
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 48573902,
-        "title": "Zigzag Decoding with AVX-512",
-        "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48573902",
-        "site": "zeux.io",
-        "points": 74,
-        "comments": 9,
-        "author": "luu",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
         "id": 48614844,
         "title": "Developers don't understand CORS (2019)",
         "url": "https://fosterelli.co/developers-dont-understand-cors",
         "discussion_url": "https://news.ycombinator.com/item?id=48614844",
         "site": "fosterelli.co",
-        "points": 196,
-        "comments": 104,
+        "points": 233,
+        "comments": 153,
         "author": "toilet",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48608645,
         "title": "Loupe – A iOS app that raises awareness about what native apps can see",
         "url": "https://github.com/mysk-research/loupe",
         "discussion_url": "https://news.ycombinator.com/item?id=48608645",
         "site": "github.com",
-        "points": 285,
-        "comments": 106,
+        "points": 338,
+        "comments": 127,
         "author": "Cider9986",
-        "age": "21h ago"
+        "age": "23h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48573902,
+        "title": "Zigzag Decoding with AVX-512",
+        "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48573902",
+        "site": "zeux.io",
+        "points": 84,
+        "comments": 16,
+        "author": "luu",
+        "age": "3d ago"
       }
     ],
     "ask": [
@@ -748,10 +748,10 @@
         "url": "https://news.ycombinator.com/item?id=48616604",
         "discussion_url": "https://news.ycombinator.com/item?id=48616604",
         "site": "news.ycombinator.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "author": "elcritch",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -761,9 +761,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48616590",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 0,
+        "comments": 3,
         "author": "Imustaskforhelp",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -773,7 +773,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48604232",
         "site": "news.ycombinator.com",
         "points": 146,
-        "comments": 238,
+        "comments": 239,
         "author": "amichail",
         "age": "1d ago"
       },
@@ -785,9 +785,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48615627",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 4,
+        "comments": 5,
         "author": "asxndu",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -797,9 +797,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48613999",
         "site": "news.ycombinator.com",
         "points": 9,
-        "comments": 5,
+        "comments": 7,
         "author": "gaggle_dk",
-        "age": "10h ago"
+        "age": "12h ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://townsquare.cauenapier.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48608570",
         "site": "townsquare.cauenapier.com",
-        "points": 177,
-        "comments": 88,
+        "points": 192,
+        "comments": 103,
         "author": "cauenapier",
-        "age": "22h ago"
+        "age": "1d ago"
       },
       {
         "rank": 2,
@@ -822,10 +822,10 @@
         "url": "https://startupwiki.tech/",
         "discussion_url": "https://news.ycombinator.com/item?id=48610224",
         "site": "startupwiki.tech",
-        "points": 196,
-        "comments": 62,
+        "points": 204,
+        "comments": 63,
         "author": "shpran",
-        "age": "17h ago"
+        "age": "20h ago"
       },
       {
         "rank": 3,
@@ -834,13 +834,25 @@
         "url": "https://github.com/overflowy/make-look-scanned",
         "discussion_url": "https://news.ycombinator.com/item?id=48611513",
         "site": "github.com",
-        "points": 119,
+        "points": 126,
         "comments": 54,
         "author": "overflowy",
-        "age": "15h ago"
+        "age": "17h ago"
       },
       {
         "rank": 4,
+        "id": 48609231,
+        "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+        "url": "https://www.argusred.com/cli",
+        "discussion_url": "https://news.ycombinator.com/item?id=48609231",
+        "site": "argusred.com",
+        "points": 84,
+        "comments": 37,
+        "author": "dk189",
+        "age": "22h ago"
+      },
+      {
+        "rank": 5,
         "id": 48570364,
         "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
         "url": "https://github.com/oraziorillo/microcrad",
@@ -850,18 +862,6 @@
         "comments": 24,
         "author": "oraziorillo",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48609231,
-        "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-        "url": "https://www.argusred.com/cli",
-        "discussion_url": "https://news.ycombinator.com/item?id=48609231",
-        "site": "argusred.com",
-        "points": 81,
-        "comments": 37,
-        "author": "dk189",
-        "age": "20h ago"
       }
     ]
   }
