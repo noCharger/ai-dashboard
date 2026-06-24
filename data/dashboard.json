@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-24T09:40:00Z",
+  "generated": "2026-06-24T10:12:02Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 1334,
+        "trending_score": 1327,
         "downloads": 40127,
-        "likes": 2259,
+        "likes": 2263,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "org": "yuxinlu1",
-        "trending_score": 819,
+        "trending_score": 810,
         "downloads": 456117,
-        "likes": 2260,
+        "likes": 2262,
         "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 565,
+        "trending_score": 574,
         "downloads": 8396,
-        "likes": 581,
+        "likes": 591,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "WeiboAI/VibeThinker-3B",
-        "org": "WeiboAI",
-        "trending_score": 432,
-        "downloads": 41170,
-        "likes": 674,
-        "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen2",
-          "text-generation",
-          "math"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
         "org": "yuxinlu1",
-        "trending_score": 430,
+        "trending_score": 431,
         "downloads": 96459,
-        "likes": 470,
+        "likes": 471,
         "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
         "tags": [
           "gguf",
@@ -84,6 +67,23 @@
           "coding",
           "agentic",
           "terminal"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "WeiboAI/VibeThinker-3B",
+        "org": "WeiboAI",
+        "trending_score": 430,
+        "downloads": 41170,
+        "likes": 676,
+        "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen2",
+          "text-generation",
+          "math"
         ],
         "rank_change": null
       }
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5296569524586,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 49.8868107246243,
+        "speed_tps": 50.0795829421749,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.1275095349873,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 65.8616898631778,
+        "speed_tps": 66.673649439882,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       }
@@ -311,7 +311,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 17274,
+        "stars": 17367,
         "stars_delta": 3592,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "ZhuLinsen/daily_stock_analysis",
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "stars": 47825,
+        "stars": 47855,
         "stars_delta": 1119,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 20188,
+        "stars": 20209,
         "stars_delta": 1041,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
         "url": "https://github.com/garrytan/gstack",
-        "stars": 114560,
+        "stars": 114581,
         "stars_delta": 1011,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "bytedance/deer-flow",
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
         "url": "https://github.com/bytedance/deer-flow",
-        "stars": 74239,
+        "stars": 74254,
         "stars_delta": 739,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 13638,
+        "stars": 13669,
         "stars_delta": 8536,
         "language": "C",
         "language_color": "#555555"
@@ -373,7 +373,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 17274,
+        "stars": 17367,
         "stars_delta": 9410,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 25371,
+        "stars": 25375,
         "stars_delta": 4376,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 39126,
+        "stars": 39174,
         "stars_delta": 6915,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "n0-computer/iroh",
         "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
         "url": "https://github.com/n0-computer/iroh",
-        "stars": 10654,
+        "stars": 10656,
         "stars_delta": 1531,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 92021,
+        "stars": 92028,
         "stars_delta": 34657,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 41314,
+        "stars": 41337,
         "stars_delta": 13245,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "Egonex-AI/Understand-Anything",
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
         "url": "https://github.com/Egonex-AI/Understand-Anything",
-        "stars": 67152,
+        "stars": 67161,
         "stars_delta": 47200,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "esengine/DeepSeek-Reasonix",
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
         "url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "stars": 24284,
+        "stars": 24295,
         "stars_delta": 18605,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -455,7 +455,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 46223,
+        "stars": 46229,
         "stars_delta": 19931,
         "language": "Python",
         "language_color": "#3572A5"
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 81,
-        "total_stars": 116724,
+        "stars_28d": 82,
+        "total_stars": 116725,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.23050",
         "categories": [],
-        "upvotes": 17,
+        "upvotes": 18,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
         "github_stars": 3985
@@ -679,63 +679,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 48657030,
+        "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+        "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48657030",
+        "site": "bunny.net",
+        "points": 64,
+        "comments": 22,
+        "author": "dabinat",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48653216,
         "title": "Vulnerability reports are not special anymore",
         "url": "https://words.filippo.io/vuln-reports/",
         "discussion_url": "https://news.ycombinator.com/item?id=48653216",
         "site": "words.filippo.io",
-        "points": 269,
-        "comments": 148,
+        "points": 282,
+        "comments": 152,
         "author": "goranmoomin",
-        "age": "9h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48654676,
         "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
         "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
         "discussion_url": "https://news.ycombinator.com/item?id=48654676",
         "site": "gitlab.com",
-        "points": 131,
-        "comments": 43,
+        "points": 140,
+        "comments": 46,
         "author": "byb",
         "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48649435,
         "title": "Jerry's Map",
         "url": "http://www.jerrysmap.com/the-map",
         "discussion_url": "https://news.ycombinator.com/item?id=48649435",
         "site": "jerrysmap.com",
-        "points": 463,
+        "points": 473,
         "comments": 54,
         "author": "turtleyacht",
-        "age": "14h ago"
+        "age": "15h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 48637868,
         "title": "Why eval startups fail (2025)",
         "url": "https://thomasliao.com/eval-startups",
         "discussion_url": "https://news.ycombinator.com/item?id=48637868",
         "site": "thomasliao.com",
-        "points": 19,
-        "comments": 14,
+        "points": 21,
+        "comments": 17,
         "author": "jxmorris12",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48612025,
-        "title": "Show HN: An ASCII 3D Rendering Engine",
-        "url": "https://glyphcss.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48612025",
-        "site": "glyphcss.com",
-        "points": 126,
-        "comments": 37,
-        "author": "apresmoi",
-        "age": "3d ago"
       }
     ],
     "ask": [
@@ -746,10 +746,10 @@
         "url": "https://news.ycombinator.com/item?id=48656660",
         "discussion_url": "https://news.ycombinator.com/item?id=48656660",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 0,
         "author": "pyeri",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -758,13 +758,25 @@
         "url": "https://news.ycombinator.com/item?id=48655248",
         "discussion_url": "https://news.ycombinator.com/item?id=48655248",
         "site": "news.ycombinator.com",
-        "points": 6,
+        "points": 7,
         "comments": 5,
         "author": "neya",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
+        "id": 48651906,
+        "title": "Ask HN: What home printer do you use/recommend?",
+        "url": "https://news.ycombinator.com/item?id=48651906",
+        "discussion_url": "https://news.ycombinator.com/item?id=48651906",
+        "site": "news.ycombinator.com",
+        "points": 12,
+        "comments": 13,
+        "author": "niyazpk",
+        "age": "12h ago"
+      },
+      {
+        "rank": 4,
         "id": 48651675,
         "title": "How to find AI-conservative companies to work for?",
         "url": "https://news.ycombinator.com/item?id=48651675",
@@ -776,28 +788,16 @@
         "age": "12h ago"
       },
       {
-        "rank": 4,
-        "id": 48651906,
-        "title": "Ask HN: What home printer do you use/recommend?",
-        "url": "https://news.ycombinator.com/item?id=48651906",
-        "discussion_url": "https://news.ycombinator.com/item?id=48651906",
-        "site": "news.ycombinator.com",
-        "points": 11,
-        "comments": 13,
-        "author": "niyazpk",
-        "age": "11h ago"
-      },
-      {
         "rank": 5,
         "id": 48645072,
         "title": "Ask HN: Am I missing something with AI",
         "url": "https://news.ycombinator.com/item?id=48645072",
         "discussion_url": "https://news.ycombinator.com/item?id=48645072",
         "site": "news.ycombinator.com",
-        "points": 6,
+        "points": 7,
         "comments": 10,
         "author": "vasko",
-        "age": "19h ago"
+        "age": "20h ago"
       }
     ],
     "show": [
@@ -808,8 +808,8 @@
         "url": "https://glyphcss.com",
         "discussion_url": "https://news.ycombinator.com/item?id=48612025",
         "site": "glyphcss.com",
-        "points": 126,
-        "comments": 37,
+        "points": 133,
+        "comments": 39,
         "author": "apresmoi",
         "age": "3d ago"
       },
@@ -820,8 +820,8 @@
         "url": "https://tikz.dev/editor/",
         "discussion_url": "https://news.ycombinator.com/item?id=48645437",
         "site": "tikz.dev",
-        "points": 390,
-        "comments": 71,
+        "points": 393,
+        "comments": 72,
         "author": "DominikPeters",
         "age": "19h ago"
       },
@@ -832,8 +832,8 @@
         "url": "https://github.com/webofmarius/SQLJoiner",
         "discussion_url": "https://news.ycombinator.com/item?id=48627283",
         "site": "github.com",
-        "points": 9,
-        "comments": 2,
+        "points": 10,
+        "comments": 4,
         "author": "matei88",
         "age": "2d ago"
       },
@@ -856,7 +856,7 @@
         "url": "https://fastubu.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48631681",
         "site": "fastubu.com",
-        "points": 37,
+        "points": 38,
         "comments": 4,
         "author": "lukeigel",
         "age": "1d ago"
