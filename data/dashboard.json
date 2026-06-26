@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-26T22:00:25Z",
+  "generated": "2026-06-26T23:07:53Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 985,
+        "trending_score": 990,
         "downloads": 134146,
-        "likes": 1029,
+        "likes": 1034,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -25,7 +25,7 @@
         "org": "zai-org",
         "trending_score": 904,
         "downloads": 83589,
-        "likes": 2586,
+        "likes": 2587,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-        "org": "yuxinlu1",
-        "trending_score": 535,
-        "downloads": 186663,
-        "likes": 680,
-        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-        "tags": [
-          "gguf",
-          "gemma4",
-          "coding",
-          "agentic",
-          "terminal"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 533,
+        "trending_score": 537,
         "downloads": 486810,
-        "likes": 575,
+        "likes": 579,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+        "org": "yuxinlu1",
+        "trending_score": 533,
+        "downloads": 186663,
+        "likes": 682,
+        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+        "tags": [
+          "gguf",
+          "gemma4",
+          "coding",
+          "agentic",
+          "terminal"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "org": "yuxinlu1",
-        "trending_score": 476,
+        "trending_score": 472,
         "downloads": 516333,
-        "likes": 2394,
+        "likes": 2396,
         "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
         "tags": [
           "gguf",
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 67.3025041533522,
+        "speed_tps": 67.7457716772107,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.1275095349873,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 72.6074794328358,
+        "speed_tps": 71.3501722563503,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       }
@@ -311,7 +311,7 @@
         "name": "simplex-chat/simplex-chat",
         "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
         "url": "https://github.com/simplex-chat/simplex-chat",
-        "stars": 12452,
+        "stars": 12486,
         "stars_delta": 191,
         "language": "Haskell",
         "language_color": "#5e5086"
@@ -321,7 +321,7 @@
         "name": "google-labs-code/design.md",
         "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
         "url": "https://github.com/google-labs-code/design.md",
-        "stars": 21112,
+        "stars": 21171,
         "stars_delta": 2319,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "commaai/openpilot",
         "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
         "url": "https://github.com/commaai/openpilot",
-        "stars": 61754,
+        "stars": 61769,
         "stars_delta": 67,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 3374,
+        "stars": 3400,
         "stars_delta": 412,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -351,7 +351,7 @@
         "name": "grafana/grafana",
         "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
         "url": "https://github.com/grafana/grafana",
-        "stars": 74860,
+        "stars": 74880,
         "stars_delta": 17,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 23506,
+        "stars": 23548,
         "stars_delta": 15793,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 15533,
+        "stars": 15583,
         "stars_delta": 8024,
         "language": "C",
         "language_color": "#555555"
@@ -383,7 +383,7 @@
         "name": "BuilderIO/agent-native",
         "description": "A framework for building agent-native applications.",
         "url": "https://github.com/BuilderIO/agent-native",
-        "stars": 2518,
+        "stars": 2529,
         "stars_delta": 1588,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 3374,
+        "stars": 3400,
         "stars_delta": 1426,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "penpot/penpot",
         "description": "Penpot: The open-source design tool for design and code collaboration",
         "url": "https://github.com/penpot/penpot",
-        "stars": 53945,
+        "stars": 53951,
         "stars_delta": 3379,
         "language": "Clojure",
         "language_color": "#db5855"
@@ -415,7 +415,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 43672,
+        "stars": 43685,
         "stars_delta": 16509,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 93180,
+        "stars": 93192,
         "stars_delta": 35397,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 23506,
+        "stars": 23548,
         "stars_delta": 17703,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 15533,
+        "stars": 15583,
         "stars_delta": 11956,
         "language": "C",
         "language_color": "#555555"
@@ -455,7 +455,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 42263,
+        "stars": 42293,
         "stars_delta": 20822,
         "language": "Python",
         "language_color": "#3572A5"
@@ -684,10 +684,10 @@
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "discussion_url": "https://news.ycombinator.com/item?id=48689028",
         "site": "openai.com",
-        "points": 666,
-        "comments": 406,
+        "points": 729,
+        "comments": 453,
         "author": "minimaxir",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -696,10 +696,10 @@
         "url": "https://github.com/Tessil/hopscotch-map",
         "discussion_url": "https://news.ycombinator.com/item?id=48692090",
         "site": "github.com",
-        "points": 17,
-        "comments": 1,
+        "points": 35,
+        "comments": 2,
         "author": "gjvc",
-        "age": "41m ago"
+        "age": "1h ago"
       },
       {
         "rank": 3,
@@ -708,10 +708,10 @@
         "url": "https://blog.doubleword.ai/frontier-os-llm",
         "discussion_url": "https://news.ycombinator.com/item?id=48692058",
         "site": "blog.doubleword.ai",
-        "points": 23,
-        "comments": 10,
+        "points": 69,
+        "comments": 48,
         "author": "kkm",
-        "age": "45m ago"
+        "age": "1h ago"
       },
       {
         "rank": 4,
@@ -720,10 +720,10 @@
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "discussion_url": "https://news.ycombinator.com/item?id=48690101",
         "site": "washingtonpost.com",
-        "points": 578,
-        "comments": 728,
+        "points": 681,
+        "comments": 818,
         "author": "alain94040",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -732,8 +732,8 @@
         "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
         "discussion_url": "https://news.ycombinator.com/item?id=48642510",
         "site": "aws.amazon.com",
-        "points": 213,
-        "comments": 126,
+        "points": 224,
+        "comments": 134,
         "author": "justincormack",
         "age": "3d ago"
       }
@@ -741,18 +741,42 @@
     "ask": [
       {
         "rank": 1,
+        "id": 48692474,
+        "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+        "url": "https://news.ycombinator.com/item?id=48692474",
+        "discussion_url": "https://news.ycombinator.com/item?id=48692474",
+        "site": "news.ycombinator.com",
+        "points": 25,
+        "comments": 22,
+        "author": "gcanyon",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48687769,
         "title": "Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
         "url": "https://news.ycombinator.com/item?id=48687769",
         "discussion_url": "https://news.ycombinator.com/item?id=48687769",
         "site": "news.ycombinator.com",
-        "points": 42,
-        "comments": 60,
+        "points": 43,
+        "comments": 63,
         "author": "oscgam1",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 48692779,
+        "title": "Tell Zillow: Fee-Simple vs. Leasehold Filter",
+        "url": "https://news.ycombinator.com/item?id=48692779",
+        "discussion_url": "https://news.ycombinator.com/item?id=48692779",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "HoldOnAMinute",
+        "age": "42m ago"
+      },
+      {
+        "rank": 4,
         "id": 48691972,
         "title": "Ask HN: Which AI concepts are here to stay, and which will churn?",
         "url": "https://news.ycombinator.com/item?id=48691972",
@@ -761,43 +785,19 @@
         "points": 3,
         "comments": 3,
         "author": "datsci_est_2015",
-        "age": "53m ago"
+        "age": "2h ago"
       },
       {
-        "rank": 3,
-        "id": 48691675,
-        "title": "Ask HN: Techniques for learning things quickly using coding agents?",
-        "url": "https://news.ycombinator.com/item?id=48691675",
-        "discussion_url": "https://news.ycombinator.com/item?id=48691675",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "throwaw12",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "id": 48690591,
         "title": "Roblox parental controls are a dystopian security disaster",
         "url": "https://news.ycombinator.com/item?id=48690591",
         "discussion_url": "https://news.ycombinator.com/item?id=48690591",
         "site": "news.ycombinator.com",
-        "points": 7,
+        "points": 8,
         "comments": 3,
         "author": "notsure357",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48668199,
-        "title": "Ask HN: Where is the programming profession going?",
-        "url": "https://news.ycombinator.com/item?id=48668199",
-        "discussion_url": "https://news.ycombinator.com/item?id=48668199",
-        "site": "news.ycombinator.com",
-        "points": 133,
-        "comments": 147,
-        "author": "syntaxbush",
-        "age": "1d ago"
+        "age": "4h ago"
       }
     ],
     "show": [
@@ -808,10 +808,10 @@
         "url": "https://github.com/workweave/router",
         "discussion_url": "https://news.ycombinator.com/item?id=48688700",
         "site": "github.com",
-        "points": 112,
-        "comments": 79,
+        "points": 130,
+        "comments": 81,
         "author": "adchurch",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -820,7 +820,7 @@
         "url": "https://github.com/neospe/autofit2",
         "discussion_url": "https://news.ycombinator.com/item?id=48673527",
         "site": "github.com",
-        "points": 5,
+        "points": 10,
         "comments": 0,
         "author": "leschak",
         "age": "1d ago"
@@ -832,7 +832,7 @@
         "url": "https://github.com/DDecoene/WebBaseIII",
         "discussion_url": "https://news.ycombinator.com/item?id=48656986",
         "site": "github.com",
-        "points": 70,
+        "points": 75,
         "comments": 25,
         "author": "ddecoene",
         "age": "2d ago"
@@ -847,7 +847,7 @@
         "points": 4,
         "comments": 0,
         "author": "bkazez",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -856,8 +856,8 @@
         "url": "https://github.com/inkeep/open-knowledge",
         "discussion_url": "https://news.ycombinator.com/item?id=48675435",
         "site": "github.com",
-        "points": 359,
-        "comments": 167,
+        "points": 360,
+        "comments": 168,
         "author": "engomez",
         "age": "1d ago"
       }
