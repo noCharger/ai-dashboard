@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-29T12:55:31Z",
+  "generated": "2026-06-29T16:32:15Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 1180,
+        "trending_score": 1173,
         "downloads": 362945,
-        "likes": 1318,
+        "likes": 1341,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 785,
+        "trending_score": 775,
         "downloads": 133350,
-        "likes": 2883,
+        "likes": 2903,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 705,
+        "trending_score": 713,
         "downloads": 907682,
-        "likes": 868,
+        "likes": 896,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-        "org": "yuxinlu1",
-        "trending_score": 441,
-        "downloads": 241409,
-        "likes": 824,
-        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-        "tags": [
-          "gguf",
-          "gemma4",
-          "coding",
-          "agentic",
-          "terminal"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
         "org": "deepreinforce-ai",
-        "trending_score": 428,
+        "trending_score": 437,
         "downloads": 123598,
-        "likes": 442,
+        "likes": 452,
         "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "text-generation",
           "license:mit",
           "endpoints_compatible"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+        "org": "yuxinlu1",
+        "trending_score": 426,
+        "downloads": 241409,
+        "likes": 831,
+        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+        "tags": [
+          "gguf",
+          "gemma4",
+          "coding",
+          "agentic",
+          "terminal"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "simplex-chat/simplex-chat",
         "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
         "url": "https://github.com/simplex-chat/simplex-chat",
-        "stars": 15985,
+        "stars": 16241,
         "stars_delta": 1611,
         "language": "Haskell",
         "language_color": "#5e5086"
@@ -321,7 +321,7 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 118306,
+        "stars": 118594,
         "stars_delta": 1221,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "cupy/cupy",
         "description": "NumPy & SciPy for GPU",
         "url": "https://github.com/cupy/cupy",
-        "stars": 11698,
+        "stars": 11751,
         "stars_delta": 352,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "altic-dev/FluidVoice",
         "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
         "url": "https://github.com/altic-dev/FluidVoice",
-        "stars": 4112,
+        "stars": 4219,
         "stars_delta": 836,
         "language": "Swift",
         "language_color": "#F05138"
@@ -351,7 +351,7 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 34123,
+        "stars": 34213,
         "stars_delta": 191,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 28032,
+        "stars": 28252,
         "stars_delta": 18703,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 20796,
+        "stars": 21092,
         "stars_delta": 8926,
         "language": "C",
         "language_color": "#555555"
@@ -383,7 +383,7 @@
         "name": "google-labs-code/design.md",
         "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
         "url": "https://github.com/google-labs-code/design.md",
-        "stars": 23085,
+        "stars": 23126,
         "stars_delta": 6728,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "simplex-chat/simplex-chat",
         "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
         "url": "https://github.com/simplex-chat/simplex-chat",
-        "stars": 15985,
+        "stars": 16241,
         "stars_delta": 3218,
         "language": "Haskell",
         "language_color": "#5e5086"
@@ -403,7 +403,7 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 4216,
+        "stars": 4261,
         "stars_delta": 2449,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -415,7 +415,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 44584,
+        "stars": 44652,
         "stars_delta": 17676,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 20796,
+        "stars": 21092,
         "stars_delta": 16051,
         "language": "C",
         "language_color": "#555555"
@@ -435,7 +435,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 28032,
+        "stars": 28252,
         "stars_delta": 22408,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 45267,
+        "stars": 45479,
         "stars_delta": 23835,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 47561,
+        "stars": 47605,
         "stars_delta": 20899,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,10 +531,10 @@
         ],
         "url": "https://huggingface.co/papers/2606.23050",
         "categories": [],
-        "upvotes": 40,
+        "upvotes": 41,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 11675
+        "github_stars": 11916
       },
       {
         "rank": 2,
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "A decoder-only foundation model for time-series forecasting",
+        "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
         "authors": [
-          "Abhimanyu Das",
-          "Weihao Kong",
-          "Rajat Sen"
+          "Chuanrui Hu",
+          "Xingze Gao",
+          "Zuyi Zhou"
         ],
-        "url": "https://huggingface.co/papers/2310.10688",
+        "url": "https://huggingface.co/papers/2601.02163",
         "categories": [],
-        "upvotes": 37,
-        "published": "2023-10-14",
-        "github_repo": "https://github.com/google-research/timesfm",
-        "github_stars": 26102
+        "upvotes": 9,
+        "published": "2026-01-05",
+        "github_repo": "https://github.com/EverMind-AI/EverMemOS",
+        "github_stars": 9708
       }
     ],
     "arxiv_recent": [
@@ -683,92 +683,116 @@
     "top": [
       {
         "rank": 1,
-        "id": 48717287,
-        "title": "Sandia National Labs SA3000 8085 CPU",
-        "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48717287",
-        "site": "cpushack.com",
-        "points": 56,
-        "comments": 9,
-        "author": "rbanffy",
+        "id": 48719485,
+        "title": "Rocketlab acquires Iridium",
+        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "discussion_url": "https://news.ycombinator.com/item?id=48719485",
+        "site": "investors.rocketlabcorp.com",
+        "points": 117,
+        "comments": 59,
+        "author": "everfrustrated",
         "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 48713832,
-        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-        "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-        "discussion_url": "https://news.ycombinator.com/item?id=48713832",
-        "site": "danunparsed.com",
-        "points": 624,
-        "comments": 261,
-        "author": "sambellll",
-        "age": "11h ago"
+        "id": 48720190,
+        "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+        "url": "https://humphri.es/blog/WATaBoy/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48720190",
+        "site": "humphri.es",
+        "points": 59,
+        "comments": 5,
+        "author": "energeticbark",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 48709670,
-        "title": "GLM 5.2 beats Claude in our benchmarks",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48709670",
-        "site": "semgrep.dev",
-        "points": 930,
-        "comments": 426,
-        "author": "jms703",
-        "age": "19h ago"
+        "id": 48719361,
+        "title": "CachyOS June 2026 Release",
+        "url": "https://cachyos.org/blog/2606-june-release/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48719361",
+        "site": "cachyos.org",
+        "points": 55,
+        "comments": 27,
+        "author": "simonpure",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 48716902,
-        "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-        "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48716902",
-        "site": "blog.pragmaticengineer.com",
-        "points": 401,
-        "comments": 50,
-        "author": "taubek",
+        "id": 48718863,
+        "title": "What happens when you run a CUDA kernel?",
+        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48718863",
+        "site": "fergusfinn.com",
+        "points": 88,
+        "comments": 5,
+        "author": "mezark",
         "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 48662018,
-        "title": "NUMA: Cores, memory, and the distance between them",
-        "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-        "discussion_url": "https://news.ycombinator.com/item?id=48662018",
-        "site": "edera.dev",
-        "points": 53,
-        "comments": 8,
-        "author": "sys_call",
-        "age": "4d ago"
+        "id": 48720758,
+        "title": "A native graphical shell for SSH",
+        "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48720758",
+        "site": "probablymarcus.com",
+        "points": 13,
+        "comments": 0,
+        "author": "mrcslws",
+        "age": "49m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 48715654,
-        "title": "SVG Recolor Tool – Change Color of SVG Online – Free Color Tool",
-        "url": "https://news.ycombinator.com/item?id=48715654",
-        "discussion_url": "https://news.ycombinator.com/item?id=48715654",
+        "id": 48720665,
+        "title": "Ask HN: Homeless, Former Software Developer, What Now?",
+        "url": "https://news.ycombinator.com/item?id=48720665",
+        "discussion_url": "https://news.ycombinator.com/item?id=48720665",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 2,
-        "author": "freecolortool",
-        "age": "6h ago"
+        "points": 9,
+        "comments": 4,
+        "author": "current_robot",
+        "age": "56m ago"
       },
       {
         "rank": 2,
+        "id": 48720627,
+        "title": "Ask HN: How do you handle QA at a startup with no QA team? Genuinely curious",
+        "url": "https://news.ycombinator.com/item?id=48720627",
+        "discussion_url": "https://news.ycombinator.com/item?id=48720627",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "ovi_firstqa",
+        "age": "58m ago"
+      },
+      {
+        "rank": 3,
         "id": 48668199,
         "title": "Ask HN: Where is the programming profession going?",
         "url": "https://news.ycombinator.com/item?id=48668199",
         "discussion_url": "https://news.ycombinator.com/item?id=48668199",
         "site": "news.ycombinator.com",
-        "points": 155,
+        "points": 157,
         "comments": 168,
         "author": "syntaxbush",
         "age": "4d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 48692474,
+        "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+        "url": "https://news.ycombinator.com/item?id=48692474",
+        "discussion_url": "https://news.ycombinator.com/item?id=48692474",
+        "site": "news.ycombinator.com",
+        "points": 104,
+        "comments": 44,
+        "author": "gcanyon",
+        "age": "2d ago"
+      },
+      {
+        "rank": 5,
         "id": 48711408,
         "title": "Ask HN: Books about Genetic Algorithms",
         "url": "https://news.ycombinator.com/item?id=48711408",
@@ -777,92 +801,68 @@
         "points": 14,
         "comments": 7,
         "author": "andyjohnson0",
-        "age": "16h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48711261,
-        "title": "Ask HN: What do SRE do at your company?",
-        "url": "https://news.ycombinator.com/item?id=48711261",
-        "discussion_url": "https://news.ycombinator.com/item?id=48711261",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 8,
-        "author": "petemc_",
-        "age": "16h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48692474,
-        "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-        "url": "https://news.ycombinator.com/item?id=48692474",
-        "discussion_url": "https://news.ycombinator.com/item?id=48692474",
-        "site": "news.ycombinator.com",
-        "points": 103,
-        "comments": 44,
-        "author": "gcanyon",
-        "age": "2d ago"
+        "age": "19h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48718498,
-        "title": "Show HN: Running a vision model on every screenshot on-device",
-        "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
-        "discussion_url": "https://news.ycombinator.com/item?id=48718498",
-        "site": "github.com",
-        "points": 8,
-        "comments": 0,
-        "author": "alexkarpathy",
-        "age": "15m ago"
+        "id": 48720506,
+        "title": "Show HN: macOS Native Markdown Reader with Vim Keybinding Using Swift",
+        "url": "https://code.intellios.ai/cwmarkdown/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48720506",
+        "site": "code.intellios.ai",
+        "points": 3,
+        "comments": 1,
+        "author": "coolwulf",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 48718435,
-        "title": "Show HN: Lorentzian CSS Duality in Causal Diamond Quantum Error-Correcting Codes",
-        "url": "https://github.com/ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes",
-        "discussion_url": "https://news.ycombinator.com/item?id=48718435",
+        "id": 48719795,
+        "title": "Show HN: A fast hex dumper, written in Rust",
+        "url": "https://github.com/CallMeAlphabet/fasthex",
+        "discussion_url": "https://news.ycombinator.com/item?id=48719795",
         "site": "github.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
-        "author": "ynnk",
-        "age": "22m ago"
+        "author": "CallMeAlphabet",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 48708182,
-        "title": "Show HN: Zanagrams",
-        "url": "https://zanagrams.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48708182",
-        "site": "zanagrams.com",
-        "points": 318,
-        "comments": 80,
-        "author": "pompomsheep",
-        "age": "21h ago"
+        "id": 48719687,
+        "title": "Show HN: Uselink – publish and collaborate on AI-generated HTML",
+        "url": "https://uselink.app:443/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48719687",
+        "site": "uselink.app",
+        "points": 2,
+        "comments": 0,
+        "author": "nathanjryc",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 48709186,
-        "title": "Show HN: DRM-Free Books",
-        "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48709186",
-        "site": "frequal.com",
-        "points": 103,
-        "comments": 39,
-        "author": "TeaVMFan",
-        "age": "19h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48716710,
-        "title": "Show HN: Sidequest is a better /btw for Pi",
-        "url": "https://github.com/peterp/pi-sidequest",
-        "discussion_url": "https://news.ycombinator.com/item?id=48716710",
+        "id": 48719602,
+        "title": "Show HN: Klorn–I built an email firewall because every AI inbox made mine louder",
+        "url": "https://github.com/k08200/klorn",
+        "discussion_url": "https://news.ycombinator.com/item?id=48719602",
         "site": "github.com",
         "points": 2,
         "comments": 0,
-        "author": "pistoriusp",
+        "author": "k08200",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48718992,
+        "title": "Show HN: Backtest a futures strategy described in plain English",
+        "url": "https://askfutures.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48718992",
+        "site": "askfutures.com",
+        "points": 5,
+        "comments": 1,
+        "author": "jmulla",
         "age": "3h ago"
       }
     ]
