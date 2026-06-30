@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-29T23:52:01Z",
+  "generated": "2026-06-30T02:06:54Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 1138,
+        "trending_score": 1112,
         "downloads": 362945,
-        "likes": 1364,
+        "likes": 1372,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "zai-org/GLM-5.2",
-        "org": "zai-org",
-        "trending_score": 744,
-        "downloads": 133350,
-        "likes": 2930,
-        "url": "https://huggingface.co/zai-org/GLM-5.2",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "glm_moe_dsa",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 737,
+        "trending_score": 743,
         "downloads": 907682,
-        "likes": 938,
+        "likes": 951,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "zai-org/GLM-5.2",
+        "org": "zai-org",
+        "trending_score": 740,
+        "downloads": 133350,
+        "likes": 2942,
+        "url": "https://huggingface.co/zai-org/GLM-5.2",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm_moe_dsa",
+          "text-generation",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
         "org": "deepreinforce-ai",
-        "trending_score": 464,
+        "trending_score": 467,
         "downloads": 123598,
-        "likes": 480,
+        "likes": 483,
         "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Qwen/Qwen-AgentWorld-35B-A3B",
         "org": "Qwen",
-        "trending_score": 415,
+        "trending_score": 418,
         "downloads": 26223,
-        "likes": 434,
+        "likes": 438,
         "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
         "tags": [
           "transformers",
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 80.1494912248041,
+        "speed_tps": 79.3752743242299,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5296569524586,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 50.3999165468747,
+        "speed_tps": 50.7673249872412,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.1275095349873,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 72.5140241457241,
+        "speed_tps": 70.6989406376501,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5-high"
       }
@@ -311,8 +311,8 @@
         "name": "simplex-chat/simplex-chat",
         "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
         "url": "https://github.com/simplex-chat/simplex-chat",
-        "stars": 16539,
-        "stars_delta": 1611,
+        "stars": 16654,
+        "stars_delta": 1607,
         "language": "Haskell",
         "language_color": "#5e5086"
       },
@@ -321,8 +321,8 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 118837,
-        "stars_delta": 1369,
+        "stars": 118980,
+        "stars_delta": 1425,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,7 +331,7 @@
         "name": "cupy/cupy",
         "description": "NumPy & SciPy for GPU",
         "url": "https://github.com/cupy/cupy",
-        "stars": 11812,
+        "stars": 11840,
         "stars_delta": 352,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,8 +341,8 @@
         "name": "altic-dev/FluidVoice",
         "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
         "url": "https://github.com/altic-dev/FluidVoice",
-        "stars": 4365,
-        "stars_delta": 836,
+        "stars": 4423,
+        "stars_delta": 830,
         "language": "Swift",
         "language_color": "#F05138"
       },
@@ -351,8 +351,8 @@
         "name": "soxoj/maigret",
         "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "url": "https://github.com/soxoj/maigret",
-        "stars": 34351,
-        "stars_delta": 191,
+        "stars": 34410,
+        "stars_delta": 224,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,8 +363,8 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 28517,
-        "stars_delta": 18703,
+        "stars": 28664,
+        "stars_delta": 17483,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 21407,
-        "stars_delta": 8926,
+        "stars": 21536,
+        "stars_delta": 9899,
         "language": "C",
         "language_color": "#555555"
       },
@@ -383,8 +383,8 @@
         "name": "google-labs-code/design.md",
         "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
         "url": "https://github.com/google-labs-code/design.md",
-        "stars": 23189,
-        "stars_delta": 6728,
+        "stars": 23217,
+        "stars_delta": 7104,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "simplex-chat/simplex-chat",
         "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
         "url": "https://github.com/simplex-chat/simplex-chat",
-        "stars": 16539,
-        "stars_delta": 3218,
+        "stars": 16654,
+        "stars_delta": 4847,
         "language": "Haskell",
         "language_color": "#5e5086"
       },
@@ -403,8 +403,8 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 4325,
-        "stars_delta": 2449,
+        "stars": 4341,
+        "stars_delta": 2677,
         "language": "Go",
         "language_color": "#00ADD8"
       }
@@ -415,8 +415,8 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 44762,
-        "stars_delta": 17676,
+        "stars": 44785,
+        "stars_delta": 18123,
         "language": "Swift",
         "language_color": "#F05138"
       },
@@ -425,8 +425,8 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 21407,
-        "stars_delta": 16051,
+        "stars": 21536,
+        "stars_delta": 18196,
         "language": "C",
         "language_color": "#555555"
       },
@@ -435,8 +435,8 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 28517,
-        "stars_delta": 22408,
+        "stars": 28664,
+        "stars_delta": 24187,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 45715,
-        "stars_delta": 23835,
+        "stars": 45860,
+        "stars_delta": 25059,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -455,8 +455,8 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 47672,
-        "stars_delta": 20899,
+        "stars": 47696,
+        "stars_delta": 21128,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "A decoder-only foundation model for time-series forecasting",
+        "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
         "authors": [
-          "Abhimanyu Das",
-          "Weihao Kong",
-          "Rajat Sen"
+          "Chuanrui Hu",
+          "Xingze Gao",
+          "Zuyi Zhou"
         ],
-        "url": "https://huggingface.co/papers/2310.10688",
+        "url": "https://huggingface.co/papers/2601.02163",
         "categories": [],
-        "upvotes": 37,
-        "published": "2023-10-14",
-        "github_repo": "https://github.com/google-research/timesfm",
-        "github_stars": 26142
+        "upvotes": 9,
+        "published": "2026-01-05",
+        "github_repo": "https://github.com/EverMind-AI/EverMemOS",
+        "github_stars": 9753
       }
     ],
     "arxiv_recent": [
@@ -688,10 +688,10 @@
         "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
         "discussion_url": "https://news.ycombinator.com/item?id=48724230",
         "site": "hccf.onmy.cloud",
-        "points": 241,
-        "comments": 149,
+        "points": 334,
+        "comments": 193,
         "author": "HumanCCF",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -700,10 +700,10 @@
         "url": "https://quesma.com/blog/qwen-36-is-awesome/",
         "discussion_url": "https://news.ycombinator.com/item?id=48721903",
         "site": "quesma.com",
-        "points": 541,
-        "comments": 471,
+        "points": 613,
+        "comments": 513,
         "author": "stared",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
@@ -712,51 +712,39 @@
         "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
         "discussion_url": "https://news.ycombinator.com/item?id=48698908",
         "site": "weblog.rogueamoeba.com",
-        "points": 123,
-        "comments": 23,
+        "points": 221,
+        "comments": 57,
         "author": "zdw",
         "age": "2d ago"
       },
       {
         "rank": 4,
-        "id": 48726073,
-        "title": "Scientists find molecular-level evidence for two structures in liquid water",
-        "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48726073",
-        "site": "phys.org",
-        "points": 33,
-        "comments": 6,
-        "author": "wglb",
+        "id": 48727177,
+        "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+        "url": "https://fil-c.org/context_switches",
+        "discussion_url": "https://news.ycombinator.com/item?id=48727177",
+        "site": "fil-c.org",
+        "points": 23,
+        "comments": 7,
+        "author": "modeless",
         "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 48719485,
-        "title": "Rocketlab acquires Iridium",
-        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-        "discussion_url": "https://news.ycombinator.com/item?id=48719485",
-        "site": "investors.rocketlabcorp.com",
-        "points": 340,
-        "comments": 217,
-        "author": "everfrustrated",
-        "age": "9h ago"
+        "id": 48727323,
+        "title": "Exploring PDP-1 Lisp (1960)",
+        "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48727323",
+        "site": "obsolescence.dev",
+        "points": 14,
+        "comments": 10,
+        "author": "ozymandiax",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 48725972,
-        "title": "Please pause the data center buildout",
-        "url": "https://news.ycombinator.com/item?id=48725972",
-        "discussion_url": "https://news.ycombinator.com/item?id=48725972",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 5,
-        "author": "DaveZale",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 48723854,
         "title": "Build an agent first Kanban board",
         "url": "https://news.ycombinator.com/item?id=48723854",
@@ -765,34 +753,34 @@
         "points": 3,
         "comments": 0,
         "author": "moose6912",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 48725218,
         "title": "Ask HN: Mullvad Alternatives?",
         "url": "https://news.ycombinator.com/item?id=48725218",
         "discussion_url": "https://news.ycombinator.com/item?id=48725218",
         "site": "news.ycombinator.com",
-        "points": 11,
-        "comments": 5,
+        "points": 12,
+        "comments": 6,
         "author": "rpastuszak",
-        "age": "2h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 48721442,
         "title": "Is aerc better than neomutt now?",
         "url": "https://news.ycombinator.com/item?id=48721442",
         "discussion_url": "https://news.ycombinator.com/item?id=48721442",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 1,
         "author": "hardikxk",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48720665,
         "title": "Ask HN: Homeless, Former Software Developer, What Now?",
         "url": "https://news.ycombinator.com/item?id=48720665",
@@ -801,12 +789,48 @@
         "points": 11,
         "comments": 9,
         "author": "current_robot",
-        "age": "8h ago"
+        "age": "10h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48720627,
+        "title": "Ask HN: How do you handle QA at a startup with no QA team? Genuinely curious",
+        "url": "https://news.ycombinator.com/item?id=48720627",
+        "discussion_url": "https://news.ycombinator.com/item?id=48720627",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 9,
+        "author": "ovi_firstqa",
+        "age": "10h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 48727448,
+        "title": "Show HN: Agentic Orchestrator, a TUI for long-running coding agents",
+        "url": "https://github.com/doordash-oss/agentic-orchestrator",
+        "discussion_url": "https://news.ycombinator.com/item?id=48727448",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "ivrr",
+        "age": "52m ago"
+      },
+      {
+        "rank": 2,
+        "id": 48727140,
+        "title": "Show HN: AMA2, messenger built for AI agent",
+        "url": "https://ama2.me/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48727140",
+        "site": "ama2.me",
+        "points": 2,
+        "comments": 0,
+        "author": "ejhooooon",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 48726461,
         "title": "Show HN: Vibe zsh, turn natural language into shell commands",
         "url": "https://github.com/skymoore/vibe-zsh",
@@ -815,10 +839,10 @@
         "points": 2,
         "comments": 0,
         "author": "iamsky",
-        "age": "50m ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "id": 48726376,
         "title": "Show HN: Hawkeye – local code search for MS/Linux, fast 500k+ file codebase",
         "url": "https://www.zaragsoft.se",
@@ -827,10 +851,10 @@
         "points": 2,
         "comments": 0,
         "author": "hawkeye_zarag",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 48725623,
         "title": "Show HN: ForthWrite – Email AI that learns your voice from every edit you send",
         "url": "https://www.forthwrite.ai/blog/how-forthwrite-learns-your-email-voice",
@@ -839,31 +863,7 @@
         "points": 3,
         "comments": 0,
         "author": "curtisboortz",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48725572,
-        "title": "Show HN: Zenith: sota harness for normal models to beat Fable on FrontierSWE",
-        "url": "https://ii.inc/blog/post/zenith",
-        "discussion_url": "https://news.ycombinator.com/item?id=48725572",
-        "site": "ii.inc",
-        "points": 3,
-        "comments": 0,
-        "author": "emadm",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48725477,
-        "title": "Show HN: Kew, A distraction-free terminal music player, now on Windows",
-        "url": "https://github.com/ravachol/kew",
-        "discussion_url": "https://news.ycombinator.com/item?id=48725477",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "ravachol",
-        "age": "2h ago"
+        "age": "4h ago"
       }
     ]
   }
