@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-01T22:11:42Z",
+  "generated": "2026-07-02T00:01:05Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 776,
+        "trending_score": 766,
         "downloads": 630246,
-        "likes": 1570,
+        "likes": 1573,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 730,
+        "trending_score": 729,
         "downloads": 1113871,
-        "likes": 1143,
+        "likes": 1148,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 672,
+        "trending_score": 671,
         "downloads": 159967,
-        "likes": 3165,
+        "likes": 3168,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
         "org": "deepreinforce-ai",
-        "trending_score": 579,
+        "trending_score": 584,
         "downloads": 233701,
-        "likes": 604,
+        "likes": 609,
         "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Qwen/Qwen-AgentWorld-35B-A3B",
-        "org": "Qwen",
-        "trending_score": 348,
-        "downloads": 34371,
-        "likes": 495,
-        "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+        "name": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+        "org": "deepreinforce-ai",
+        "trending_score": 345,
+        "downloads": 191409,
+        "likes": 365,
+        "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
         "tags": [
           "transformers",
-          "safetensors",
-          "qwen3_5_moe",
-          "image-text-to-text",
-          "qwen"
+          "gguf",
+          "text-generation",
+          "license:mit",
+          "endpoints_compatible"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": "$undefined",
+        "speed_tps": 72.6483894188676,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 75.6028870503462,
+        "speed_tps": 76.6437737105776,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5296569524586,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 49.4983849287724,
+        "speed_tps": 49.6198721063069,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.3500026989169,
         "price_input": 3,
         "price_output": 15,
-        "speed_tps": 78.1333107477123,
+        "speed_tps": 78.4949490122744,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5"
       }
@@ -311,8 +311,8 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 123215,
-        "stars_delta": 2097,
+        "stars": 123323,
+        "stars_delta": 2114,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -321,8 +321,8 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 29570,
-        "stars_delta": 1195,
+        "stars": 29661,
+        "stars_delta": 1211,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "HKUDS/Vibe-Trading",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "url": "https://github.com/HKUDS/Vibe-Trading",
-        "stars": 16468,
-        "stars_delta": 682,
+        "stars": 16503,
+        "stars_delta": 694,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,8 +341,8 @@
         "name": "hasaneyldrm/exercises-dataset",
         "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
         "url": "https://github.com/hasaneyldrm/exercises-dataset",
-        "stars": 8331,
-        "stars_delta": 2203,
+        "stars": 8380,
+        "stars_delta": 2470,
         "language": "HTML",
         "language_color": "#e34c26"
       },
@@ -351,8 +351,8 @@
         "name": "facebook/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/facebook/astryx",
-        "stars": 2522,
-        "stars_delta": 714,
+        "stars": 2603,
+        "stars_delta": 708,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "xbtlin/ai-berkshire",
         "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
         "url": "https://github.com/xbtlin/ai-berkshire",
-        "stars": 8096,
-        "stars_delta": 6726,
+        "stars": 8107,
+        "stars_delta": 6758,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "simplex-chat/simplex-chat",
         "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
         "url": "https://github.com/simplex-chat/simplex-chat",
-        "stars": 17549,
-        "stars_delta": 5995,
+        "stars": 17551,
+        "stars_delta": 6289,
         "language": "Haskell",
         "language_color": "#5e5086"
       },
@@ -383,8 +383,8 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 30803,
-        "stars_delta": 15353,
+        "stars": 30846,
+        "stars_delta": 12624,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "google-labs-code/design.md",
         "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
         "url": "https://github.com/google-labs-code/design.md",
-        "stars": 24008,
-        "stars_delta": 7524,
+        "stars": 24014,
+        "stars_delta": 7186,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 23742,
-        "stars_delta": 10031,
+        "stars": 23791,
+        "stars_delta": 9697,
         "language": "C",
         "language_color": "#555555"
       }
@@ -415,8 +415,8 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 45627,
-        "stars_delta": 18624,
+        "stars": 45634,
+        "stars_delta": 19052,
         "language": "Swift",
         "language_color": "#F05138"
       },
@@ -425,8 +425,8 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 23742,
-        "stars_delta": 19612,
+        "stars": 23791,
+        "stars_delta": 20690,
         "language": "C",
         "language_color": "#555555"
       },
@@ -435,8 +435,8 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 30803,
-        "stars_delta": 25466,
+        "stars": 30846,
+        "stars_delta": 26509,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 48275,
-        "stars_delta": 26239,
+        "stars": 48316,
+        "stars_delta": 27497,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -455,8 +455,8 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 48222,
-        "stars_delta": 21268,
+        "stars": 48237,
+        "stars_delta": 21484,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -466,7 +466,7 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 74,
+        "stars_28d": 71,
         "total_stars": 116735,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
@@ -477,7 +477,7 @@
         "rank": 2,
         "name": "crewAIInc/crewAI",
         "url": "https://github.com/crewAIInc/crewAI",
-        "stars_28d": 57,
+        "stars_28d": 56,
         "total_stars": 37661,
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "category": "Multi-Agent Orchestration",
@@ -488,7 +488,7 @@
         "rank": 3,
         "name": "mastra-ai/mastra",
         "url": "https://github.com/mastra-ai/mastra",
-        "stars_28d": 34,
+        "stars_28d": 31,
         "total_stars": 16173,
         "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
         "category": "Full-Stack Agent Platform",
@@ -497,23 +497,23 @@
       },
       {
         "rank": 4,
-        "name": "microsoft/autogen",
-        "url": "https://github.com/microsoft/autogen",
-        "stars_28d": 28,
-        "total_stars": 48257,
-        "description": "A programming framework for agentic AI",
-        "category": "Conversational Agents",
+        "name": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stars_28d": 27,
+        "total_stars": 175304,
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "category": "Autonomous Agent Platform",
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "Significant-Gravitas/AutoGPT",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 26,
-        "total_stars": 175302,
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "category": "Autonomous Agent Platform",
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
+        "stars_28d": 27,
+        "total_stars": 48257,
+        "description": "A programming framework for agentic AI",
+        "category": "Conversational Agents",
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -534,7 +534,7 @@
         "upvotes": 44,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 12690
+        "github_stars": 12805
       },
       {
         "rank": 2,
@@ -691,34 +691,34 @@
         "url": "https://zcode.z.ai/en",
         "discussion_url": "https://news.ycombinator.com/item?id=48753715",
         "site": "zcode.z.ai",
-        "points": 23,
-        "comments": 138,
+        "points": 133,
+        "comments": 184,
         "author": "chvid",
-        "age": "8m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 48747304,
-        "title": "For first time, a cell built from scratch grows and divides",
-        "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48747304",
-        "site": "quantamagazine.org",
-        "points": 631,
-        "comments": 217,
-        "author": "defrost",
-        "age": "7h ago"
-      },
-      {
-        "rank": 3,
         "id": 48752905,
         "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
         "url": "https://www.workerowned.info/",
         "discussion_url": "https://news.ycombinator.com/item?id=48752905",
         "site": "workerowned.info",
-        "points": 49,
-        "comments": 10,
+        "points": 150,
+        "comments": 26,
         "author": "IESAI_ski",
-        "age": "1h ago"
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48747304,
+        "title": "For first time, a cell built from scratch grows and divides",
+        "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48747304",
+        "site": "quantamagazine.org",
+        "points": 686,
+        "comments": 235,
+        "author": "defrost",
+        "age": "9h ago"
       },
       {
         "rank": 4,
@@ -727,22 +727,22 @@
         "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
         "discussion_url": "https://news.ycombinator.com/item?id=48750710",
         "site": "blog.demofox.org",
-        "points": 168,
-        "comments": 78,
+        "points": 209,
+        "comments": 109,
         "author": "atan2",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 48747116,
-        "title": "FFmpeg 9.1's new AAC encoder",
-        "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48747116",
-        "site": "hydrogenaudio.org",
-        "points": 214,
-        "comments": 75,
-        "author": "ledoge",
-        "age": "8h ago"
+        "id": 48754155,
+        "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+        "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+        "discussion_url": "https://news.ycombinator.com/item?id=48754155",
+        "site": "news.cuanschutz.edu",
+        "points": 26,
+        "comments": 12,
+        "author": "littlexsparkee",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -753,10 +753,10 @@
         "url": "https://news.ycombinator.com/item?id=48747976",
         "discussion_url": "https://news.ycombinator.com/item?id=48747976",
         "site": "news.ycombinator.com",
-        "points": 132,
-        "comments": 143,
+        "points": 151,
+        "comments": 161,
         "author": "whoishiring",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -765,45 +765,45 @@
         "url": "https://news.ycombinator.com/item?id=48747975",
         "discussion_url": "https://news.ycombinator.com/item?id=48747975",
         "site": "news.ycombinator.com",
-        "points": 91,
-        "comments": 210,
+        "points": 104,
+        "comments": 234,
         "author": "whoishiring",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
-        "id": 48752513,
-        "title": "Ask HN: Who is this Steve T.?",
-        "url": "https://news.ycombinator.com/item?id=48752513",
-        "discussion_url": "https://news.ycombinator.com/item?id=48752513",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 2,
-        "author": "jacobreddy",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48752417,
-        "title": "Tell HN: I'm not excited for Fable and am disappointed in Karpathy",
-        "url": "https://news.ycombinator.com/item?id=48752417",
-        "discussion_url": "https://news.ycombinator.com/item?id=48752417",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 3,
-        "author": "behnamoh",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
         "id": 48753129,
-        "title": "Old Reddit Now Requires Login",
+        "title": "Tell HN: Old Reddit now requires login",
         "url": "https://news.ycombinator.com/item?id=48753129",
         "discussion_url": "https://news.ycombinator.com/item?id=48753129",
         "site": "news.ycombinator.com",
-        "points": 14,
+        "points": 37,
         "comments": 3,
         "author": "jay_kyburz",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48754327,
+        "title": "Ask HN: Line by Line Agentic Coding",
+        "url": "https://news.ycombinator.com/item?id=48754327",
+        "discussion_url": "https://news.ycombinator.com/item?id=48754327",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 4,
+        "author": "notshore",
+        "age": "53m ago"
+      },
+      {
+        "rank": 5,
+        "id": 48754232,
+        "title": "I'm opening VSCode less and less every day",
+        "url": "https://news.ycombinator.com/item?id=48754232",
+        "discussion_url": "https://news.ycombinator.com/item?id=48754232",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 0,
+        "author": "othmanosx",
         "age": "1h ago"
       }
     ],
@@ -815,57 +815,57 @@
         "url": "https://www.workerowned.info/",
         "discussion_url": "https://news.ycombinator.com/item?id=48752905",
         "site": "workerowned.info",
-        "points": 49,
-        "comments": 10,
+        "points": 150,
+        "comments": 26,
         "author": "IESAI_ski",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 48696218,
+        "title": "Show HN: Cyclearchive.com – search vintage cycling magazines",
+        "url": "https://cyclearchive.com/search/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48696218",
+        "site": "cyclearchive.com",
+        "points": 5,
+        "comments": 1,
+        "author": "alastairr",
+        "age": "4d ago"
+      },
+      {
+        "rank": 3,
+        "id": 48750008,
+        "title": "Show HN: Salt – a systems language with Z3 theorem proving in the compiler",
+        "url": "https://salt-lang.dev",
+        "discussion_url": "https://news.ycombinator.com/item?id=48750008",
+        "site": "salt-lang.dev",
+        "points": 22,
+        "comments": 10,
+        "author": "bneb-dev",
+        "age": "6h ago"
+      },
+      {
+        "rank": 4,
         "id": 48748182,
         "title": "Show HN: GolemUI – Declarative Form Engine",
         "url": "https://golemui.com",
         "discussion_url": "https://news.ycombinator.com/item?id=48748182",
         "site": "golemui.com",
-        "points": 32,
-        "comments": 51,
+        "points": 34,
+        "comments": 53,
         "author": "wtfdeveloper",
-        "age": "6h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48703200,
-        "title": "Show HN: QR code renderer in a TrueType font",
-        "url": "https://qr.jim.sh/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48703200",
-        "site": "qr.jim.sh",
-        "points": 68,
-        "comments": 12,
-        "author": "foodevl",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 48749752,
-        "title": "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
-        "url": "https://github.com/pglayers/pglayers",
-        "discussion_url": "https://news.ycombinator.com/item?id=48749752",
-        "site": "github.com",
-        "points": 31,
-        "comments": 4,
-        "author": "iemejia",
-        "age": "5h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 48752948,
-        "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-        "url": "https://github.com/clidey/deptrust",
-        "discussion_url": "https://news.ycombinator.com/item?id=48752948",
-        "site": "github.com",
-        "points": 3,
+        "id": 48754258,
+        "title": "Show HN: Toolnexus for Python – MCP, agent skills,a2a for any LLM",
+        "url": "https://pypi.org/project/toolnexus/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48754258",
+        "site": "pypi.org",
+        "points": 2,
         "comments": 0,
-        "author": "modelorona",
+        "author": "muthuishere",
         "age": "1h ago"
       }
     ]
