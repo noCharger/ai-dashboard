@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-07T10:16:54Z",
+  "generated": "2026-07-07T13:10:00Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 586,
+        "trending_score": 589,
         "downloads": 1683711,
-        "likes": 1691,
+        "likes": 1704,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 466,
+        "trending_score": 458,
         "downloads": 281584,
-        "likes": 3553,
+        "likes": 3561,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "tencent/Hy3",
         "org": "tencent",
-        "trending_score": 387,
+        "trending_score": 399,
         "downloads": 121,
-        "likes": 394,
+        "likes": 407,
         "url": "https://huggingface.co/tencent/Hy3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 346,
+        "trending_score": 339,
         "downloads": 1084945,
-        "likes": 1810,
+        "likes": 1817,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "InternScience/Agents-A1",
         "org": "InternScience",
-        "trending_score": 317,
+        "trending_score": 305,
         "downloads": 14723,
-        "likes": 354,
+        "likes": 360,
         "url": "https://huggingface.co/InternScience/Agents-A1",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.4097602405586,
+        "speed_tps": 70.726221730837,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 63.4640815372359,
+        "speed_tps": 64.4808529540689,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 86.19009894307,
+        "speed_tps": 87.9752936955722,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -308,51 +308,51 @@
     "daily": [
       {
         "rank": 1,
-        "name": "asgeirtj/system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 52286,
-        "stars_delta": 1378,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 8622,
+        "stars_delta": 2402,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "addyosmani/agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 71451,
-        "stars_delta": 1112,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
-        "rank": 3,
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 19968,
-        "stars_delta": 2494,
+        "stars": 20128,
+        "stars_delta": 1781,
         "language": "Rust",
         "language_color": "#dea584"
+      },
+      {
+        "rank": 3,
+        "name": "addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "stars": 71614,
+        "stars_delta": 1311,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       },
       {
         "rank": 4,
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 77998,
-        "stars_delta": 470,
+        "stars": 78117,
+        "stars_delta": 1122,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
         "rank": 5,
-        "name": "Leonxlnx/taste-skill",
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "url": "https://github.com/Leonxlnx/taste-skill",
-        "stars": 59661,
-        "stars_delta": 1458,
+        "name": "asgeirtj/system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "stars": 52454,
+        "stars_delta": 1704,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -363,50 +363,50 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 38241,
+        "stars": 38318,
         "stars_delta": 10759,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "hasaneyldrm/exercises-dataset",
-        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-        "url": "https://github.com/hasaneyldrm/exercises-dataset",
-        "stars": 10530,
-        "stars_delta": 5665,
-        "language": "HTML",
-        "language_color": "#e34c26"
-      },
-      {
-        "rank": 3,
-        "name": "diegosouzapw/OmniRoute",
-        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%",
-        "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 12842,
-        "stars_delta": 4594,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 19968,
+        "stars": 20128,
         "stars_delta": 5769,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
+        "rank": 3,
+        "name": "hasaneyldrm/exercises-dataset",
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "url": "https://github.com/hasaneyldrm/exercises-dataset",
+        "stars": 10585,
+        "stars_delta": 5665,
+        "language": "HTML",
+        "language_color": "#e34c26"
+      },
+      {
+        "rank": 4,
+        "name": "ogulcancelik/herdr",
+        "description": "agent multiplexer that lives in your terminal.",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "stars": 13241,
+        "stars_delta": 4348,
+        "language": "Rust",
+        "language_color": "#dea584"
+      },
+      {
         "rank": 5,
-        "name": "altic-dev/FluidVoice",
-        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-        "url": "https://github.com/altic-dev/FluidVoice",
-        "stars": 6528,
-        "stars_delta": 2127,
-        "language": "Swift",
-        "language_color": "#F05138"
+        "name": "diegosouzapw/OmniRoute",
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%",
+        "url": "https://github.com/diegosouzapw/OmniRoute",
+        "stars": 12908,
+        "stars_delta": 4594,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 46900,
+        "stars": 46922,
         "stars_delta": 20137,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 27681,
+        "stars": 27749,
         "stars_delta": 24223,
         "language": "C",
         "language_color": "#555555"
@@ -435,7 +435,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 34688,
+        "stars": 34750,
         "stars_delta": 29796,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 12219,
+        "stars": 12241,
         "stars_delta": 10867,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 52374,
+        "stars": 52445,
         "stars_delta": 30168,
         "language": "Python",
         "language_color": "#3572A5"
@@ -549,7 +549,7 @@
         "upvotes": 51,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 13496
+        "github_stars": 13561
       },
       {
         "rank": 3,
@@ -680,80 +680,116 @@
     "top": [
       {
         "rank": 1,
+        "id": 48816959,
+        "title": "98% Isn't Much",
+        "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816959",
+        "site": "whynothugo.nl",
+        "points": 57,
+        "comments": 28,
+        "author": "speckx",
+        "age": "24m ago"
+      },
+      {
+        "rank": 2,
+        "id": 48816612,
+        "title": "Europe's company websites are mostly served by US vendors",
+        "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816612",
+        "site": "ciphercue.com",
+        "points": 59,
+        "comments": 42,
+        "author": "adulion",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48816003,
+        "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+        "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816003",
+        "site": "nwo.nl",
+        "points": 100,
+        "comments": 74,
+        "author": "28304283409234",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 48808482,
         "title": "OpenWrt One – Open Hardware Router",
         "url": "https://openwrt.org/toh/openwrt/one",
         "discussion_url": "https://news.ycombinator.com/item?id=48808482",
         "site": "openwrt.org",
-        "points": 631,
-        "comments": 246,
+        "points": 708,
+        "comments": 266,
         "author": "peter_d_sherman",
-        "age": "15h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "id": 48808928,
         "title": "CoMaps – FOSS Offline Maps",
         "url": "https://www.comaps.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=48808928",
         "site": "comaps.app",
-        "points": 573,
-        "comments": 124,
+        "points": 652,
+        "comments": 154,
         "author": "basilikum",
-        "age": "15h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48809877,
-        "title": "GLM 5.2 and the coming AI margin collapse",
-        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48809877",
-        "site": "martinalderson.com",
-        "points": 428,
-        "comments": 260,
-        "author": "martinald",
-        "age": "14h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48812156,
-        "title": "How to sequence your own DNA at home",
-        "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-        "discussion_url": "https://news.ycombinator.com/item?id=48812156",
-        "site": "bradleywoolf.com",
-        "points": 223,
-        "comments": 82,
-        "author": "bilsbie",
-        "age": "10h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48812055,
-        "title": "Small AI Models Gain Traction In places with unreliable networks",
-        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-        "discussion_url": "https://news.ycombinator.com/item?id=48812055",
-        "site": "spectrum.ieee.org",
-        "points": 146,
-        "comments": 51,
-        "author": "sscaryterry",
-        "age": "10h ago"
+        "age": "18h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48817095,
+        "title": "Ask HN: What are alternative to Upwork for side gig?",
+        "url": "https://news.ycombinator.com/item?id=48817095",
+        "discussion_url": "https://news.ycombinator.com/item?id=48817095",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "user7878",
+        "age": "13m ago"
+      },
+      {
+        "rank": 2,
+        "id": 48816813,
+        "title": "Tell HN: Who wants to be hired\" posts outpace \"Who's hiring\" 2 to 1",
+        "url": "https://news.ycombinator.com/item?id=48816813",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816813",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "santiagobasulto",
+        "age": "38m ago"
+      },
+      {
+        "rank": 3,
         "id": 48814808,
         "title": "Tell HN: Fable is now credits only",
         "url": "https://news.ycombinator.com/item?id=48814808",
         "discussion_url": "https://news.ycombinator.com/item?id=48814808",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 2,
+        "points": 6,
+        "comments": 5,
         "author": "teruakohatu",
-        "age": "2h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "id": 48816777,
+        "title": "Ask HN: Fable 5 promo ends today – is anyone keeping it once it's usage-billed?",
+        "url": "https://news.ycombinator.com/item?id=48816777",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816777",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 4,
+        "author": "franze",
+        "age": "42m ago"
+      },
+      {
+        "rank": 5,
         "id": 48807269,
         "title": "Tell HN: I managed to unsubscribe from Adobe CC without being charged",
         "url": "https://news.ycombinator.com/item?id=48807269",
@@ -762,57 +798,21 @@
         "points": 22,
         "comments": 2,
         "author": "frereubu",
-        "age": "17h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48814921,
-        "title": "What's one SEO strategy that's consistently driving results?",
-        "url": "https://news.ycombinator.com/item?id=48814921",
-        "discussion_url": "https://news.ycombinator.com/item?id=48814921",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "cirilraj",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48771515,
-        "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-        "url": "https://news.ycombinator.com/item?id=48771515",
-        "discussion_url": "https://news.ycombinator.com/item?id=48771515",
-        "site": "news.ycombinator.com",
-        "points": 200,
-        "comments": 202,
-        "author": "yehiaabdelm",
-        "age": "4d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48807108,
-        "title": "Ask HN: Are systems ready for the first negative leap second?",
-        "url": "https://news.ycombinator.com/item?id=48807108",
-        "discussion_url": "https://news.ycombinator.com/item?id=48807108",
-        "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 9,
-        "author": "Asmod4n",
-        "age": "17h ago"
+        "age": "20h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48815601,
-        "title": "Show HN: A Haskell programmable-CAD environment, in the browser with WASM",
-        "url": "https://doscienceto.it/waterpark/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48815601",
-        "site": "doscienceto.it",
-        "points": 3,
+        "id": 48816900,
+        "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+        "url": "https://postgres.saneengineer.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816900",
+        "site": "postgres.saneengineer.com",
+        "points": 4,
         "comments": 0,
-        "author": "hungryjoewarren",
-        "age": "27m ago"
+        "author": "anivan_",
+        "age": "29m ago"
       },
       {
         "rank": 2,
@@ -821,33 +821,33 @@
         "url": "https://whimfiles.com",
         "discussion_url": "https://news.ycombinator.com/item?id=48814952",
         "site": "whimfiles.com",
-        "points": 3,
-        "comments": 0,
+        "points": 37,
+        "comments": 29,
         "author": "whimbyte",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 48814855,
-        "title": "Show HN: A free, GPU-accelerated Texas Hold'em GTO solver in C++/CUDA",
-        "url": "https://bupticybee.github.io/texassolver_gpu_page/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48814855",
-        "site": "bupticybee.github.io",
-        "points": 3,
-        "comments": 1,
-        "author": "bupticybee",
-        "age": "2h ago"
+        "id": 48816662,
+        "title": "Show HN: I made the most accurate gay porn search engine",
+        "url": "https://peachka.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816662",
+        "site": "peachka.net",
+        "points": 2,
+        "comments": 0,
+        "author": "PozitivnaMirta",
+        "age": "55m ago"
       },
       {
         "rank": 4,
-        "id": 48814822,
-        "title": "Show HN: 99 Business Ideas",
-        "url": "https://99ideas.jaksa.me/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48814822",
-        "site": "99ideas.jaksa.me",
+        "id": 48815962,
+        "title": "Show HN: A simple random animal generator",
+        "url": "https://randomanimalgen.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48815962",
+        "site": "randomanimalgen.com",
         "points": 2,
         "comments": 0,
-        "author": "jaksa",
+        "author": "mark_literacy",
         "age": "2h ago"
       },
       {
@@ -857,10 +857,10 @@
         "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
         "discussion_url": "https://news.ycombinator.com/item?id=48806575",
         "site": "usefeyn.com",
-        "points": 90,
+        "points": 95,
         "comments": 25,
         "author": "snyy",
-        "age": "18h ago"
+        "age": "21h ago"
       }
     ]
   }
