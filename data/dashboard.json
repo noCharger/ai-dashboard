@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T04:42:45Z",
+  "generated": "2026-07-09T09:49:21Z",
   "models": {
     "trending": [
       {
@@ -7,8 +7,8 @@
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
         "trending_score": 582,
-        "downloads": 1683711,
-        "likes": 1868,
+        "downloads": 1875602,
+        "likes": 1886,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/Hy3",
         "org": "tencent",
-        "trending_score": 555,
-        "downloads": 121,
-        "likes": 570,
+        "trending_score": 565,
+        "downloads": 5572,
+        "likes": 580,
         "url": "https://huggingface.co/tencent/Hy3",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 381,
-        "downloads": 281584,
-        "likes": 3674,
+        "trending_score": 375,
+        "downloads": 362300,
+        "likes": 3685,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 262,
-        "downloads": 1084945,
-        "likes": 1877,
+        "trending_score": 245,
+        "downloads": 1246042,
+        "likes": 1885,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "InternScience/Agents-A1",
         "org": "InternScience",
-        "trending_score": 252,
-        "downloads": 14723,
-        "likes": 403,
+        "trending_score": 244,
+        "downloads": 23112,
+        "likes": 413,
         "url": "https://huggingface.co/InternScience/Agents-A1",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.212134770273,
+        "speed_tps": 70.469178250555,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 61.3438160074254,
+        "speed_tps": 62.969665450186,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.8375984166433,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.1963238837114,
+        "speed_tps": 69.8171008679407,
         "context_window": 922000,
         "url": "https://artificialanalysis.ai/models/gpt-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.8265951657731,
         "price_input": 2,
         "price_output": 6,
-        "speed_tps": 85.6360367441795,
+        "speed_tps": 86.7364524838875,
         "context_window": 500000,
         "url": "https://artificialanalysis.ai/models/grok-4-5"
       },
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 16687,
+        "stars_delta": 5079,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 2,
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 74543,
+        "stars": 75218,
         "stars_delta": 1297,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "ruvnet/RuView",
         "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "url": "https://github.com/ruvnet/RuView",
-        "stars": 79253,
+        "stars": 79461,
         "stars_delta": 799,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 7773,
+        "stars": 7922,
         "stars_delta": 318,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "prisma/prisma",
         "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
         "url": "https://github.com/prisma/prisma",
-        "stars": 46629,
+        "stars": 46713,
         "stars_delta": 46,
         "language": "TypeScript",
         "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
-        "name": "mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 50891,
-        "stars_delta": 352,
-        "language": "Python",
-        "language_color": "#3572A5"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 21730,
+        "stars": 21903,
         "stars_delta": 8366,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,40 +373,40 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 39174,
+        "stars": 39308,
         "stars_delta": 10274,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "facebook/astryx",
-        "description": "An open source design system that's fully customizable and agent ready",
-        "url": "https://github.com/facebook/astryx",
-        "stars": 7236,
-        "stars_delta": 4943,
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 16687,
+        "stars_delta": 9677,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "openai/codex-plugin-cc",
-        "description": "Use Codex from Claude Code to review code or delegate tasks.",
-        "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 26972,
-        "stars_delta": 4890,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
+        "name": "facebook/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "url": "https://github.com/facebook/astryx",
+        "stars": 7303,
+        "stars_delta": 4943,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "alibaba/page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "url": "https://github.com/alibaba/page-agent",
-        "stars": 25265,
-        "stars_delta": 4295,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "openai/codex-plugin-cc",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "url": "https://github.com/openai/codex-plugin-cc",
+        "stars": 27033,
+        "stars_delta": 4890,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 28729,
+        "stars": 28868,
         "stars_delta": 25432,
         "language": "C",
         "language_color": "#555555"
@@ -425,7 +425,7 @@
         "name": "apple/container",
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "url": "https://github.com/apple/container",
-        "stars": 47185,
+        "stars": 47222,
         "stars_delta": 20483,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 35768,
+        "stars": 35927,
         "stars_delta": 31078,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 12525,
+        "stars": 12551,
         "stars_delta": 11135,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 53369,
+        "stars": 53559,
         "stars_delta": 29819,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2509.06926",
         "categories": [],
-        "upvotes": 8,
+        "upvotes": 9,
         "published": "2025-09-08",
         "github_repo": "https://github.com/kyutai-labs/pocket-tts",
         "github_stars": 6622
@@ -546,13 +546,28 @@
         ],
         "url": "https://huggingface.co/papers/2607.05247",
         "categories": [],
-        "upvotes": 35,
+        "upvotes": 36,
         "published": "2026-07-05",
         "github_repo": "https://github.com/Robbyant/lingbot-vision",
         "github_stars": 485
       },
       {
         "rank": 3,
+        "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+        "authors": [
+          "Yifan Yang",
+          "Ziyang Gong",
+          "Weiquan Huang"
+        ],
+        "url": "https://huggingface.co/papers/2605.23904",
+        "categories": [],
+        "upvotes": 254,
+        "published": "2026-05-21",
+        "github_repo": "https://github.com/microsoft/SkillOpt",
+        "github_stars": 11825
+      },
+      {
+        "rank": 4,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -565,21 +580,6 @@
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 91862
-      },
-      {
-        "rank": 4,
-        "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-        "authors": [
-          "Yifan Yang",
-          "Ziyang Gong",
-          "Weiquan Huang"
-        ],
-        "url": "https://huggingface.co/papers/2605.23904",
-        "categories": [],
-        "upvotes": 253,
-        "published": "2026-05-21",
-        "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 11684
       },
       {
         "rank": 5,
@@ -683,96 +683,96 @@
         "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
         "discussion_url": "https://news.ycombinator.com/item?id=48838876",
         "site": "apnews.com",
-        "points": 505,
-        "comments": 102,
+        "points": 823,
+        "comments": 154,
         "author": "djoldman",
-        "age": "5h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
-        "id": 48833116,
-        "title": "Chatto is now open source",
-        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-        "discussion_url": "https://news.ycombinator.com/item?id=48833116",
-        "site": "hmans.dev",
-        "points": 825,
-        "comments": 217,
-        "author": "speckx",
-        "age": "13h ago"
+        "id": 48841259,
+        "title": "Spider venom kills varroa mites without harming honeybees",
+        "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "discussion_url": "https://news.ycombinator.com/item?id=48841259",
+        "site": "connectsci.au",
+        "points": 120,
+        "comments": 48,
+        "author": "Jedd",
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 48837396,
-        "title": "Separating signal from noise in coding evaluations",
-        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48837396",
-        "site": "openai.com",
-        "points": 186,
-        "comments": 66,
-        "author": "sk4rekr0w",
-        "age": "7h ago"
+        "id": 48842611,
+        "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+        "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48842611",
+        "site": "howtogeek.com",
+        "points": 76,
+        "comments": 45,
+        "author": "Gedxx",
+        "age": "1h ago"
       },
       {
         "rank": 4,
+        "id": 48800596,
+        "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+        "url": "https://nexte.st/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48800596",
+        "site": "nexte.st",
+        "points": 97,
+        "comments": 28,
+        "author": "nateb2022",
+        "age": "3d ago"
+      },
+      {
+        "rank": 5,
         "id": 48836233,
         "title": "Cloudflare Drop",
         "url": "https://www.cloudflare.com/drop/",
         "discussion_url": "https://news.ycombinator.com/item?id=48836233",
         "site": "cloudflare.com",
-        "points": 326,
-        "comments": 157,
+        "points": 433,
+        "comments": 230,
         "author": "coloneltcb",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48839397,
-        "title": "Remote Attestation",
-        "url": "https://www.liamcvw.com/p/remote-attestation",
-        "discussion_url": "https://news.ycombinator.com/item?id=48839397",
-        "site": "liamcvw.com",
-        "points": 51,
-        "comments": 29,
-        "author": "lcvw",
-        "age": "4h ago"
+        "age": "14h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48838907,
+        "title": "Ask HN: HN frontpage feels boring now?",
+        "url": "https://news.ycombinator.com/item?id=48838907",
+        "discussion_url": "https://news.ycombinator.com/item?id=48838907",
+        "site": "news.ycombinator.com",
+        "points": 35,
+        "comments": 21,
+        "author": "xeonmc",
+        "age": "10h ago"
+      },
+      {
+        "rank": 2,
         "id": 48840681,
-        "title": "Non-tech background, choosing between using CLaudeCode and CodeX",
+        "title": "non-tech founder + choosing between buying ClaudeCode or CodeX",
         "url": "https://news.ycombinator.com/item?id=48840681",
         "discussion_url": "https://news.ycombinator.com/item?id=48840681",
         "site": "news.ycombinator.com",
         "points": 2,
         "comments": 2,
         "author": "virtuallymundo",
-        "age": "1h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48840515,
         "title": "Ask HN: How to recover from thin content or de-indexing penalty on Google",
         "url": "https://news.ycombinator.com/item?id=48840515",
         "discussion_url": "https://news.ycombinator.com/item?id=48840515",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 3,
+        "points": 4,
+        "comments": 4,
         "author": "anitroves",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48838907,
-        "title": "Ask HN: HN frontpage feels boring now?",
-        "url": "https://news.ycombinator.com/item?id=48838907",
-        "discussion_url": "https://news.ycombinator.com/item?id=48838907",
-        "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 10,
-        "author": "xeonmc",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
@@ -781,84 +781,84 @@
         "url": "https://news.ycombinator.com/item?id=48840370",
         "discussion_url": "https://news.ycombinator.com/item?id=48840370",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 4,
+        "points": 4,
+        "comments": 10,
         "author": "briangao",
-        "age": "1h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 48836288,
-        "title": "Ask HN: How you manage local long lived research projects and LLM's?",
-        "url": "https://news.ycombinator.com/item?id=48836288",
-        "discussion_url": "https://news.ycombinator.com/item?id=48836288",
+        "id": 48787886,
+        "title": "Ask HN: Where are the good search engines for mathematical formulas?",
+        "url": "https://news.ycombinator.com/item?id=48787886",
+        "discussion_url": "https://news.ycombinator.com/item?id=48787886",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 1,
-        "author": "ripplefringe",
-        "age": "9h ago"
+        "points": 56,
+        "comments": 16,
+        "author": "lo0dot0",
+        "age": "4d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48834924,
-        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-        "url": "https://microsoft.github.io/flint-chart/#/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48834924",
-        "site": "microsoft.github.io",
-        "points": 235,
-        "comments": 88,
-        "author": "chenglong-hn",
-        "age": "10h ago"
-      },
-      {
-        "rank": 2,
         "id": 48816987,
         "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
         "url": "https://www.yamanote.fun/",
         "discussion_url": "https://news.ycombinator.com/item?id=48816987",
         "site": "yamanote.fun",
-        "points": 87,
-        "comments": 19,
+        "points": 173,
+        "comments": 35,
         "author": "madebymagnolia",
         "age": "1d ago"
       },
       {
+        "rank": 2,
+        "id": 48834924,
+        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "url": "https://microsoft.github.io/flint-chart/#/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48834924",
+        "site": "microsoft.github.io",
+        "points": 282,
+        "comments": 110,
+        "author": "chenglong-hn",
+        "age": "16h ago"
+      },
+      {
         "rank": 3,
-        "id": 48816724,
-        "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-        "url": "https://github.com/Rodiun/frugon",
-        "discussion_url": "https://news.ycombinator.com/item?id=48816724",
+        "id": 48843099,
+        "title": "Show HN: OCR-grab: Flameshot clone that adds OCR",
+        "url": "https://github.com/talalalrwas/ocr-grab",
+        "discussion_url": "https://news.ycombinator.com/item?id=48843099",
         "site": "github.com",
-        "points": 15,
-        "comments": 2,
-        "author": "jarodrh",
-        "age": "1d ago"
+        "points": 2,
+        "comments": 0,
+        "author": "tgol",
+        "age": "34m ago"
       },
       {
         "rank": 4,
-        "id": 48840666,
-        "title": "Show HN: Figment – An AI that I made my friends talk to for 2 weeks",
-        "url": "https://figment.computer/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48840666",
-        "site": "figment.computer",
-        "points": 2,
-        "comments": 0,
-        "author": "subby",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
         "id": 48786455,
         "title": "Show HN: Follow London Trains in 3D",
         "url": "https://ride.nexttrain.london/",
         "discussion_url": "https://news.ycombinator.com/item?id=48786455",
         "site": "ride.nexttrain.london",
-        "points": 132,
-        "comments": 56,
+        "points": 143,
+        "comments": 57,
         "author": "mgranados",
         "age": "4d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48816724,
+        "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+        "url": "https://github.com/Rodiun/frugon",
+        "discussion_url": "https://news.ycombinator.com/item?id=48816724",
+        "site": "github.com",
+        "points": 20,
+        "comments": 6,
+        "author": "jarodrh",
+        "age": "1d ago"
       }
     ]
   }
