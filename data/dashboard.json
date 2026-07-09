@@ -1,31 +1,14 @@
 {
-  "generated": "2026-07-09T17:10:39Z",
+  "generated": "2026-07-09T19:18:34Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "org": "empero-ai",
-        "trending_score": 580,
-        "downloads": 1875602,
-        "likes": 1914,
-        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "tags": [
-          "gguf",
-          "llama.cpp",
-          "quantized",
-          "qwen3.5",
-          "reasoning"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "tencent/Hy3",
         "org": "tencent",
-        "trending_score": 574,
+        "trending_score": 579,
         "downloads": 5572,
-        "likes": 592,
+        "likes": 597,
         "url": "https://huggingface.co/tencent/Hy3",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "org": "empero-ai",
+        "trending_score": 577,
+        "downloads": 1875602,
+        "likes": 1918,
+        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "tags": [
+          "gguf",
+          "llama.cpp",
+          "quantized",
+          "qwen3.5",
+          "reasoning"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
         "trending_score": 364,
         "downloads": 362300,
-        "likes": 3708,
+        "likes": 3715,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "InternScience/Agents-A1",
         "org": "InternScience",
-        "trending_score": 245,
+        "trending_score": 243,
         "downloads": 23112,
-        "likes": 422,
+        "likes": 425,
         "url": "https://huggingface.co/InternScience/Agents-A1",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 234,
+        "trending_score": 233,
         "downloads": 1246042,
-        "likes": 1894,
+        "likes": 1898,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -102,47 +102,47 @@
       },
       {
         "rank": 2,
+        "name": "GPT-5.6 Sol (max)",
+        "org": "OpenAI",
+        "intelligence_index": 58.889831189723,
+        "price_input": 5,
+        "price_output": 30,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
+      },
+      {
+        "rank": 3,
+        "name": "GPT-5.6 Sol (xhigh)",
+        "org": "OpenAI",
+        "intelligence_index": 57.653836996095,
+        "price_input": 5,
+        "price_output": 30,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-xhigh"
+      },
+      {
+        "rank": 4,
+        "name": "GPT-5.6 Sol (high)",
+        "org": "OpenAI",
+        "intelligence_index": 55.8665067971861,
+        "price_input": 5,
+        "price_output": 30,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-high"
+      },
+      {
+        "rank": 5,
         "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
         "org": "Anthropic",
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 63.3077452578544,
+        "speed_tps": 61.7808742179765,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
-      },
-      {
-        "rank": 3,
-        "name": "GPT-5.5 (xhigh)",
-        "org": "OpenAI",
-        "intelligence_index": 54.8375984166433,
-        "price_input": 5,
-        "price_output": 30,
-        "speed_tps": 69.8171008679407,
-        "context_window": 922000,
-        "url": "https://artificialanalysis.ai/models/gpt-5-5"
-      },
-      {
-        "rank": 4,
-        "name": "Grok 4.5 (high)",
-        "org": "SpaceXAI",
-        "intelligence_index": 53.8265951657731,
-        "price_input": 2,
-        "price_output": 6,
-        "speed_tps": 91.2526591987968,
-        "context_window": 500000,
-        "url": "https://artificialanalysis.ai/models/grok-4-5"
-      },
-      {
-        "rank": 5,
-        "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
-        "org": "Anthropic",
-        "intelligence_index": 53.5296569524586,
-        "price_input": 5,
-        "price_output": 25,
-        "speed_tps": 51.3406354090246,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-opus-4-7"
       }
     ]
   },
@@ -311,7 +311,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 18031,
+        "stars": 18348,
         "stars_delta": 3728,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "SmartlyDressedGames/U3-SDK",
         "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
         "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-        "stars": 1894,
+        "stars": 1934,
         "stars_delta": 541,
         "language": "C#",
         "language_color": "#178600"
@@ -331,7 +331,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 75637,
+        "stars": 75714,
         "stars_delta": 2582,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,8 +341,8 @@
         "name": "VoltAgent/awesome-design-md",
         "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
         "url": "https://github.com/VoltAgent/awesome-design-md",
-        "stars": 99342,
-        "stars_delta": 1569,
+        "stars": 99442,
+        "stars_delta": 1233,
         "language": "",
         "language_color": "#586069"
       },
@@ -351,7 +351,7 @@
         "name": "iOfficeAI/OfficeCLI",
         "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
         "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "stars": 13174,
+        "stars": 13242,
         "stars_delta": 1923,
         "language": "C#",
         "language_color": "#178600"
@@ -363,7 +363,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 18031,
+        "stars": 18348,
         "stars_delta": 9677,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 22103,
+        "stars": 22140,
         "stars_delta": 8366,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 39485,
+        "stars": 39543,
         "stars_delta": 10274,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "facebook/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/facebook/astryx",
-        "stars": 7408,
+        "stars": 7437,
         "stars_delta": 4943,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "asgeirtj/system_prompts_leaks",
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 54928,
+        "stars": 55003,
         "stars_delta": 6182,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 29041,
+        "stars": 29083,
         "stars_delta": 25432,
         "language": "C",
         "language_color": "#555555"
@@ -425,7 +425,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 36067,
+        "stars": 36108,
         "stars_delta": 31078,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 53767,
+        "stars": 53807,
         "stars_delta": 29819,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "NVIDIA/SkillSpector",
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "url": "https://github.com/NVIDIA/SkillSpector",
-        "stars": 12591,
+        "stars": 12600,
         "stars_delta": 11135,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "asgeirtj/system_prompts_leaks",
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 54928,
+        "stars": 55003,
         "stars_delta": 12446,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.07534",
         "categories": [],
-        "upvotes": 20,
+        "upvotes": 21,
         "published": "2026-07-07",
         "github_repo": "https://github.com/robbyant/lingbot-world-v2",
         "github_stars": 487
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.07675",
         "categories": [],
-        "upvotes": 38,
+        "upvotes": 39,
         "published": "2026-07-07",
         "github_repo": "https://github.com/robbyant/lingbot-video",
         "github_stars": 495
@@ -683,120 +683,120 @@
         "url": "https://openai.com/index/gpt-5-6/",
         "discussion_url": "https://news.ycombinator.com/item?id=48849066",
         "site": "openai.com",
-        "points": 52,
-        "comments": 6,
+        "points": 597,
+        "comments": 404,
         "author": "logickkk1",
-        "age": "6m ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 48849059,
+        "title": "ChatGPT Work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48849059",
+        "site": "openai.com",
+        "points": 207,
+        "comments": 80,
+        "author": "Tiberium",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 48845049,
         "title": "Show HN: 18 Words",
         "url": "https://18words.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48845049",
         "site": "18words.com",
-        "points": 519,
-        "comments": 211,
+        "points": 644,
+        "comments": 239,
         "author": "pompomsheep",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48843923,
         "title": "EU Parliament greenlights Chat Control 1.0",
         "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
         "discussion_url": "https://news.ycombinator.com/item?id=48843923",
         "site": "patrick-breyer.de",
-        "points": 502,
-        "comments": 267,
+        "points": 668,
+        "comments": 336,
         "author": "rapnie",
-        "age": "6h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48847552,
-        "title": "Hy3",
-        "url": "https://hy.tencent.com/research/hy3",
-        "discussion_url": "https://news.ycombinator.com/item?id=48847552",
-        "site": "hy.tencent.com",
-        "points": 99,
-        "comments": 34,
-        "author": "andai",
-        "age": "1h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 48846281,
-        "title": "No leap second will be introduced at the end of December 2026",
-        "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-        "discussion_url": "https://news.ycombinator.com/item?id=48846281",
-        "site": "datacenter.iers.org",
-        "points": 137,
-        "comments": 103,
-        "author": "ChrisArchitect",
-        "age": "2h ago"
+        "id": 48850414,
+        "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+        "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+        "discussion_url": "https://news.ycombinator.com/item?id=48850414",
+        "site": "toot-books.pages.dev",
+        "points": 23,
+        "comments": 10,
+        "author": "adamkurkiewicz",
+        "age": "48m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48850400,
+        "title": "Who has been caught out by this anti-pattern from Google?",
+        "url": "https://news.ycombinator.com/item?id=48850400",
+        "discussion_url": "https://news.ycombinator.com/item?id=48850400",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "Monotoko",
+        "age": "49m ago"
+      },
+      {
+        "rank": 2,
         "id": 48845963,
         "title": "Ask HN: I am not able to find a job. Should I switch stacks?",
         "url": "https://news.ycombinator.com/item?id=48845963",
         "discussion_url": "https://news.ycombinator.com/item?id=48845963",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 7,
+        "points": 10,
+        "comments": 8,
         "author": "need_a_work23",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48846739,
         "title": "How to feel safe delegating to AI agents?",
         "url": "https://news.ycombinator.com/item?id=48846739",
         "discussion_url": "https://news.ycombinator.com/item?id=48846739",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 1,
+        "comments": 3,
         "author": "danicuki",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 48838907,
+        "title": "Ask HN: HN frontpage feels boring now?",
+        "url": "https://news.ycombinator.com/item?id=48838907",
+        "discussion_url": "https://news.ycombinator.com/item?id=48838907",
+        "site": "news.ycombinator.com",
+        "points": 41,
+        "comments": 29,
+        "author": "xeonmc",
+        "age": "19h ago"
+      },
+      {
+        "rank": 5,
         "id": 48845676,
         "title": "Ask HN: Any good replacements for \"Refined Hacker News?\"",
         "url": "https://news.ycombinator.com/item?id=48845676",
         "discussion_url": "https://news.ycombinator.com/item?id=48845676",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 1,
-        "author": "gwbas1c",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48845508,
-        "title": "Ask HN: Is Google NERFing AI Mode?",
-        "url": "https://news.ycombinator.com/item?id=48845508",
-        "discussion_url": "https://news.ycombinator.com/item?id=48845508",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 3,
-        "author": "PaulHoule",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48845324,
-        "title": "Ask HN: What's the Fuzz about Taste?",
-        "url": "https://news.ycombinator.com/item?id=48845324",
-        "discussion_url": "https://news.ycombinator.com/item?id=48845324",
-        "site": "news.ycombinator.com",
-        "points": 2,
         "comments": 2,
-        "author": "pls-dnt-deploy",
-        "age": "3h ago"
+        "author": "gwbas1c",
+        "age": "5h ago"
       }
     ],
     "show": [
@@ -807,58 +807,58 @@
         "url": "https://18words.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48845049",
         "site": "18words.com",
-        "points": 519,
-        "comments": 211,
+        "points": 644,
+        "comments": 239,
         "author": "pompomsheep",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
+        "id": 48840207,
+        "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+        "url": "https://tomesphere.com/atlas",
+        "discussion_url": "https://news.ycombinator.com/item?id=48840207",
+        "site": "tomesphere.com",
+        "points": 32,
+        "comments": 6,
+        "author": "leonickson",
+        "age": "16h ago"
+      },
+      {
+        "rank": 3,
         "id": 48846510,
         "title": "Show HN: Analog Watch",
         "url": "https://analog.watch",
         "discussion_url": "https://news.ycombinator.com/item?id=48846510",
         "site": "analog.watch",
-        "points": 50,
-        "comments": 47,
+        "points": 66,
+        "comments": 62,
         "author": "ezekg",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48848819,
+        "title": "Show HN: Devthropology – Better Insights for GitHub Repos",
+        "url": "https://devthropology.com/demo",
+        "discussion_url": "https://news.ycombinator.com/item?id=48848819",
+        "site": "devthropology.com",
+        "points": 23,
+        "comments": 6,
+        "author": "dpc94",
         "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 48847834,
         "title": "Show HN: Reverse-engineering web apps into agent tools",
         "url": "https://news.ycombinator.com/item?id=48847834",
         "discussion_url": "https://news.ycombinator.com/item?id=48847834",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 1,
+        "points": 18,
+        "comments": 5,
         "author": "pancomplex",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48845422,
-        "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-        "url": "https://github.com/ronak-create/FableCut",
-        "discussion_url": "https://news.ycombinator.com/item?id=48845422",
-        "site": "github.com",
-        "points": 76,
-        "comments": 46,
-        "author": "ronak_parmar",
         "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48847298,
-        "title": "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
-        "url": "https://www.lastshelf.ai/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48847298",
-        "site": "lastshelf.ai",
-        "points": 28,
-        "comments": 16,
-        "author": "sbrown12",
-        "age": "1h ago"
       }
     ]
   }
