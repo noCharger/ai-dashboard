@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-12T11:03:02Z",
+  "generated": "2026-07-12T12:51:37Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "tencent/Hy3",
         "org": "tencent",
-        "trending_score": 677,
+        "trending_score": 680,
         "downloads": 8655,
-        "likes": 706,
+        "likes": 709,
         "url": "https://huggingface.co/tencent/Hy3",
         "tags": [
           "transformers",
@@ -23,7 +23,7 @@
         "rank": 2,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 450,
+        "trending_score": 445,
         "downloads": 1967677,
         "likes": 2029,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 326,
+        "trending_score": 325,
         "downloads": 441413,
-        "likes": 3843,
+        "likes": 3845,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -55,23 +55,6 @@
       },
       {
         "rank": 4,
-        "name": "InternScience/Agents-A1",
-        "org": "InternScience",
-        "trending_score": 234,
-        "downloads": 29038,
-        "likes": 498,
-        "url": "https://huggingface.co/InternScience/Agents-A1",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5_moe",
-          "image-text-to-text",
-          "moe"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
         "org": "bottlecapai",
         "trending_score": 234,
@@ -84,6 +67,23 @@
           "qwen3_5",
           "image-text-to-text",
           "qwen3_6"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "InternScience/Agents-A1",
+        "org": "InternScience",
+        "trending_score": 230,
+        "downloads": 29038,
+        "likes": 499,
+        "url": "https://huggingface.co/InternScience/Agents-A1",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "moe"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "Dicklesworthstone/destructive_command_guard",
         "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
         "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-        "stars": 2273,
+        "stars": 2359,
         "stars_delta": 444,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,8 +321,8 @@
         "name": "wonderwhy-er/DesktopCommanderMCP",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-        "stars": 7851,
-        "stars_delta": 909,
+        "stars": 7872,
+        "stars_delta": 207,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -331,7 +331,7 @@
         "name": "HKUDS/Vibe-Trading",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "url": "https://github.com/HKUDS/Vibe-Trading",
-        "stars": 19999,
+        "stars": 20082,
         "stars_delta": 776,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "PrefectHQ/prefect",
         "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
         "url": "https://github.com/PrefectHQ/prefect",
-        "stars": 22993,
+        "stars": 23010,
         "stars_delta": 55,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 118181,
+        "stars": 118232,
         "stars_delta": 549,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 23359,
+        "stars": 23385,
         "stars_delta": 8579,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "wonderwhy-er/DesktopCommanderMCP",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-        "stars": 7851,
+        "stars": 7872,
         "stars_delta": 1451,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "openai/codex-plugin-cc",
         "description": "Use Codex from Claude Code to review code or delegate tasks.",
         "url": "https://github.com/openai/codex-plugin-cc",
-        "stars": 27836,
+        "stars": 27875,
         "stars_delta": 4030,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "TencentCloud/CubeSandbox",
         "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
         "url": "https://github.com/TencentCloud/CubeSandbox",
-        "stars": 9744,
+        "stars": 9753,
         "stars_delta": 2416,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "abseil/abseil-cpp",
         "description": "Abseil Common Libraries (C++)",
         "url": "https://github.com/abseil/abseil-cpp",
-        "stars": 17931,
+        "stars": 17936,
         "stars_delta": 229,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -415,7 +415,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 30339,
+        "stars": 30387,
         "stars_delta": 26790,
         "language": "C",
         "language_color": "#555555"
@@ -425,7 +425,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 37293,
+        "stars": 37320,
         "stars_delta": 32538,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 55104,
+        "stars": 55155,
         "stars_delta": 28880,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "asgeirtj/system_prompts_leaks",
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 56439,
+        "stars": 56481,
         "stars_delta": 14671,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 5961,
+        "stars": 5964,
         "stars_delta": 4652,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -683,68 +683,80 @@
     "top": [
       {
         "rank": 1,
+        "id": 48880170,
+        "title": "Old and new apps, via modern coding agents by Terry Tao",
+        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48880170",
+        "site": "terrytao.wordpress.com",
+        "points": 65,
+        "comments": 11,
+        "author": "subset",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48880384,
+        "title": "Yt-Dlp Sequence Diagrams",
+        "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+        "discussion_url": "https://news.ycombinator.com/item?id=48880384",
+        "site": "app.ilograph.com",
+        "points": 22,
+        "comments": 0,
+        "author": "billyp-rva",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48879504,
+        "title": "Ghostel.el: Terminal emulator powered by libghostty",
+        "url": "https://dakra.github.io/ghostel/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48879504",
+        "site": "dakra.github.io",
+        "points": 52,
+        "comments": 0,
+        "author": "signa11",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 48854168,
         "title": "Vint Cerf, a “father of the Internet”, is retiring",
         "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
         "discussion_url": "https://news.ycombinator.com/item?id=48854168",
         "site": "techcrunch.com",
-        "points": 94,
-        "comments": 56,
+        "points": 141,
+        "comments": 86,
         "author": "compiler-guy",
         "age": "2d ago"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "id": 48878682,
         "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
         "url": "https://github.com/cosmtrek/mindwalk",
         "discussion_url": "https://news.ycombinator.com/item?id=48878682",
         "site": "github.com",
-        "points": 73,
-        "comments": 35,
+        "points": 97,
+        "comments": 42,
         "author": "cosmtrek",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48876505,
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "discussion_url": "https://news.ycombinator.com/item?id=48876505",
-        "site": "iroh.computer",
-        "points": 266,
-        "comments": 59,
-        "author": "tionis",
-        "age": "12h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48827058,
-        "title": "Protobuf-py: Protobuf for Python, without compromises",
-        "url": "https://buf.build/blog/protobuf-py",
-        "discussion_url": "https://news.ycombinator.com/item?id=48827058",
-        "site": "buf.build",
-        "points": 54,
-        "comments": 8,
-        "author": "ming13",
-        "age": "4d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48823981,
-        "title": "An agent in 100 lines of Lisp",
-        "url": "https://thebeach.dev/posts/lisp-agent/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48823981",
-        "site": "thebeach.dev",
-        "points": 163,
-        "comments": 32,
-        "author": "jamiebeach",
-        "age": "4d ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48879727,
+        "title": "How does a Dev's job look like in a few years?",
+        "url": "https://news.ycombinator.com/item?id=48879727",
+        "discussion_url": "https://news.ycombinator.com/item?id=48879727",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 5,
+        "author": "korrak",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 48807108,
         "title": "Ask HN: Are systems ready for the first negative leap second?",
         "url": "https://news.ycombinator.com/item?id=48807108",
@@ -756,28 +768,16 @@
         "age": "5d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48874046,
         "title": "Ask HN: Why isn't Google indexing information about the AT Protocol?",
         "url": "https://news.ycombinator.com/item?id=48874046",
         "discussion_url": "https://news.ycombinator.com/item?id=48874046",
         "site": "news.ycombinator.com",
         "points": 45,
-        "comments": 32,
+        "comments": 33,
         "author": "iameli",
-        "age": "17h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48878757,
-        "title": "Tell HN: Fable guardrails trigger on random questions",
-        "url": "https://news.ycombinator.com/item?id=48878757",
-        "discussion_url": "https://news.ycombinator.com/item?id=48878757",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "nocoder",
-        "age": "4h ago"
+        "age": "19h ago"
       },
       {
         "rank": 4,
@@ -786,22 +786,22 @@
         "url": "https://news.ycombinator.com/item?id=48872175",
         "discussion_url": "https://news.ycombinator.com/item?id=48872175",
         "site": "news.ycombinator.com",
-        "points": 50,
-        "comments": 36,
+        "points": 51,
+        "comments": 37,
         "author": "superkuh",
-        "age": "20h ago"
+        "age": "22h ago"
       },
       {
         "rank": 5,
-        "id": 48859439,
-        "title": "Ask HN: How do you use Vim in the era of AI?",
-        "url": "https://news.ycombinator.com/item?id=48859439",
-        "discussion_url": "https://news.ycombinator.com/item?id=48859439",
+        "id": 48878757,
+        "title": "Tell HN: Fable guardrails trigger on random questions",
+        "url": "https://news.ycombinator.com/item?id=48878757",
+        "discussion_url": "https://news.ycombinator.com/item?id=48878757",
         "site": "news.ycombinator.com",
-        "points": 46,
-        "comments": 86,
-        "author": "rstagi",
-        "age": "1d ago"
+        "points": 4,
+        "comments": 0,
+        "author": "nocoder",
+        "age": "6h ago"
       }
     ],
     "show": [
@@ -812,10 +812,10 @@
         "url": "https://github.com/cosmtrek/mindwalk",
         "discussion_url": "https://news.ycombinator.com/item?id=48878682",
         "site": "github.com",
-        "points": 73,
-        "comments": 35,
+        "points": 97,
+        "comments": 42,
         "author": "cosmtrek",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -824,13 +824,25 @@
         "url": "https://antjs.org",
         "discussion_url": "https://news.ycombinator.com/item?id=48875377",
         "site": "antjs.org",
-        "points": 273,
-        "comments": 117,
+        "points": 288,
+        "comments": 129,
         "author": "theMackabu",
-        "age": "14h ago"
+        "age": "16h ago"
       },
       {
         "rank": 3,
+        "id": 48871973,
+        "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+        "url": "https://shipthatcode.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48871973",
+        "site": "shipthatcode.com",
+        "points": 181,
+        "comments": 54,
+        "author": "acley",
+        "age": "23h ago"
+      },
+      {
+        "rank": 4,
         "id": 48879881,
         "title": "Show HN: Fenzo – Build an interactive course on any topic",
         "url": "https://fenzo.ai/",
@@ -839,19 +851,7 @@
         "points": 3,
         "comments": 0,
         "author": "fahimulhaq",
-        "age": "53m ago"
-      },
-      {
-        "rank": 4,
-        "id": 48871973,
-        "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-        "url": "https://shipthatcode.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48871973",
-        "site": "shipthatcode.com",
-        "points": 176,
-        "comments": 53,
-        "author": "acley",
-        "age": "21h ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -860,10 +860,10 @@
         "url": "https://nagylukas.github.io/orbit.html",
         "discussion_url": "https://news.ycombinator.com/item?id=48873501",
         "site": "nagylukas.github.io",
-        "points": 78,
+        "points": 82,
         "comments": 19,
         "author": "lukas9",
-        "age": "18h ago"
+        "age": "20h ago"
       }
     ]
   }
