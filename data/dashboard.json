@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-14T21:44:53Z",
+  "generated": "2026-07-14T22:44:46Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "org": "empero-ai",
-        "trending_score": 339,
+        "trending_score": 335,
         "downloads": 2006265,
-        "likes": 2150,
+        "likes": 2151,
         "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
         "tags": [
           "gguf",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 280,
+        "trending_score": 278,
         "downloads": 489611,
-        "likes": 3944,
+        "likes": 3945,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "tencent/Hy3",
         "org": "tencent",
-        "trending_score": 274,
+        "trending_score": 269,
         "downloads": 10406,
-        "likes": 779,
+        "likes": 780,
         "url": "https://huggingface.co/tencent/Hy3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "conradlocke/krea2-identity-edit",
         "org": "conradlocke",
-        "trending_score": 252,
+        "trending_score": 250,
         "downloads": 0,
-        "likes": 284,
+        "likes": 285,
         "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
         "tags": [
           "image-editing",
@@ -74,7 +74,7 @@
         "rank": 5,
         "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
         "org": "bottlecapai",
-        "trending_score": 235,
+        "trending_score": 230,
         "downloads": 6208,
         "likes": 341,
         "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
@@ -311,7 +311,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 120683,
+        "stars": 120717,
         "stars_delta": 1104,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 170087,
+        "stars": 170133,
         "stars_delta": 1864,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "Dicklesworthstone/destructive_command_guard",
         "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
         "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-        "stars": 4351,
+        "stars": 4369,
         "stars_delta": 481,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "OpenCut-app/OpenCut",
         "description": "The open-source CapCut alternative",
         "url": "https://github.com/OpenCut-app/OpenCut",
-        "stars": 69045,
+        "stars": 69090,
         "stars_delta": 4349,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "virattt/ai-hedge-fund",
         "description": "An AI Hedge Fund Team",
         "url": "https://github.com/virattt/ai-hedge-fund",
-        "stars": 61828,
+        "stars": 61840,
         "stars_delta": 156,
         "language": "Python",
         "language_color": "#3572A5"
@@ -360,16 +360,26 @@
     "weekly": [
       {
         "rank": 1,
-        "name": "wonderwhy-er/DesktopCommanderMCP",
-        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-        "stars": 8253,
-        "stars_delta": 1939,
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 22455,
+        "stars_delta": 15420,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
+        "name": "wonderwhy-er/DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "stars": 8252,
+        "stars_delta": 1939,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 3,
         "name": "abseil/abseil-cpp",
         "description": "Abseil Common Libraries (C++)",
         "url": "https://github.com/abseil/abseil-cpp",
@@ -379,34 +389,24 @@
         "language_color": "#f34b7d"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "iOfficeAI/OfficeCLI",
         "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
         "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "stars": 16676,
+        "stars": 16690,
         "stars_delta": 7596,
         "language": "C#",
         "language_color": "#178600"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 19049,
+        "stars": 19063,
         "stars_delta": 5263,
         "language": "TypeScript",
         "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
-        "name": "TencentCloud/CubeSandbox",
-        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-        "url": "https://github.com/TencentCloud/CubeSandbox",
-        "stars": 10152,
-        "stars_delta": 2367,
-        "language": "Rust",
-        "language_color": "#dea584"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 38486,
+        "stars": 38490,
         "stars_delta": 33392,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,38 +425,38 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 31499,
+        "stars": 31506,
         "stars_delta": 27660,
         "language": "C",
         "language_color": "#555555"
       },
       {
         "rank": 3,
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 22455,
+        "stars_delta": 18534,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 4,
         "name": "asgeirtj/system_prompts_leaks",
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 57735,
+        "stars": 57748,
         "stars_delta": 15390,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Panniantong/Agent-Reach",
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
         "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 56220,
+        "stars": 56231,
         "stars_delta": 28900,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
-        "name": "usestrix/strix",
-        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-        "url": "https://github.com/usestrix/strix",
-        "stars": 41481,
-        "stars_delta": 15337,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.07534",
         "categories": [],
-        "upvotes": 38,
+        "upvotes": 39,
         "published": "2026-07-07",
         "github_repo": "https://github.com/robbyant/lingbot-world-v2",
         "github_stars": 958
@@ -687,58 +687,58 @@
         "url": "https://prismml.com/news/bonsai-27b",
         "discussion_url": "https://news.ycombinator.com/item?id=48910545",
         "site": "prismml.com",
-        "points": 240,
-        "comments": 81,
+        "points": 321,
+        "comments": 111,
         "author": "xenova",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
+        "id": 48913050,
+        "title": "Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48913050",
+        "site": "github.blog",
+        "points": 39,
+        "comments": 16,
+        "author": "woodruffw",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 48909785,
         "title": "The Tower Keeps Rising",
         "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
         "discussion_url": "https://news.ycombinator.com/item?id=48909785",
         "site": "lucumr.pocoo.org",
-        "points": 254,
-        "comments": 120,
+        "points": 287,
+        "comments": 141,
         "author": "cdrnsf",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 48913443,
+        "title": "Financing the AI boom: from cash flows to debt [pdf]",
+        "url": "https://www.bis.org/publ/bisbull120.pdf",
+        "discussion_url": "https://news.ycombinator.com/item?id=48913443",
+        "site": "bis.org",
+        "points": 15,
+        "comments": 2,
+        "author": "1vuio0pswjnm7",
+        "age": "46m ago"
+      },
+      {
+        "rank": 5,
         "id": 48910676,
         "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
         "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
         "discussion_url": "https://news.ycombinator.com/item?id=48910676",
         "site": "mindgard.ai",
-        "points": 124,
-        "comments": 45,
+        "points": 177,
+        "comments": 71,
         "author": "Synthetic7346",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48869989,
-        "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-        "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48869989",
-        "site": "danq.me",
-        "points": 627,
-        "comments": 400,
-        "author": "MrVandemar",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 48872401,
-        "title": "The largest available Minecraft world, totalling 15 TB",
-        "url": "https://2b2t.place/1million",
-        "discussion_url": "https://news.ycombinator.com/item?id=48872401",
-        "site": "2b2t.place",
-        "points": 100,
-        "comments": 25,
-        "author": "_____k",
-        "age": "3d ago"
+        "age": "4h ago"
       }
     ],
     "ask": [
@@ -750,7 +750,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48884984",
         "site": "news.ycombinator.com",
         "points": 262,
-        "comments": 1031,
+        "comments": 1033,
         "author": "david927",
         "age": "2d ago"
       },
@@ -764,7 +764,7 @@
         "points": 2,
         "comments": 4,
         "author": "dhosek",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -786,7 +786,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48896372",
         "site": "news.ycombinator.com",
         "points": 25,
-        "comments": 83,
+        "comments": 86,
         "author": "sspehr",
         "age": "1d ago"
       },
@@ -798,9 +798,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=48910082",
         "site": "news.ycombinator.com",
         "points": 6,
-        "comments": 9,
+        "comments": 11,
         "author": "jassembk",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ],
     "show": [
@@ -811,58 +811,58 @@
         "url": "https://www.verbaprima.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48908271",
         "site": "verbaprima.com",
-        "points": 128,
-        "comments": 74,
+        "points": 134,
+        "comments": 77,
         "author": "plicerin",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
-        "id": 48887276,
-        "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
-        "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
-        "discussion_url": "https://news.ycombinator.com/item?id=48887276",
-        "site": "github.com",
-        "points": 8,
-        "comments": 2,
-        "author": "hkjarral",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
         "id": 48883305,
         "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
         "url": "https://github.com/juggler-ai/juggler",
         "discussion_url": "https://news.ycombinator.com/item?id=48883305",
         "site": "github.com",
-        "points": 138,
-        "comments": 74,
+        "points": 150,
+        "comments": 77,
         "author": "julesrms",
         "age": "2d ago"
       },
       {
-        "rank": 4,
-        "id": 48905914,
-        "title": "Show HN: Beautiful Type Erasure with C++26 Reflection",
-        "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48905914",
-        "site": "ryanjk5.github.io",
-        "points": 105,
-        "comments": 43,
-        "author": "RyanJK5",
-        "age": "9h ago"
+        "rank": 3,
+        "id": 48905919,
+        "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+        "url": "https://github.com/Danau5tin/ai-trains-ai",
+        "discussion_url": "https://news.ycombinator.com/item?id=48905919",
+        "site": "github.com",
+        "points": 91,
+        "comments": 39,
+        "author": "Danau5tin",
+        "age": "10h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48911998,
         "title": "Show HN: A Free RSS reader with a configurable recommendation engine",
         "url": "https://sprinklz.io/feed/home",
         "discussion_url": "https://news.ycombinator.com/item?id=48911998",
         "site": "sprinklz.io",
-        "points": 7,
-        "comments": 2,
+        "points": 9,
+        "comments": 5,
         "author": "sammy0910",
-        "age": "2h ago"
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48905914,
+        "title": "Show HN: Beautiful Type Erasure with C++26 Reflection",
+        "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48905914",
+        "site": "ryanjk5.github.io",
+        "points": 107,
+        "comments": 44,
+        "author": "RyanJK5",
+        "age": "10h ago"
       }
     ]
   }
