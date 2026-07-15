@@ -1,31 +1,14 @@
 {
-  "generated": "2026-07-15T13:06:09Z",
+  "generated": "2026-07-15T15:16:16Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "org": "empero-ai",
-        "trending_score": 318,
-        "downloads": 2006265,
-        "likes": 2193,
-        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "tags": [
-          "gguf",
-          "llama.cpp",
-          "quantized",
-          "qwen3.5",
-          "reasoning"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 308,
+        "trending_score": 348,
         "downloads": 23,
-        "likes": 316,
+        "likes": 359,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "org": "empero-ai",
+        "trending_score": 312,
+        "downloads": 2006265,
+        "likes": 2197,
+        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "tags": [
+          "gguf",
+          "llama.cpp",
+          "quantized",
+          "qwen3.5",
+          "reasoning"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 260,
+        "trending_score": 255,
         "downloads": 489611,
-        "likes": 3968,
+        "likes": 3970,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -55,9 +55,26 @@
       },
       {
         "rank": 4,
+        "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+        "org": "bottlecapai",
+        "trending_score": 224,
+        "downloads": 6208,
+        "likes": 362,
+        "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "qwen3_6"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "tencent/Hy3",
         "org": "tencent",
-        "trending_score": 231,
+        "trending_score": 222,
         "downloads": 10406,
         "likes": 792,
         "url": "https://huggingface.co/tencent/Hy3",
@@ -67,23 +84,6 @@
           "hy_v3",
           "text-generation",
           "hunyuan"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-        "org": "bottlecapai",
-        "trending_score": 225,
-        "downloads": 6208,
-        "likes": 358,
-        "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "qwen3_6"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 62.2681857049786,
+        "speed_tps": 63.851692151608,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 57.3194238972349,
+        "speed_tps": 61.7205226120935,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.653836996095,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 60.8014012754084,
+        "speed_tps": 62.5693047917532,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 55.8665067971861,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 55.5193413045735,
+        "speed_tps": 55.7650259565345,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 55.6920406995495,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 56.7763689082929,
+        "speed_tps": 53.7731244740868,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-4-8"
       }
@@ -311,7 +311,7 @@
         "name": "OpenCut-app/OpenCut",
         "description": "The open-source CapCut alternative",
         "url": "https://github.com/OpenCut-app/OpenCut",
-        "stars": 70169,
+        "stars": 70572,
         "stars_delta": 1505,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 6929,
+        "stars": 7303,
         "stars_delta": 1119,
         "language": "CSS",
         "language_color": "#663399"
@@ -331,7 +331,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 171555,
+        "stars": 171761,
         "stars_delta": 2160,
         "language": "Shell",
         "language_color": "#89e051"
@@ -341,7 +341,7 @@
         "name": "moeru-ai/airi",
         "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
         "url": "https://github.com/moeru-ai/airi",
-        "stars": 42330,
+        "stars": 42376,
         "stars_delta": 537,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "Dicklesworthstone/destructive_command_guard",
         "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
         "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-        "stars": 4583,
+        "stars": 4627,
         "stars_delta": 497,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "wonderwhy-er/DesktopCommanderMCP",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-        "stars": 8295,
+        "stars": 8304,
         "stars_delta": 2009,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 7400,
+        "stars": 7405,
         "stars_delta": 975,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "abseil/abseil-cpp",
         "description": "Abseil Common Libraries (C++)",
         "url": "https://github.com/abseil/abseil-cpp",
-        "stars": 17990,
+        "stars": 17991,
         "stars_delta": 637,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -393,7 +393,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 22767,
+        "stars": 22831,
         "stars_delta": 13195,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "iOfficeAI/OfficeCLI",
         "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
         "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "stars": 17372,
+        "stars": 17484,
         "stars_delta": 7129,
         "language": "C#",
         "language_color": "#178600"
@@ -415,7 +415,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 38786,
+        "stars": 38834,
         "stars_delta": 33860,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 31722,
+        "stars": 31763,
         "stars_delta": 28030,
         "language": "C",
         "language_color": "#555555"
@@ -435,7 +435,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 22767,
+        "stars": 22831,
         "stars_delta": 19140,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "catchorg/Catch2",
         "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
         "url": "https://github.com/catchorg/Catch2",
-        "stars": 21290,
+        "stars": 21293,
         "stars_delta": 905,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -455,7 +455,7 @@
         "name": "asgeirtj/system_prompts_leaks",
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 57961,
+        "stars": 57990,
         "stars_delta": 15784,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -549,7 +549,7 @@
         "upvotes": 41,
         "published": "2026-07-07",
         "github_repo": "https://github.com/robbyant/lingbot-world-v2",
-        "github_stars": 958
+        "github_stars": 1162
       },
       {
         "rank": 3,
@@ -579,7 +579,7 @@
         "upvotes": 62,
         "published": "2026-07-07",
         "github_repo": "https://github.com/robbyant/lingbot-video",
-        "github_stars": 720
+        "github_stars": 797
       },
       {
         "rank": 5,
@@ -681,185 +681,185 @@
       {
         "rank": 1,
         "id": 48919363,
-        "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+        "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
         "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
         "discussion_url": "https://news.ycombinator.com/item?id=48919363",
         "site": "academic.oup.com",
-        "points": 139,
-        "comments": 54,
+        "points": 365,
+        "comments": 167,
         "author": "bilsbie",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 48920475,
+        "title": "Mysteries of Telegram Data Centers",
+        "url": "https://dev.moe/en/3025",
+        "discussion_url": "https://news.ycombinator.com/item?id=48920475",
+        "site": "dev.moe",
+        "points": 79,
+        "comments": 14,
+        "author": "theanonymousone",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48921077,
+        "title": "Towards a Harness That Can Do Anything",
+        "url": "https://eardatasci.github.io/c/ambiance/index.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48921077",
+        "site": "eardatasci.github.io",
+        "points": 39,
+        "comments": 9,
+        "author": "evakhoury",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48919869,
+        "title": "Briar Is in Maintenance Mode",
+        "url": "https://briarproject.org/news/2026-maintenance-mode/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48919869",
+        "site": "briarproject.org",
+        "points": 67,
+        "comments": 26,
+        "author": "ristello",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
         "id": 48919198,
         "title": "Prioritize mental health, and why communication is so important",
         "url": "https://ramones.dev/posts/mental-health/",
         "discussion_url": "https://news.ycombinator.com/item?id=48919198",
         "site": "ramones.dev",
-        "points": 42,
-        "comments": 6,
+        "points": 110,
+        "comments": 68,
         "author": "ramon156",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48915709,
-        "title": "Jurassic Park computers in excruciating detail",
-        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48915709",
-        "site": "fabiensanglard.net",
-        "points": 599,
-        "comments": 146,
-        "author": "vinhnx",
-        "age": "10h ago"
-      },
-      {
-        "rank": 4,
-        "id": 48919013,
-        "title": "Weathergotchi – an open-source climate Tamagotchi",
-        "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-        "discussion_url": "https://news.ycombinator.com/item?id=48919013",
-        "site": "github.com",
-        "points": 26,
-        "comments": 8,
-        "author": "luanmuniz",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48918575,
-        "title": "DSLs Enable Reliable Use of LLMs",
-        "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=48918575",
-        "site": "martinfowler.com",
-        "points": 43,
-        "comments": 18,
-        "author": "SirOibaf",
-        "age": "2h ago"
+        "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 48920994,
+        "title": "Ask HN: What company could create an iOS/Android competitor worth adopting?",
+        "url": "https://news.ycombinator.com/item?id=48920994",
+        "discussion_url": "https://news.ycombinator.com/item?id=48920994",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 2,
+        "author": "pwython",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 48884984,
         "title": "Ask HN: What Are You Working On? (July 2026)",
         "url": "https://news.ycombinator.com/item?id=48884984",
         "discussion_url": "https://news.ycombinator.com/item?id=48884984",
         "site": "news.ycombinator.com",
         "points": 274,
-        "comments": 1063,
+        "comments": 1067,
         "author": "david927",
         "age": "2d ago"
       },
       {
-        "rank": 2,
-        "id": 48919162,
-        "title": "I reverse-engineered the three biggest agent-memory tools",
-        "url": "https://news.ycombinator.com/item?id=48919162",
-        "discussion_url": "https://news.ycombinator.com/item?id=48919162",
+        "rank": 3,
+        "id": 48920407,
+        "title": "GitHub is starting to lockdown some of the previously public data",
+        "url": "https://news.ycombinator.com/item?id=48920407",
+        "discussion_url": "https://news.ycombinator.com/item?id=48920407",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "pauliusztin",
+        "points": 6,
+        "comments": 4,
+        "author": "punkpeye",
         "age": "1h ago"
       },
       {
-        "rank": 3,
-        "id": 48918863,
-        "title": "ChatGPT Subagents 2",
-        "url": "https://news.ycombinator.com/item?id=48918863",
-        "discussion_url": "https://news.ycombinator.com/item?id=48918863",
+        "rank": 4,
+        "id": 48920132,
+        "title": "Ask HN: Does language complexity affect reasoning?",
+        "url": "https://news.ycombinator.com/item?id=48920132",
+        "discussion_url": "https://news.ycombinator.com/item?id=48920132",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "217",
+        "points": 4,
+        "comments": 2,
+        "author": "zecice",
         "age": "2h ago"
       },
       {
-        "rank": 4,
-        "id": 48918288,
-        "title": "Ask HN: Question regarding personal knowledge management",
-        "url": "https://news.ycombinator.com/item?id=48918288",
-        "discussion_url": "https://news.ycombinator.com/item?id=48918288",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "diarrheaasmr",
-        "age": "3h ago"
-      },
-      {
         "rank": 5,
-        "id": 48918150,
-        "title": "Ask HN: How do you do marketing in the age of slop?",
-        "url": "https://news.ycombinator.com/item?id=48918150",
-        "discussion_url": "https://news.ycombinator.com/item?id=48918150",
+        "id": 48920698,
+        "title": "Ask HN: Is it just me, or is software buggier across the board?",
+        "url": "https://news.ycombinator.com/item?id=48920698",
+        "discussion_url": "https://news.ycombinator.com/item?id=48920698",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 9,
-        "author": "probst",
-        "age": "3h ago"
+        "points": 44,
+        "comments": 58,
+        "author": "kadhirvelm",
+        "age": "1h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48919191,
-        "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
-        "discussion_url": "https://news.ycombinator.com/item?id=48919191",
-        "site": "papers.ssrn.com",
-        "points": 17,
-        "comments": 20,
-        "author": "fabioricardo7",
+        "id": 48920537,
+        "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+        "url": "https://github.com/evansjp/grepathy",
+        "discussion_url": "https://news.ycombinator.com/item?id=48920537",
+        "site": "github.com",
+        "points": 14,
+        "comments": 22,
+        "author": "evansjp",
         "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 48919489,
-        "title": "Show HN: Make senders work to get into your inbox",
-        "url": "https://www.captchainbox.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=48919489",
-        "site": "captchainbox.com",
-        "points": 31,
-        "comments": 43,
-        "author": "felixdoerp",
+        "id": 48921067,
+        "title": "Show HN: An AI agent fixed 98% of vulnerable deps in one run, 14% in the next",
+        "url": "https://bomly.dev/blog/coding-agents-with-and-without-bomly-mcp",
+        "discussion_url": "https://news.ycombinator.com/item?id=48921067",
+        "site": "bomly.dev",
+        "points": 2,
+        "comments": 0,
+        "author": "ahmed3lmallah",
         "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 48919515,
-        "title": "Show HN: AI skills appear in 0.3% of entry-level data jobs, 3.6% of senior",
-        "url": "https://www.datamatastudios.com/datasets/ai-requirements-index",
-        "discussion_url": "https://news.ycombinator.com/item?id=48919515",
-        "site": "datamatastudios.com",
-        "points": 3,
+        "id": 48921031,
+        "title": "Show HN: I spent a month turning LinkedIn into software",
+        "url": "https://www.bulaev.net/p/i-spent-a-month-turning-linkedin",
+        "discussion_url": "https://news.ycombinator.com/item?id=48921031",
+        "site": "bulaev.net",
+        "points": 2,
         "comments": 0,
-        "author": "datamatastudios",
+        "author": "sbulaev",
         "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 48887175,
-        "title": "Show HN: Web App Uses RTL-SDR to Align HDTV Antenna",
-        "url": "https://tunerscope.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48887175",
-        "site": "tunerscope.com",
-        "points": 17,
-        "comments": 2,
-        "author": "robotastic",
-        "age": "2d ago"
+        "id": 48921016,
+        "title": "Show HN: LogoTeddy – Animate logos with AI (no templates)",
+        "url": "https://logoteddy.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48921016",
+        "site": "logoteddy.com",
+        "points": 2,
+        "comments": 0,
+        "author": "humphrey_liu",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 48919431,
-        "title": "Show HN: One MCP setup for 22 clients, with lazy tool discovery",
-        "url": "https://github.com/tsouth89/toolport",
-        "discussion_url": "https://news.ycombinator.com/item?id=48919431",
-        "site": "github.com",
-        "points": 4,
+        "id": 48921013,
+        "title": "Show HN: I Am Hosting Amalia – The First Portuguese LLM",
+        "url": "https://iaamalia.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48921013",
+        "site": "iaamalia.com",
+        "points": 2,
         "comments": 0,
-        "author": "tsouth2",
+        "author": "wbemaker",
         "age": "1h ago"
       }
     ]
