@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-16T08:27:31Z",
+  "generated": "2026-07-16T09:54:14Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling",
         "org": "thinkingmachines",
-        "trending_score": 507,
-        "downloads": 0,
-        "likes": 511,
+        "trending_score": 563,
+        "downloads": 4,
+        "likes": 569,
         "url": "https://huggingface.co/thinkingmachines/Inkling",
         "tags": [
           "safetensors",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 490,
-        "downloads": 23,
-        "likes": 504,
+        "trending_score": 501,
+        "downloads": 74007,
+        "likes": 515,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "org": "empero-ai",
-        "trending_score": 283,
-        "downloads": 2006265,
-        "likes": 2222,
-        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "tags": [
-          "gguf",
-          "llama.cpp",
-          "quantized",
-          "qwen3.5",
-          "reasoning"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "prism-ml/Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 280,
-        "downloads": 513,
-        "likes": 285,
+        "trending_score": 288,
+        "downloads": 559267,
+        "likes": 293,
         "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "org": "empero-ai",
+        "trending_score": 275,
+        "downloads": 2042670,
+        "likes": 2223,
+        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "tags": [
+          "gguf",
+          "llama.cpp",
+          "quantized",
+          "qwen3.5",
+          "reasoning"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 257,
-        "downloads": 489611,
-        "likes": 4007,
+        "trending_score": 256,
+        "downloads": 513061,
+        "likes": 4009,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -150,47 +150,47 @@
     "general": [
       {
         "rank": 1,
-        "name": "SU AI Zero",
-        "org": "Suzhou AI Lab",
-        "score": 76.41,
+        "name": "CustomGPT.ai Research Lab v44",
+        "org": "CustomGPT.ai",
+        "score": 93.36,
         "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "url": "https://github.com/adorosario/customgpt-agent",
         "verified": true
       },
       {
         "rank": 2,
-        "name": "h2oGPTe Agent v1.6.27 | March 17 original date",
-        "org": "h2o.ai",
-        "score": 74.75,
+        "name": "Co-Sight Pro v1.0.1",
+        "org": "ZTE-AICloud",
+        "score": 93.02,
         "score_unit": "%",
-        "url": "https://h2ogpte.genai.h2o.ai/",
+        "url": "https://github.com/ZTE-AICloud/Co-Sight",
         "verified": true
       },
       {
         "rank": 3,
-        "name": "Trase Agent v0.3",
-        "org": "Trase Systems",
-        "score": 66.78,
+        "name": "OPS-Agentic-Search",
+        "org": "Alibaba Cloud",
+        "score": 92.36,
         "score_unit": "%",
-        "url": "https://trasesystems.com",
+        "url": "https://www.alibabacloud.com/en/product/opensearch?_p_lc=1",
         "verified": true
       },
       {
         "rank": 4,
-        "name": "h2oGPTe Agent v1.6.8",
-        "org": "h2o.ai",
-        "score": 65.12,
+        "name": "Co-Sight Pro v1.0.0",
+        "org": "ZTE-AICloud",
+        "score": 92.03,
         "score_unit": "%",
-        "url": "https://h2ogpte.genai.h2o.ai/",
+        "url": "https://github.com/ZTE-AICloud/Co-Sight",
         "verified": true
       },
       {
         "rank": 5,
-        "name": "Anges",
-        "org": "Anges.AI",
-        "score": 56.48,
+        "name": "CustomGPT.ai Research Lab v41",
+        "org": "CustomGPT.ai",
+        "score": 92.03,
         "score_unit": "%",
-        "url": "anges.ai",
+        "url": "https://github.com/adorosario/customgpt-agent",
         "verified": true
       }
     ],
@@ -311,7 +311,7 @@
         "name": "OpenCut-app/OpenCut",
         "description": "The open-source CapCut alternative",
         "url": "https://github.com/OpenCut-app/OpenCut",
-        "stars": 72969,
+        "stars": 73249,
         "stars_delta": 1664,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 9620,
+        "stars": 9911,
         "stars_delta": 1277,
         "language": "CSS",
         "language_color": "#663399"
@@ -331,7 +331,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 173073,
+        "stars": 173287,
         "stars_delta": 2130,
         "language": "Shell",
         "language_color": "#89e051"
@@ -341,7 +341,7 @@
         "name": "moeru-ai/airi",
         "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
         "url": "https://github.com/moeru-ai/airi",
-        "stars": 42672,
+        "stars": 42717,
         "stars_delta": 110,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "Dicklesworthstone/destructive_command_guard",
         "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
         "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-        "stars": 4901,
+        "stars": 4943,
         "stars_delta": 471,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "wonderwhy-er/DesktopCommanderMCP",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-        "stars": 8376,
+        "stars": 8385,
         "stars_delta": 2055,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 7497,
+        "stars": 7506,
         "stars_delta": 992,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "abseil/abseil-cpp",
         "description": "Abseil Common Libraries (C++)",
         "url": "https://github.com/abseil/abseil-cpp",
-        "stars": 18014,
+        "stars": 18016,
         "stars_delta": 648,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -393,7 +393,7 @@
         "name": "iOfficeAI/OfficeCLI",
         "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
         "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "stars": 18046,
+        "stars": 18100,
         "stars_delta": 6374,
         "language": "C#",
         "language_color": "#178600"
@@ -403,7 +403,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 20226,
+        "stars": 20289,
         "stars_delta": 5777,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 39089,
+        "stars": 39121,
         "stars_delta": 34298,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 32006,
+        "stars": 32029,
         "stars_delta": 28343,
         "language": "C",
         "language_color": "#555555"
@@ -435,7 +435,7 @@
         "name": "catchorg/Catch2",
         "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
         "url": "https://github.com/catchorg/Catch2",
-        "stars": 21302,
+        "stars": 21303,
         "stars_delta": 908,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -445,7 +445,7 @@
         "name": "asgeirtj/system_prompts_leaks",
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 58217,
+        "stars": 58240,
         "stars_delta": 15928,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 6341,
+        "stars": 6344,
         "stars_delta": 4964,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -564,25 +564,10 @@
         "upvotes": 111,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 93160
+        "github_stars": 93239
       },
       {
         "rank": 4,
-        "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-        "authors": [
-          "Yifan Yang",
-          "Ziyang Gong",
-          "Weiquan Huang"
-        ],
-        "url": "https://huggingface.co/papers/2605.23904",
-        "categories": [],
-        "upvotes": 257,
-        "published": "2026-05-21",
-        "github_repo": "https://github.com/microsoft/SkillOpt",
-        "github_stars": 12827
-      },
-      {
-        "rank": 5,
         "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
         "authors": [
           "Shuailei Ma",
@@ -595,6 +580,21 @@
         "published": "2026-07-07",
         "github_repo": "https://github.com/robbyant/lingbot-video",
         "github_stars": 801
+      },
+      {
+        "rank": 5,
+        "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+        "authors": [
+          "Yifan Yang",
+          "Ziyang Gong",
+          "Weiquan Huang"
+        ],
+        "url": "https://huggingface.co/papers/2605.23904",
+        "categories": [],
+        "upvotes": 257,
+        "published": "2026-05-21",
+        "github_repo": "https://github.com/microsoft/SkillOpt",
+        "github_stars": 12876
       }
     ],
     "arxiv_recent": [
@@ -686,10 +686,10 @@
         "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
         "discussion_url": "https://news.ycombinator.com/item?id=48930454",
         "site": "pigeonsandplanes.com",
-        "points": 232,
-        "comments": 113,
+        "points": 321,
+        "comments": 169,
         "author": "mcgin",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
@@ -698,10 +698,10 @@
         "url": "https://thinkingmachines.ai/news/introducing-inkling/",
         "discussion_url": "https://news.ycombinator.com/item?id=48924912",
         "site": "thinkingmachines.ai",
-        "points": 935,
-        "comments": 229,
+        "points": 971,
+        "comments": 245,
         "author": "vimarsh6739",
-        "age": "14h ago"
+        "age": "15h ago"
       },
       {
         "rank": 3,
@@ -710,33 +710,33 @@
         "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
         "discussion_url": "https://news.ycombinator.com/item?id=48930136",
         "site": "madcampos.dev",
-        "points": 93,
-        "comments": 44,
+        "points": 130,
+        "comments": 60,
         "author": "treve",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 48883036,
-        "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-        "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48883036",
-        "site": "goughlui.com",
-        "points": 39,
-        "comments": 5,
-        "author": "speckx",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
         "id": 48884580,
         "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
         "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
         "discussion_url": "https://news.ycombinator.com/item?id=48884580",
         "site": "blog.cloudflare.com",
-        "points": 15,
-        "comments": 8,
+        "points": 38,
+        "comments": 36,
         "author": "aragonite",
+        "age": "3d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48883036,
+        "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+        "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48883036",
+        "site": "goughlui.com",
+        "points": 56,
+        "comments": 21,
+        "author": "speckx",
         "age": "3d ago"
       }
     ],
@@ -751,7 +751,7 @@
         "points": 2,
         "comments": 0,
         "author": "phaedrus044",
-        "age": "21m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -760,10 +760,10 @@
         "url": "https://news.ycombinator.com/item?id=48920698",
         "discussion_url": "https://news.ycombinator.com/item?id=48920698",
         "site": "news.ycombinator.com",
-        "points": 112,
-        "comments": 95,
+        "points": 113,
+        "comments": 96,
         "author": "kadhirvelm",
-        "age": "18h ago"
+        "age": "20h ago"
       },
       {
         "rank": 3,
@@ -772,8 +772,8 @@
         "url": "https://news.ycombinator.com/item?id=48884984",
         "discussion_url": "https://news.ycombinator.com/item?id=48884984",
         "site": "news.ycombinator.com",
-        "points": 279,
-        "comments": 1081,
+        "points": 280,
+        "comments": 1083,
         "author": "david927",
         "age": "3d ago"
       },
@@ -787,7 +787,7 @@
         "points": 2,
         "comments": 0,
         "author": "cristyg0101",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -796,72 +796,72 @@
         "url": "https://news.ycombinator.com/item?id=48925128",
         "discussion_url": "https://news.ycombinator.com/item?id=48925128",
         "site": "news.ycombinator.com",
-        "points": 9,
+        "points": 10,
         "comments": 6,
         "author": "Gold-Ask-lx",
-        "age": "13h ago"
+        "age": "15h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 48928402,
-        "title": "Show HN: One More Letter",
-        "url": "https://playonemoreletter.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48928402",
-        "site": "playonemoreletter.com",
-        "points": 72,
-        "comments": 46,
-        "author": "hmate9",
-        "age": "9h ago"
-      },
-      {
-        "rank": 2,
         "id": 48926939,
         "title": "Show HN: Firefox in WebAssembly",
         "url": "https://developer.puter.com/labs/firefox-wasm/",
         "discussion_url": "https://news.ycombinator.com/item?id=48926939",
         "site": "developer.puter.com",
-        "points": 186,
-        "comments": 97,
+        "points": 206,
+        "comments": 103,
         "author": "coolelectronics",
-        "age": "11h ago"
+        "age": "12h ago"
+      },
+      {
+        "rank": 2,
+        "id": 48928402,
+        "title": "Show HN: One More Letter",
+        "url": "https://playonemoreletter.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48928402",
+        "site": "playonemoreletter.com",
+        "points": 73,
+        "comments": 47,
+        "author": "hmate9",
+        "age": "10h ago"
       },
       {
         "rank": 3,
-        "id": 48931227,
-        "title": "Show HN: I made ts-node alternative, ttsc/ttsx, a TypeScript-go toolchain",
-        "url": "https://github.com/samchon/ttsc",
-        "discussion_url": "https://news.ycombinator.com/item?id=48931227",
-        "site": "github.com",
-        "points": 4,
-        "comments": 0,
-        "author": "autobe",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
         "id": 48922838,
         "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
         "url": "https://github.com/welcome-to-the-sunny-side/misa77",
         "discussion_url": "https://news.ycombinator.com/item?id=48922838",
         "site": "github.com",
-        "points": 143,
-        "comments": 41,
+        "points": 146,
+        "comments": 43,
         "author": "nonadhocproblem",
-        "age": "16h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 48863891,
         "title": "Show HN: E-- – A language you dial between English and Python",
         "url": "https://github.com/frmoded/e--",
         "discussion_url": "https://news.ycombinator.com/item?id=48863891",
         "site": "github.com",
-        "points": 23,
-        "comments": 14,
+        "points": 24,
+        "comments": 15,
         "author": "OdedF",
         "age": "5d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48931227,
+        "title": "Show HN: I made ts-node alternative, ttsc/ttsx, a TypeScript-go toolchain",
+        "url": "https://github.com/samchon/ttsc",
+        "discussion_url": "https://news.ycombinator.com/item?id=48931227",
+        "site": "github.com",
+        "points": 5,
+        "comments": 0,
+        "author": "autobe",
+        "age": "2h ago"
       }
     ]
   }
