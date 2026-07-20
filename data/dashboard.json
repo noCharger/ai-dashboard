@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-20T05:27:57Z",
+  "generated": "2026-07-20T08:37:09Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling",
         "org": "thinkingmachines",
-        "trending_score": 1119,
+        "trending_score": 1126,
         "downloads": 13462,
-        "likes": 1164,
+        "likes": 1172,
         "url": "https://huggingface.co/thinkingmachines/Inkling",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 764,
+        "trending_score": 773,
         "downloads": 338945,
-        "likes": 801,
+        "likes": 810,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "prism-ml/Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 490,
+        "trending_score": 497,
         "downloads": 1262894,
-        "likes": 506,
+        "likes": 515,
         "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "zai-org/GLM-5.2",
-        "org": "zai-org",
-        "trending_score": 254,
-        "downloads": 536177,
-        "likes": 4177,
-        "url": "https://huggingface.co/zai-org/GLM-5.2",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "glm_moe_dsa",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 244,
+        "trending_score": 290,
         "downloads": 2122848,
-        "likes": 2215,
+        "likes": 2265,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "unlimited-ocr",
           "feature-extraction",
           "baidu"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "zai-org/GLM-5.2",
+        "org": "zai-org",
+        "trending_score": 253,
+        "downloads": 531947,
+        "likes": 4184,
+        "url": "https://huggingface.co/zai-org/GLM-5.2",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm_moe_dsa",
+          "text-generation",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 60.7024893908056,
+        "speed_tps": 66.5959601119457,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 61.9746351749155,
+        "speed_tps": 65.5660404196738,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.653836996095,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 59.6292244675754,
+        "speed_tps": 59.912073336747,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 55.8665067971861,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 58.8422092196562,
+        "speed_tps": 61.7912172344597,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-high"
       }
@@ -308,51 +308,51 @@
     "daily": [
       {
         "rank": 1,
-        "name": "bojieli/ai-agent-book",
-        "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-        "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 6921,
-        "stars_delta": 1734,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 21654,
+        "stars": 22000,
         "stars_delta": 663,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "kvcache-ai/ktransformers",
         "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
         "url": "https://github.com/kvcache-ai/ktransformers",
-        "stars": 18465,
+        "stars": 18534,
         "stars_delta": 360,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 39875,
+        "stars": 40017,
         "stars_delta": 501,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "jamiepine/voicebox",
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "url": "https://github.com/jamiepine/voicebox",
-        "stars": 43541,
+        "stars": 43687,
         "stars_delta": 610,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "KnockOutEZ/wigolo",
+        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "url": "https://github.com/KnockOutEZ/wigolo",
+        "stars": 2130,
+        "stars_delta": 595,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,7 +363,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 13543,
+        "stars": 13693,
         "stars_delta": 9193,
         "language": "CSS",
         "language_color": "#663399"
@@ -373,7 +373,7 @@
         "name": "OpenCut-app/OpenCut",
         "description": "The open-source CapCut alternative",
         "url": "https://github.com/OpenCut-app/OpenCut",
-        "stars": 76002,
+        "stars": 76097,
         "stars_delta": 12743,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 124658,
+        "stars": 124789,
         "stars_delta": 6211,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "HKUDS/Vibe-Trading",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "url": "https://github.com/HKUDS/Vibe-Trading",
-        "stars": 25376,
+        "stars": 25443,
         "stars_delta": 5228,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 28045,
+        "stars": 28153,
         "stars_delta": 2375,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,50 +415,50 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 40217,
+        "stars": 40288,
         "stars_delta": 34396,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 24163,
+        "stars_delta": 20591,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 3,
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 33022,
+        "stars": 33062,
         "stars_delta": 25557,
         "language": "C",
         "language_color": "#555555"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 42711,
+        "stars": 42758,
         "stars_delta": 16862,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 6650,
+        "stars": 6664,
         "stars_delta": 5226,
         "language": "Go",
         "language_color": "#00ADD8"
-      },
-      {
-        "rank": 5,
-        "name": "catchorg/Catch2",
-        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-        "url": "https://github.com/catchorg/Catch2",
-        "stars": 21239,
-        "stars_delta": 924,
-        "language": "C++",
-        "language_color": "#f34b7d"
       }
     ],
     "frameworks": [
@@ -466,8 +466,8 @@
         "rank": 1,
         "name": "langchain-ai/langchain",
         "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 23,
-        "total_stars": 116747,
+        "stars_28d": 24,
+        "total_stars": 116748,
         "description": "The agent engineering platform.",
         "category": "General Agent Stack",
         "language": "Python",
@@ -534,10 +534,25 @@
         "upvotes": 29,
         "published": "2026-04-14",
         "github_repo": "https://github.com/robbyant/lingbot-map",
-        "github_stars": 13561
+        "github_stars": 13774
       },
       {
         "rank": 2,
+        "title": "Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices",
+        "authors": [
+          "Evan King",
+          "Adam Sabra",
+          "Manjunath Kudlur"
+        ],
+        "url": "https://huggingface.co/papers/2509.02523",
+        "categories": [],
+        "upvotes": 21,
+        "published": "2025-09-02",
+        "github_repo": "https://github.com/moonshine-ai/moonshine",
+        "github_stars": 9370
+      },
+      {
+        "rank": 3,
         "title": "Moonshine: Speech Recognition for Live Transcription and Voice Commands",
         "authors": [
           "Nat Jeffries",
@@ -550,21 +565,6 @@
         "published": "2024-10-20",
         "github_repo": "https://github.com/usefulsensors/moonshine",
         "github_stars": 9359
-      },
-      {
-        "rank": 3,
-        "title": "Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices",
-        "authors": [
-          "Evan King",
-          "Adam Sabra",
-          "Manjunath Kudlur"
-        ],
-        "url": "https://huggingface.co/papers/2509.02523",
-        "categories": [],
-        "upvotes": 21,
-        "published": "2025-09-02",
-        "github_repo": "https://github.com/moonshine-ai/moonshine",
-        "github_stars": 9275
       },
       {
         "rank": 4,
@@ -594,7 +594,7 @@
         "upvotes": 83,
         "published": "2024-07-23",
         "github_repo": "https://github.com/opendevin/opendevin",
-        "github_stars": 81304
+        "github_stars": 81348
       }
     ],
     "arxiv_recent": [
@@ -680,63 +680,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 48974325,
+        "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "discussion_url": "https://news.ycombinator.com/item?id=48974325",
+        "site": "github.com",
+        "points": 60,
+        "comments": 6,
+        "author": "Vineeth147",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
         "id": 48968606,
         "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
         "url": "https://news.ycombinator.com/item?id=48968606",
         "discussion_url": "https://news.ycombinator.com/item?id=48968606",
         "site": "news.ycombinator.com",
-        "points": 1886,
-        "comments": 198,
+        "points": 2198,
+        "comments": 236,
         "author": "section33",
-        "age": "14h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48972970,
         "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
         "url": "https://github.com/hgaiser/moonshine",
         "discussion_url": "https://news.ycombinator.com/item?id=48972970",
         "site": "github.com",
-        "points": 51,
-        "comments": 24,
+        "points": 154,
+        "comments": 65,
         "author": "wertyk",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
-        "id": 48973869,
-        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-        "discussion_url": "https://news.ycombinator.com/item?id=48973869",
-        "site": "xcancel.com",
-        "points": 176,
-        "comments": 88,
-        "author": "loubbrad",
-        "age": "2h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
-        "id": 48974292,
-        "title": "Power companies are using eminent domain to seize land for data centers",
-        "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48974292",
-        "site": "fortune.com",
-        "points": 34,
-        "comments": 6,
-        "author": "1vuio0pswjnm7",
-        "age": "1h ago"
+        "id": 48974454,
+        "title": "Xiaomi-Robotics-1",
+        "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=48974454",
+        "site": "robotics.xiaomi.com",
+        "points": 168,
+        "comments": 103,
+        "author": "ilreb",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 48966569,
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48966569",
-        "site": "simonwillison.net",
-        "points": 446,
-        "comments": 607,
-        "author": "tosh",
-        "age": "19h ago"
+        "id": 48861496,
+        "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+        "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+        "discussion_url": "https://news.ycombinator.com/item?id=48861496",
+        "site": "spectrum.ieee.org",
+        "points": 30,
+        "comments": 11,
+        "author": "rbanffy",
+        "age": "9d ago"
       }
     ],
     "ask": [
@@ -747,46 +747,46 @@
         "url": "https://news.ycombinator.com/item?id=48945241",
         "discussion_url": "https://news.ycombinator.com/item?id=48945241",
         "site": "news.ycombinator.com",
-        "points": 1298,
+        "points": 1301,
         "comments": 747,
         "author": "nprateem",
         "age": "2d ago"
       },
       {
         "rank": 2,
-        "id": 48972858,
-        "title": "Ask HN: What are your favorite blogs not about AI?",
-        "url": "https://news.ycombinator.com/item?id=48972858",
-        "discussion_url": "https://news.ycombinator.com/item?id=48972858",
-        "site": "news.ycombinator.com",
-        "points": 67,
-        "comments": 29,
-        "author": "azhenley",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
         "id": 48949551,
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
         "discussion_url": "https://news.ycombinator.com/item?id=48949551",
         "site": "news.ycombinator.com",
-        "points": 817,
+        "points": 818,
         "comments": 104,
         "author": "nicholasjbs",
         "age": "2d ago"
       },
       {
-        "rank": 4,
-        "id": 48974402,
-        "title": "Freeact – undetectable browser automation CLI for AI agents via real browsers",
-        "url": "https://news.ycombinator.com/item?id=48974402",
-        "discussion_url": "https://news.ycombinator.com/item?id=48974402",
+        "rank": 3,
+        "id": 48972858,
+        "title": "Ask HN: What are your favorite blogs not about AI?",
+        "url": "https://news.ycombinator.com/item?id=48972858",
+        "discussion_url": "https://news.ycombinator.com/item?id=48972858",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "xuviga",
-        "age": "48m ago"
+        "points": 75,
+        "comments": 30,
+        "author": "azhenley",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48884984,
+        "title": "Ask HN: What Are You Working On? (July 2026)",
+        "url": "https://news.ycombinator.com/item?id=48884984",
+        "discussion_url": "https://news.ycombinator.com/item?id=48884984",
+        "site": "news.ycombinator.com",
+        "points": 289,
+        "comments": 1125,
+        "author": "david927",
+        "age": "7d ago"
       },
       {
         "rank": 5,
@@ -798,7 +798,7 @@
         "points": 2,
         "comments": 1,
         "author": "PotatoFy",
-        "age": "7h ago"
+        "age": "10h ago"
       }
     ],
     "show": [
@@ -809,34 +809,34 @@
         "url": "https://news.ycombinator.com/item?id=48968606",
         "discussion_url": "https://news.ycombinator.com/item?id=48968606",
         "site": "news.ycombinator.com",
-        "points": 1886,
-        "comments": 198,
+        "points": 2198,
+        "comments": 236,
         "author": "section33",
-        "age": "14h ago"
+        "age": "17h ago"
       },
       {
         "rank": 2,
-        "id": 48971847,
-        "title": "Show HN: A canvas-based note taking and organizer app",
-        "url": "https://www.passinote.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48971847",
-        "site": "passinote.app",
-        "points": 47,
-        "comments": 13,
-        "author": "passiflora96",
-        "age": "7h ago"
-      },
-      {
-        "rank": 3,
         "id": 48969051,
         "title": "Show HN: Bribes.fyi – Built something to report bribes",
         "url": "https://bribes.fyi/",
         "discussion_url": "https://news.ycombinator.com/item?id=48969051",
         "site": "bribes.fyi",
-        "points": 23,
-        "comments": 17,
+        "points": 29,
+        "comments": 22,
         "author": "neverenderr",
-        "age": "13h ago"
+        "age": "17h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48958854,
+        "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+        "url": "https://q3edit.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=48958854",
+        "site": "q3edit.com",
+        "points": 96,
+        "comments": 26,
+        "author": "drdator",
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -845,22 +845,22 @@
         "url": "https://shipmd.app",
         "discussion_url": "https://news.ycombinator.com/item?id=48971669",
         "site": "shipmd.app",
-        "points": 4,
+        "points": 5,
         "comments": 2,
         "author": "bosky101",
-        "age": "8h ago"
+        "age": "11h ago"
       },
       {
         "rank": 5,
-        "id": 48973142,
-        "title": "Show HN: Headroom – measure your GPU's true bandwidth ceiling for local AI",
-        "url": "https://ar5en1c.github.io/headroom/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48973142",
-        "site": "ar5en1c.github.io",
-        "points": 3,
-        "comments": 0,
-        "author": "Ar5en1c",
-        "age": "4h ago"
+        "id": 48955042,
+        "title": "Show HN: IKEA Complexity Index",
+        "url": "https://ikea.greg.technology/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48955042",
+        "site": "ikea.greg.technology",
+        "points": 174,
+        "comments": 87,
+        "author": "gregsadetsky",
+        "age": "2d ago"
       }
     ]
   }
