@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-20T01:29:55Z",
+  "generated": "2026-07-20T05:27:57Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling",
         "org": "thinkingmachines",
-        "trending_score": 1106,
+        "trending_score": 1119,
         "downloads": 13462,
-        "likes": 1150,
+        "likes": 1164,
         "url": "https://huggingface.co/thinkingmachines/Inkling",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 757,
+        "trending_score": 764,
         "downloads": 338945,
-        "likes": 792,
+        "likes": 801,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "prism-ml/Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 483,
+        "trending_score": 490,
         "downloads": 1262894,
-        "likes": 498,
+        "likes": 506,
         "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "zai-org/GLM-5.2",
         "org": "zai-org",
-        "trending_score": 250,
+        "trending_score": 254,
         "downloads": 536177,
-        "likes": 4167,
+        "likes": 4177,
         "url": "https://huggingface.co/zai-org/GLM-5.2",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-        "org": "empero-ai",
-        "trending_score": 232,
-        "downloads": 2118995,
-        "likes": 2345,
-        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "name": "baidu/Unlimited-OCR",
+        "org": "baidu",
+        "trending_score": 244,
+        "downloads": 2122848,
+        "likes": 2215,
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
-          "gguf",
-          "llama.cpp",
-          "quantized",
-          "qwen3.5",
-          "reasoning"
+          "transformers",
+          "safetensors",
+          "unlimited-ocr",
+          "feature-extraction",
+          "baidu"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 58.8566503397294,
+        "speed_tps": 61.9746351749155,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 57.653836996095,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 56.4524372608656,
+        "speed_tps": 59.6292244675754,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1123394372091,
         "price_input": 3,
         "price_output": 15,
-        "speed_tps": 62.0258445284843,
+        "speed_tps": "$undefined",
         "context_window": 1048576,
         "url": "https://artificialanalysis.ai/models/kimi-k3"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 55.8665067971861,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 51.9626782817078,
+        "speed_tps": 58.8422092196562,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol-high"
       }
@@ -308,51 +308,51 @@
     "daily": [
       {
         "rank": 1,
-        "name": "tirth8205/code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
-        "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 21249,
-        "stars_delta": 663,
+        "name": "bojieli/ai-agent-book",
+        "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "url": "https://github.com/bojieli/ai-agent-book",
+        "stars": 6921,
+        "stars_delta": 1734,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 2,
-        "name": "kvcache-ai/ktransformers",
-        "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-        "url": "https://github.com/kvcache-ai/ktransformers",
-        "stars": 18374,
-        "stars_delta": 360,
+        "name": "tirth8205/code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+        "url": "https://github.com/tirth8205/code-review-graph",
+        "stars": 21654,
+        "stars_delta": 663,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "rohitg00/ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 39678,
-        "stars_delta": 501,
+        "name": "kvcache-ai/ktransformers",
+        "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+        "url": "https://github.com/kvcache-ai/ktransformers",
+        "stars": 18465,
+        "stars_delta": 360,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "jamiepine/voicebox",
-        "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "url": "https://github.com/jamiepine/voicebox",
-        "stars": 43370,
-        "stars_delta": 610,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "stars": 39875,
+        "stars_delta": 501,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "KnockOutEZ/wigolo",
-        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-        "url": "https://github.com/KnockOutEZ/wigolo",
-        "stars": 1844,
-        "stars_delta": 595,
+        "name": "jamiepine/voicebox",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "url": "https://github.com/jamiepine/voicebox",
+        "stars": 43541,
+        "stars_delta": 610,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,7 +363,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 13383,
+        "stars": 13543,
         "stars_delta": 9193,
         "language": "CSS",
         "language_color": "#663399"
@@ -373,7 +373,7 @@
         "name": "OpenCut-app/OpenCut",
         "description": "The open-source CapCut alternative",
         "url": "https://github.com/OpenCut-app/OpenCut",
-        "stars": 75883,
+        "stars": 76002,
         "stars_delta": 12743,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 124553,
+        "stars": 124658,
         "stars_delta": 6211,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "HKUDS/Vibe-Trading",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "url": "https://github.com/HKUDS/Vibe-Trading",
-        "stars": 25295,
+        "stars": 25376,
         "stars_delta": 5228,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 27944,
+        "stars": 28045,
         "stars_delta": 2375,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 40137,
+        "stars": 40217,
         "stars_delta": 34396,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 32980,
+        "stars": 33022,
         "stars_delta": 25557,
         "language": "C",
         "language_color": "#555555"
@@ -435,7 +435,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 42659,
+        "stars": 42711,
         "stars_delta": 16862,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "kunchenguid/no-mistakes",
         "description": "git push no-mistakes",
         "url": "https://github.com/kunchenguid/no-mistakes",
-        "stars": 6637,
+        "stars": 6650,
         "stars_delta": 5226,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -455,7 +455,7 @@
         "name": "catchorg/Catch2",
         "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
         "url": "https://github.com/catchorg/Catch2",
-        "stars": 21236,
+        "stars": 21239,
         "stars_delta": 924,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -538,18 +538,18 @@
       },
       {
         "rank": 2,
-        "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "title": "Moonshine: Speech Recognition for Live Transcription and Voice Commands",
         "authors": [
-          "Yijia Xiao",
-          "Edward Sun",
-          "Di Luo"
+          "Nat Jeffries",
+          "Evan King",
+          "Manjunath Kudlur"
         ],
-        "url": "https://huggingface.co/papers/2412.20138",
+        "url": "https://huggingface.co/papers/2410.15608",
         "categories": [],
-        "upvotes": 115,
-        "published": "2024-12-28",
-        "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 93667
+        "upvotes": 12,
+        "published": "2024-10-20",
+        "github_repo": "https://github.com/usefulsensors/moonshine",
+        "github_stars": 9359
       },
       {
         "rank": 3,
@@ -568,18 +568,18 @@
       },
       {
         "rank": 4,
-        "title": "Moonshine: Speech Recognition for Live Transcription and Voice Commands",
+        "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
-          "Nat Jeffries",
-          "Evan King",
-          "Manjunath Kudlur"
+          "Yijia Xiao",
+          "Edward Sun",
+          "Di Luo"
         ],
-        "url": "https://huggingface.co/papers/2410.15608",
+        "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 12,
-        "published": "2024-10-20",
-        "github_repo": "https://github.com/usefulsensors/moonshine",
-        "github_stars": 9233
+        "upvotes": 115,
+        "published": "2024-12-28",
+        "github_repo": "https://github.com/tauricresearch/tradingagents",
+        "github_stars": 93705
       },
       {
         "rank": 5,
@@ -600,81 +600,79 @@
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+        "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
         "authors": [
-          "Victoria Graf",
-          "Hannaneh Hajishirzi",
-          "Noah A. Smith"
+          "Vipul Gupta",
+          "Zihao Wang",
+          "Razvan-Gabriel Dumitru"
         ],
-        "url": "https://arxiv.org/abs/2607.15267",
+        "url": "https://arxiv.org/abs/2607.16122",
         "categories": [
           "cs.AI",
-          "cs.CL"
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-07-17"
+        "published": "2026-07-20"
       },
       {
         "rank": 2,
-        "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+        "title": "Harmonizing AI Safety Thresholds",
         "authors": [
-          "Yuyao Zhang",
-          "Junjie Gao",
-          "Zhengxian Wu"
+          "Wilber Sean Anterola",
+          "Matthew Ball",
+          "Luis F. Lafuerza"
         ],
-        "url": "https://arxiv.org/abs/2607.15257",
-        "categories": [
-          "cs.AI",
-          "cs.IR"
-        ],
-        "upvotes": null,
-        "published": "2026-07-17"
-      },
-      {
-        "rank": 3,
-        "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
-        "authors": [
-          "Qiwei Li",
-          "Jorge Ortiz"
-        ],
-        "url": "https://arxiv.org/abs/2607.15254",
-        "categories": [
-          "cs.AI",
-          "cs.HC"
-        ],
-        "upvotes": null,
-        "published": "2026-07-17"
-      },
-      {
-        "rank": 4,
-        "title": "AutoSynthesis: An agentic system for automated meta-analysis",
-        "authors": [
-          "Moein Taherinezhad",
-          "Sebastian Maier",
-          "Gerardo Vitagliano"
-        ],
-        "url": "https://arxiv.org/abs/2607.15247",
+        "url": "https://arxiv.org/abs/2607.16112",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-07-17"
+        "published": "2026-07-20"
+      },
+      {
+        "rank": 3,
+        "title": "SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery",
+        "authors": [
+          "SciForge Team",
+          "Zhangyang Gao",
+          "Minghao Fang"
+        ],
+        "url": "https://arxiv.org/abs/2607.16038",
+        "categories": [
+          "cs.AI"
+        ],
+        "upvotes": null,
+        "published": "2026-07-20"
+      },
+      {
+        "rank": 4,
+        "title": "Closing the AI Trust Gap: The Case for Independent Certification for Trustworthy AI",
+        "authors": [
+          "Trisevgeni Papakonstantinou",
+          "Cansu Canca",
+          "Farah Nanji"
+        ],
+        "url": "https://arxiv.org/abs/2607.15992",
+        "categories": [
+          "cs.AI"
+        ],
+        "upvotes": null,
+        "published": "2026-07-20"
       },
       {
         "rank": 5,
-        "title": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
+        "title": "A Formally Grounded ODRL Evaluator: Implementation and Comparison",
         "authors": [
-          "Weimeng Wang",
-          "Ziqiang Wang",
-          "Zihang Zhan"
+          "Jaime Osvaldo Salas",
+          "Paolo Pareti",
+          "Adeel Aslam"
         ],
-        "url": "https://arxiv.org/abs/2607.15218",
+        "url": "https://arxiv.org/abs/2607.15987",
         "categories": [
-          "cs.AI",
-          "cs.CR"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-07-17"
+        "published": "2026-07-20"
       }
     ]
   },
@@ -687,84 +685,84 @@
         "url": "https://news.ycombinator.com/item?id=48968606",
         "discussion_url": "https://news.ycombinator.com/item?id=48968606",
         "site": "news.ycombinator.com",
-        "points": 1482,
-        "comments": 163,
+        "points": 1886,
+        "comments": 198,
         "author": "section33",
-        "age": "10h ago"
+        "age": "14h ago"
       },
       {
         "rank": 2,
-        "id": 48973123,
-        "title": "DeKalb deputy charged with Flock camera misuse; more Georgia officers fired",
-        "url": "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48973123",
-        "site": "ajc.com",
-        "points": 43,
-        "comments": 17,
-        "author": "pir8life4me",
-        "age": "48m ago"
+        "id": 48972970,
+        "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+        "url": "https://github.com/hgaiser/moonshine",
+        "discussion_url": "https://news.ycombinator.com/item?id=48972970",
+        "site": "github.com",
+        "points": 51,
+        "comments": 24,
+        "author": "wertyk",
+        "age": "5h ago"
       },
       {
         "rank": 3,
-        "id": 48972858,
-        "title": "Ask HN: What are your favorite blogs not about AI?",
-        "url": "https://news.ycombinator.com/item?id=48972858",
-        "discussion_url": "https://news.ycombinator.com/item?id=48972858",
-        "site": "news.ycombinator.com",
-        "points": 54,
-        "comments": 22,
-        "author": "azhenley",
-        "age": "1h ago"
+        "id": 48973869,
+        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+        "discussion_url": "https://news.ycombinator.com/item?id=48973869",
+        "site": "xcancel.com",
+        "points": 176,
+        "comments": 88,
+        "author": "loubbrad",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 48907390,
-        "title": "The Zen of Parallel Programming",
-        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-        "discussion_url": "https://news.ycombinator.com/item?id=48907390",
-        "site": "smolnero.com",
-        "points": 104,
-        "comments": 10,
-        "author": "edgar_ortega",
-        "age": "5d ago"
+        "id": 48974292,
+        "title": "Power companies are using eminent domain to seize land for data centers",
+        "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48974292",
+        "site": "fortune.com",
+        "points": 34,
+        "comments": 6,
+        "author": "1vuio0pswjnm7",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 48971938,
-        "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-        "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-        "discussion_url": "https://news.ycombinator.com/item?id=48971938",
-        "site": "spectrum.ieee.org",
-        "points": 31,
-        "comments": 2,
-        "author": "rbanffy",
-        "age": "3h ago"
+        "id": 48966569,
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48966569",
+        "site": "simonwillison.net",
+        "points": 446,
+        "comments": 607,
+        "author": "tosh",
+        "age": "19h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 48972858,
-        "title": "Ask HN: What are your favorite blogs not about AI?",
-        "url": "https://news.ycombinator.com/item?id=48972858",
-        "discussion_url": "https://news.ycombinator.com/item?id=48972858",
-        "site": "news.ycombinator.com",
-        "points": 54,
-        "comments": 22,
-        "author": "azhenley",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 48945241,
         "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "discussion_url": "https://news.ycombinator.com/item?id=48945241",
         "site": "news.ycombinator.com",
         "points": 1298,
-        "comments": 746,
+        "comments": 747,
         "author": "nprateem",
         "age": "2d ago"
+      },
+      {
+        "rank": 2,
+        "id": 48972858,
+        "title": "Ask HN: What are your favorite blogs not about AI?",
+        "url": "https://news.ycombinator.com/item?id=48972858",
+        "discussion_url": "https://news.ycombinator.com/item?id=48972858",
+        "site": "news.ycombinator.com",
+        "points": 67,
+        "comments": 29,
+        "author": "azhenley",
+        "age": "5h ago"
       },
       {
         "rank": 3,
@@ -773,13 +771,25 @@
         "url": "https://news.ycombinator.com/item?id=48949551",
         "discussion_url": "https://news.ycombinator.com/item?id=48949551",
         "site": "news.ycombinator.com",
-        "points": 813,
-        "comments": 102,
+        "points": 817,
+        "comments": 104,
         "author": "nicholasjbs",
         "age": "2d ago"
       },
       {
         "rank": 4,
+        "id": 48974402,
+        "title": "Freeact – undetectable browser automation CLI for AI agents via real browsers",
+        "url": "https://news.ycombinator.com/item?id=48974402",
+        "discussion_url": "https://news.ycombinator.com/item?id=48974402",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "xuviga",
+        "age": "48m ago"
+      },
+      {
+        "rank": 5,
         "id": 48972048,
         "title": "Ask HN: How are you doing threat modeling for Terraform/IaC?",
         "url": "https://news.ycombinator.com/item?id=48972048",
@@ -788,19 +798,7 @@
         "points": 2,
         "comments": 1,
         "author": "PotatoFy",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 48884984,
-        "title": "Ask HN: What Are You Working On? (July 2026)",
-        "url": "https://news.ycombinator.com/item?id=48884984",
-        "discussion_url": "https://news.ycombinator.com/item?id=48884984",
-        "site": "news.ycombinator.com",
-        "points": 289,
-        "comments": 1122,
-        "author": "david927",
-        "age": "7d ago"
+        "age": "7h ago"
       }
     ],
     "show": [
@@ -811,58 +809,58 @@
         "url": "https://news.ycombinator.com/item?id=48968606",
         "discussion_url": "https://news.ycombinator.com/item?id=48968606",
         "site": "news.ycombinator.com",
-        "points": 1482,
-        "comments": 163,
+        "points": 1886,
+        "comments": 198,
         "author": "section33",
-        "age": "10h ago"
+        "age": "14h ago"
       },
       {
         "rank": 2,
-        "id": 48973142,
-        "title": "Show HN: Headroom – measure your GPU's true bandwidth ceiling for local AI",
-        "url": "https://ar5en1c.github.io/headroom/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48973142",
-        "site": "ar5en1c.github.io",
-        "points": 2,
-        "comments": 0,
-        "author": "Ar5en1c",
-        "age": "45m ago"
-      },
-      {
-        "rank": 3,
         "id": 48971847,
         "title": "Show HN: A canvas-based note taking and organizer app",
         "url": "https://www.passinote.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=48971847",
         "site": "passinote.app",
-        "points": 34,
-        "comments": 12,
+        "points": 47,
+        "comments": 13,
         "author": "passiflora96",
-        "age": "3h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 4,
-        "id": 48972442,
-        "title": "Show HN: Deploy AI agent in 5 lines of code",
-        "url": "https://www.custodianlabs.io",
-        "discussion_url": "https://news.ycombinator.com/item?id=48972442",
-        "site": "custodianlabs.io",
-        "points": 2,
-        "comments": 1,
-        "author": "sherryf123",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "id": 48969051,
         "title": "Show HN: Bribes.fyi – Built something to report bribes",
         "url": "https://bribes.fyi/",
         "discussion_url": "https://news.ycombinator.com/item?id=48969051",
         "site": "bribes.fyi",
-        "points": 16,
+        "points": 23,
         "comments": 17,
         "author": "neverenderr",
-        "age": "9h ago"
+        "age": "13h ago"
+      },
+      {
+        "rank": 4,
+        "id": 48971669,
+        "title": "Show HN: ShipMD.app – Moving things in folders, move things in the real world",
+        "url": "https://shipmd.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=48971669",
+        "site": "shipmd.app",
+        "points": 4,
+        "comments": 2,
+        "author": "bosky101",
+        "age": "8h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48973142,
+        "title": "Show HN: Headroom – measure your GPU's true bandwidth ceiling for local AI",
+        "url": "https://ar5en1c.github.io/headroom/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48973142",
+        "site": "ar5en1c.github.io",
+        "points": 3,
+        "comments": 0,
+        "author": "Ar5en1c",
+        "age": "4h ago"
       }
     ]
   }
