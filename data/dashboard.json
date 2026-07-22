@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-22T08:36:07Z",
+  "generated": "2026-07-22T10:11:55Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling",
         "org": "thinkingmachines",
-        "trending_score": 1316,
+        "trending_score": 1319,
         "downloads": 16441,
-        "likes": 1389,
+        "likes": 1394,
         "url": "https://huggingface.co/thinkingmachines/Inkling",
         "tags": [
           "transformers",
@@ -21,14 +21,18 @@
       },
       {
         "rank": 2,
-        "name": "reteetzad/Kimi-K3",
-        "org": "reteetzad",
-        "trending_score": 663,
-        "downloads": 0,
-        "likes": 719,
-        "url": "https://huggingface.co/reteetzad/Kimi-K3",
+        "name": "baidu/Unlimited-OCR",
+        "org": "baidu",
+        "trending_score": 600,
+        "downloads": 2237351,
+        "likes": 2643,
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
-          "region:us"
+          "transformers",
+          "safetensors",
+          "unlimited-ocr",
+          "feature-extraction",
+          "baidu"
         ],
         "rank_change": null
       },
@@ -36,9 +40,9 @@
         "rank": 3,
         "name": "prism-ml/Ternary-Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 605,
+        "trending_score": 587,
         "downloads": 432196,
-        "likes": 907,
+        "likes": 912,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -51,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "baidu/Unlimited-OCR",
-        "org": "baidu",
-        "trending_score": 594,
-        "downloads": 2237351,
-        "likes": 2635,
-        "url": "https://huggingface.co/baidu/Unlimited-OCR",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "unlimited-ocr",
-          "feature-extraction",
-          "baidu"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "prism-ml/Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 390,
+        "trending_score": 379,
         "downloads": 1404962,
-        "likes": 575,
+        "likes": 578,
         "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -80,6 +67,23 @@
           "conversational",
           "1-bit",
           "llama-cpp"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "zai-org/GLM-5.2",
+        "org": "zai-org",
+        "trending_score": 279,
+        "downloads": 545109,
+        "likes": 4302,
+        "url": "https://huggingface.co/zai-org/GLM-5.2",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm_moe_dsa",
+          "text-generation",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -307,7 +311,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 66838,
+        "stars": 67153,
         "stars_delta": 1295,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -317,7 +321,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 16377,
+        "stars": 16772,
         "stars_delta": 4624,
         "language": "Python",
         "language_color": "#3572A5"
@@ -327,7 +331,7 @@
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 24927,
+        "stars": 24997,
         "stars_delta": 1925,
         "language": "Python",
         "language_color": "#3572A5"
@@ -337,7 +341,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 7384,
+        "stars": 7511,
         "stars_delta": 1866,
         "language": "Python",
         "language_color": "#3572A5"
@@ -347,7 +351,7 @@
         "name": "earthtojake/text-to-cad",
         "description": "A collection of agent skills for CAD, robotics and hardware design",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 9410,
+        "stars": 9466,
         "stars_delta": 291,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -359,7 +363,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 15208,
+        "stars": 15254,
         "stars_delta": 8948,
         "language": "CSS",
         "language_color": "#663399"
@@ -369,7 +373,7 @@
         "name": "OpenCut-app/OpenCut",
         "description": "The open-source CapCut alternative",
         "url": "https://github.com/OpenCut-app/OpenCut",
-        "stars": 77237,
+        "stars": 77282,
         "stars_delta": 8341,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -379,7 +383,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 28956,
+        "stars": 28984,
         "stars_delta": 2908,
         "language": "Python",
         "language_color": "#3572A5"
@@ -389,7 +393,7 @@
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 24927,
+        "stars": 24997,
         "stars_delta": 4791,
         "language": "Python",
         "language_color": "#3572A5"
@@ -399,7 +403,7 @@
         "name": "Shubhamsaboo/awesome-llm-apps",
         "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": 125998,
+        "stars": 126039,
         "stars_delta": 5385,
         "language": "Python",
         "language_color": "#3572A5"
@@ -411,7 +415,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 25056,
+        "stars": 25082,
         "stars_delta": 21332,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -421,7 +425,7 @@
         "name": "calesthio/OpenMontage",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/calesthio/OpenMontage",
-        "stars": 41001,
+        "stars": 41026,
         "stars_delta": 33415,
         "language": "Python",
         "language_color": "#3572A5"
@@ -431,7 +435,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 43276,
+        "stars": 43293,
         "stars_delta": 17358,
         "language": "Python",
         "language_color": "#3572A5"
@@ -441,7 +445,7 @@
         "name": "DeusData/codebase-memory-mcp",
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
         "url": "https://github.com/DeusData/codebase-memory-mcp",
-        "stars": 33872,
+        "stars": 33915,
         "stars_delta": 23966,
         "language": "C",
         "language_color": "#555555"
@@ -451,7 +455,7 @@
         "name": "catchorg/Catch2",
         "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
         "url": "https://github.com/catchorg/Catch2",
-        "stars": 21270,
+        "stars": 21272,
         "stars_delta": 952,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -519,6 +523,21 @@
     "hf_trending": [
       {
         "rank": 1,
+        "title": "Unlimited OCR Works",
+        "authors": [
+          "Youyang Yin",
+          "Huanhuan Liu",
+          "YY"
+        ],
+        "url": "https://huggingface.co/papers/2606.23050",
+        "categories": [],
+        "upvotes": 58,
+        "published": "2026-06-21",
+        "github_repo": "https://github.com/baidu/Unlimited-OCR",
+        "github_stars": 16738
+      },
+      {
+        "rank": 2,
         "title": "Geometric Context Transformer for Streaming 3D Reconstruction",
         "authors": [
           "Lin-Zhuo Chen",
@@ -531,21 +550,6 @@
         "published": "2026-04-14",
         "github_repo": "https://github.com/robbyant/lingbot-map",
         "github_stars": 14759
-      },
-      {
-        "rank": 2,
-        "title": "Unlimited OCR Works",
-        "authors": [
-          "Youyang Yin",
-          "Huanhuan Liu",
-          "YY"
-        ],
-        "url": "https://huggingface.co/papers/2606.23050",
-        "categories": [],
-        "upvotes": 58,
-        "published": "2026-06-21",
-        "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 16426
       },
       {
         "rank": 3,
@@ -684,10 +688,10 @@
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "discussion_url": "https://news.ycombinator.com/item?id=48997548",
         "site": "openai.com",
-        "points": 1095,
-        "comments": 741,
+        "points": 1175,
+        "comments": 809,
         "author": "mfiguiere",
-        "age": "12h ago"
+        "age": "14h ago"
       },
       {
         "rank": 2,
@@ -696,10 +700,10 @@
         "url": "https://fireworks.ai/blog/kimik3-fable",
         "discussion_url": "https://news.ycombinator.com/item?id=48999291",
         "site": "fireworks.ai",
-        "points": 586,
-        "comments": 326,
+        "points": 633,
+        "comments": 347,
         "author": "piotrgrabowski",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
         "rank": 3,
@@ -708,10 +712,10 @@
         "url": "https://github.com/chrislgarry/Apollo-11",
         "discussion_url": "https://news.ycombinator.com/item?id=49002166",
         "site": "github.com",
-        "points": 60,
-        "comments": 16,
+        "points": 81,
+        "comments": 19,
         "author": "noteness",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 4,
@@ -720,22 +724,22 @@
         "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
         "discussion_url": "https://news.ycombinator.com/item?id=48961698",
         "site": "morethanmoore.substack.com",
-        "points": 50,
-        "comments": 6,
+        "points": 74,
+        "comments": 17,
         "author": "zdw",
         "age": "3d ago"
       },
       {
         "rank": 5,
-        "id": 49002344,
-        "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
-        "url": "https://www.readkinetic.com/app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49002344",
-        "site": "readkinetic.com",
-        "points": 55,
-        "comments": 21,
-        "author": "SamuraiLion",
-        "age": "2h ago"
+        "id": 48969200,
+        "title": "Introduction to Formal Verification with Lean Part 1",
+        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+        "discussion_url": "https://news.ycombinator.com/item?id=48969200",
+        "site": "hashcloak.com",
+        "points": 16,
+        "comments": 0,
+        "author": "badcryptobitch",
+        "age": "2d ago"
       }
     ],
     "ask": [
@@ -746,10 +750,10 @@
         "url": "https://news.ycombinator.com/item?id=48904202",
         "discussion_url": "https://news.ycombinator.com/item?id=48904202",
         "site": "news.ycombinator.com",
-        "points": 11,
+        "points": 13,
         "comments": 4,
         "author": "xqb64",
-        "age": "7d ago"
+        "age": "8d ago"
       },
       {
         "rank": 2,
@@ -758,10 +762,10 @@
         "url": "https://news.ycombinator.com/item?id=48996526",
         "discussion_url": "https://news.ycombinator.com/item?id=48996526",
         "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 20,
+        "points": 19,
+        "comments": 22,
         "author": "kadhirvelm",
-        "age": "13h ago"
+        "age": "15h ago"
       },
       {
         "rank": 3,
@@ -773,22 +777,10 @@
         "points": 1311,
         "comments": 754,
         "author": "nprateem",
-        "age": "4d ago"
+        "age": "5d ago"
       },
       {
         "rank": 4,
-        "id": 48995524,
-        "title": "Ask HN: What's your experience with GPT-Live been like?",
-        "url": "https://news.ycombinator.com/item?id=48995524",
-        "discussion_url": "https://news.ycombinator.com/item?id=48995524",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 7,
-        "author": "caveman23",
-        "age": "14h ago"
-      },
-      {
-        "rank": 5,
         "id": 48949551,
         "title": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
@@ -798,6 +790,18 @@
         "comments": 107,
         "author": "nicholasjbs",
         "age": "4d ago"
+      },
+      {
+        "rank": 5,
+        "id": 48995524,
+        "title": "Ask HN: What's your experience with GPT-Live been like?",
+        "url": "https://news.ycombinator.com/item?id=48995524",
+        "discussion_url": "https://news.ycombinator.com/item?id=48995524",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 7,
+        "author": "caveman23",
+        "age": "16h ago"
       }
     ],
     "show": [
@@ -808,10 +812,10 @@
         "url": "https://www.readkinetic.com/app/",
         "discussion_url": "https://news.ycombinator.com/item?id=49002344",
         "site": "readkinetic.com",
-        "points": 55,
-        "comments": 21,
+        "points": 81,
+        "comments": 39,
         "author": "SamuraiLion",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -820,10 +824,10 @@
         "url": "https://openaim.pramit.gg/",
         "discussion_url": "https://news.ycombinator.com/item?id=49002276",
         "site": "openaim.pramit.gg",
-        "points": 32,
-        "comments": 18,
+        "points": 48,
+        "comments": 25,
         "author": "pmazumder",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -832,34 +836,34 @@
         "url": "https://justif.lyall.co/",
         "discussion_url": "https://news.ycombinator.com/item?id=48946738",
         "site": "justif.lyall.co",
-        "points": 142,
-        "comments": 23,
+        "points": 160,
+        "comments": 28,
         "author": "lyall",
         "age": "4d ago"
       },
       {
         "rank": 4,
-        "id": 49003073,
-        "title": "Show HN: A map platform where every category is just a filter",
-        "url": "https://umkreisel.com/karte",
-        "discussion_url": "https://news.ycombinator.com/item?id=49003073",
-        "site": "umkreisel.com",
-        "points": 2,
-        "comments": 0,
-        "author": "lostbanana4",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
         "id": 48998828,
         "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
         "url": "https://www.getcomputable.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=48998828",
         "site": "getcomputable.com",
-        "points": 41,
-        "comments": 23,
+        "points": 42,
+        "comments": 24,
         "author": "yuansong98",
-        "age": "10h ago"
+        "age": "12h ago"
+      },
+      {
+        "rank": 5,
+        "id": 48996187,
+        "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+        "url": "https://github.com/Kalcode/spaceprojectsim",
+        "discussion_url": "https://news.ycombinator.com/item?id=48996187",
+        "site": "github.com",
+        "points": 101,
+        "comments": 28,
+        "author": "kalcode",
+        "age": "15h ago"
       }
     ]
   }
