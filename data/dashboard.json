@@ -1,31 +1,14 @@
 {
-  "generated": "2026-07-23T12:19:52Z",
+  "generated": "2026-07-23T14:59:15Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "thinkingmachines/Inkling",
-        "org": "thinkingmachines",
-        "trending_score": 783,
-        "downloads": 24669,
-        "likes": 1483,
-        "url": "https://huggingface.co/thinkingmachines/Inkling",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "inkling_mm_model",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 740,
+        "trending_score": 757,
         "downloads": 2414259,
-        "likes": 2813,
+        "likes": 2832,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "thinkingmachines/Inkling",
+        "org": "thinkingmachines",
+        "trending_score": 717,
+        "downloads": 24669,
+        "likes": 1487,
+        "url": "https://huggingface.co/thinkingmachines/Inkling",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "inkling_mm_model",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "poolside/Laguna-S-2.1",
         "org": "poolside",
-        "trending_score": 446,
+        "trending_score": 462,
         "downloads": 13285,
-        "likes": 452,
+        "likes": 468,
         "url": "https://huggingface.co/poolside/Laguna-S-2.1",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "prism-ml/Ternary-Bonsai-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 395,
+        "trending_score": 388,
         "downloads": 576083,
-        "likes": 962,
+        "likes": 968,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 353,
+        "trending_score": 360,
         "downloads": 334847,
-        "likes": 367,
+        "likes": 374,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.9067007025236,
+        "speed_tps": 73.0866661151031,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 63.3474955919067,
+        "speed_tps": 63.4764636710815,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1123394372091,
         "price_input": 3,
         "price_output": 15,
-        "speed_tps": 35.1715506860086,
+        "speed_tps": 34.2233775372868,
         "context_window": 1048576,
         "url": "https://artificialanalysis.ai/models/kimi-k3"
       },
@@ -311,7 +311,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 5213,
+        "stars": 5720,
         "stars_delta": 3252,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 70576,
+        "stars": 70869,
         "stars_delta": 3196,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,30 +331,30 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 32839,
+        "stars": 32886,
         "stars_delta": 398,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "ayghri/i-have-adhd",
-        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-        "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 8950,
-        "stars_delta": 1329,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
         "name": "Pumpkin-MC/Pumpkin",
         "description": "Empowering everyone to host fast and efficient Minecraft servers.",
         "url": "https://github.com/Pumpkin-MC/Pumpkin",
-        "stars": 8683,
+        "stars": 8740,
         "stars_delta": 563,
         "language": "Rust",
         "language_color": "#dea584"
+      },
+      {
+        "rank": 5,
+        "name": "citrolabs/ego-lite",
+        "description": "The best browser for both you and your AI agents work in parallel.",
+        "url": "https://github.com/citrolabs/ego-lite",
+        "stars": 1368,
+        "stars_delta": 219,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 25679,
+        "stars": 25732,
         "stars_delta": 5639,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 15968,
+        "stars": 16048,
         "stars_delta": 8471,
         "language": "CSS",
         "language_color": "#663399"
@@ -383,7 +383,7 @@
         "name": "MoonshotAI/kimi-code",
         "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
         "url": "https://github.com/MoonshotAI/kimi-code",
-        "stars": 4706,
+        "stars": 4737,
         "stars_delta": 1400,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 70576,
+        "stars": 70869,
         "stars_delta": 5812,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "1jehuang/jcode",
         "description": "The most intelligent agent harness for code",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 10895,
+        "stars": 10922,
         "stars_delta": 2293,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 25575,
+        "stars": 25642,
         "stars_delta": 21766,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 43581,
+        "stars": 43606,
         "stars_delta": 17610,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 26273,
+        "stars": 26523,
         "stars_delta": 18052,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "catchorg/Catch2",
         "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
         "url": "https://github.com/catchorg/Catch2",
-        "stars": 21289,
+        "stars": 21292,
         "stars_delta": 967,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -455,7 +455,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 26878,
+        "stars": 27023,
         "stars_delta": 20026,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -549,7 +549,7 @@
         "upvotes": 31,
         "published": "2026-04-14",
         "github_repo": "https://github.com/robbyant/lingbot-map",
-        "github_stars": 14919
+        "github_stars": 15027
       },
       {
         "rank": 3,
@@ -676,92 +676,104 @@
     "top": [
       {
         "rank": 1,
-        "id": 49020335,
-        "title": "Understanding the AI Economy",
-        "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49020335",
-        "site": "blog.google",
-        "points": 11,
-        "comments": 3,
-        "author": "swolpers",
-        "age": "8m ago"
+        "id": 49021783,
+        "title": "Astronomers may have found the first exomoon",
+        "url": "https://www.eso.org/public/news/eso2610/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49021783",
+        "site": "eso.org",
+        "points": 67,
+        "comments": 33,
+        "author": "MarcoDewey",
+        "age": "56m ago"
       },
       {
         "rank": 2,
-        "id": 49010345,
-        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-        "discussion_url": "https://news.ycombinator.com/item?id=49010345",
-        "site": "chatgpt.com",
-        "points": 936,
-        "comments": 540,
-        "author": "gmays",
-        "age": "18h ago"
+        "id": 49021571,
+        "title": "Private healthcare makes industries less innovative. It's time for change",
+        "url": "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49021571",
+        "site": "werd.io",
+        "points": 60,
+        "comments": 28,
+        "author": "benwerd",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49017344,
-        "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-        "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-        "discussion_url": "https://news.ycombinator.com/item?id=49017344",
-        "site": "ziggit.dev",
-        "points": 76,
-        "comments": 41,
-        "author": "Erenay09",
-        "age": "6h ago"
+        "id": 49022038,
+        "title": "Software rendering in 500 lines of bare C++",
+        "url": "https://haqr.eu/tinyrenderer/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49022038",
+        "site": "haqr.eu",
+        "points": 19,
+        "comments": 1,
+        "author": "mpweiher",
+        "age": "41m ago"
       },
       {
         "rank": 4,
-        "id": 49007247,
-        "title": "Quality non-fiction books are the antithesis of AI slop",
-        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-        "discussion_url": "https://news.ycombinator.com/item?id=49007247",
-        "site": "resobscura.substack.com",
-        "points": 402,
-        "comments": 165,
-        "author": "benbreen",
-        "age": "22h ago"
+        "id": 49020999,
+        "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+        "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+        "discussion_url": "https://news.ycombinator.com/item?id=49020999",
+        "site": "futurism.com",
+        "points": 152,
+        "comments": 76,
+        "author": "technewssss",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49019220,
-        "title": "EU fines Google €890M for competition breaches over search and apps",
-        "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-        "discussion_url": "https://news.ycombinator.com/item?id=49019220",
-        "site": "theguardian.com",
-        "points": 77,
-        "comments": 73,
-        "author": "Stevvo",
-        "age": "2h ago"
+        "id": 48945139,
+        "title": "Scanning for Pangram Errors",
+        "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+        "discussion_url": "https://news.ycombinator.com/item?id=48945139",
+        "site": "veryfineprint.substack.com",
+        "points": 39,
+        "comments": 22,
+        "author": "jsnell",
+        "age": "6d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49019663,
+        "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
+        "url": "https://news.ycombinator.com/item?id=49019663",
+        "discussion_url": "https://news.ycombinator.com/item?id=49019663",
+        "site": "news.ycombinator.com",
+        "points": 15,
+        "comments": 24,
+        "author": "sam_lowry_",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49012902,
         "title": "Ask HN: What changed in your life when you started meditating (and how)?",
         "url": "https://news.ycombinator.com/item?id=49012902",
         "discussion_url": "https://news.ycombinator.com/item?id=49012902",
         "site": "news.ycombinator.com",
-        "points": 27,
-        "comments": 21,
+        "points": 29,
+        "comments": 23,
         "author": "dondraper36",
-        "age": "15h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 48945241,
         "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "discussion_url": "https://news.ycombinator.com/item?id=48945241",
         "site": "news.ycombinator.com",
-        "points": 1313,
+        "points": 1314,
         "comments": 755,
         "author": "nprateem",
         "age": "6d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 48904202,
         "title": "Ask HN: US Equivalent of Anabin?",
         "url": "https://news.ycombinator.com/item?id=48904202",
@@ -773,28 +785,16 @@
         "age": "9d ago"
       },
       {
-        "rank": 4,
-        "id": 49014048,
-        "title": "New Inference Server for DGX Spark: large model C4:55-90 tok/s no spec decode",
-        "url": "https://news.ycombinator.com/item?id=49014048",
-        "discussion_url": "https://news.ycombinator.com/item?id=49014048",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "medicis123",
-        "age": "14h ago"
-      },
-      {
         "rank": 5,
-        "id": 49015708,
-        "title": "Ask HN: Will AI assistants become photorealistic video?",
-        "url": "https://news.ycombinator.com/item?id=49015708",
-        "discussion_url": "https://news.ycombinator.com/item?id=49015708",
+        "id": 48949551,
+        "title": "Thanks HN for 15 years of support and helping me find my life's work",
+        "url": "https://news.ycombinator.com/item?id=48949551",
+        "discussion_url": "https://news.ycombinator.com/item?id=48949551",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 2,
-        "author": "general_reveal",
-        "age": "10h ago"
+        "points": 832,
+        "comments": 107,
+        "author": "nicholasjbs",
+        "age": "5d ago"
       }
     ],
     "show": [
@@ -805,58 +805,58 @@
         "url": "https://bento.page/slides/",
         "discussion_url": "https://news.ycombinator.com/item?id=49008211",
         "site": "bento.page",
-        "points": 883,
-        "comments": 199,
+        "points": 937,
+        "comments": 214,
         "author": "starfallg",
-        "age": "21h ago"
+        "age": "23h ago"
       },
       {
         "rank": 2,
-        "id": 49020020,
-        "title": "Show HN: I created a catalog with embeds for your projects",
-        "url": "https://github.com/embedcatalog/embedcatalog",
-        "discussion_url": "https://news.ycombinator.com/item?id=49020020",
-        "site": "github.com",
+        "id": 49022371,
+        "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+        "url": "https://yamafaktory.github.io/whetuu/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49022371",
+        "site": "yamafaktory.github.io",
         "points": 2,
         "comments": 0,
-        "author": "aanthonymax",
-        "age": "36m ago"
+        "author": "yamafaktory",
+        "age": "21m ago"
       },
       {
         "rank": 3,
-        "id": 49010782,
-        "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-        "url": "https://github.com/cactus-compute/cactus-hybrid",
-        "discussion_url": "https://news.ycombinator.com/item?id=49010782",
+        "id": 49022302,
+        "title": "Show HN: macOS menu-bar manager for SSH port forwards",
+        "url": "https://github.com/lx2026/RelayBar",
+        "discussion_url": "https://news.ycombinator.com/item?id=49022302",
         "site": "github.com",
-        "points": 154,
-        "comments": 35,
-        "author": "HenryNdubuaku",
-        "age": "18h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "linxy97",
+        "age": "26m ago"
       },
       {
         "rank": 4,
-        "id": 48980286,
-        "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
-        "url": "https://deepsql.ai/",
-        "discussion_url": "https://news.ycombinator.com/item?id=48980286",
-        "site": "deepsql.ai",
-        "points": 48,
-        "comments": 28,
-        "author": "venkat971",
-        "age": "2d ago"
+        "id": 49022284,
+        "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+        "url": "https://github.com/h3nock/remux",
+        "discussion_url": "https://news.ycombinator.com/item?id=49022284",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "bitwise42",
+        "age": "27m ago"
       },
       {
         "rank": 5,
-        "id": 49009324,
-        "title": "Show HN: Web swing through midtown NYC",
-        "url": "https://www.swingnyc.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49009324",
-        "site": "swingnyc.com",
-        "points": 73,
-        "comments": 25,
-        "author": "shahahmed",
-        "age": "19h ago"
+        "id": 49022040,
+        "title": "Show HN: I made YAFL – a E2EE file handoff for AI agents",
+        "url": "https://yafl.dev",
+        "discussion_url": "https://news.ycombinator.com/item?id=49022040",
+        "site": "yafl.dev",
+        "points": 2,
+        "comments": 0,
+        "author": "marcushorndt",
+        "age": "41m ago"
       }
     ]
   }
