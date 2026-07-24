@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-24T12:10:59Z",
+  "generated": "2026-07-24T14:42:17Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 846,
+        "trending_score": 853,
         "downloads": 2500391,
-        "likes": 2953,
+        "likes": 2966,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "thinkingmachines/Inkling",
-        "org": "thinkingmachines",
-        "trending_score": 560,
-        "downloads": 27883,
-        "likes": 1529,
-        "url": "https://huggingface.co/thinkingmachines/Inkling",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "inkling_mm_model",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "poolside/Laguna-S-2.1",
         "org": "poolside",
-        "trending_score": 547,
+        "trending_score": 559,
         "downloads": 28992,
-        "likes": 555,
+        "likes": 568,
         "url": "https://huggingface.co/poolside/Laguna-S-2.1",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "thinkingmachines/Inkling",
+        "org": "thinkingmachines",
+        "trending_score": 546,
+        "downloads": 27883,
+        "likes": 1534,
+        "url": "https://huggingface.co/thinkingmachines/Inkling",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "inkling_mm_model",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "upstage/Solar-Open2-250B",
         "org": "upstage",
-        "trending_score": 444,
+        "trending_score": 447,
         "downloads": 1106,
-        "likes": 518,
+        "likes": 523,
         "url": "https://huggingface.co/upstage/Solar-Open2-250B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 410,
+        "trending_score": 420,
         "downloads": 407421,
-        "likes": 439,
+        "likes": 452,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -96,7 +96,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 73.5400541482742,
+        "speed_tps": 73.99279909613,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 57.1123394372091,
         "price_input": 3,
         "price_output": 15,
-        "speed_tps": 33.2297610213369,
+        "speed_tps": 32.6844324034198,
         "context_window": 1048576,
         "url": "https://artificialanalysis.ai/models/kimi-k3"
       },
@@ -311,7 +311,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 8423,
+        "stars": 8839,
         "stars_delta": 3274,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 72712,
+        "stars": 72873,
         "stars_delta": 2194,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "ComposioHQ/awesome-claude-skills",
         "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "stars": 69772,
+        "stars": 69838,
         "stars_delta": 662,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "Pumpkin-MC/Pumpkin",
         "description": "Empowering everyone to host fast and efficient Minecraft servers.",
         "url": "https://github.com/Pumpkin-MC/Pumpkin",
-        "stars": 9147,
+        "stars": 9201,
         "stars_delta": 472,
         "language": "Rust",
         "language_color": "#dea584"
@@ -351,7 +351,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 33328,
+        "stars": 33370,
         "stars_delta": 506,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 18829,
+        "stars": 18929,
         "stars_delta": 17443,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 72712,
+        "stars": 72873,
         "stars_delta": 9054,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 26093,
+        "stars": 26127,
         "stars_delta": 6257,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "MoonshotAI/kimi-code",
         "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
         "url": "https://github.com/MoonshotAI/kimi-code",
-        "stars": 4884,
+        "stars": 4900,
         "stars_delta": 1610,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "1jehuang/jcode",
         "description": "The most intelligent agent harness for code",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 11106,
+        "stars": 11131,
         "stars_delta": 2586,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "xbtlin/ai-berkshire",
         "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
         "url": "https://github.com/xbtlin/ai-berkshire",
-        "stars": 13805,
+        "stars": 13831,
         "stars_delta": 13031,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 26171,
+        "stars": 26213,
         "stars_delta": 22183,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 28076,
+        "stars": 28251,
         "stars_delta": 19755,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 43881,
+        "stars": 43916,
         "stars_delta": 17842,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.23050",
         "categories": [],
-        "upvotes": 61,
+        "upvotes": 62,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
         "github_stars": 18294
@@ -549,7 +549,7 @@
         "upvotes": 32,
         "published": "2026-04-14",
         "github_repo": "https://github.com/robbyant/lingbot-map",
-        "github_stars": 15120
+        "github_stars": 15221
       },
       {
         "rank": 3,
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2605.23904",
         "categories": [],
-        "upvotes": 261,
+        "upvotes": 262,
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
         "github_stars": 14821
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.19064",
         "categories": [],
-        "upvotes": 60,
+        "upvotes": 61,
         "published": "2026-07-20",
         "github_repo": "https://github.com/microsoft/Mage",
         "github_stars": 464
@@ -685,100 +685,100 @@
     "top": [
       {
         "rank": 1,
-        "id": 49033127,
-        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-        "url": "https://bfl.ai/blog/flux-3-mimic",
-        "discussion_url": "https://news.ycombinator.com/item?id=49033127",
-        "site": "bfl.ai",
-        "points": 125,
-        "comments": 11,
-        "author": "kensai",
+        "id": 49034292,
+        "title": "My security camera shipped a GitHub admin token in its login page",
+        "url": "https://hhh.hn/hanwha-github-token/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49034292",
+        "site": "hhh.hn",
+        "points": 121,
+        "comments": 46,
+        "author": "hhh",
         "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49031796,
-        "title": "Flux 3",
-        "url": "https://bfl.ai/blog/flux-3",
-        "discussion_url": "https://news.ycombinator.com/item?id=49031796",
-        "site": "bfl.ai",
-        "points": 369,
-        "comments": 93,
-        "author": "ThouYS",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
         "id": 49032660,
         "title": "It's getting harder to focus every day",
         "url": "https://glyphack.com/attention/",
         "discussion_url": "https://news.ycombinator.com/item?id=49032660",
         "site": "glyphack.com",
-        "points": 167,
-        "comments": 89,
+        "points": 378,
+        "comments": 191,
         "author": "peykar",
-        "age": "3h ago"
+        "age": "6h ago"
+      },
+      {
+        "rank": 3,
+        "id": 48973835,
+        "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "discussion_url": "https://news.ycombinator.com/item?id=48973835",
+        "site": "arstechnica.com",
+        "points": 99,
+        "comments": 20,
+        "author": "sohkamyung",
+        "age": "4d ago"
       },
       {
         "rank": 4,
-        "id": 49034217,
-        "title": "The case for MUDs in modern times",
-        "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "discussion_url": "https://news.ycombinator.com/item?id=49034217",
-        "site": "andrewzigler.com",
-        "points": 11,
-        "comments": 5,
-        "author": "bw86",
-        "age": "24m ago"
+        "id": 49033127,
+        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+        "url": "https://bfl.ai/blog/flux-3-mimic",
+        "discussion_url": "https://news.ycombinator.com/item?id=49033127",
+        "site": "bfl.ai",
+        "points": 215,
+        "comments": 28,
+        "author": "kensai",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49033099,
-        "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-        "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-        "discussion_url": "https://news.ycombinator.com/item?id=49033099",
-        "site": "ziggit.dev",
-        "points": 48,
-        "comments": 18,
-        "author": "kristoff_it",
-        "age": "2h ago"
+        "id": 49031796,
+        "title": "Flux 3",
+        "url": "https://bfl.ai/blog/flux-3",
+        "discussion_url": "https://news.ycombinator.com/item?id=49031796",
+        "site": "bfl.ai",
+        "points": 446,
+        "comments": 111,
+        "author": "ThouYS",
+        "age": "8h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49034198,
-        "title": "Single-click and remote OpenCode session right in the browser",
-        "url": "https://news.ycombinator.com/item?id=49034198",
-        "discussion_url": "https://news.ycombinator.com/item?id=49034198",
+        "id": 49036332,
+        "title": "Kilo – Open-source, local-first workout logger and calorie tracker and analytics",
+        "url": "https://news.ycombinator.com/item?id=49036332",
+        "discussion_url": "https://news.ycombinator.com/item?id=49036332",
         "site": "news.ycombinator.com",
         "points": 2,
         "comments": 0,
-        "author": "jashandeep31",
-        "age": "26m ago"
+        "author": "shayan_abbas",
+        "age": "6m ago"
       },
       {
         "rank": 2,
-        "id": 49033971,
-        "title": "A VSCode extension for AI to understand your project",
-        "url": "https://news.ycombinator.com/item?id=49033971",
-        "discussion_url": "https://news.ycombinator.com/item?id=49033971",
+        "id": 49035758,
+        "title": "Ask HN: How much software do you build for yourself these days?",
+        "url": "https://news.ycombinator.com/item?id=49035758",
+        "discussion_url": "https://news.ycombinator.com/item?id=49035758",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 0,
-        "author": "bailingyuan",
-        "age": "50m ago"
+        "comments": 1,
+        "author": "lellow",
+        "age": "43m ago"
       },
       {
         "rank": 3,
-        "id": 49033767,
-        "title": "Ask HN: Any Good Pi.dev Setups?",
-        "url": "https://news.ycombinator.com/item?id=49033767",
-        "discussion_url": "https://news.ycombinator.com/item?id=49033767",
+        "id": 49035464,
+        "title": "Ask HN: Has your typing gotten worse with AI?",
+        "url": "https://news.ycombinator.com/item?id=49035464",
+        "discussion_url": "https://news.ycombinator.com/item?id=49035464",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 0,
-        "author": "galsapir",
+        "comments": 2,
+        "author": "aizk",
         "age": "1h ago"
       },
       {
@@ -788,10 +788,10 @@
         "url": "https://news.ycombinator.com/item?id=49033604",
         "discussion_url": "https://news.ycombinator.com/item?id=49033604",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
+        "points": 6,
+        "comments": 1,
         "author": "probst",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -800,10 +800,10 @@
         "url": "https://news.ycombinator.com/item?id=49028037",
         "discussion_url": "https://news.ycombinator.com/item?id=49028037",
         "site": "news.ycombinator.com",
-        "points": 441,
-        "comments": 165,
+        "points": 450,
+        "comments": 166,
         "author": "Thrashed",
-        "age": "15h ago"
+        "age": "17h ago"
       }
     ],
     "show": [
@@ -814,58 +814,58 @@
         "url": "https://news.ycombinator.com/item?id=49026810",
         "discussion_url": "https://news.ycombinator.com/item?id=49026810",
         "site": "news.ycombinator.com",
-        "points": 403,
-        "comments": 193,
+        "points": 423,
+        "comments": 207,
         "author": "adam_rida",
-        "age": "16h ago"
+        "age": "19h ago"
       },
       {
         "rank": 2,
-        "id": 49034163,
-        "title": "Show HN: YC Has It – describe your problem, find the YC startup that solves it",
-        "url": "https://www.ychasit.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49034163",
-        "site": "ychasit.com",
-        "points": 4,
+        "id": 49035786,
+        "title": "Show HN: Self-hosted multi-tenant agents built on Claude Code and Codex",
+        "url": "https://github.com/OtoDock/oto-dock/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49035786",
+        "site": "github.com",
+        "points": 2,
         "comments": 0,
-        "author": "intelligentleak",
-        "age": "29m ago"
+        "author": "dimitrismrtzs",
+        "age": "41m ago"
       },
       {
         "rank": 3,
-        "id": 49034090,
-        "title": "Show HN: A useful service for back end devs",
-        "url": "https://app.linking.studio",
-        "discussion_url": "https://news.ycombinator.com/item?id=49034090",
-        "site": "app.linking.studio",
-        "points": 2,
+        "id": 49035560,
+        "title": "Show HN: CockroachCrawler–1 package for crawling,browsers,PDF,extraction,and MCP",
+        "url": "https://github.com/AjnasNB/cockroach-crawler",
+        "discussion_url": "https://news.ycombinator.com/item?id=49035560",
+        "site": "github.com",
+        "points": 4,
         "comments": 0,
-        "author": "yourfavdev",
-        "age": "37m ago"
+        "author": "Cognifyr",
+        "age": "55m ago"
       },
       {
         "rank": 4,
-        "id": 49022911,
-        "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-        "url": "https://github.com/palmier-io/palmier-pro",
-        "discussion_url": "https://news.ycombinator.com/item?id=49022911",
-        "site": "github.com",
-        "points": 173,
-        "comments": 26,
-        "author": "harrisontin",
-        "age": "20h ago"
+        "id": 49035503,
+        "title": "Show HN: Sequence, a daily spatial number puzzle",
+        "url": "https://notebeck.com/sequence/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49035503",
+        "site": "notebeck.com",
+        "points": 2,
+        "comments": 1,
+        "author": "aidanbeck",
+        "age": "58m ago"
       },
       {
         "rank": 5,
-        "id": 49033645,
-        "title": "Show HN: Vinv-Ties every runtime trace to code segment, prevents reward hacking",
-        "url": "https://github.com/VinvAI/VinvAI",
-        "discussion_url": "https://news.ycombinator.com/item?id=49033645",
-        "site": "github.com",
-        "points": 3,
+        "id": 49035477,
+        "title": "Show HN: Invisible color – Logic mini game",
+        "url": "https://invisible-color.vercel.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49035477",
+        "site": "invisible-color.vercel.app",
+        "points": 2,
         "comments": 0,
-        "author": "sohamac",
-        "age": "1h ago"
+        "author": "wrongful1520",
+        "age": "59m ago"
       }
     ]
   }
