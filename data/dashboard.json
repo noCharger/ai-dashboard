@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-25T12:02:48Z",
+  "generated": "2026-07-25T14:25:33Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 909,
+        "trending_score": 918,
         "downloads": 2564264,
-        "likes": 3048,
+        "likes": 3058,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "poolside/Laguna-S-2.1",
         "org": "poolside",
-        "trending_score": 616,
+        "trending_score": 624,
         "downloads": 45260,
-        "likes": 631,
+        "likes": 641,
         "url": "https://huggingface.co/poolside/Laguna-S-2.1",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "thinkingmachines/Inkling",
-        "org": "thinkingmachines",
-        "trending_score": 472,
-        "downloads": 31575,
-        "likes": 1555,
-        "url": "https://huggingface.co/thinkingmachines/Inkling",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "inkling_mm_model",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "upstage/Solar-Open2-250B",
         "org": "upstage",
-        "trending_score": 467,
+        "trending_score": 471,
         "downloads": 2784,
-        "likes": 545,
+        "likes": 550,
         "url": "https://huggingface.co/upstage/Solar-Open2-250B",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "thinkingmachines/Inkling",
+        "org": "thinkingmachines",
+        "trending_score": 463,
+        "downloads": 31575,
+        "likes": 1556,
+        "url": "https://huggingface.co/thinkingmachines/Inkling",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "inkling_mm_model",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 442,
+        "trending_score": 446,
         "downloads": 483845,
-        "likes": 510,
+        "likes": 518,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.6918740157091,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.5621085016615,
+        "speed_tps": 52.281326098616,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.0681611916281,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 51.5842069912241,
+        "speed_tps": 52.4081689299519,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 73.0873092004184,
+        "speed_tps": 73.7046724441146,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 64.744945652123,
+        "speed_tps": 64.8714122327435,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 58.8641803200348,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.0422829701926,
+        "speed_tps": 58.0078583339185,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       }
@@ -311,8 +311,8 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 10907,
-        "stars_delta": 3270,
+        "stars": 11134,
+        "stars_delta": 2506,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -321,7 +321,7 @@
         "name": "alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 12576,
+        "stars": 12668,
         "stars_delta": 1066,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -331,8 +331,8 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 3102,
-        "stars_delta": 880,
+        "stars": 3202,
+        "stars_delta": 986,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -341,8 +341,8 @@
         "name": "ComposioHQ/awesome-claude-skills",
         "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "stars": 70330,
-        "stars_delta": 663,
+        "stars": 70386,
+        "stars_delta": 574,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,7 +351,7 @@
         "name": "anthropics/claude-cookbooks",
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "url": "https://github.com/anthropics/claude-cookbooks",
-        "stars": 49680,
+        "stars": 49727,
         "stars_delta": 144,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -363,7 +363,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 19506,
+        "stars": 19586,
         "stars_delta": 17401,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 73835,
+        "stars": 73915,
         "stars_delta": 10936,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 26320,
+        "stars": 26335,
         "stars_delta": 6565,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "1jehuang/jcode",
         "description": "The most intelligent agent harness for code",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 11321,
+        "stars": 11350,
         "stars_delta": 2773,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "agegr/pi-web",
         "description": "Web UI for the pi coding agent",
         "url": "https://github.com/agegr/pi-web",
-        "stars": 2684,
+        "stars": 2702,
         "stars_delta": 1316,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 26593,
+        "stars": 26651,
         "stars_delta": 22740,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 29490,
+        "stars": 29626,
         "stars_delta": 21480,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 44095,
+        "stars": 44112,
         "stars_delta": 18109,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "xbtlin/ai-berkshire",
         "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
         "url": "https://github.com/xbtlin/ai-berkshire",
-        "stars": 13990,
+        "stars": 14006,
         "stars_delta": 12691,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "catchorg/Catch2",
         "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
         "url": "https://github.com/catchorg/Catch2",
-        "stars": 21322,
+        "stars": 21323,
         "stars_delta": 1003,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -564,7 +564,7 @@
         "upvotes": 48,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 33506
+        "github_stars": 33659
       },
       {
         "rank": 4,
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.19064",
         "categories": [],
-        "upvotes": 64,
+        "upvotes": 65,
         "published": "2026-07-20",
         "github_repo": "https://github.com/microsoft/Mage",
         "github_stars": 501
@@ -690,63 +690,75 @@
         "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
         "discussion_url": "https://news.ycombinator.com/item?id=49045159",
         "site": "kitsumed.github.io",
-        "points": 341,
-        "comments": 159,
+        "points": 502,
+        "comments": 233,
         "author": "shscs911",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
-        "id": 49038433,
-        "title": "Claude Opus 5",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "discussion_url": "https://news.ycombinator.com/item?id=49038433",
-        "site": "anthropic.com",
-        "points": 1615,
-        "comments": 955,
-        "author": "alvis",
-        "age": "19h ago"
+        "id": 49047198,
+        "title": "League of Legends designer shares game design field manual",
+        "url": "https://areadenial.games/design/preface#00-01",
+        "discussion_url": "https://news.ycombinator.com/item?id=49047198",
+        "site": "areadenial.games",
+        "points": 25,
+        "comments": 15,
+        "author": "jmanjmanjman",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49043724,
-        "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-        "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-        "discussion_url": "https://news.ycombinator.com/item?id=49043724",
-        "site": "maths.cam.ac.uk",
-        "points": 295,
-        "comments": 49,
-        "author": "agnishom",
-        "age": "10h ago"
+        "id": 49006096,
+        "title": "My Images Are Dithered",
+        "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49006096",
+        "site": "dead.garden",
+        "points": 61,
+        "comments": 19,
+        "author": "surprisetalk",
+        "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 49010993,
-        "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
-        "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-        "discussion_url": "https://news.ycombinator.com/item?id=49010993",
-        "site": "saffroncr.itch.io",
-        "points": 75,
-        "comments": 3,
-        "author": "g0xA52A2A",
-        "age": "2d ago"
+        "id": 49046525,
+        "title": "The Fedora 45 Sausage Factory",
+        "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49046525",
+        "site": "supakeen.com",
+        "points": 39,
+        "comments": 2,
+        "author": "6581",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 49045040,
-        "title": "ARC-AGI Leaderboard",
-        "url": "https://arcprize.org/leaderboard",
-        "discussion_url": "https://news.ycombinator.com/item?id=49045040",
-        "site": "arcprize.org",
-        "points": 102,
-        "comments": 80,
-        "author": "rzk",
-        "age": "5h ago"
+        "id": 49007018,
+        "title": "Spatial languages: Writing code in 2D",
+        "url": "https://shukla.io/blog/2026-07/cccx.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49007018",
+        "site": "shukla.io",
+        "points": 18,
+        "comments": 2,
+        "author": "BinRoo",
+        "age": "3d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49047714,
+        "title": "Who's making money from using/exploiting AI?",
+        "url": "https://news.ycombinator.com/item?id=49047714",
+        "discussion_url": "https://news.ycombinator.com/item?id=49047714",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "jonthepirate",
+        "age": "13m ago"
+      },
+      {
+        "rank": 2,
         "id": 49046312,
         "title": "Has anyone figured out how to guard LLMs on kernel level?",
         "url": "https://news.ycombinator.com/item?id=49046312",
@@ -755,10 +767,22 @@
         "points": 2,
         "comments": 1,
         "author": "isaacnsisong",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 49046190,
+        "title": "Tell HN: It's a Lot",
+        "url": "https://news.ycombinator.com/item?id=49046190",
+        "discussion_url": "https://news.ycombinator.com/item?id=49046190",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 2,
+        "author": "mettamage",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
         "id": 49045970,
         "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
         "url": "https://news.ycombinator.com/item?id=49045970",
@@ -767,42 +791,18 @@
         "points": 3,
         "comments": 1,
         "author": "lennart-rth",
-        "age": "2h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49046018,
         "title": "Codex Is Down",
         "url": "https://news.ycombinator.com/item?id=49046018",
         "discussion_url": "https://news.ycombinator.com/item?id=49046018",
         "site": "news.ycombinator.com",
         "points": 11,
-        "comments": 4,
-        "author": "freakynit",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49046049,
-        "title": "ChatGPT Is Down",
-        "url": "https://news.ycombinator.com/item?id=49046049",
-        "discussion_url": "https://news.ycombinator.com/item?id=49046049",
-        "site": "news.ycombinator.com",
-        "points": 8,
         "comments": 5,
-        "author": "anujbans",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49045271,
-        "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
-        "url": "https://news.ycombinator.com/item?id=49045271",
-        "discussion_url": "https://news.ycombinator.com/item?id=49045271",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "thegreatkahuna",
+        "author": "freakynit",
         "age": "4h ago"
       }
     ],
@@ -814,34 +814,34 @@
         "url": "https://globaloilnetwork.staffinganalytics.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=49020545",
         "site": "globaloilnetwork.staffinganalytics.io",
-        "points": 198,
-        "comments": 94,
+        "points": 219,
+        "comments": 104,
         "author": "eliotho",
-        "age": "1d ago"
+        "age": "2d ago"
       },
       {
         "rank": 2,
+        "id": 49046973,
+        "title": "Show HN: Cygnus – A fast, lightweight self-hostable serverless runtime and PaaS",
+        "url": "https://cygnus.run",
+        "discussion_url": "https://news.ycombinator.com/item?id=49046973",
+        "site": "cygnus.run",
+        "points": 3,
+        "comments": 0,
+        "author": "ccheshirecat",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 49026810,
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "discussion_url": "https://news.ycombinator.com/item?id=49026810",
         "site": "news.ycombinator.com",
-        "points": 459,
+        "points": 460,
         "comments": 218,
         "author": "adam_rida",
         "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49045838,
-        "title": "Show HN: Nostalgia – A shareable Windows 98 desktop builder",
-        "url": "https://nostalgia-stilloo.zocomputer.io/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49045838",
-        "site": "nostalgia-stilloo.zocomputer.io",
-        "points": 2,
-        "comments": 0,
-        "author": "tsachin",
-        "age": "3h ago"
       },
       {
         "rank": 4,
@@ -853,19 +853,19 @@
         "points": 32,
         "comments": 0,
         "author": "apresta",
-        "age": "14h ago"
+        "age": "17h ago"
       },
       {
         "rank": 5,
-        "id": 49042653,
-        "title": "Show HN: How well do you use Claude Code?",
-        "url": "https://news.ycombinator.com/item?id=49042653",
-        "discussion_url": "https://news.ycombinator.com/item?id=49042653",
-        "site": "news.ycombinator.com",
-        "points": 15,
-        "comments": 10,
-        "author": "Paarthmj",
-        "age": "13h ago"
+        "id": 49022911,
+        "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+        "url": "https://github.com/palmier-io/palmier-pro",
+        "discussion_url": "https://news.ycombinator.com/item?id=49022911",
+        "site": "github.com",
+        "points": 187,
+        "comments": 35,
+        "author": "harrisontin",
+        "age": "1d ago"
       }
     ]
   }
