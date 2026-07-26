@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-26T08:33:13Z",
+  "generated": "2026-07-26T10:26:47Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 970,
+        "trending_score": 976,
         "downloads": 2593460,
-        "likes": 3138,
+        "likes": 3147,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "poolside/Laguna-S-2.1",
         "org": "poolside",
-        "trending_score": 649,
+        "trending_score": 653,
         "downloads": 56445,
-        "likes": 669,
+        "likes": 674,
         "url": "https://huggingface.co/poolside/Laguna-S-2.1",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "upstage/Solar-Open2-250B",
         "org": "upstage",
-        "trending_score": 495,
+        "trending_score": 496,
         "downloads": 3305,
-        "likes": 577,
+        "likes": 578,
         "url": "https://huggingface.co/upstage/Solar-Open2-250B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 470,
+        "trending_score": 468,
         "downloads": 552026,
-        "likes": 571,
+        "likes": 578,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "thinkingmachines/Inkling",
-        "org": "thinkingmachines",
-        "trending_score": 420,
-        "downloads": 34511,
-        "likes": 1573,
-        "url": "https://huggingface.co/thinkingmachines/Inkling",
+        "name": "Nanbeige/Nanbeige4.2-3B",
+        "org": "Nanbeige",
+        "trending_score": 414,
+        "downloads": 14049,
+        "likes": 418,
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
         "tags": [
           "transformers",
           "safetensors",
-          "inkling_mm_model",
-          "image-text-to-text",
-          "conversational"
+          "nanbeige",
+          "text-generation",
+          "llm"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 12400,
+        "stars": 12520,
         "stars_delta": 2491,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 13241,
+        "stars": 13329,
         "stars_delta": 431,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -331,7 +331,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 3841,
+        "stars": 3925,
         "stars_delta": 986,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "ComposioHQ/awesome-claude-skills",
         "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
         "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "stars": 70759,
+        "stars": 70796,
         "stars_delta": 577,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "anthropics/claude-cookbooks",
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "url": "https://github.com/anthropics/claude-cookbooks",
-        "stars": 49996,
+        "stars": 50030,
         "stars_delta": 132,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -363,7 +363,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 20173,
+        "stars": 20275,
         "stars_delta": 16579,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 74338,
+        "stars": 74387,
         "stars_delta": 12085,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "tirth8205/code-review-graph",
         "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
         "url": "https://github.com/tirth8205/code-review-graph",
-        "stars": 26467,
+        "stars": 26485,
         "stars_delta": 6423,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "1jehuang/jcode",
         "description": "The most intelligent agent harness for code",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 11524,
+        "stars": 11536,
         "stars_delta": 2914,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "agegr/pi-web",
         "description": "Web UI for the pi coding agent",
         "url": "https://github.com/agegr/pi-web",
-        "stars": 2789,
+        "stars": 2804,
         "stars_delta": 1450,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 26983,
+        "stars": 27037,
         "stars_delta": 23212,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 30306,
+        "stars": 30377,
         "stars_delta": 23016,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 44270,
+        "stars": 44302,
         "stars_delta": 18324,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "xbtlin/ai-berkshire",
         "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
         "url": "https://github.com/xbtlin/ai-berkshire",
-        "stars": 14112,
+        "stars": 14127,
         "stars_delta": 12519,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.23050",
         "categories": [],
-        "upvotes": 64,
+        "upvotes": 65,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
         "github_stars": 19000
@@ -564,7 +564,7 @@
         "upvotes": 33,
         "published": "2026-04-14",
         "github_repo": "https://github.com/robbyant/lingbot-map",
-        "github_stars": 15403
+        "github_stars": 15462
       },
       {
         "rank": 4,
@@ -685,92 +685,104 @@
     "top": [
       {
         "rank": 1,
+        "id": 49056112,
+        "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+        "url": "https://astral.sh/blog/ruff-v0.16.0",
+        "discussion_url": "https://news.ycombinator.com/item?id=49056112",
+        "site": "astral.sh",
+        "points": 43,
+        "comments": 5,
+        "author": "vismit2000",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49047453,
         "title": "A shell colon does nothing. Use it anyway",
         "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
         "discussion_url": "https://news.ycombinator.com/item?id=49047453",
         "site": "refp.se",
-        "points": 129,
-        "comments": 46,
+        "points": 206,
+        "comments": 74,
         "author": "olexsmir",
-        "age": "18h ago"
+        "age": "20h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 49055169,
+        "title": "GrapheneOS protections against data extraction from locked devices",
+        "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+        "discussion_url": "https://news.ycombinator.com/item?id=49055169",
+        "site": "discuss.grapheneos.org",
+        "points": 82,
+        "comments": 38,
+        "author": "Cider9986",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
         "id": 49054107,
         "title": "An ESP32 based plane radar for my desk",
         "url": "https://blog.ktz.me/esp32-plane-radar/",
         "discussion_url": "https://news.ycombinator.com/item?id=49054107",
         "site": "blog.ktz.me",
-        "points": 124,
-        "comments": 24,
+        "points": 155,
+        "comments": 31,
         "author": "alexktz",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49051361,
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "discussion_url": "https://news.ycombinator.com/item?id=49051361",
-        "site": "claude.com",
-        "points": 308,
-        "comments": 189,
-        "author": "mellosouls",
-        "age": "11h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49054010,
-        "title": "Show HN: I mapped every US golf course",
-        "url": "https://golfcoursebrowser.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49054010",
-        "site": "golfcoursebrowser.com",
-        "points": 118,
-        "comments": 58,
-        "author": "rickmf",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 49034777,
-        "title": "Stinkpot: SQLite-backed shell history",
-        "url": "https://tangled.org/oppi.li/stinkpot",
-        "discussion_url": "https://news.ycombinator.com/item?id=49034777",
-        "site": "tangled.org",
-        "points": 44,
-        "comments": 9,
-        "author": "nerdypepper",
-        "age": "1d ago"
+        "id": 49056194,
+        "title": "Elevated Errors for Opus 5",
+        "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+        "discussion_url": "https://news.ycombinator.com/item?id=49056194",
+        "site": "status.claude.com",
+        "points": 7,
+        "comments": 0,
+        "author": "TimCTRL",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49055494,
+        "title": "Connection-Agnostic Presence Tracking for Stateless Distributed Back Ends",
+        "url": "https://news.ycombinator.com/item?id=49055494",
+        "discussion_url": "https://news.ycombinator.com/item?id=49055494",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "duckydude20",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49054859,
         "title": "Ask HN: Protecting your Sites/Services from Unwanted Traffic?",
         "url": "https://news.ycombinator.com/item?id=49054859",
         "discussion_url": "https://news.ycombinator.com/item?id=49054859",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
+        "points": 6,
+        "comments": 1,
         "author": "prologic",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49049281,
         "title": "Ask HN: What livestream do you keep open in a tab?",
         "url": "https://news.ycombinator.com/item?id=49049281",
         "discussion_url": "https://news.ycombinator.com/item?id=49049281",
         "site": "news.ycombinator.com",
-        "points": 42,
+        "points": 43,
         "comments": 14,
         "author": "missmoss",
-        "age": "15h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49049796,
         "title": "Ask HN: Which Jabber clients support SCRAM+ and XEP-0474",
         "url": "https://news.ycombinator.com/item?id=49049796",
@@ -779,10 +791,10 @@
         "points": 9,
         "comments": 0,
         "author": "Bender",
-        "age": "14h ago"
+        "age": "16h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49050356,
         "title": "Ask HN: HotPin – lossless 120B MoE inference on 24GB RAM (CPU, 50 loc)",
         "url": "https://news.ycombinator.com/item?id=49050356",
@@ -791,19 +803,7 @@
         "points": 7,
         "comments": 0,
         "author": "LozzKappa",
-        "age": "13h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49048780,
-        "title": "Timed YouTube video transcripts in .txt and .pdf",
-        "url": "https://news.ycombinator.com/item?id=49048780",
-        "discussion_url": "https://news.ycombinator.com/item?id=49048780",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 2,
-        "author": "cristyg0101",
-        "age": "16h ago"
+        "age": "15h ago"
       }
     ],
     "show": [
@@ -814,10 +814,10 @@
         "url": "https://golfcoursebrowser.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49054010",
         "site": "golfcoursebrowser.com",
-        "points": 118,
-        "comments": 58,
+        "points": 132,
+        "comments": 73,
         "author": "rickmf",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -826,8 +826,8 @@
         "url": "https://brandonli.net/semisim/animations",
         "discussion_url": "https://news.ycombinator.com/item?id=49039868",
         "site": "brandonli.net",
-        "points": 180,
-        "comments": 21,
+        "points": 186,
+        "comments": 24,
         "author": "stunningllama",
         "age": "1d ago"
       },
@@ -838,34 +838,34 @@
         "url": "https://brolly.sh/forecast/RWFP2qW8",
         "discussion_url": "https://news.ycombinator.com/item?id=49049693",
         "site": "brolly.sh",
-        "points": 182,
-        "comments": 56,
+        "points": 196,
+        "comments": 69,
         "author": "jsax",
-        "age": "14h ago"
+        "age": "16h ago"
       },
       {
         "rank": 4,
-        "id": 49055475,
-        "title": "Show HN: Inflect TTS v2+ONNX, 9M/4M text-to-speech models running in the browser",
-        "url": "https://inflect-tts.geronimo-labs.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49055475",
-        "site": "inflect-tts.geronimo-labs.com",
+        "id": 49055927,
+        "title": "Show HN: Reproducibility Benchmark a Risk Quantitative Model",
+        "url": "https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack",
+        "discussion_url": "https://news.ycombinator.com/item?id=49055927",
+        "site": "github.com",
         "points": 3,
-        "comments": 2,
-        "author": "g58892881",
+        "comments": 0,
+        "author": "mingshi_tz",
         "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49055400,
-        "title": "Show HN: Pg_stat_ch, a Postgres extension to export every metric to ClickHouse",
-        "url": "https://github.com/ClickHouse/pg_stat_ch",
-        "discussion_url": "https://news.ycombinator.com/item?id=49055400",
-        "site": "github.com",
-        "points": 2,
-        "comments": 1,
-        "author": "saisrirampur",
-        "age": "1h ago"
+        "id": 49051130,
+        "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+        "url": "https://news.ycombinator.com/item?id=49051130",
+        "discussion_url": "https://news.ycombinator.com/item?id=49051130",
+        "site": "news.ycombinator.com",
+        "points": 42,
+        "comments": 16,
+        "author": "_boffin_",
+        "age": "14h ago"
       }
     ]
   }
