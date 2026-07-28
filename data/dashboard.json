@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-28T19:03:31Z",
+  "generated": "2026-07-28T20:56:42Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 7268,
+        "trending_score": 7306,
         "downloads": 99214,
-        "likes": 7825,
+        "likes": 7869,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -21,9 +21,26 @@
       },
       {
         "rank": 2,
+        "name": "baidu/Unlimited-OCR",
+        "org": "baidu",
+        "trending_score": 674,
+        "downloads": 2694935,
+        "likes": 3402,
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "unlimited-ocr",
+          "feature-extraction",
+          "baidu"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 3,
         "name": "poolside/Laguna-S-2.1",
         "org": "poolside",
-        "trending_score": 687,
+        "trending_score": 646,
         "downloads": 67286,
         "likes": 793,
         "url": "https://huggingface.co/poolside/Laguna-S-2.1",
@@ -37,29 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
-        "name": "baidu/Unlimited-OCR",
-        "org": "baidu",
-        "trending_score": 680,
-        "downloads": 2694935,
-        "likes": 3399,
-        "url": "https://huggingface.co/baidu/Unlimited-OCR",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "unlimited-ocr",
-          "feature-extraction",
-          "baidu"
-        ],
-        "rank_change": null
-      },
-      {
         "rank": 4,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 564,
+        "trending_score": 562,
         "downloads": 736692,
-        "likes": 828,
+        "likes": 832,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "upstage/Solar-Open2-250B",
         "org": "upstage",
-        "trending_score": 551,
+        "trending_score": 553,
         "downloads": 4804,
-        "likes": 641,
+        "likes": 643,
         "url": "https://huggingface.co/upstage/Solar-Open2-250B",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.6918740157091,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.7780191655243,
+        "speed_tps": 55.4236787383722,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 60.0681611916281,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 53.4498969646726,
+        "speed_tps": 53.85728798468,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 73.0574896736593,
+        "speed_tps": 73.9910036532909,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 75.9962917867146,
+        "speed_tps": 73.13197488479,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -311,7 +311,7 @@
         "name": "pascalorg/editor",
         "description": "Create and share 3D architectural projects.",
         "url": "https://github.com/pascalorg/editor",
-        "stars": 18527,
+        "stars": 18584,
         "stars_delta": 415,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "jenkinsci/jenkins",
         "description": "Jenkins automation server",
         "url": "https://github.com/jenkinsci/jenkins",
-        "stars": 26037,
+        "stars": 26047,
         "stars_delta": 180,
         "language": "Java",
         "language_color": "#b07219"
@@ -331,7 +331,7 @@
         "name": "moeru-ai/airi",
         "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
         "url": "https://github.com/moeru-ai/airi",
-        "stars": 44675,
+        "stars": 44701,
         "stars_delta": 796,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "andrewyng/aisuite",
         "description": "Simple, unified interface to multiple Generative AI providers",
         "url": "https://github.com/andrewyng/aisuite",
-        "stars": 15641,
+        "stars": 15654,
         "stars_delta": 92,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 234661,
+        "stars": 234705,
         "stars_delta": 692,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -363,7 +363,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 75835,
+        "stars": 75872,
         "stars_delta": 13231,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 12541,
+        "stars": 12627,
         "stars_delta": 6961,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 24255,
+        "stars": 24278,
         "stars_delta": 13627,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 32969,
+        "stars": 33037,
         "stars_delta": 11057,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "oblien/openship",
         "description": "Self-hosted deployment platform",
         "url": "https://github.com/oblien/openship",
-        "stars": 9313,
+        "stars": 9339,
         "stars_delta": 4911,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 32969,
+        "stars": 33037,
         "stars_delta": 24936,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 33001,
+        "stars": 33013,
         "stars_delta": 5679,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 45269,
+        "stars": 45281,
         "stars_delta": 18948,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 31666,
+        "stars": 31697,
         "stars_delta": 22573,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 27180,
+        "stars": 27195,
         "stars_delta": 14255,
         "language": "Rust",
         "language_color": "#dea584"
@@ -523,6 +523,21 @@
     "hf_trending": [
       {
         "rank": 1,
+        "title": "Kimi K3: Open Frontier Intelligence",
+        "authors": [
+          "Kimi Team",
+          "Tongtong Bai",
+          "Yifan Bai"
+        ],
+        "url": "https://huggingface.co/papers/2607.24653",
+        "categories": [],
+        "upvotes": 251,
+        "published": "2026-07-26",
+        "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
+        "github_stars": 3260
+      },
+      {
+        "rank": 2,
         "title": "Unlimited OCR Works",
         "authors": [
           "Youyang Yin",
@@ -537,7 +552,7 @@
         "github_stars": 19747
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Kronos: A Foundation Model for the Language of Financial Markets",
         "authors": [
           "Yu Shi",
@@ -549,10 +564,10 @@
         "upvotes": 50,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 34689
+        "github_stars": 34814
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Geometric Context Transformer for Streaming 3D Reconstruction",
         "authors": [
           "Lin-Zhuo Chen",
@@ -567,7 +582,7 @@
         "github_stars": 15758
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
         "authors": [
           "Yifan Yang",
@@ -580,21 +595,6 @@
         "published": "2026-05-21",
         "github_repo": "https://github.com/microsoft/SkillOpt",
         "github_stars": 15234
-      },
-      {
-        "rank": 5,
-        "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "authors": [
-          "Yijia Xiao",
-          "Edward Sun",
-          "Di Luo"
-        ],
-        "url": "https://huggingface.co/papers/2412.20138",
-        "categories": [],
-        "upvotes": 117,
-        "published": "2024-12-28",
-        "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 94835
       }
     ],
     "arxiv_recent": [
@@ -679,14 +679,14 @@
     "top": [
       {
         "rank": 1,
-        "id": 49085909,
-        "title": "You Could Have Come Up with Kimi Delta Attention",
-        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-        "discussion_url": "https://news.ycombinator.com/item?id=49085909",
-        "site": "blog.doubleword.ai",
-        "points": 232,
-        "comments": 87,
-        "author": "AnhTho_FR",
+        "id": 49086788,
+        "title": "Substack writers, you need a website",
+        "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49086788",
+        "site": "elizabethtai.com",
+        "points": 250,
+        "comments": 142,
+        "author": "speckx",
         "age": "3h ago"
       },
       {
@@ -696,108 +696,108 @@
         "url": "https://sbcl.org/all-news.html?2.6.7",
         "discussion_url": "https://news.ycombinator.com/item?id=49086971",
         "site": "sbcl.org",
-        "points": 79,
-        "comments": 15,
+        "points": 133,
+        "comments": 43,
         "author": "tmtvl",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 49088148,
-        "title": "Deflock Casa Grande",
-        "url": "https://deflockcg.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49088148",
-        "site": "deflockcg.com",
-        "points": 23,
-        "comments": 1,
-        "author": "mooreds",
-        "age": "21m ago"
+        "id": 49085698,
+        "title": "Kimi K3 Architecture Overview and Notes",
+        "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49085698",
+        "site": "sebastianraschka.com",
+        "points": 186,
+        "comments": 21,
+        "author": "ModelForge",
+        "age": "5h ago"
       },
       {
         "rank": 4,
+        "id": 49088058,
+        "title": "MCP 2026-07-28 Specification: transport going stateless",
+        "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49088058",
+        "site": "blog.modelcontextprotocol.io",
+        "points": 57,
+        "comments": 21,
+        "author": "Eldodi",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
         "id": 49085731,
         "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
         "url": "https://www.slow-journalism.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49085731",
         "site": "slow-journalism.com",
-        "points": 126,
-        "comments": 60,
+        "points": 176,
+        "comments": 91,
         "author": "speerer",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49085666,
-        "title": "Zig's Incremental Compilation Internals",
-        "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49085666",
-        "site": "mlugg.co.uk",
-        "points": 112,
-        "comments": 59,
-        "author": "garyhtou",
-        "age": "3h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49086282,
-        "title": "Free AI visibility scanner for your website",
-        "url": "https://news.ycombinator.com/item?id=49086282",
-        "discussion_url": "https://news.ycombinator.com/item?id=49086282",
+        "id": 49084404,
+        "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
+        "url": "https://news.ycombinator.com/item?id=49084404",
+        "discussion_url": "https://news.ycombinator.com/item?id=49084404",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "hexalogic",
-        "age": "2h ago"
+        "points": 39,
+        "comments": 45,
+        "author": "Jgoauh",
+        "age": "6h ago"
       },
       {
         "rank": 2,
+        "id": 49088879,
+        "title": "Ask HN: Semi lucrative careers after tech?",
+        "url": "https://news.ycombinator.com/item?id=49088879",
+        "discussion_url": "https://news.ycombinator.com/item?id=49088879",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 1,
+        "author": "hnthrow10282910",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49087851,
+        "title": "Ask HN: Can't we think out of the box to kill the tumor?",
+        "url": "https://news.ycombinator.com/item?id=49087851",
+        "discussion_url": "https://news.ycombinator.com/item?id=49087851",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 2,
+        "author": "kinj28",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 49080775,
         "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
         "url": "https://news.ycombinator.com/item?id=49080775",
         "discussion_url": "https://news.ycombinator.com/item?id=49080775",
         "site": "news.ycombinator.com",
-        "points": 41,
+        "points": 43,
         "comments": 21,
         "author": "KellyCriterion",
-        "age": "11h ago"
+        "age": "12h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49081970,
         "title": "Why I prefer Opus 5 to Fable 5",
         "url": "https://news.ycombinator.com/item?id=49081970",
         "discussion_url": "https://news.ycombinator.com/item?id=49081970",
         "site": "news.ycombinator.com",
         "points": 19,
-        "comments": 7,
+        "comments": 9,
         "author": "novlrdotcom",
-        "age": "8h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49083696,
-        "title": "Ask HN: How do you use Copilot in the CLI, App, and IDE?",
-        "url": "https://news.ycombinator.com/item?id=49083696",
-        "discussion_url": "https://news.ycombinator.com/item?id=49083696",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "EspressoGPT",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49085375,
-        "title": "SOTA on the hardest AI memory benchmark (BEAM, 10M tokens), with a smaller model",
-        "url": "https://news.ycombinator.com/item?id=49085375",
-        "discussion_url": "https://news.ycombinator.com/item?id=49085375",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "johnnymakes",
-        "age": "3h ago"
+        "age": "10h ago"
       }
     ],
     "show": [
@@ -808,34 +808,34 @@
         "url": "https://github.com/reflex-dev/xy",
         "discussion_url": "https://news.ycombinator.com/item?id=49085798",
         "site": "github.com",
-        "points": 67,
-        "comments": 24,
+        "points": 85,
+        "comments": 30,
         "author": "apetuskey",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
+        "id": 49028358,
+        "title": "Show HN: How far do I have to go to run into 100k people?",
+        "url": "https://imjasonh.github.io/playground/population-rays/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49028358",
+        "site": "imjasonh.github.io",
+        "points": 6,
+        "comments": 1,
+        "author": "ImJasonH",
+        "age": "4d ago"
+      },
+      {
+        "rank": 3,
         "id": 49083239,
         "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
         "url": "https://github.com/schildep/verified-3d-mesh-intersection",
         "discussion_url": "https://news.ycombinator.com/item?id=49083239",
         "site": "github.com",
-        "points": 94,
-        "comments": 42,
+        "points": 102,
+        "comments": 44,
         "author": "permute",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49085503,
-        "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-        "url": "https://flashpaper.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49085503",
-        "site": "flashpaper.app",
-        "points": 22,
-        "comments": 6,
-        "author": "minpym",
-        "age": "3h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -844,22 +844,22 @@
         "url": "https://scalatutorials.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49040650",
         "site": "scalatutorials.com",
-        "points": 69,
-        "comments": 28,
+        "points": 70,
+        "comments": 30,
         "author": "eranation",
-        "age": "3d ago"
+        "age": "4d ago"
       },
       {
         "rank": 5,
-        "id": 49086558,
-        "title": "Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure",
-        "url": "https://github.com/cynative/cynative",
-        "discussion_url": "https://news.ycombinator.com/item?id=49086558",
-        "site": "github.com",
-        "points": 6,
-        "comments": 3,
-        "author": "szin",
-        "age": "2h ago"
+        "id": 49083389,
+        "title": "Show HN: tale.fyi, we deserve a home for fiction",
+        "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+        "discussion_url": "https://news.ycombinator.com/item?id=49083389",
+        "site": "tale.fyi",
+        "points": 69,
+        "comments": 56,
+        "author": "samuelcole",
+        "age": "7h ago"
       }
     ]
   }
