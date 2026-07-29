@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-29T22:46:27Z",
+  "generated": "2026-07-29T23:51:24Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 7858,
+        "trending_score": 7864,
         "downloads": 99214,
-        "likes": 8613,
+        "likes": 8624,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -25,7 +25,7 @@
         "org": "baidu",
         "trending_score": 670,
         "downloads": 2694935,
-        "likes": 3511,
+        "likes": 3514,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 560,
+        "trending_score": 561,
         "downloads": 736692,
-        "likes": 930,
+        "likes": 935,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -55,9 +55,26 @@
       },
       {
         "rank": 4,
+        "name": "poolside/Laguna-S-2.1",
+        "org": "poolside",
+        "trending_score": 407,
+        "downloads": 67286,
+        "likes": 824,
+        "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "laguna",
+          "text-generation",
+          "laguna-s-2.1"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "upstage/Solar-Open2-250B",
         "org": "upstage",
-        "trending_score": 412,
+        "trending_score": 399,
         "downloads": 4804,
         "likes": 693,
         "url": "https://huggingface.co/upstage/Solar-Open2-250B",
@@ -67,23 +84,6 @@
           "solar_open2",
           "text-generation",
           "upstage"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "poolside/Laguna-S-2.1",
-        "org": "poolside",
-        "trending_score": 411,
-        "downloads": 67286,
-        "likes": 825,
-        "url": "https://huggingface.co/poolside/Laguna-S-2.1",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "laguna",
-          "text-generation",
-          "laguna-s-2.1"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "opengeos/GeoLibre",
         "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
         "url": "https://github.com/opengeos/GeoLibre",
-        "stars": 3998,
+        "stars": 4013,
         "stars_delta": 667,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "moeru-ai/airi",
         "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
         "url": "https://github.com/moeru-ai/airi",
-        "stars": 45351,
+        "stars": 45365,
         "stars_delta": 676,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 235519,
+        "stars": 235540,
         "stars_delta": 860,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "huggingface/speech-to-speech",
         "description": "Build local voice agents with open-source models",
         "url": "https://github.com/huggingface/speech-to-speech",
-        "stars": 7821,
+        "stars": 7839,
         "stars_delta": 837,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 13419,
+        "stars": 13433,
         "stars_delta": 652,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 16964,
+        "stars": 17047,
         "stars_delta": 15046,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 76463,
+        "stars": 76474,
         "stars_delta": 12173,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 13502,
+        "stars": 13517,
         "stars_delta": 6156,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 5981,
+        "stars": 5995,
         "stars_delta": 4904,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 26148,
+        "stars": 26165,
         "stars_delta": 10637,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 33279,
+        "stars": 33287,
         "stars_delta": 7019,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 34078,
+        "stars": 34103,
         "stars_delta": 25839,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 45599,
+        "stars": 45602,
         "stars_delta": 19164,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 32709,
+        "stars": 32742,
         "stars_delta": 23282,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 27374,
+        "stars": 27379,
         "stars_delta": 14467,
         "language": "Rust",
         "language_color": "#dea584"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.24653",
         "categories": [],
-        "upvotes": 342,
+        "upvotes": 343,
         "published": "2026-07-26",
         "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
         "github_stars": 4983
@@ -689,10 +689,10 @@
         "url": "https://christianselig.com/2026/07/vision-pro-house/",
         "discussion_url": "https://news.ycombinator.com/item?id=49102774",
         "site": "christianselig.com",
-        "points": 220,
-        "comments": 97,
+        "points": 291,
+        "comments": 139,
         "author": "robbiet480",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -701,10 +701,10 @@
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "discussion_url": "https://news.ycombinator.com/item?id=49103285",
         "site": "science.org",
-        "points": 71,
-        "comments": 51,
+        "points": 117,
+        "comments": 78,
         "author": "YeGoblynQueenne",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 3,
@@ -713,10 +713,10 @@
         "url": "https://github.com/drumih/turbo-fieldfare",
         "discussion_url": "https://news.ycombinator.com/item?id=49098510",
         "site": "github.com",
-        "points": 582,
-        "comments": 206,
+        "points": 613,
+        "comments": 214,
         "author": "gitpusher42",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
@@ -725,22 +725,22 @@
         "url": "https://www.superlogical.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49098965",
         "site": "superlogical.com",
-        "points": 448,
-        "comments": 285,
+        "points": 478,
+        "comments": 300,
         "author": "yan",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 49101852,
-        "title": "Kimi K3-256k",
-        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "discussion_url": "https://news.ycombinator.com/item?id=49101852",
-        "site": "kimi.com",
-        "points": 284,
-        "comments": 86,
-        "author": "monneyboi",
-        "age": "3h ago"
+        "id": 49099715,
+        "title": "Keychron announces first open-source firmware for gaming mice",
+        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "discussion_url": "https://news.ycombinator.com/item?id=49099715",
+        "site": "digitalfoundry.net",
+        "points": 261,
+        "comments": 97,
+        "author": "JLO64",
+        "age": "7h ago"
       }
     ],
     "ask": [
@@ -751,10 +751,10 @@
         "url": "https://news.ycombinator.com/item?id=49095601",
         "discussion_url": "https://news.ycombinator.com/item?id=49095601",
         "site": "news.ycombinator.com",
-        "points": 43,
+        "points": 44,
         "comments": 35,
         "author": "GreenPencil7",
-        "age": "12h ago"
+        "age": "13h ago"
       },
       {
         "rank": 2,
@@ -766,7 +766,7 @@
         "points": 11,
         "comments": 1,
         "author": "gaborme",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -778,7 +778,7 @@
         "points": 7,
         "comments": 11,
         "author": "adityaathalye",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 4,
@@ -802,7 +802,7 @@
         "points": 3,
         "comments": 0,
         "author": "tty46",
-        "age": "6h ago"
+        "age": "7h ago"
       }
     ],
     "show": [
@@ -813,10 +813,10 @@
         "url": "https://github.com/drumih/turbo-fieldfare",
         "discussion_url": "https://news.ycombinator.com/item?id=49098510",
         "site": "github.com",
-        "points": 582,
-        "comments": 206,
+        "points": 613,
+        "comments": 214,
         "author": "gitpusher42",
-        "age": "7h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -825,10 +825,10 @@
         "url": "https://cheapfoodmap.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49100043",
         "site": "cheapfoodmap.com",
-        "points": 92,
-        "comments": 108,
+        "points": 106,
+        "comments": 133,
         "author": "jaep1",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
@@ -837,10 +837,10 @@
         "url": "https://github.com/VladUZH/qwen-scribe",
         "discussion_url": "https://news.ycombinator.com/item?id=49098260",
         "site": "github.com",
-        "points": 71,
+        "points": 72,
         "comments": 17,
         "author": "sidclaw",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
@@ -850,9 +850,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49099434",
         "site": "kedge.dev",
         "points": 53,
-        "comments": 16,
+        "comments": 15,
         "author": "wgjordan",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -861,10 +861,10 @@
         "url": "https://github.com/dreeveapp/dreeve",
         "discussion_url": "https://news.ycombinator.com/item?id=49101030",
         "site": "github.com",
-        "points": 6,
+        "points": 8,
         "comments": 0,
         "author": "frogfuhrer",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ]
   }
