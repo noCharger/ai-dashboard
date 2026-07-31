@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-31T13:27:09Z",
+  "generated": "2026-07-31T15:52:44Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 8206,
+        "trending_score": 8222,
         "downloads": 493481,
-        "likes": 9164,
+        "likes": 9201,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -21,11 +21,28 @@
       },
       {
         "rank": 2,
+        "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "org": "deepseek-ai",
+        "trending_score": 616,
+        "downloads": 0,
+        "likes": 627,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v4",
+          "text-generation",
+          "arxiv:2606.19348"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 3,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 580,
+        "trending_score": 583,
         "downloads": 1119057,
-        "likes": 1086,
+        "likes": 1111,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -37,12 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 553,
+        "trending_score": 547,
         "downloads": 2513603,
-        "likes": 3634,
+        "likes": 3646,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -54,12 +71,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "owensong/Inflect-Micro-v2",
         "org": "owensong",
-        "trending_score": 326,
+        "trending_score": 329,
         "downloads": 1449,
-        "likes": 339,
+        "likes": 342,
         "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
         "tags": [
           "text-to-speech",
@@ -67,23 +84,6 @@
           "local-tts",
           "cpu",
           "edge-ai"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
-        "org": "deepseek-ai",
-        "trending_score": 300,
-        "downloads": 0,
-        "likes": 304,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v4",
-          "text-generation",
-          "arxiv:2606.19348"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 10146,
+        "stars": 10323,
         "stars_delta": 612,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -321,7 +321,7 @@
         "name": "different-ai/openwork",
         "description": "The open-source alternative to Claude Cowork (powered by opencode)",
         "url": "https://github.com/different-ai/openwork",
-        "stars": 19171,
+        "stars": 19251,
         "stars_delta": 796,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 55907,
+        "stars": 55981,
         "stars_delta": 660,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "paperswithbacktest/awesome-systematic-trading",
         "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
         "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-        "stars": 11512,
+        "stars": 11565,
         "stars_delta": 765,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 54947,
+        "stars": 55059,
         "stars_delta": 1592,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -363,7 +363,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 18993,
+        "stars": 19118,
         "stars_delta": 12444,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 6860,
+        "stars": 6922,
         "stars_delta": 5037,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "alibaba/open-code-review",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 16865,
+        "stars": 16914,
         "stars_delta": 5322,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -393,7 +393,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 14541,
+        "stars": 14593,
         "stars_delta": 4978,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "pascalorg/editor",
         "description": "Create and share 3D architectural projects.",
         "url": "https://github.com/pascalorg/editor",
-        "stars": 20374,
+        "stars": 20389,
         "stars_delta": 2433,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 33624,
+        "stars": 33653,
         "stars_delta": 7511,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 35672,
+        "stars": 35814,
         "stars_delta": 27274,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 34354,
+        "stars": 34448,
         "stars_delta": 24858,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Design Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 23217,
+        "stars": 23256,
         "stars_delta": 19220,
         "language": "",
         "language_color": "#586069"
@@ -455,7 +455,7 @@
         "name": "Zackriya-Solutions/meetily",
         "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
         "url": "https://github.com/Zackriya-Solutions/meetily",
-        "stars": 27622,
+        "stars": 27640,
         "stars_delta": 14791,
         "language": "Rust",
         "language_color": "#dea584"
@@ -486,17 +486,6 @@
       },
       {
         "rank": 3,
-        "name": "openai/openai-agents-python",
-        "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 7,
-        "total_stars": 14888,
-        "description": "A lightweight, powerful framework for multi-agent workflows",
-        "category": "Agent SDK",
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 4,
         "name": "mastra-ai/mastra",
         "url": "https://github.com/mastra-ai/mastra",
         "stars_28d": 7,
@@ -505,6 +494,17 @@
         "category": "Full-Stack Agent Platform",
         "language": "TypeScript",
         "language_color": "#3178C6"
+      },
+      {
+        "rank": 4,
+        "name": "openai/openai-agents-python",
+        "url": "https://github.com/openai/openai-agents-python",
+        "stars_28d": 7,
+        "total_stars": 14888,
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "category": "Agent SDK",
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
@@ -534,7 +534,7 @@
         "upvotes": 407,
         "published": "2026-07-26",
         "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
-        "github_stars": 7555
+        "github_stars": 7659
       },
       {
         "rank": 2,
@@ -579,7 +579,7 @@
         "upvotes": 50,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 35137
+        "github_stars": 35227
       },
       {
         "rank": 5,
@@ -683,125 +683,125 @@
     "top": [
       {
         "rank": 1,
+        "id": 49124358,
+        "title": "Is AI Reasoning Right for the Wrong Reasons?",
+        "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49124358",
+        "site": "quantamagazine.org",
+        "points": 31,
+        "comments": 3,
+        "author": "retupmoc01",
+        "age": "23m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49124218,
+        "title": "Elevators",
+        "url": "https://john.fun/elevators",
+        "discussion_url": "https://news.ycombinator.com/item?id=49124218",
+        "site": "john.fun",
+        "points": 32,
+        "comments": 4,
+        "author": "Jrh0203",
+        "age": "35m ago"
+      },
+      {
+        "rank": 3,
         "id": 49120299,
         "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
         "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
         "discussion_url": "https://news.ycombinator.com/item?id=49120299",
         "site": "artificialanalysis.ai",
-        "points": 148,
-        "comments": 53,
+        "points": 338,
+        "comments": 167,
         "author": "theanonymousone",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49121980,
-        "title": "The End of an Era",
-        "url": "https://hughhowey.com/the-end-of-an-era/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49121980",
-        "site": "hughhowey.com",
-        "points": 132,
-        "comments": 127,
-        "author": "harscoat",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49118781,
-        "title": "The session you cannot take with you",
-        "url": "https://earendil.com/posts/session-portability/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49118781",
-        "site": "earendil.com",
-        "points": 523,
-        "comments": 139,
-        "author": "apitman",
-        "age": "9h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 49119063,
-        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-        "url": "https://github.com/openjdk/jdk/pull/31120",
-        "discussion_url": "https://news.ycombinator.com/item?id=49119063",
-        "site": "github.com",
-        "points": 167,
-        "comments": 91,
-        "author": "mfiguiere",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
         "id": 49120097,
         "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
         "url": "https://blog.google/security/chrome-stronger-with-every-update/",
         "discussion_url": "https://news.ycombinator.com/item?id=49120097",
         "site": "blog.google",
-        "points": 202,
-        "comments": 210,
+        "points": 364,
+        "comments": 323,
         "author": "Garbage",
-        "age": "5h ago"
+        "age": "8h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49118781,
+        "title": "The session you cannot take with you",
+        "url": "https://earendil.com/posts/session-portability/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49118781",
+        "site": "earendil.com",
+        "points": 646,
+        "comments": 175,
+        "author": "apitman",
+        "age": "12h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49121047,
-        "title": "Ask HN: What are you using for LLM inference in production?",
-        "url": "https://news.ycombinator.com/item?id=49121047",
-        "discussion_url": "https://news.ycombinator.com/item?id=49121047",
+        "id": 49124228,
+        "title": "Everything that happens in a US airport is under duress",
+        "url": "https://news.ycombinator.com/item?id=49124228",
+        "discussion_url": "https://news.ycombinator.com/item?id=49124228",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 2,
-        "author": "chrislim",
-        "age": "3h ago"
+        "points": 2,
+        "comments": 1,
+        "author": "dfps",
+        "age": "33m ago"
       },
       {
         "rank": 2,
+        "id": 49123088,
+        "title": "Ask HN: What E-Reader to Buy?",
+        "url": "https://news.ycombinator.com/item?id=49123088",
+        "discussion_url": "https://news.ycombinator.com/item?id=49123088",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 3,
+        "author": "conor_f",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 49117875,
         "title": "Strategic Oil Reserves Down to a Record Low Two-Week Supply",
         "url": "https://news.ycombinator.com/item?id=49117875",
         "discussion_url": "https://news.ycombinator.com/item?id=49117875",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 4,
+        "points": 15,
+        "comments": 9,
         "author": "megamike",
-        "age": "12h ago"
+        "age": "14h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 49121047,
+        "title": "Ask HN: What are you using for LLM inference in production?",
+        "url": "https://news.ycombinator.com/item?id=49121047",
+        "discussion_url": "https://news.ycombinator.com/item?id=49121047",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 3,
+        "author": "chrislim",
+        "age": "6h ago"
+      },
+      {
+        "rank": 5,
         "id": 49118494,
         "title": "Ask HN: Can Apple Ever Be Disrputed?",
         "url": "https://news.ycombinator.com/item?id=49118494",
         "discussion_url": "https://news.ycombinator.com/item?id=49118494",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 11,
-        "author": "Taikhoom2010",
-        "age": "10h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49116411,
-        "title": "Ask HN: What former \"must-have\" AI agent skills have you deprecated?",
-        "url": "https://news.ycombinator.com/item?id=49116411",
-        "discussion_url": "https://news.ycombinator.com/item?id=49116411",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "lpjstack",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49118082,
-        "title": "Ask HN: After 8 Years of Failed Apps, Should I Give Up?",
-        "url": "https://news.ycombinator.com/item?id=49118082",
-        "discussion_url": "https://news.ycombinator.com/item?id=49118082",
-        "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 7,
-        "author": "asoomi07",
-        "age": "11h ago"
+        "comments": 12,
+        "author": "Taikhoom2010",
+        "age": "12h ago"
       }
     ],
     "show": [
@@ -812,58 +812,58 @@
         "url": "https://github.com/mokshablr/gander",
         "discussion_url": "https://news.ycombinator.com/item?id=49119425",
         "site": "github.com",
-        "points": 112,
-        "comments": 56,
+        "points": 164,
+        "comments": 60,
         "author": "mokshablr",
-        "age": "7h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
+        "id": 49124017,
+        "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+        "url": "https://privacything.com/en/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49124017",
+        "site": "privacything.com",
+        "points": 3,
+        "comments": 0,
+        "author": "tomaszjanusz",
+        "age": "55m ago"
+      },
+      {
+        "rank": 3,
         "id": 49113599,
         "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
         "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
         "discussion_url": "https://news.ycombinator.com/item?id=49113599",
         "site": "ctgt.ai",
-        "points": 143,
-        "comments": 69,
+        "points": 155,
+        "comments": 72,
         "author": "cgorlla",
-        "age": "19h ago"
+        "age": "21h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49099434,
         "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
         "url": "https://kedge.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=49099434",
         "site": "kedge.dev",
-        "points": 121,
+        "points": 128,
         "comments": 21,
         "author": "wgjordan",
         "age": "1d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49068229,
         "title": "Show HN: A udev implementation in Guile Scheme",
         "url": "https://codeberg.org/goodev/goodev",
         "discussion_url": "https://news.ycombinator.com/item?id=49068229",
         "site": "codeberg.org",
         "points": 16,
-        "comments": 5,
+        "comments": 7,
         "author": "mbakke",
         "age": "4d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49048024,
-        "title": "Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
-        "url": "https://github.com/SphericalCowww/CubicDoggo_06R",
-        "discussion_url": "https://news.ycombinator.com/item?id=49048024",
-        "site": "github.com",
-        "points": 6,
-        "comments": 0,
-        "author": "SphericalCowww",
-        "age": "5d ago"
       }
     ]
   }
