@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-03T05:28:43Z",
+  "generated": "2026-08-03T08:58:29Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 7664,
-        "downloads": 837202,
-        "likes": 9694,
+        "trending_score": 7046,
+        "downloads": 967622,
+        "likes": 9736,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 1671,
-        "downloads": 156173,
-        "likes": 1824,
+        "trending_score": 1738,
+        "downloads": 236076,
+        "likes": 1895,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-        "org": "DavidAU",
-        "trending_score": 562,
-        "downloads": 1372285,
-        "likes": 1363,
-        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-        "tags": [
-          "gguf",
-          "unsloth",
-          "fine tune",
-          "heretic",
-          "uncensored"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 474,
+        "trending_score": 767,
         "downloads": 0,
-        "likes": 485,
+        "likes": 782,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "org": "DavidAU",
+        "trending_score": 549,
+        "downloads": 1550034,
+        "likes": 1376,
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "tags": [
+          "gguf",
+          "unsloth",
+          "fine tune",
+          "heretic",
+          "uncensored"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "baidu/Unlimited-OCR",
         "org": "baidu",
-        "trending_score": 449,
-        "downloads": 2536284,
-        "likes": 3799,
+        "trending_score": 438,
+        "downloads": 2601062,
+        "likes": 3804,
         "url": "https://huggingface.co/baidu/Unlimited-OCR",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 60.6918740157091,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.4129569593815,
+        "speed_tps": 54.9413427361536,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 73.8440409220612,
+        "speed_tps": 75.0647541430495,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -311,7 +311,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 59563,
+        "stars": 60029,
         "stars_delta": 2629,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -321,7 +321,7 @@
         "name": "usekaneo/kaneo",
         "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
         "url": "https://github.com/usekaneo/kaneo",
-        "stars": 6321,
+        "stars": 6446,
         "stars_delta": 496,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "lyogavin/airllm",
         "description": "AirLLM 70B inference with single 4GB GPU",
         "url": "https://github.com/lyogavin/airllm",
-        "stars": 25894,
+        "stars": 26091,
         "stars_delta": 819,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -341,7 +341,7 @@
         "name": "iv-org/invidious",
         "description": "Invidious is an alternative front-end to YouTube",
         "url": "https://github.com/iv-org/invidious",
-        "stars": 22051,
+        "stars": 22096,
         "stars_delta": 305,
         "language": "Crystal",
         "language_color": "#000100"
@@ -351,7 +351,7 @@
         "name": "codecrafters-io/build-your-own-x",
         "description": "Master programming by recreating your favorite technologies from scratch.",
         "url": "https://github.com/codecrafters-io/build-your-own-x",
-        "stars": 535121,
+        "stars": 535324,
         "stars_delta": 674,
         "language": "Markdown",
         "language_color": "#083fa1"
@@ -363,7 +363,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 21261,
+        "stars": 21404,
         "stars_delta": 8217,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +373,7 @@
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "stars": 15512,
+        "stars": 15628,
         "stars_delta": 5223,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 15820,
+        "stars": 15934,
         "stars_delta": 5225,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 59563,
+        "stars": 60030,
         "stars_delta": 5601,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -403,7 +403,7 @@
         "name": "1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 15331,
+        "stars": 15373,
         "stars_delta": 3620,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 34201,
+        "stars": 34239,
         "stars_delta": 8160,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 38063,
+        "stars": 38214,
         "stars_delta": 27721,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 36005,
+        "stars": 36175,
         "stars_delta": 25091,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Designers and Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 24066,
+        "stars": 24138,
         "stars_delta": 19563,
         "language": "",
         "language_color": "#586069"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 8606,
+        "stars": 8685,
         "stars_delta": 6402,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -475,23 +475,23 @@
       },
       {
         "rank": 2,
-        "name": "langchain-ai/langchain",
-        "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 6,
-        "total_stars": 116750,
-        "description": "The agent engineering platform.",
-        "category": "General Agent Stack",
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
         "stars_28d": 6,
         "total_stars": 14889,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "stars_28d": 6,
+        "total_stars": 116750,
+        "description": "The agent engineering platform.",
+        "category": "General Agent Stack",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -508,14 +508,14 @@
       },
       {
         "rank": 5,
-        "name": "mastra-ai/mastra",
-        "url": "https://github.com/mastra-ai/mastra",
+        "name": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "stars_28d": 3,
-        "total_stars": 16183,
-        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
-        "category": "Full-Stack Agent Platform",
-        "language": "TypeScript",
-        "language_color": "#3178C6"
+        "total_stars": 175309,
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "category": "Autonomous Agent Platform",
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ]
   },
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.24653",
         "categories": [],
-        "upvotes": 436,
+        "upvotes": 440,
         "published": "2026-07-26",
         "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
         "github_stars": 7896
@@ -681,125 +681,125 @@
     "top": [
       {
         "rank": 1,
+        "id": 49151933,
+        "title": "Don't be a meat proxy",
+        "url": "https://gruhn.me/blog/2026-08-03/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49151933",
+        "site": "gruhn.me",
+        "points": 398,
+        "comments": 171,
+        "author": "ngruhn",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 49150470,
         "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "discussion_url": "https://news.ycombinator.com/item?id=49150470",
         "site": "qwen.ai",
-        "points": 280,
-        "comments": 108,
+        "points": 524,
+        "comments": 247,
         "author": "ai2027",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 49152023,
+        "title": "Rust project goals: Immobile types and guaranteed destructors",
+        "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "discussion_url": "https://news.ycombinator.com/item?id=49152023",
+        "site": "github.com",
+        "points": 46,
+        "comments": 13,
+        "author": "paavohtl",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49151734,
+        "title": "More German than many Germans",
+        "url": "https://mertbulan.com/more-german-than-many-germans/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49151734",
+        "site": "mertbulan.com",
+        "points": 215,
+        "comments": 116,
+        "author": "mertbio",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
         "id": 49149966,
         "title": "Show HN: Isopolis – Isometric pixel map of SF",
         "url": "https://sf.isopolis.city/",
         "discussion_url": "https://news.ycombinator.com/item?id=49149966",
         "site": "sf.isopolis.city",
-        "points": 134,
-        "comments": 36,
+        "points": 207,
+        "comments": 46,
         "author": "nuwandavek",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49150561,
-        "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "discussion_url": "https://news.ycombinator.com/item?id=49150561",
-        "site": "modelrepublic.org",
-        "points": 74,
-        "comments": 14,
-        "author": "JSR_FDED",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49149898,
-        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-        "url": "https://github.com/johnsonjh/cpm386",
-        "discussion_url": "https://news.ycombinator.com/item?id=49149898",
-        "site": "github.com",
-        "points": 50,
-        "comments": 14,
-        "author": "TMWNN",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49140998,
-        "title": "Karpathy’s Pelican",
-        "url": "https://twitter.com/karpathy/status/2083749667410727319",
-        "discussion_url": "https://news.ycombinator.com/item?id=49140998",
-        "site": "twitter.com",
-        "points": 513,
-        "comments": 360,
-        "author": "delichon",
-        "age": "1d ago"
+        "age": "8h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49152073,
+        "title": "New open sourced eval tool for building agents",
+        "url": "https://news.ycombinator.com/item?id=49152073",
+        "discussion_url": "https://news.ycombinator.com/item?id=49152073",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "Thomeras",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49150911,
+        "title": "Local, Open source AI meeting recorder that sees and hears everything",
+        "url": "https://news.ycombinator.com/item?id=49150911",
+        "discussion_url": "https://news.ycombinator.com/item?id=49150911",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 1,
+        "author": "puremetrics",
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
         "id": 49150433,
         "title": "Ask HN: Have LLMs Plateaued?",
         "url": "https://news.ycombinator.com/item?id=49150433",
         "discussion_url": "https://news.ycombinator.com/item?id=49150433",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 7,
+        "comments": 8,
         "author": "leandrobon",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "id": 49149028,
         "title": "Tips for Landing a YC Internship?",
         "url": "https://news.ycombinator.com/item?id=49149028",
         "discussion_url": "https://news.ycombinator.com/item?id=49149028",
         "site": "news.ycombinator.com",
         "points": 6,
-        "comments": 3,
+        "comments": 6,
         "author": "cnnadozi",
-        "age": "7h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49148884,
         "title": "Ask HN: What are you working on? (August 2026)",
         "url": "https://news.ycombinator.com/item?id=49148884",
         "discussion_url": "https://news.ycombinator.com/item?id=49148884",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 19,
-        "author": "sarreph",
-        "age": "7h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49149599,
-        "title": "Ask HN: What's Next for LLMs?",
-        "url": "https://news.ycombinator.com/item?id=49149599",
-        "discussion_url": "https://news.ycombinator.com/item?id=49149599",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 2,
-        "author": "apatheticonion",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49139703,
-        "title": "Ask HN: Anyone still do work on Intel Macs?",
-        "url": "https://news.ycombinator.com/item?id=49139703",
-        "discussion_url": "https://news.ycombinator.com/item?id=49139703",
-        "site": "news.ycombinator.com",
-        "points": 20,
+        "points": 15,
         "comments": 27,
-        "author": "senor_digimon",
-        "age": "1d ago"
+        "author": "sarreph",
+        "age": "10h ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://sf.isopolis.city/",
         "discussion_url": "https://news.ycombinator.com/item?id=49149966",
         "site": "sf.isopolis.city",
-        "points": 134,
-        "comments": 36,
+        "points": 207,
+        "comments": 46,
         "author": "nuwandavek",
-        "age": "4h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -822,46 +822,46 @@
         "url": "https://ssh.place",
         "discussion_url": "https://news.ycombinator.com/item?id=49149805",
         "site": "ssh.place",
-        "points": 79,
-        "comments": 39,
+        "points": 108,
+        "comments": 64,
         "author": "jeninh",
-        "age": "5h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
+        "id": 49152906,
+        "title": "Show HN: Hacker News CLI",
+        "url": "https://github.com/ViktorRingnes/hackernews",
+        "discussion_url": "https://news.ycombinator.com/item?id=49152906",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "viktorringnes",
+        "age": "19m ago"
+      },
+      {
+        "rank": 4,
+        "id": 49152871,
+        "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+        "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+        "discussion_url": "https://news.ycombinator.com/item?id=49152871",
+        "site": "arcbox.dev",
+        "points": 2,
+        "comments": 0,
+        "author": "uneven9434",
+        "age": "24m ago"
+      },
+      {
+        "rank": 5,
         "id": 49119751,
         "title": "Show HN: A Handwritten Blogging Platform",
         "url": "https://handwritten.blog/",
         "discussion_url": "https://news.ycombinator.com/item?id=49119751",
         "site": "handwritten.blog",
-        "points": 53,
-        "comments": 34,
+        "points": 99,
+        "comments": 49,
         "author": "emilesilvis",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49145937,
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "url": "https://github.com/wie-project/kakehashi",
-        "discussion_url": "https://news.ycombinator.com/item?id=49145937",
-        "site": "github.com",
-        "points": 199,
-        "comments": 45,
-        "author": "vlad_kalinkin",
-        "age": "13h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49148048,
-        "title": "Show HN: Make your Framework 12 sound like a creaky door",
-        "url": "https://github.com/ArcaEge/creakwork12",
-        "discussion_url": "https://news.ycombinator.com/item?id=49148048",
-        "site": "github.com",
-        "points": 68,
-        "comments": 9,
-        "author": "arcaege",
-        "age": "8h ago"
+        "age": "3d ago"
       }
     ]
   }
