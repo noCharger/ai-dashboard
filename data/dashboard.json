@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-03T19:16:13Z",
+  "generated": "2026-08-03T20:52:46Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 3748,
+        "trending_score": 3557,
         "downloads": 967622,
-        "likes": 9816,
+        "likes": 9826,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 1847,
+        "trending_score": 1852,
         "downloads": 236076,
-        "likes": 2017,
+        "likes": 2032,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 1290,
+        "trending_score": 1335,
         "downloads": 0,
-        "likes": 1317,
+        "likes": 1365,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 537,
+        "trending_score": 533,
         "downloads": 1550034,
-        "likes": 1415,
+        "likes": 1419,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -72,18 +72,16 @@
       },
       {
         "rank": 5,
-        "name": "baidu/Unlimited-OCR",
-        "org": "baidu",
-        "trending_score": 414,
-        "downloads": 2601062,
-        "likes": 3838,
-        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "name": "Comfy-Org/MiniMax-H3",
+        "org": "Comfy-Org",
+        "trending_score": 413,
+        "downloads": 2,
+        "likes": 426,
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
         "tags": [
-          "transformers",
-          "safetensors",
-          "unlimited-ocr",
-          "feature-extraction",
-          "baidu"
+          "comfyui",
+          "license:other",
+          "region:us"
         ],
         "rank_change": null
       }
@@ -96,7 +94,7 @@
         "intelligence_index": 60.6918740157091,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 53.9019515813558,
+        "speed_tps": 54.7312627454112,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +105,7 @@
         "intelligence_index": 60.0681611916281,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.6341486725363,
+        "speed_tps": 55.0628700487142,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -129,7 +127,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 67.6588432138478,
+        "speed_tps": 68.7233739841857,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -140,7 +138,7 @@
         "intelligence_index": 58.8641803200348,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 51.4657300647593,
+        "speed_tps": 52.8859783728527,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       }
@@ -311,7 +309,7 @@
         "name": "lyogavin/airllm",
         "description": "AirLLM 70B inference with single 4GB GPU",
         "url": "https://github.com/lyogavin/airllm",
-        "stars": 26825,
+        "stars": 26912,
         "stars_delta": 1081,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -321,7 +319,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 15432,
+        "stars": 15535,
         "stars_delta": 2442,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -331,7 +329,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 7749,
+        "stars": 7897,
         "stars_delta": 1769,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +339,7 @@
         "name": "esengine/DeepSeek-Reasonix",
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
         "url": "https://github.com/esengine/DeepSeek-Reasonix",
-        "stars": 29804,
+        "stars": 29839,
         "stars_delta": 877,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -351,7 +349,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 11927,
+        "stars": 11975,
         "stars_delta": 1091,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +361,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 21714,
+        "stars": 21759,
         "stars_delta": 8217,
         "language": "Rust",
         "language_color": "#dea584"
@@ -373,7 +371,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 60581,
+        "stars": 60612,
         "stars_delta": 5601,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -383,7 +381,7 @@
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "stars": 15836,
+        "stars": 15861,
         "stars_delta": 5223,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +391,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 15432,
+        "stars": 15535,
         "stars_delta": 4415,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -403,7 +401,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 16188,
+        "stars": 16225,
         "stars_delta": 5225,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +413,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 34306,
+        "stars": 34309,
         "stars_delta": 8160,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +423,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 38662,
+        "stars": 38705,
         "stars_delta": 27721,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +433,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 36525,
+        "stars": 36558,
         "stars_delta": 25091,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +443,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Designers and Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 24317,
+        "stars": 24338,
         "stars_delta": 19563,
         "language": "",
         "language_color": "#586069"
@@ -455,7 +453,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 8809,
+        "stars": 8823,
         "stars_delta": 6402,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -508,14 +506,14 @@
       },
       {
         "rank": 5,
-        "name": "mastra-ai/mastra",
-        "url": "https://github.com/mastra-ai/mastra",
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
         "stars_28d": 3,
-        "total_stars": 16183,
-        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
-        "category": "Full-Stack Agent Platform",
-        "language": "TypeScript",
-        "language_color": "#3178C6"
+        "total_stars": 48261,
+        "description": "A programming framework for agentic AI",
+        "category": "Conversational Agents",
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ]
   },
@@ -579,7 +577,7 @@
         "upvotes": 6,
         "published": "2025-12-16",
         "github_repo": "https://github.com/microsoft/TRELLIS.2",
-        "github_stars": 10227
+        "github_stars": 10299
       },
       {
         "rank": 5,
@@ -686,58 +684,58 @@
         "url": "https://openai.com/index/ten-advances-in-mathematics/",
         "discussion_url": "https://news.ycombinator.com/item?id=49157930",
         "site": "openai.com",
-        "points": 158,
-        "comments": 441,
+        "points": 287,
+        "comments": 549,
         "author": "milkshakes",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
+        "id": 49160437,
+        "title": "The Dunning-Kruger effect is probably not real",
+        "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+        "discussion_url": "https://news.ycombinator.com/item?id=49160437",
+        "site": "mcgill.ca",
+        "points": 42,
+        "comments": 39,
+        "author": "audreyfei",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 49156111,
         "title": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source",
         "discussion_url": "https://news.ycombinator.com/item?id=49156111",
         "site": "blog.exe.dev",
-        "points": 331,
-        "comments": 121,
+        "points": 407,
+        "comments": 140,
         "author": "bryanmikaelian",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49158474,
         "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
         "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
         "discussion_url": "https://news.ycombinator.com/item?id=49158474",
         "site": "changelog.complete.org",
-        "points": 64,
-        "comments": 16,
+        "points": 92,
+        "comments": 28,
         "author": "roryirvine",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49155359,
-        "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-        "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49155359",
-        "site": "intellinews.com",
-        "points": 210,
-        "comments": 110,
-        "author": "just_some_user",
-        "age": "6h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 49155629,
-        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-        "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-        "discussion_url": "https://news.ycombinator.com/item?id=49155629",
-        "site": "blog.comfy.org",
-        "points": 192,
-        "comments": 54,
-        "author": "vblanco",
-        "age": "5h ago"
+        "id": 49158581,
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49158581",
+        "site": "blog.cloudflare.com",
+        "points": 69,
+        "comments": 16,
+        "author": "ascorbic",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -748,25 +746,13 @@
         "url": "https://news.ycombinator.com/item?id=49158267",
         "discussion_url": "https://news.ycombinator.com/item?id=49158267",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 6,
         "comments": 1,
         "author": "hairymouse",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 49157839,
-        "title": "Tell HN: Pretending not to use AI has made me a better developer",
-        "url": "https://news.ycombinator.com/item?id=49157839",
-        "discussion_url": "https://news.ycombinator.com/item?id=49157839",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 3,
-        "author": "throwaway260803",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
         "id": 49150911,
         "title": "Local, Open source AI meeting recorder that sees and hears everything",
         "url": "https://news.ycombinator.com/item?id=49150911",
@@ -775,31 +761,43 @@
         "points": 6,
         "comments": 3,
         "author": "puremetrics",
-        "age": "15h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 4,
-        "id": 49158021,
-        "title": "Ask HN: Early Feedback on Dez?",
-        "url": "https://news.ycombinator.com/item?id=49158021",
-        "discussion_url": "https://news.ycombinator.com/item?id=49158021",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 3,
-        "author": "alexander2002",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "id": 49150433,
         "title": "Ask HN: Have LLMs Plateaued?",
         "url": "https://news.ycombinator.com/item?id=49150433",
         "discussion_url": "https://news.ycombinator.com/item?id=49150433",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 19,
+        "points": 8,
+        "comments": 20,
         "author": "leandrobon",
-        "age": "17h ago"
+        "age": "18h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49157839,
+        "title": "Tell HN: Pretending not to use AI has made me a better developer",
+        "url": "https://news.ycombinator.com/item?id=49157839",
+        "discussion_url": "https://news.ycombinator.com/item?id=49157839",
+        "site": "news.ycombinator.com",
+        "points": 10,
+        "comments": 4,
+        "author": "throwaway260803",
+        "age": "4h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49158021,
+        "title": "Ask HN: Early Feedback on Dez?",
+        "url": "https://news.ycombinator.com/item?id=49158021",
+        "discussion_url": "https://news.ycombinator.com/item?id=49158021",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 3,
+        "author": "alexander2002",
+        "age": "4h ago"
       }
     ],
     "show": [
@@ -810,10 +808,10 @@
         "url": "https://armature.tech/",
         "discussion_url": "https://news.ycombinator.com/item?id=49157807",
         "site": "armature.tech",
-        "points": 21,
+        "points": 27,
         "comments": 1,
         "author": "screm",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -822,46 +820,46 @@
         "url": "https://github.com/garagehq/nightcrawler/",
         "discussion_url": "https://news.ycombinator.com/item?id=49154127",
         "site": "github.com",
-        "points": 89,
-        "comments": 28,
+        "points": 93,
+        "comments": 29,
         "author": "NickySlicks",
-        "age": "8h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 49159018,
-        "title": "Show HN: Hacker News with AI stories filtered out",
-        "url": "https://hcker.news/?view=frontpage&ai=exclude",
-        "discussion_url": "https://news.ycombinator.com/item?id=49159018",
-        "site": "hcker.news",
-        "points": 25,
-        "comments": 5,
-        "author": "postalcoder",
-        "age": "1h ago"
+        "id": 49160674,
+        "title": "Show HN: Golars (Go Equivalent of Polars)",
+        "url": "https://guywaldman.com/posts/polars-dataframe-contributions",
+        "discussion_url": "https://news.ycombinator.com/item?id=49160674",
+        "site": "guywaldman.com",
+        "points": 3,
+        "comments": 0,
+        "author": "guywald",
+        "age": "52m ago"
       },
       {
         "rank": 4,
-        "id": 49152871,
-        "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-        "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-        "discussion_url": "https://news.ycombinator.com/item?id=49152871",
-        "site": "arcbox.dev",
-        "points": 60,
-        "comments": 34,
-        "author": "uneven9434",
-        "age": "10h ago"
-      },
-      {
-        "rank": 5,
         "id": 49149805,
         "title": "Show HN: ssh ssh.place",
         "url": "https://ssh.place",
         "discussion_url": "https://news.ycombinator.com/item?id=49149805",
         "site": "ssh.place",
-        "points": 165,
-        "comments": 96,
+        "points": 166,
+        "comments": 102,
         "author": "jeninh",
-        "age": "18h ago"
+        "age": "20h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49152871,
+        "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+        "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+        "discussion_url": "https://news.ycombinator.com/item?id=49152871",
+        "site": "arcbox.dev",
+        "points": 63,
+        "comments": 34,
+        "author": "uneven9434",
+        "age": "12h ago"
       }
     ]
   }
