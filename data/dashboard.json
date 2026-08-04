@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-04T20:16:41Z",
+  "generated": "2026-08-04T22:02:32Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 2063,
+        "trending_score": 2070,
         "downloads": 433284,
-        "likes": 2272,
+        "likes": 2281,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 1883,
+        "trending_score": 1908,
         "downloads": 0,
-        "likes": 1947,
+        "likes": 1973,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 1728,
+        "trending_score": 1695,
         "downloads": 1125935,
-        "likes": 9996,
+        "likes": 10001,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -57,12 +57,14 @@
         "rank": 4,
         "name": "Comfy-Org/MiniMax-H3",
         "org": "Comfy-Org",
-        "trending_score": 562,
+        "trending_score": 565,
         "downloads": 2,
-        "likes": 585,
+        "likes": 589,
         "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
         "tags": [
           "comfyui",
+          "base_model:MiniMaxAI/MiniMax-H3",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3",
           "license:other",
           "region:us"
         ],
@@ -72,9 +74,9 @@
         "rank": 5,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 518,
+        "trending_score": 521,
         "downloads": 1633405,
-        "likes": 1498,
+        "likes": 1508,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -309,7 +311,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 13367,
+        "stars": 13448,
         "stars_delta": 1138,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -319,7 +321,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 17711,
+        "stars": 17759,
         "stars_delta": 2310,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -329,7 +331,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 9804,
+        "stars": 9890,
         "stars_delta": 2524,
         "language": "Rust",
         "language_color": "#dea584"
@@ -339,7 +341,7 @@
         "name": "uber/ADR",
         "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
         "url": "https://github.com/uber/ADR",
-        "stars": 630,
+        "stars": 649,
         "stars_delta": 140,
         "language": "Python",
         "language_color": "#3572A5"
@@ -349,8 +351,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 266372,
-        "stars_delta": 617,
+        "stars": 266411,
+        "stars_delta": 777,
         "language": "Shell",
         "language_color": "#89e051"
       }
@@ -361,7 +363,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 17711,
+        "stars": 17759,
         "stars_delta": 6154,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -371,7 +373,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 61614,
+        "stars": 61628,
         "stars_delta": 7554,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -381,7 +383,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 22444,
+        "stars": 22482,
         "stars_delta": 7372,
         "language": "Rust",
         "language_color": "#dea584"
@@ -391,7 +393,7 @@
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "stars": 16346,
+        "stars": 16368,
         "stars_delta": 5405,
         "language": "Python",
         "language_color": "#3572A5"
@@ -401,7 +403,7 @@
         "name": "different-ai/openwork",
         "description": "The open-source alternative to Claude Cowork (powered by opencode)",
         "url": "https://github.com/different-ai/openwork",
-        "stars": 20891,
+        "stars": 20903,
         "stars_delta": 3429,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -413,7 +415,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 34423,
+        "stars": 34431,
         "stars_delta": 8367,
         "language": "Swift",
         "language_color": "#F05138"
@@ -423,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 39566,
+        "stars": 39620,
         "stars_delta": 28232,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -433,7 +435,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 37347,
+        "stars": 37378,
         "stars_delta": 25250,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -443,7 +445,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Designers and Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 24844,
+        "stars": 24879,
         "stars_delta": 19789,
         "language": "",
         "language_color": "#586069"
@@ -453,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 9114,
+        "stars": 9132,
         "stars_delta": 6501,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -506,14 +508,14 @@
       },
       {
         "rank": 5,
-        "name": "microsoft/autogen",
-        "url": "https://github.com/microsoft/autogen",
+        "name": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
         "stars_28d": 3,
-        "total_stars": 48261,
-        "description": "A programming framework for agentic AI",
-        "category": "Conversational Agents",
-        "language": "Python",
-        "language_color": "#3572A5"
+        "total_stars": 16183,
+        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+        "category": "Full-Stack Agent Platform",
+        "language": "TypeScript",
+        "language_color": "#3178C6"
       }
     ]
   },
@@ -559,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.01964",
         "categories": [],
-        "upvotes": 122,
+        "upvotes": 125,
         "published": "2026-08-02",
         "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
         "github_stars": 154
@@ -577,7 +579,7 @@
         "upvotes": 51,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 35921
+        "github_stars": 35976
       },
       {
         "rank": 5,
@@ -680,77 +682,77 @@
     "top": [
       {
         "rank": 1,
-        "id": 49170165,
-        "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-        "url": "https://toneyalexander.github.io/inclusive-color-space/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49170165",
-        "site": "toneyalexander.github.io",
-        "points": 339,
-        "comments": 72,
-        "author": "automatoney",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
         "id": 49171268,
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "discussion_url": "https://news.ycombinator.com/item?id=49171268",
         "site": "mistral.ai",
-        "points": 88,
-        "comments": 27,
+        "points": 216,
+        "comments": 53,
         "author": "riadsila",
-        "age": "3h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49170165,
+        "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+        "url": "https://toneyalexander.github.io/inclusive-color-space/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49170165",
+        "site": "toneyalexander.github.io",
+        "points": 413,
+        "comments": 85,
+        "author": "automatoney",
+        "age": "6h ago"
       },
       {
         "rank": 3,
+        "id": 49173165,
+        "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+        "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49173165",
+        "site": "writings.stephenwolfram.com",
+        "points": 534,
+        "comments": 25,
+        "author": "jdcampolargo",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 49172836,
         "title": "Waymo – Dallas Open to All",
         "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
         "discussion_url": "https://news.ycombinator.com/item?id=49172836",
         "site": "waymo.com",
-        "points": 79,
-        "comments": 73,
+        "points": 172,
+        "comments": 182,
         "author": "xnx",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49172405,
-        "title": "Hop.earth – OpenStreetMap based car racing game",
-        "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-        "discussion_url": "https://news.ycombinator.com/item?id=49172405",
-        "site": "hop.earth",
-        "points": 42,
-        "comments": 24,
-        "author": "faebi",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 49171766,
-        "title": "The Warp Agent CLI",
-        "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-        "discussion_url": "https://news.ycombinator.com/item?id=49171766",
-        "site": "warp.dev",
-        "points": 67,
-        "comments": 32,
-        "author": "emschwartz",
-        "age": "3h ago"
+        "id": 49175192,
+        "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+        "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49175192",
+        "site": "troyhunt.com",
+        "points": 106,
+        "comments": 12,
+        "author": "stymaar",
+        "age": "52m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49173922,
-        "title": "Ask HN: What was your big failure? How did you get around it?",
-        "url": "https://news.ycombinator.com/item?id=49173922",
-        "discussion_url": "https://news.ycombinator.com/item?id=49173922",
+        "id": 49175242,
+        "title": "Ask HN: What if there was an 8th day of the week?",
+        "url": "https://news.ycombinator.com/item?id=49175242",
+        "discussion_url": "https://news.ycombinator.com/item?id=49175242",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "jspann",
-        "age": "35m ago"
+        "points": 4,
+        "comments": 1,
+        "author": "cyanregiment",
+        "age": "48m ago"
       },
       {
         "rank": 2,
@@ -760,7 +762,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49156682",
         "site": "news.ycombinator.com",
         "points": 141,
-        "comments": 367,
+        "comments": 375,
         "author": "whoishiring",
         "age": "1d ago"
       },
@@ -771,33 +773,33 @@
         "url": "https://news.ycombinator.com/item?id=49156683",
         "discussion_url": "https://news.ycombinator.com/item?id=49156683",
         "site": "news.ycombinator.com",
-        "points": 216,
-        "comments": 218,
+        "points": 219,
+        "comments": 224,
         "author": "whoishiring",
         "age": "1d ago"
       },
       {
         "rank": 4,
+        "id": 49173922,
+        "title": "Ask HN: What was your big failure? How did you get around it?",
+        "url": "https://news.ycombinator.com/item?id=49173922",
+        "discussion_url": "https://news.ycombinator.com/item?id=49173922",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 1,
+        "author": "jspann",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
         "id": 49172513,
         "title": "How to Pivot?",
         "url": "https://news.ycombinator.com/item?id=49172513",
         "discussion_url": "https://news.ycombinator.com/item?id=49172513",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "noreplydev",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49171630,
-        "title": "Ask HN: Can we direct AI on our personal projects during work hours?",
-        "url": "https://news.ycombinator.com/item?id=49171630",
-        "discussion_url": "https://news.ycombinator.com/item?id=49171630",
-        "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 2,
-        "author": "rpnx",
+        "author": "noreplydev",
         "age": "3h ago"
       }
     ],
@@ -809,10 +811,10 @@
         "url": "https://toneyalexander.github.io/inclusive-color-space/",
         "discussion_url": "https://news.ycombinator.com/item?id=49170165",
         "site": "toneyalexander.github.io",
-        "points": 339,
-        "comments": 72,
+        "points": 413,
+        "comments": 85,
         "author": "automatoney",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -821,46 +823,46 @@
         "url": "https://github.com/MakazhanAlpamys/Soup",
         "discussion_url": "https://news.ycombinator.com/item?id=49166984",
         "site": "github.com",
-        "points": 107,
-        "comments": 21,
+        "points": 114,
+        "comments": 23,
         "author": "MakazhanAlpamys",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
-        "id": 49173549,
-        "title": "Show HN: TormentNexus – Local-first Go control plane with persistent memory",
-        "url": "https://tormentnexus.site",
-        "discussion_url": "https://news.ycombinator.com/item?id=49173549",
-        "site": "tormentnexus.site",
-        "points": 2,
+        "id": 49174388,
+        "title": "Show HN: My tool scanned 256 AI-built apps and most had exposed credentials",
+        "url": "https://necktochoke.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49174388",
+        "site": "necktochoke.com",
+        "points": 3,
         "comments": 0,
-        "author": "TormentNexusAI",
-        "age": "59m ago"
+        "author": "kahlilashanti",
+        "age": "1h ago"
       },
       {
         "rank": 4,
+        "id": 49170704,
+        "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+        "url": "https://jido.run/blog/jido-assembly-slack-clone",
+        "discussion_url": "https://news.ycombinator.com/item?id=49170704",
+        "site": "jido.run",
+        "points": 13,
+        "comments": 0,
+        "author": "mikehostetler",
+        "age": "6h ago"
+      },
+      {
+        "rank": 5,
         "id": 49171404,
         "title": "Show HN: SIEMatic, a fair-sourced observability and security platform",
         "url": "https://github.com/mcindi/siematic",
         "discussion_url": "https://news.ycombinator.com/item?id=49171404",
         "site": "github.com",
         "points": 6,
-        "comments": 3,
+        "comments": 4,
         "author": "ilovetux",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49170704,
-        "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
-        "url": "https://jido.run/blog/jido-assembly-slack-clone",
-        "discussion_url": "https://news.ycombinator.com/item?id=49170704",
-        "site": "jido.run",
-        "points": 9,
-        "comments": 0,
-        "author": "mikehostetler",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ]
   }
