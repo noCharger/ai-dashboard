@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-04T16:04:26Z",
+  "generated": "2026-08-04T18:21:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 2028,
+        "trending_score": 2043,
         "downloads": 433284,
-        "likes": 2232,
+        "likes": 2249,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "moonshotai/Kimi-K3",
-        "org": "moonshotai",
-        "trending_score": 1846,
-        "downloads": 1125935,
-        "likes": 9977,
-        "url": "https://huggingface.co/moonshotai/Kimi-K3",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "kimi_k3",
-          "feature-extraction",
-          "compressed-tensors"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 1804,
+        "trending_score": 1847,
         "downloads": 0,
-        "likes": 1866,
+        "likes": 1909,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "moonshotai/Kimi-K3",
+        "org": "moonshotai",
+        "trending_score": 1760,
+        "downloads": 1125935,
+        "likes": 9984,
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "kimi_k3",
+          "feature-extraction",
+          "compressed-tensors"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "Comfy-Org/MiniMax-H3",
         "org": "Comfy-Org",
-        "trending_score": 540,
+        "trending_score": 555,
         "downloads": 2,
-        "likes": 560,
+        "likes": 576,
         "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
         "tags": [
           "comfyui",
@@ -72,9 +72,9 @@
         "rank": 5,
         "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "org": "DavidAU",
-        "trending_score": 524,
+        "trending_score": 520,
         "downloads": 1633405,
-        "likes": 1493,
+        "likes": 1498,
         "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
         "tags": [
           "gguf",
@@ -116,7 +116,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 73.8440409220612,
+        "speed_tps": 72.6233277010729,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -309,7 +309,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 13105,
+        "stars": 13254,
         "stars_delta": 1138,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -319,7 +319,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 17465,
+        "stars": 17618,
         "stars_delta": 2310,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -329,7 +329,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 9554,
+        "stars": 9706,
         "stars_delta": 2524,
         "language": "Rust",
         "language_color": "#dea584"
@@ -339,7 +339,7 @@
         "name": "uber/ADR",
         "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
         "url": "https://github.com/uber/ADR",
-        "stars": 584,
+        "stars": 611,
         "stars_delta": 140,
         "language": "Python",
         "language_color": "#3572A5"
@@ -349,7 +349,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 266241,
+        "stars": 266321,
         "stars_delta": 617,
         "language": "Shell",
         "language_color": "#89e051"
@@ -361,7 +361,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 17465,
+        "stars": 17618,
         "stars_delta": 6154,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -371,7 +371,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 61558,
+        "stars": 61590,
         "stars_delta": 7554,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -381,7 +381,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 22344,
+        "stars": 22400,
         "stars_delta": 7372,
         "language": "Rust",
         "language_color": "#dea584"
@@ -391,7 +391,7 @@
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "stars": 16269,
+        "stars": 16312,
         "stars_delta": 5405,
         "language": "Python",
         "language_color": "#3572A5"
@@ -401,7 +401,7 @@
         "name": "different-ai/openwork",
         "description": "The open-source alternative to Claude Cowork (powered by opencode)",
         "url": "https://github.com/different-ai/openwork",
-        "stars": 20854,
+        "stars": 20877,
         "stars_delta": 3429,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -413,7 +413,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 34404,
+        "stars": 34416,
         "stars_delta": 8367,
         "language": "Swift",
         "language_color": "#F05138"
@@ -423,7 +423,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 39387,
+        "stars": 39499,
         "stars_delta": 28232,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -433,7 +433,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 37233,
+        "stars": 37299,
         "stars_delta": 25250,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -443,7 +443,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Designers and Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 24762,
+        "stars": 24804,
         "stars_delta": 19789,
         "language": "",
         "language_color": "#586069"
@@ -453,7 +453,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 9066,
+        "stars": 9090,
         "stars_delta": 6501,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -473,23 +473,23 @@
       },
       {
         "rank": 2,
-        "name": "langchain-ai/langchain",
-        "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 6,
-        "total_stars": 116750,
-        "description": "The agent engineering platform.",
-        "category": "General Agent Stack",
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
         "name": "openai/openai-agents-python",
         "url": "https://github.com/openai/openai-agents-python",
         "stars_28d": 6,
         "total_stars": 14889,
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "category": "Agent SDK",
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "stars_28d": 6,
+        "total_stars": 116750,
+        "description": "The agent engineering platform.",
+        "category": "General Agent Stack",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -506,14 +506,14 @@
       },
       {
         "rank": 5,
-        "name": "mastra-ai/mastra",
-        "url": "https://github.com/mastra-ai/mastra",
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
         "stars_28d": 3,
-        "total_stars": 16183,
-        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
-        "category": "Full-Stack Agent Platform",
-        "language": "TypeScript",
-        "language_color": "#3178C6"
+        "total_stars": 48261,
+        "description": "A programming framework for agentic AI",
+        "category": "Conversational Agents",
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ]
   },
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.24653",
         "categories": [],
-        "upvotes": 454,
+        "upvotes": 456,
         "published": "2026-07-26",
         "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
         "github_stars": 8011
@@ -551,6 +551,21 @@
       },
       {
         "rank": 3,
+        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+        "authors": [
+          "Ziyu Ma",
+          "Hailang Huang",
+          "Shun Zou"
+        ],
+        "url": "https://huggingface.co/papers/2608.01964",
+        "categories": [],
+        "upvotes": 115,
+        "published": "2026-08-02",
+        "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
+        "github_stars": 154
+      },
+      {
+        "rank": 4,
         "title": "Kronos: A Foundation Model for the Language of Financial Markets",
         "authors": [
           "Yu Shi",
@@ -565,7 +580,7 @@
         "github_stars": 35921
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Native and Compact Structured Latents for 3D Generation",
         "authors": [
           "Jianfeng Xiang",
@@ -578,21 +593,6 @@
         "published": "2025-12-16",
         "github_repo": "https://github.com/microsoft/TRELLIS.2",
         "github_stars": 10341
-      },
-      {
-        "rank": 5,
-        "title": "LongCat-Video Technical Report",
-        "authors": [
-          "Meituan LongCat Team",
-          "Xunliang Cai",
-          "Qilong Huang"
-        ],
-        "url": "https://huggingface.co/papers/2510.22200",
-        "categories": [],
-        "upvotes": 40,
-        "published": "2025-10-25",
-        "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-        "github_stars": 6618
       }
     ],
     "arxiv_recent": [
@@ -685,72 +685,72 @@
         "url": "https://toneyalexander.github.io/inclusive-color-space/",
         "discussion_url": "https://news.ycombinator.com/item?id=49170165",
         "site": "toneyalexander.github.io",
-        "points": 49,
-        "comments": 7,
+        "points": 249,
+        "comments": 62,
         "author": "automatoney",
-        "age": "48m ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 49166491,
-        "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-        "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-        "discussion_url": "https://news.ycombinator.com/item?id=49166491",
-        "site": "short-stories.co",
-        "points": 370,
-        "comments": 165,
-        "author": "askvictor",
-        "age": "5h ago"
+        "id": 49171656,
+        "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+        "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49171656",
+        "site": "valleynewslive.com",
+        "points": 62,
+        "comments": 20,
+        "author": "NDlurker",
+        "age": "1h ago"
       },
       {
         "rank": 3,
+        "id": 49171766,
+        "title": "The Warp Agent CLI",
+        "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+        "discussion_url": "https://news.ycombinator.com/item?id=49171766",
+        "site": "warp.dev",
+        "points": 18,
+        "comments": 1,
+        "author": "emschwartz",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49166386,
         "title": "DeepSeek V4 Flash on a Single AMD MI300X",
         "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
         "discussion_url": "https://news.ycombinator.com/item?id=49166386",
         "site": "github.com",
-        "points": 245,
-        "comments": 58,
+        "points": 304,
+        "comments": 66,
         "author": "zhoutong",
-        "age": "6h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49168886,
-        "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
-        "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49168886",
-        "site": "solarquarter.com",
-        "points": 41,
-        "comments": 9,
-        "author": "johnbarron",
-        "age": "2h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 49169640,
-        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-        "url": "https://github.com/tikalk/adlc-team-skills",
-        "discussion_url": "https://news.ycombinator.com/item?id=49169640",
-        "site": "github.com",
-        "points": 47,
-        "comments": 18,
-        "author": "kanfilior",
-        "age": "1h ago"
+        "id": 49172079,
+        "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
+        "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49172079",
+        "site": "mentalium.me",
+        "points": 14,
+        "comments": 2,
+        "author": "trubetskov",
+        "age": "50m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49156683,
-        "title": "Ask HN: Who is hiring? (August 2026)",
-        "url": "https://news.ycombinator.com/item?id=49156683",
-        "discussion_url": "https://news.ycombinator.com/item?id=49156683",
+        "id": 49172513,
+        "title": "How to Pivot?",
+        "url": "https://news.ycombinator.com/item?id=49172513",
+        "discussion_url": "https://news.ycombinator.com/item?id=49172513",
         "site": "news.ycombinator.com",
-        "points": 213,
-        "comments": 198,
-        "author": "whoishiring",
-        "age": "1d ago"
+        "points": 2,
+        "comments": 1,
+        "author": "noreplydev",
+        "age": "17m ago"
       },
       {
         "rank": 2,
@@ -759,46 +759,46 @@
         "url": "https://news.ycombinator.com/item?id=49156682",
         "discussion_url": "https://news.ycombinator.com/item?id=49156682",
         "site": "news.ycombinator.com",
-        "points": 138,
-        "comments": 342,
+        "points": 140,
+        "comments": 360,
         "author": "whoishiring",
         "age": "1d ago"
       },
       {
         "rank": 3,
-        "id": 49167493,
-        "title": "How did Wikipedia layout become so bloated?",
-        "url": "https://news.ycombinator.com/item?id=49167493",
-        "discussion_url": "https://news.ycombinator.com/item?id=49167493",
+        "id": 49171630,
+        "title": "Ask HN: Can we direct AI on our personal projects during work hours?",
+        "url": "https://news.ycombinator.com/item?id=49171630",
+        "discussion_url": "https://news.ycombinator.com/item?id=49171630",
         "site": "news.ycombinator.com",
-        "points": 20,
-        "comments": 24,
-        "author": "countWSS",
-        "age": "3h ago"
+        "points": 3,
+        "comments": 1,
+        "author": "rpnx",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49162887,
-        "title": "Ask HN: Does AI research need \"world models\" more than bigger LLMs?",
-        "url": "https://news.ycombinator.com/item?id=49162887",
-        "discussion_url": "https://news.ycombinator.com/item?id=49162887",
+        "id": 49156683,
+        "title": "Ask HN: Who is hiring? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49156683",
+        "discussion_url": "https://news.ycombinator.com/item?id=49156683",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 2,
-        "author": "unjuno",
-        "age": "16h ago"
+        "points": 214,
+        "comments": 213,
+        "author": "whoishiring",
+        "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 49163364,
-        "title": "Show CVBoosta:Resume Optimizer that tailors your resume to every job",
-        "url": "https://news.ycombinator.com/item?id=49163364",
-        "discussion_url": "https://news.ycombinator.com/item?id=49163364",
+        "id": 49171335,
+        "title": "ArXiv",
+        "url": "https://news.ycombinator.com/item?id=49171335",
+        "discussion_url": "https://news.ycombinator.com/item?id=49171335",
         "site": "news.ycombinator.com",
         "points": 2,
         "comments": 0,
-        "author": "cvboosta",
-        "age": "14h ago"
+        "author": "fred123123",
+        "age": "1h ago"
       }
     ],
     "show": [
@@ -809,58 +809,58 @@
         "url": "https://toneyalexander.github.io/inclusive-color-space/",
         "discussion_url": "https://news.ycombinator.com/item?id=49170165",
         "site": "toneyalexander.github.io",
-        "points": 49,
-        "comments": 7,
+        "points": 249,
+        "comments": 62,
         "author": "automatoney",
-        "age": "48m ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 49172545,
+        "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+        "url": "https://github.com/agentrust-io/cmcp",
+        "discussion_url": "https://news.ycombinator.com/item?id=49172545",
+        "site": "github.com",
+        "points": 4,
+        "comments": 0,
+        "author": "mosiddi",
+        "age": "15m ago"
+      },
+      {
+        "rank": 3,
+        "id": 49172569,
+        "title": "Show HN: Pure front end only image tools – Trustedimagetools",
+        "url": "https://trustedimagetools.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49172569",
+        "site": "trustedimagetools.com",
+        "points": 2,
+        "comments": 0,
+        "author": "subhash_k",
+        "age": "13m ago"
+      },
+      {
+        "rank": 4,
         "id": 49166984,
         "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
         "url": "https://github.com/MakazhanAlpamys/Soup",
         "discussion_url": "https://news.ycombinator.com/item?id=49166984",
         "site": "github.com",
-        "points": 73,
-        "comments": 8,
+        "points": 100,
+        "comments": 16,
         "author": "MakazhanAlpamys",
-        "age": "4h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49158333,
         "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
         "url": "https://github.com/leonickson1/Swiftlet",
         "discussion_url": "https://news.ycombinator.com/item?id=49158333",
         "site": "github.com",
-        "points": 269,
-        "comments": 119,
+        "points": 288,
+        "comments": 131,
         "author": "leonickson",
-        "age": "23h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49170374,
-        "title": "Show HN: Korvo – Local-first AI workspace that traces answers to the source",
-        "url": "https://www.korvo.xyz/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49170374",
-        "site": "korvo.xyz",
-        "points": 2,
-        "comments": 0,
-        "author": "akshay_bhardwaj",
-        "age": "35m ago"
-      },
-      {
-        "rank": 5,
-        "id": 49169818,
-        "title": "Show HN: OpenEdit – Your coding agent can now edit videos",
-        "url": "https://github.com/veedstudio/open-edit",
-        "discussion_url": "https://news.ycombinator.com/item?id=49169818",
-        "site": "github.com",
-        "points": 3,
-        "comments": 1,
-        "author": "sabbakeynejad",
-        "age": "1h ago"
+        "age": "1d ago"
       }
     ]
   }
