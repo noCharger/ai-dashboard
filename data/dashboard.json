@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-06T12:48:51Z",
+  "generated": "2026-08-06T15:04:45Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 2516,
+        "trending_score": 2539,
         "downloads": 12102,
-        "likes": 2642,
+        "likes": 2668,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 2334,
+        "trending_score": 2340,
         "downloads": 617900,
-        "likes": 2591,
+        "likes": 2602,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "moonshotai/Kimi-K3",
         "org": "moonshotai",
-        "trending_score": 1006,
+        "trending_score": 987,
         "downloads": 1258043,
-        "likes": 10164,
+        "likes": 10173,
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Comfy-Org/MiniMax-H3",
         "org": "Comfy-Org",
-        "trending_score": 764,
+        "trending_score": 771,
         "downloads": 2295377,
-        "likes": 808,
+        "likes": 816,
         "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
         "tags": [
           "diffusion-single-file",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-        "org": "DavidAU",
-        "trending_score": 487,
-        "downloads": 2087189,
-        "likes": 1620,
-        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "name": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "org": "unsloth",
+        "trending_score": 488,
+        "downloads": 145105,
+        "likes": 519,
+        "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
         "tags": [
           "gguf",
           "unsloth",
-          "fine tune",
-          "heretic",
-          "uncensored"
+          "deepseek_v4",
+          "deepseek",
+          "arxiv:2606.19348"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 60.0681611916281,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.8332195163905,
+        "speed_tps": 54.5682845622523,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 59.8606463217303,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.0803847888941,
+        "speed_tps": 66.7914608626762,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 58.889831189723,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 64.1148913904697,
+        "speed_tps": 63.7078463744769,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 58.8641803200348,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.4217517436067,
+        "speed_tps": 53.6255634782592,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       }
@@ -311,7 +311,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 15743,
+        "stars": 15943,
         "stars_delta": 1053,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 82353,
+        "stars": 82501,
         "stars_delta": 588,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,8 +331,8 @@
         "name": "cloudflare/computer",
         "description": "Give your agent a computer 👾",
         "url": "https://github.com/cloudflare/computer",
-        "stars": 4369,
-        "stars_delta": 891,
+        "stars": 4489,
+        "stars_delta": 2690,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,7 +341,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 206043,
+        "stars": 206313,
         "stars_delta": 1695,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "goauthentik/authentik",
         "description": "The authentication glue you need.",
         "url": "https://github.com/goauthentik/authentik",
-        "stars": 22830,
+        "stars": 22908,
         "stars_delta": 123,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 19560,
+        "stars": 19643,
         "stars_delta": 9904,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -373,7 +373,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 62430,
+        "stars": 62510,
         "stars_delta": 8926,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -383,7 +383,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 15742,
+        "stars": 15943,
         "stars_delta": 5445,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "lyogavin/airllm",
         "description": "AirLLM 70B inference with single 4GB GPU",
         "url": "https://github.com/lyogavin/airllm",
-        "stars": 29435,
+        "stars": 29485,
         "stars_delta": 4659,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -403,7 +403,7 @@
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "stars": 17324,
+        "stars": 17394,
         "stars_delta": 4596,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 34626,
+        "stars": 34635,
         "stars_delta": 8603,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 41278,
+        "stars": 41364,
         "stars_delta": 29141,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 38610,
+        "stars": 38696,
         "stars_delta": 26073,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Designers and Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 26087,
+        "stars": 26152,
         "stars_delta": 20625,
         "language": "",
         "language_color": "#586069"
@@ -455,7 +455,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 79297,
+        "stars": 79316,
         "stars_delta": 18064,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -508,14 +508,14 @@
       },
       {
         "rank": 5,
-        "name": "microsoft/autogen",
-        "url": "https://github.com/microsoft/autogen",
+        "name": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
         "stars_28d": 3,
-        "total_stars": 48261,
-        "description": "A programming framework for agentic AI",
-        "category": "Conversational Agents",
-        "language": "Python",
-        "language_color": "#3572A5"
+        "total_stars": 16183,
+        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+        "category": "Full-Stack Agent Platform",
+        "language": "TypeScript",
+        "language_color": "#3178C6"
       }
     ]
   },
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.24653",
         "categories": [],
-        "upvotes": 473,
+        "upvotes": 474,
         "published": "2026-07-26",
         "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
         "github_stars": 8110
@@ -553,21 +553,6 @@
       },
       {
         "rank": 3,
-        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-        "authors": [
-          "Ziyu Ma",
-          "Hailang Huang",
-          "Shun Zou"
-        ],
-        "url": "https://huggingface.co/papers/2608.01964",
-        "categories": [],
-        "upvotes": 150,
-        "published": "2026-08-02",
-        "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
-        "github_stars": 289
-      },
-      {
-        "rank": 4,
         "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
         "authors": [
           "Yicheng Xiao",
@@ -580,6 +565,21 @@
         "published": "2026-08-03",
         "github_repo": "https://github.com/jd-opensource/JoyAI-Video-Edit",
         "github_stars": 190
+      },
+      {
+        "rank": 4,
+        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+        "authors": [
+          "Ziyu Ma",
+          "Hailang Huang",
+          "Shun Zou"
+        ],
+        "url": "https://huggingface.co/papers/2608.01964",
+        "categories": [],
+        "upvotes": 150,
+        "published": "2026-08-02",
+        "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
+        "github_stars": 321
       },
       {
         "rank": 5,
@@ -683,104 +683,116 @@
     "top": [
       {
         "rank": 1,
-        "id": 49168622,
-        "title": "How to Make a Nintendo 64 Game in 2026",
-        "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-        "discussion_url": "https://news.ycombinator.com/item?id=49168622",
-        "site": "phoboslab.org",
-        "points": 213,
-        "comments": 63,
-        "author": "atan2",
-        "age": "1d ago"
-      },
-      {
-        "rank": 2,
         "id": 49195231,
         "title": "Mario Meets Pareto",
         "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
         "discussion_url": "https://news.ycombinator.com/item?id=49195231",
         "site": "mayerowitz.io",
-        "points": 26,
-        "comments": 3,
+        "points": 306,
+        "comments": 53,
         "author": "theanonymousone",
-        "age": "1h ago"
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49195468,
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49195468",
+        "site": "scalex.dev",
+        "points": 91,
+        "comments": 68,
+        "author": "Wirbelwind",
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 49192566,
-        "title": "Crime Pays but Botany Doesn't",
-        "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-        "discussion_url": "https://news.ycombinator.com/item?id=49192566",
-        "site": "crimepaysbutbotanydoesnt.com",
-        "points": 328,
-        "comments": 113,
-        "author": "DarkContinent",
-        "age": "8h ago"
+        "id": 49184656,
+        "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
+        "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+        "discussion_url": "https://news.ycombinator.com/item?id=49184656",
+        "site": "sciencedaily.com",
+        "points": 24,
+        "comments": 17,
+        "author": "jandrewrogers",
+        "age": "23h ago"
       },
       {
         "rank": 4,
-        "id": 49096439,
-        "title": "Pareto Front",
-        "url": "https://en.wikipedia.org/wiki/Pareto_front",
-        "discussion_url": "https://news.ycombinator.com/item?id=49096439",
-        "site": "en.wikipedia.org",
-        "points": 58,
-        "comments": 24,
-        "author": "binyu",
-        "age": "8d ago"
+        "id": 49197109,
+        "title": "Degrees of Wealth",
+        "url": "https://jaapgrolleman.com/degrees-of-wealth/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49197109",
+        "site": "jaapgrolleman.com",
+        "points": 10,
+        "comments": 1,
+        "author": "jxub",
+        "age": "40m ago"
       },
       {
         "rank": 5,
-        "id": 49195297,
-        "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
-        "url": "https://intergalacticrobots.app/skyline-coop/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49195297",
-        "site": "intergalacticrobots.app",
-        "points": 10,
-        "comments": 6,
-        "author": "geekamongus",
-        "age": "1h ago"
+        "id": 49168622,
+        "title": "How to Make a Nintendo 64 Game in 2026",
+        "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+        "discussion_url": "https://news.ycombinator.com/item?id=49168622",
+        "site": "phoboslab.org",
+        "points": 292,
+        "comments": 88,
+        "author": "atan2",
+        "age": "2d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49196904,
+        "title": "US and China race to be first to build Skynet. Either way we're F'ed",
+        "url": "https://news.ycombinator.com/item?id=49196904",
+        "discussion_url": "https://news.ycombinator.com/item?id=49196904",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 2,
+        "author": "spottedmarley",
+        "age": "58m ago"
+      },
+      {
+        "rank": 2,
         "id": 49156682,
         "title": "Ask HN: Who wants to be hired? (August 2026)",
         "url": "https://news.ycombinator.com/item?id=49156682",
         "discussion_url": "https://news.ycombinator.com/item?id=49156682",
         "site": "news.ycombinator.com",
-        "points": 154,
-        "comments": 458,
+        "points": 156,
+        "comments": 463,
         "author": "whoishiring",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49192693,
         "title": "DeepSeek announced to raise its API price tremendously",
         "url": "https://news.ycombinator.com/item?id=49192693",
         "discussion_url": "https://news.ycombinator.com/item?id=49192693",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 8,
+        "points": 16,
+        "comments": 11,
         "author": "alexwwang",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49156683,
         "title": "Ask HN: Who is hiring? (August 2026)",
         "url": "https://news.ycombinator.com/item?id=49156683",
         "discussion_url": "https://news.ycombinator.com/item?id=49156683",
         "site": "news.ycombinator.com",
         "points": 225,
-        "comments": 270,
+        "comments": 275,
         "author": "whoishiring",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49179728,
         "title": "Ask HN: Did GitHub remove the stargazers list?",
         "url": "https://news.ycombinator.com/item?id=49179728",
@@ -790,80 +802,68 @@
         "comments": 1,
         "author": "reconnecting",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49183198,
-        "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
-        "url": "https://news.ycombinator.com/item?id=49183198",
-        "discussion_url": "https://news.ycombinator.com/item?id=49183198",
-        "site": "news.ycombinator.com",
-        "points": 72,
-        "comments": 13,
-        "author": "vivzkestrel",
-        "age": "22h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49195297,
-        "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
-        "url": "https://intergalacticrobots.app/skyline-coop/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49195297",
-        "site": "intergalacticrobots.app",
-        "points": 10,
-        "comments": 6,
-        "author": "geekamongus",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 49195251,
         "title": "Show HN: demake – one source project compiles to any retro game console ROM",
         "url": "https://geosona.com/demake/",
         "discussion_url": "https://news.ycombinator.com/item?id=49195251",
         "site": "geosona.com",
+        "points": 28,
+        "comments": 4,
+        "author": "gste",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49197137,
+        "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+        "url": "https://electronicmaterialsoffice.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49197137",
+        "site": "electronicmaterialsoffice.com",
         "points": 4,
         "comments": 0,
-        "author": "gste",
-        "age": "1h ago"
+        "author": "aemerson_",
+        "age": "38m ago"
       },
       {
         "rank": 3,
-        "id": 49195066,
-        "title": "Show HN: QR codes where your photo is the code, not pasted on top",
-        "url": "https://sqr.art",
-        "discussion_url": "https://news.ycombinator.com/item?id=49195066",
-        "site": "sqr.art",
+        "id": 49196997,
+        "title": "Show HN: Photo to Video AI – Animate a photo with a motion prompt",
+        "url": "https://www.phototovideo-ai.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49196997",
+        "site": "phototovideo-ai.net",
         "points": 2,
-        "comments": 2,
-        "author": "mikaelcarlavan",
-        "age": "1h ago"
+        "comments": 0,
+        "author": "zduoduo",
+        "age": "48m ago"
       },
       {
         "rank": 4,
-        "id": 49194772,
-        "title": "Show HN: A terminal glued to the macOS dock",
-        "url": "https://github.com/palamim/starboard",
-        "discussion_url": "https://news.ycombinator.com/item?id=49194772",
-        "site": "github.com",
-        "points": 2,
-        "comments": 1,
-        "author": "leopalamim",
-        "age": "2h ago"
+        "id": 49196604,
+        "title": "Show HN: FormLab, a no-signup formulation lab notebook in the browser",
+        "url": "https://lab.formvix.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49196604",
+        "site": "lab.formvix.com",
+        "points": 3,
+        "comments": 0,
+        "author": "juliu1980",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49192219,
-        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-        "url": "https://github.com/pradipta/wallfacer",
-        "discussion_url": "https://news.ycombinator.com/item?id=49192219",
-        "site": "github.com",
-        "points": 27,
-        "comments": 17,
-        "author": "pradiptasarma",
-        "age": "8h ago"
+        "id": 49196603,
+        "title": "Show HN: Science for Kids",
+        "url": "https://science.ocaho.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49196603",
+        "site": "science.ocaho.com",
+        "points": 4,
+        "comments": 0,
+        "author": "rahimnathwani",
+        "age": "1h ago"
       }
     ]
   }
