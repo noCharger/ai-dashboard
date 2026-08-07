@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-07T08:04:27Z",
+  "generated": "2026-08-07T09:48:27Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 2671,
-        "downloads": 12102,
-        "likes": 2823,
+        "trending_score": 2687,
+        "downloads": 18112,
+        "likes": 2843,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 2402,
-        "downloads": 617900,
-        "likes": 2685,
+        "trending_score": 2418,
+        "downloads": 702709,
+        "likes": 2702,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "moonshotai/Kimi-K3",
-        "org": "moonshotai",
-        "trending_score": 845,
-        "downloads": 1258043,
-        "likes": 10232,
-        "url": "https://huggingface.co/moonshotai/Kimi-K3",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "kimi_k3",
-          "feature-extraction",
-          "compressed-tensors"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "Comfy-Org/MiniMax-H3",
         "org": "Comfy-Org",
-        "trending_score": 829,
-        "downloads": 2295377,
-        "likes": 875,
+        "trending_score": 834,
+        "downloads": 3139920,
+        "likes": 880,
         "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
         "tags": [
           "diffusion-single-file",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "moonshotai/Kimi-K3",
+        "org": "moonshotai",
+        "trending_score": 831,
+        "downloads": 1308186,
+        "likes": 10243,
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "kimi_k3",
+          "feature-extraction",
+          "compressed-tensors"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
         "org": "unsloth",
-        "trending_score": 527,
-        "downloads": 145105,
-        "likes": 564,
+        "trending_score": 528,
+        "downloads": 161253,
+        "likes": 566,
         "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
         "tags": [
           "gguf",
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 53.3206725809678,
+        "speed_tps": 53.6597301366008,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.254076024322,
+        "speed_tps": 54.2835447826576,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.6147814881493,
+        "speed_tps": 52.1867713216837,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 61.2982352426173,
+        "speed_tps": 59.9048604935325,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 16918,
+        "stars": 17059,
         "stars_delta": 1057,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 83251,
+        "stars": 83340,
         "stars_delta": 593,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "cloudflare/computer",
         "description": "Give your agent a computer 👾",
         "url": "https://github.com/cloudflare/computer",
-        "stars": 5077,
+        "stars": 5152,
         "stars_delta": 2802,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 207766,
+        "stars": 207936,
         "stars_delta": 1873,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "goauthentik/authentik",
         "description": "The authentication glue you need.",
         "url": "https://github.com/goauthentik/authentik",
-        "stars": 23276,
+        "stars": 23309,
         "stars_delta": 138,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 20140,
+        "stars": 20212,
         "stars_delta": 10091,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -373,7 +373,7 @@
         "name": "microsoft/AI-For-Beginners",
         "description": "12 Weeks, 24 Lessons, AI for All!",
         "url": "https://github.com/microsoft/AI-For-Beginners",
-        "stars": 62893,
+        "stars": 62938,
         "stars_delta": 9164,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -383,7 +383,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 16918,
+        "stars": 17059,
         "stars_delta": 6444,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "lyogavin/airllm",
         "description": "AirLLM 70B inference with single 4GB GPU",
         "url": "https://github.com/lyogavin/airllm",
-        "stars": 29725,
+        "stars": 29752,
         "stars_delta": 5222,
         "language": "Jupyter Notebook",
         "language_color": "#DA5B0B"
@@ -403,7 +403,7 @@
         "name": "virgiliojr94/book-to-skill",
         "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "url": "https://github.com/virgiliojr94/book-to-skill",
-        "stars": 17854,
+        "stars": 17899,
         "stars_delta": 3903,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 34696,
+        "stars": 34703,
         "stars_delta": 8701,
         "language": "Swift",
         "language_color": "#F05138"
@@ -425,7 +425,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 41958,
+        "stars": 42032,
         "stars_delta": 29383,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 39234,
+        "stars": 39295,
         "stars_delta": 26353,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "emilkowalski/skills",
         "description": "Skills for Designers and Engineers.",
         "url": "https://github.com/emilkowalski/skills",
-        "stars": 26548,
+        "stars": 26605,
         "stars_delta": 21162,
         "language": "",
         "language_color": "#586069"
@@ -455,7 +455,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 79494,
+        "stars": 79531,
         "stars_delta": 18274,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -486,17 +486,6 @@
       },
       {
         "rank": 3,
-        "name": "openai/openai-agents-python",
-        "url": "https://github.com/openai/openai-agents-python",
-        "stars_28d": 5,
-        "total_stars": 14889,
-        "description": "A lightweight, powerful framework for multi-agent workflows",
-        "category": "Agent SDK",
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 4,
         "name": "FoundationAgents/MetaGPT",
         "url": "https://github.com/FoundationAgents/MetaGPT",
         "stars_28d": 5,
@@ -507,15 +496,26 @@
         "language_color": "#3572A5"
       },
       {
-        "rank": 5,
-        "name": "Significant-Gravitas/AutoGPT",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stars_28d": 3,
-        "total_stars": 175310,
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "category": "Autonomous Agent Platform",
+        "rank": 4,
+        "name": "openai/openai-agents-python",
+        "url": "https://github.com/openai/openai-agents-python",
+        "stars_28d": 5,
+        "total_stars": 14889,
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "category": "Agent SDK",
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
+        "stars_28d": 4,
+        "total_stars": 16184,
+        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+        "category": "Full-Stack Agent Platform",
+        "language": "TypeScript",
+        "language_color": "#3178C6"
       }
     ]
   },
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2607.24653",
         "categories": [],
-        "upvotes": 480,
+        "upvotes": 482,
         "published": "2026-07-26",
         "github_repo": "https://github.com/MoonshotAI/Kimi-K3",
         "github_stars": 8154
@@ -568,21 +568,6 @@
       },
       {
         "rank": 4,
-        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-        "authors": [
-          "Ziyu Ma",
-          "Hailang Huang",
-          "Shun Zou"
-        ],
-        "url": "https://huggingface.co/papers/2608.01964",
-        "categories": [],
-        "upvotes": 157,
-        "published": "2026-08-02",
-        "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
-        "github_stars": 336
-      },
-      {
-        "rank": 5,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -594,7 +579,22 @@
         "upvotes": 120,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 95906
+        "github_stars": 96002
+      },
+      {
+        "rank": 5,
+        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+        "authors": [
+          "Ziyu Ma",
+          "Hailang Huang",
+          "Shun Zou"
+        ],
+        "url": "https://huggingface.co/papers/2608.01964",
+        "categories": [],
+        "upvotes": 158,
+        "published": "2026-08-02",
+        "github_repo": "https://github.com/AMAP-ML/LongHorizon-Harness",
+        "github_stars": 336
       }
     ],
     "arxiv_recent": [
@@ -685,10 +685,10 @@
         "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "discussion_url": "https://news.ycombinator.com/item?id=49201970",
         "site": "theregister.com",
-        "points": 618,
-        "comments": 458,
+        "points": 660,
+        "comments": 502,
         "author": "itvision",
-        "age": "11h ago"
+        "age": "13h ago"
       },
       {
         "rank": 2,
@@ -697,10 +697,10 @@
         "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
         "discussion_url": "https://news.ycombinator.com/item?id=49204352",
         "site": "theguardian.com",
-        "points": 200,
-        "comments": 127,
+        "points": 272,
+        "comments": 168,
         "author": "boplicity",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
@@ -709,22 +709,22 @@
         "url": "https://roge.onwrite.app/what-is-a-product",
         "discussion_url": "https://news.ycombinator.com/item?id=49202690",
         "site": "roge.onwrite.app",
-        "points": 29,
-        "comments": 10,
+        "points": 54,
+        "comments": 35,
         "author": "rogix",
-        "age": "10h ago"
+        "age": "12h ago"
       },
       {
         "rank": 4,
-        "id": 49129015,
-        "title": "Atomic Clocks",
-        "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-        "discussion_url": "https://news.ycombinator.com/item?id=49129015",
-        "site": "nist.gov",
-        "points": 41,
-        "comments": 28,
-        "author": "teleforce",
-        "age": "6d ago"
+        "id": 49095943,
+        "title": "Parsers don't have to be complicated",
+        "url": "https://bkaradzic.github.io/posts/scanner/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49095943",
+        "site": "bkaradzic.github.io",
+        "points": 28,
+        "comments": 11,
+        "author": "signa11",
+        "age": "8d ago"
       },
       {
         "rank": 5,
@@ -733,10 +733,10 @@
         "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
         "discussion_url": "https://news.ycombinator.com/item?id=49199346",
         "site": "notashelf.dev",
-        "points": 384,
-        "comments": 278,
+        "points": 421,
+        "comments": 314,
         "author": "tsak",
-        "age": "15h ago"
+        "age": "16h ago"
       }
     ],
     "ask": [
@@ -759,13 +759,25 @@
         "url": "https://news.ycombinator.com/item?id=49192693",
         "discussion_url": "https://news.ycombinator.com/item?id=49192693",
         "site": "news.ycombinator.com",
-        "points": 24,
+        "points": 25,
         "comments": 17,
         "author": "alexwwang",
         "age": "1d ago"
       },
       {
         "rank": 3,
+        "id": 49156683,
+        "title": "Ask HN: Who is hiring? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49156683",
+        "discussion_url": "https://news.ycombinator.com/item?id=49156683",
+        "site": "news.ycombinator.com",
+        "points": 225,
+        "comments": 288,
+        "author": "whoishiring",
+        "age": "3d ago"
+      },
+      {
+        "rank": 4,
         "id": 49202722,
         "title": "Laguna S 2.1:118B-a9B better than Qwen3.5:122B-a10B? So far, yes",
         "url": "https://news.ycombinator.com/item?id=49202722",
@@ -774,19 +786,7 @@
         "points": 2,
         "comments": 0,
         "author": "spottedmarley",
-        "age": "10h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49156683,
-        "title": "Ask HN: Who is hiring? (August 2026)",
-        "url": "https://news.ycombinator.com/item?id=49156683",
-        "discussion_url": "https://news.ycombinator.com/item?id=49156683",
-        "site": "news.ycombinator.com",
-        "points": 225,
-        "comments": 286,
-        "author": "whoishiring",
-        "age": "3d ago"
+        "age": "12h ago"
       },
       {
         "rank": 5,
@@ -798,69 +798,69 @@
         "points": 6,
         "comments": 2,
         "author": "spottedmarley",
-        "age": "12h ago"
+        "age": "14h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49207898,
+        "title": "Show HN: Recipe Jar, a local-first recipe keeper with no account or ads",
+        "url": "https://recipejar.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49207898",
+        "site": "recipejar.app",
+        "points": 2,
+        "comments": 0,
+        "author": "sbmagar13",
+        "age": "20m ago"
+      },
+      {
+        "rank": 2,
         "id": 49159346,
         "title": "Show HN: A free mini game that makes you a smarter fly fisherperson",
         "url": "https://read-the-water.netlify.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=49159346",
         "site": "read-the-water.netlify.app",
-        "points": 6,
-        "comments": 1,
+        "points": 13,
+        "comments": 3,
         "author": "mpc75",
         "age": "3d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49198583,
         "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
         "url": "https://github.com/CopilotKit/channels-sdk",
         "discussion_url": "https://news.ycombinator.com/item?id=49198583",
         "site": "github.com",
-        "points": 101,
+        "points": 103,
         "comments": 22,
         "author": "davidmckayv",
-        "age": "15h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49203059,
-        "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-        "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
-        "discussion_url": "https://news.ycombinator.com/item?id=49203059",
-        "site": "github.com",
-        "points": 47,
-        "comments": 28,
-        "author": "mdeeds",
-        "age": "10h ago"
+        "age": "17h ago"
       },
       {
         "rank": 4,
-        "id": 49205627,
-        "title": "Show HN: Sidebar – a private ESP32 intercom for five kids, no accounts",
-        "url": "https://www.sundaradnus.ca/writing/sidebar-building-a-ham-radio-for-my-son",
-        "discussion_url": "https://news.ycombinator.com/item?id=49205627",
-        "site": "sundaradnus.ca",
+        "id": 49207194,
+        "title": "Show HN: Remembrane – agent memory in one SQLite file, zero dependencies",
+        "url": "https://github.com/satyasairay/remembrane",
+        "discussion_url": "https://news.ycombinator.com/item?id=49207194",
+        "site": "github.com",
         "points": 3,
         "comments": 0,
-        "author": "nonstopnonsense",
-        "age": "4h ago"
+        "author": "satyasairay",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49194772,
-        "title": "Show HN: A terminal glued to the macOS dock",
-        "url": "https://github.com/palamim/starboard",
-        "discussion_url": "https://news.ycombinator.com/item?id=49194772",
-        "site": "github.com",
-        "points": 39,
-        "comments": 12,
-        "author": "leopalamim",
-        "age": "21h ago"
+        "id": 49206655,
+        "title": "Show HN: Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
+        "url": "https://www.atlascloud.ai/models/seedance-2.5",
+        "discussion_url": "https://news.ycombinator.com/item?id=49206655",
+        "site": "atlascloud.ai",
+        "points": 2,
+        "comments": 2,
+        "author": "qqt",
+        "age": "3h ago"
       }
     ]
   }
