@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-12T15:47:58Z",
+  "generated": "2026-08-12T16:44:13Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "meta-models/Muse-Glimmer-30B",
         "org": "meta-models",
-        "trending_score": 1165,
+        "trending_score": 1179,
         "downloads": 0,
-        "likes": 1221,
+        "likes": 1237,
         "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 1084,
+        "trending_score": 1072,
         "downloads": 59368,
-        "likes": 3681,
+        "likes": 3685,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "larryvrh/MiniMax-H3-Turbo-Lora",
         "org": "larryvrh",
-        "trending_score": 643,
+        "trending_score": 647,
         "downloads": 0,
-        "likes": 685,
+        "likes": 689,
         "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
         "tags": [
           "text-to-video",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 591,
+        "trending_score": 584,
         "downloads": 1048685,
-        "likes": 3211,
+        "likes": 3216,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Comfy-Org/MiniMax-H3",
-        "org": "Comfy-Org",
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
         "trending_score": 458,
-        "downloads": 6798796,
-        "likes": 1243,
-        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "downloads": 39,
+        "likes": 504,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
-          "comfyui",
-          "base_model:MiniMaxAI/MiniMax-H3",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3",
-          "license:other"
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 8995,
+        "stars": 9222,
         "stars_delta": 2951,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -321,7 +321,7 @@
         "name": "macro-inc/macro",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
         "url": "https://github.com/macro-inc/macro",
-        "stars": 1400,
+        "stars": 1437,
         "stars_delta": 325,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5525,
+        "stars": 5544,
         "stars_delta": 834,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 43571,
+        "stars": 43612,
         "stars_delta": 1215,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 144370,
+        "stars": 144391,
         "stars_delta": 1969,
         "language": "Shell",
         "language_color": "#89e051"
@@ -363,7 +363,7 @@
         "name": "cloudflare/computer",
         "description": "Give your agent a computer 👾",
         "url": "https://github.com/cloudflare/computer",
-        "stars": 7746,
+        "stars": 7749,
         "stars_delta": 6775,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5525,
+        "stars": 5544,
         "stars_delta": 2712,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 20413,
+        "stars": 20440,
         "stars_delta": 7017,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "huangruiteng/loopx",
         "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
         "url": "https://github.com/huangruiteng/loopx",
-        "stars": 4325,
+        "stars": 4349,
         "stars_delta": 2687,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 14949,
+        "stars": 14966,
         "stars_delta": 5367,
         "language": "Rust",
         "language_color": "#dea584"
@@ -413,9 +413,9 @@
       {
         "rank": 1,
         "name": "diegosouzapw/OmniRoute",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Clin",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 46365,
+        "stars": 46404,
         "stars_delta": 30582,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 81150,
+        "stars": 81176,
         "stars_delta": 19348,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 24313,
+        "stars": 24323,
         "stars_delta": 20034,
         "language": "CSS",
         "language_color": "#663399"
@@ -445,7 +445,7 @@
         "name": "1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 17306,
+        "stars": 17311,
         "stars_delta": 8917,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 24359,
+        "stars": 24372,
         "stars_delta": 15942,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -464,12 +464,12 @@
     "frameworks": [
       {
         "rank": 1,
-        "name": "langchain-ai/langchain",
-        "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 16,
-        "total_stars": 116760,
-        "description": "The agent engineering platform.",
-        "category": "General Agent Stack",
+        "name": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "stars_28d": 15,
+        "total_stars": 175324,
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "category": "Autonomous Agent Platform",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -486,12 +486,12 @@
       },
       {
         "rank": 3,
-        "name": "Significant-Gravitas/AutoGPT",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
         "stars_28d": 15,
-        "total_stars": 175324,
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "category": "Autonomous Agent Platform",
+        "total_stars": 116759,
+        "description": "The agent engineering platform.",
+        "category": "General Agent Stack",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 542,
+        "upvotes": 544,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 803
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.04205",
         "categories": [],
-        "upvotes": 32,
+        "upvotes": 33,
         "published": "2026-08-03",
         "github_repo": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
         "github_stars": 801
@@ -681,27 +681,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 49270953,
-        "title": "2026 Eclipse Webcams",
-        "url": "https://jonty.github.io/2026_eclipse_webcams/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49270953",
-        "site": "jonty.github.io",
-        "points": 325,
-        "comments": 74,
-        "author": "zoenolan",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
         "id": 49272832,
         "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "discussion_url": "https://news.ycombinator.com/item?id=49272832",
         "site": "tailscale.com",
-        "points": 115,
-        "comments": 11,
+        "points": 290,
+        "comments": 38,
         "author": "ropbear",
-        "age": "1h ago"
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49270953,
+        "title": "2026 Eclipse Webcams",
+        "url": "https://jonty.github.io/2026_eclipse_webcams/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49270953",
+        "site": "jonty.github.io",
+        "points": 359,
+        "comments": 81,
+        "author": "zoenolan",
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -710,10 +710,10 @@
         "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49272655",
         "site": "amiga-news.de",
-        "points": 71,
-        "comments": 15,
+        "points": 100,
+        "comments": 19,
         "author": "doener",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
@@ -722,10 +722,10 @@
         "url": "https://knownagents.com/insights",
         "discussion_url": "https://news.ycombinator.com/item?id=49272569",
         "site": "knownagents.com",
-        "points": 64,
-        "comments": 16,
+        "points": 93,
+        "comments": 41,
         "author": "gavinhking",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
@@ -734,15 +734,27 @@
         "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
         "discussion_url": "https://news.ycombinator.com/item?id=49272549",
         "site": "guillaumetech.github.io",
-        "points": 92,
-        "comments": 15,
+        "points": 123,
+        "comments": 23,
         "author": "gutechh",
-        "age": "1h ago"
+        "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49213660,
+        "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+        "url": "https://news.ycombinator.com/item?id=49213660",
+        "discussion_url": "https://news.ycombinator.com/item?id=49213660",
+        "site": "news.ycombinator.com",
+        "points": 211,
+        "comments": 72,
+        "author": "BoxOfRain",
+        "age": "4d ago"
+      },
+      {
+        "rank": 2,
         "id": 49271950,
         "title": "Forms did five things. Natural language kept one",
         "url": "https://news.ycombinator.com/item?id=49271950",
@@ -751,55 +763,43 @@
         "points": 2,
         "comments": 0,
         "author": "offaxis",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49213660,
-        "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
-        "url": "https://news.ycombinator.com/item?id=49213660",
-        "discussion_url": "https://news.ycombinator.com/item?id=49213660",
-        "site": "news.ycombinator.com",
-        "points": 210,
-        "comments": 72,
-        "author": "BoxOfRain",
-        "age": "4d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49270921,
-        "title": "Ask HN: GitHub project that showed all edits (somewhat proving human authorship)",
-        "url": "https://news.ycombinator.com/item?id=49270921",
-        "discussion_url": "https://news.ycombinator.com/item?id=49270921",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "4d66ba06",
         "age": "3h ago"
       },
       {
+        "rank": 3,
+        "id": 49274680,
+        "title": "DeepSeek-V4-Pro-0813",
+        "url": "https://news.ycombinator.com/item?id=49274680",
+        "discussion_url": "https://news.ycombinator.com/item?id=49274680",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "uneven9434",
+        "age": "33m ago"
+      },
+      {
         "rank": 4,
+        "id": 49274511,
+        "title": "Remind HN: Perseid meteor shower peaks tonight",
+        "url": "https://news.ycombinator.com/item?id=49274511",
+        "discussion_url": "https://news.ycombinator.com/item?id=49274511",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "cjbarber",
+        "age": "44m ago"
+      },
+      {
+        "rank": 5,
         "id": 49272514,
         "title": "Ed Zitron on CNBC Squawk Box Talking Nvidia, Unprofitable AI Labs",
         "url": "https://news.ycombinator.com/item?id=49272514",
         "discussion_url": "https://news.ycombinator.com/item?id=49272514",
         "site": "news.ycombinator.com",
-        "points": 6,
+        "points": 7,
         "comments": 0,
         "author": "johnbarron",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49270776,
-        "title": "Bitbucket CLI",
-        "url": "https://news.ycombinator.com/item?id=49270776",
-        "discussion_url": "https://news.ycombinator.com/item?id=49270776",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "scr2em",
-        "age": "4h ago"
+        "age": "2h ago"
       }
     ],
     "show": [
@@ -810,57 +810,57 @@
         "url": "https://woxi.ad-si.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49270040",
         "site": "woxi.ad-si.com",
-        "points": 172,
-        "comments": 23,
+        "points": 190,
+        "comments": 27,
         "author": "adius",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
+        "id": 49270881,
+        "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
+        "url": "https://kidscreen.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49270881",
+        "site": "kidscreen.app",
+        "points": 25,
+        "comments": 22,
+        "author": "Tintly",
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
         "id": 49272252,
         "title": "Show HN: Meteor shower, planet alignment, eclipse kit",
         "url": "https://lifesprites.com/share/0ACA25",
         "discussion_url": "https://news.ycombinator.com/item?id=49272252",
         "site": "lifesprites.com",
         "points": 8,
-        "comments": 5,
+        "comments": 11,
         "author": "jmtrevarton",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49270881,
-        "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
-        "url": "https://kidscreen.app",
-        "discussion_url": "https://news.ycombinator.com/item?id=49270881",
-        "site": "kidscreen.app",
-        "points": 17,
-        "comments": 14,
-        "author": "Tintly",
-        "age": "4h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
-        "id": 49272264,
-        "title": "Show HN: Smarter Shell History for Zsh",
-        "url": "https://github.com/overflowy/zhist",
-        "discussion_url": "https://news.ycombinator.com/item?id=49272264",
-        "site": "github.com",
-        "points": 6,
+        "id": 49274489,
+        "title": "Show HN: /show-me: agent skill for compact visual representations",
+        "url": "https://www.humanlayer.com/blog/show-me-skill",
+        "discussion_url": "https://news.ycombinator.com/item?id=49274489",
+        "site": "humanlayer.com",
+        "points": 2,
         "comments": 0,
-        "author": "overflowy",
-        "age": "2h ago"
+        "author": "dhorthy",
+        "age": "45m ago"
       },
       {
         "rank": 5,
-        "id": 49272597,
-        "title": "Show HN: Lucky Dangle – a lucky charm for your Mac",
-        "url": "https://luckydangle.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49272597",
-        "site": "luckydangle.app",
+        "id": 49274160,
+        "title": "Show HN: Seisin – a desktop app that turns your job search into analytics",
+        "url": "https://getseisin.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=49274160",
+        "site": "getseisin.com",
         "points": 2,
         "comments": 0,
-        "author": "kar-ma",
+        "author": "LudbaSH",
         "age": "1h ago"
       }
     ]
