@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-12T07:04:55Z",
+  "generated": "2026-08-12T07:39:59Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 1293,
+        "trending_score": 1207,
         "downloads": 59368,
-        "likes": 3624,
+        "likes": 3628,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "diffusers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "meta-models/Muse-Glimmer-30B",
         "org": "meta-models",
-        "trending_score": 1094,
+        "trending_score": 1099,
         "downloads": 0,
-        "likes": 1140,
+        "likes": 1146,
         "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 636,
+        "trending_score": 634,
         "downloads": 1048685,
-        "likes": 3177,
+        "likes": 3181,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "larryvrh/MiniMax-H3-Turbo-Lora",
         "org": "larryvrh",
-        "trending_score": 624,
+        "trending_score": 626,
         "downloads": 0,
-        "likes": 663,
+        "likes": 666,
         "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
         "tags": [
           "text-to-video",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Comfy-Org/MiniMax-H3",
         "org": "Comfy-Org",
-        "trending_score": 498,
+        "trending_score": 493,
         "downloads": 6798796,
-        "likes": 1224,
+        "likes": 1227,
         "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
         "tags": [
           "diffusion-single-file",
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
+        "name": "cathrynlavery/diagram-design",
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "stars": 7510,
+        "stars_delta": 1616,
+        "language": "HTML",
+        "language_color": "#e34c26"
+      },
+      {
+        "rank": 2,
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 143828,
+        "stars": 143899,
         "stars_delta": 958,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5180,
+        "stars": 5208,
         "stars_delta": 893,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "nvm-sh/nvm",
         "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
         "url": "https://github.com/nvm-sh/nvm",
-        "stars": 94527,
+        "stars": 94531,
         "stars_delta": 22,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 86353,
+        "stars": 86361,
         "stars_delta": 578,
         "language": "JavaScript",
         "language_color": "#f1e05a"
-      },
-      {
-        "rank": 5,
-        "name": "ZhuLinsen/daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "stars": 62347,
-        "stars_delta": 243,
-        "language": "Python",
-        "language_color": "#3572A5"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "cloudflare/computer",
         "description": "Give your agent a computer 👾",
         "url": "https://github.com/cloudflare/computer",
-        "stars": 7657,
+        "stars": 7662,
         "stars_delta": 6775,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "huangruiteng/loopx",
         "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
         "url": "https://github.com/huangruiteng/loopx",
-        "stars": 4245,
+        "stars": 4255,
         "stars_delta": 2687,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 14798,
+        "stars": 14805,
         "stars_delta": 5367,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 20108,
+        "stars": 20126,
         "stars_delta": 7017,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5180,
+        "stars": 5208,
         "stars_delta": 2712,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 46090,
+        "stars": 46107,
         "stars_delta": 30582,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 80954,
+        "stars": 80969,
         "stars_delta": 19348,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 24176,
+        "stars": 24186,
         "stars_delta": 20034,
         "language": "CSS",
         "language_color": "#663399"
@@ -445,7 +445,7 @@
         "name": "1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 17237,
+        "stars": 17240,
         "stars_delta": 8917,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 24128,
+        "stars": 24152,
         "stars_delta": 15942,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -464,12 +464,12 @@
     "frameworks": [
       {
         "rank": 1,
-        "name": "crewAIInc/crewAI",
-        "url": "https://github.com/crewAIInc/crewAI",
+        "name": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "stars_28d": 15,
-        "total_stars": 37684,
-        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-        "category": "Multi-Agent Orchestration",
+        "total_stars": 175324,
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "category": "Autonomous Agent Platform",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -486,12 +486,12 @@
       },
       {
         "rank": 3,
-        "name": "Significant-Gravitas/AutoGPT",
-        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "name": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
         "stars_28d": 15,
-        "total_stars": 175324,
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "category": "Autonomous Agent Platform",
+        "total_stars": 37684,
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "category": "Multi-Agent Orchestration",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 278,
+        "upvotes": 285,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 681
@@ -686,8 +686,8 @@
         "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
         "discussion_url": "https://news.ycombinator.com/item?id=49201953",
         "site": "aresluna.org",
-        "points": 138,
-        "comments": 16,
+        "points": 163,
+        "comments": 23,
         "author": "dcminter",
         "age": "5d ago"
       },
@@ -698,8 +698,8 @@
         "url": "https://ngrok.com/blog/compression-is-prediction",
         "discussion_url": "https://news.ycombinator.com/item?id=49263497",
         "site": "ngrok.com",
-        "points": 457,
-        "comments": 191,
+        "points": 476,
+        "comments": 202,
         "author": "nikolay",
         "age": "11h ago"
       },
@@ -710,8 +710,8 @@
         "url": "https://llama.app",
         "discussion_url": "https://news.ycombinator.com/item?id=49267928",
         "site": "llama.app",
-        "points": 113,
-        "comments": 49,
+        "points": 145,
+        "comments": 65,
         "author": "kristianpaul",
         "age": "2h ago"
       },
@@ -722,7 +722,7 @@
         "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
         "discussion_url": "https://news.ycombinator.com/item?id=49265051",
         "site": "tencent-hunyuan.github.io",
-        "points": 195,
+        "points": 203,
         "comments": 58,
         "author": "EwanG",
         "age": "9h ago"
@@ -734,8 +734,8 @@
         "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
         "discussion_url": "https://news.ycombinator.com/item?id=49266921",
         "site": "whdh.com",
-        "points": 64,
-        "comments": 18,
+        "points": 72,
+        "comments": 19,
         "author": "andsoitis",
         "age": "5h ago"
       }
@@ -763,7 +763,7 @@
         "points": 3,
         "comments": 1,
         "author": "greenmoonx",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
@@ -799,7 +799,7 @@
         "points": 6,
         "comments": 8,
         "author": "felooboolooomba",
-        "age": "19h ago"
+        "age": "20h ago"
       }
     ],
     "show": [
@@ -810,34 +810,34 @@
         "url": "https://photosynthesis.camera",
         "discussion_url": "https://news.ycombinator.com/item?id=49226623",
         "site": "photosynthesis.camera",
-        "points": 257,
-        "comments": 242,
+        "points": 266,
+        "comments": 244,
         "author": "sajomes",
         "age": "3d ago"
       },
       {
         "rank": 2,
-        "id": 49196657,
-        "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-        "url": "https://line9.ai/diagram",
-        "discussion_url": "https://news.ycombinator.com/item?id=49196657",
-        "site": "line9.ai",
-        "points": 62,
-        "comments": 14,
-        "author": "jumpalongjim",
-        "age": "5d ago"
-      },
-      {
-        "rank": 3,
         "id": 49210199,
         "title": "Show HN: Tamron Lens Utility Alternative on Linux",
         "url": "https://github.com/yikerman/tamron-lens-control",
         "discussion_url": "https://news.ycombinator.com/item?id=49210199",
         "site": "github.com",
-        "points": 56,
-        "comments": 0,
+        "points": 60,
+        "comments": 1,
         "author": "xiaoyu2006",
         "age": "4d ago"
+      },
+      {
+        "rank": 3,
+        "id": 49196657,
+        "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+        "url": "https://line9.ai/diagram",
+        "discussion_url": "https://news.ycombinator.com/item?id=49196657",
+        "site": "line9.ai",
+        "points": 64,
+        "comments": 14,
+        "author": "jumpalongjim",
+        "age": "5d ago"
       },
       {
         "rank": 4,
@@ -849,7 +849,7 @@
         "points": 150,
         "comments": 96,
         "author": "YonathanTesfaye",
-        "age": "15h ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
@@ -858,10 +858,10 @@
         "url": "https://writemd.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=49258011",
         "site": "writemd.app",
-        "points": 90,
-        "comments": 71,
+        "points": 91,
+        "comments": 72,
         "author": "danielbilekq",
-        "age": "17h ago"
+        "age": "18h ago"
       }
     ]
   }
