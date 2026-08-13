@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-13T00:57:59Z",
+  "generated": "2026-08-13T03:24:07Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "meta-models/Muse-Glimmer-30B",
         "org": "meta-models",
-        "trending_score": 1230,
+        "trending_score": 1241,
         "downloads": 0,
-        "likes": 1294,
+        "likes": 1307,
         "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
         "tags": [
           "transformers",
@@ -23,16 +23,16 @@
         "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 1038,
+        "trending_score": 1015,
         "downloads": 83484,
-        "likes": 3716,
+        "likes": 3724,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
+          "minimax-h3",
           "diffusers",
           "safetensors",
           "text-to-video",
-          "image-to-video",
-          "image-text-to-video"
+          "image-to-video"
         ],
         "rank_change": null
       },
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "larryvrh/MiniMax-H3-Turbo-Lora",
         "org": "larryvrh",
-        "trending_score": 646,
+        "trending_score": 613,
         "downloads": 0,
-        "likes": 701,
+        "likes": 702,
         "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
         "tags": [
           "text-to-video",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 577,
+        "trending_score": 568,
         "downloads": 1048685,
-        "likes": 3238,
+        "likes": 3249,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 509,
-        "downloads": 39,
-        "likes": 568,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "name": "Qwen/Qwen3.8-2.4T-A95B",
+        "org": "Qwen",
+        "trending_score": 546,
+        "downloads": 978,
+        "likes": 553,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe_text",
+          "text-generation",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.4540019308974,
+        "speed_tps": 51.9111154229788,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -311,7 +311,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 10409,
+        "stars": 11045,
         "stars_delta": 2855,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -321,7 +321,7 @@
         "name": "macro-inc/macro",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
         "url": "https://github.com/macro-inc/macro",
-        "stars": 1804,
+        "stars": 1958,
         "stars_delta": 227,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5715,
+        "stars": 5824,
         "stars_delta": 845,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 43884,
+        "stars": 44054,
         "stars_delta": 1235,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 144566,
+        "stars": 144661,
         "stars_delta": 1873,
         "language": "Shell",
         "language_color": "#89e051"
@@ -363,7 +363,7 @@
         "name": "cloudflare/computer",
         "description": "Give your agent a computer 👾",
         "url": "https://github.com/cloudflare/computer",
-        "stars": 7796,
+        "stars": 7820,
         "stars_delta": 6020,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5715,
+        "stars": 5824,
         "stars_delta": 3585,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 20550,
+        "stars": 20689,
         "stars_delta": 5720,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "huangruiteng/loopx",
         "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
         "url": "https://github.com/huangruiteng/loopx",
-        "stars": 4407,
+        "stars": 4436,
         "stars_delta": 2509,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 15037,
+        "stars": 15073,
         "stars_delta": 4043,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Clin",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 46609,
+        "stars": 46692,
         "stars_delta": 30720,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 81263,
+        "stars": 81312,
         "stars_delta": 19780,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 24388,
+        "stars": 24418,
         "stars_delta": 20434,
         "language": "CSS",
         "language_color": "#663399"
@@ -445,7 +445,7 @@
         "name": "1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 17349,
+        "stars": 17360,
         "stars_delta": 9141,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 24464,
+        "stars": 24533,
         "stars_delta": 16418,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -464,23 +464,23 @@
     "frameworks": [
       {
         "rank": 1,
-        "name": "langchain-ai/langchain",
-        "url": "https://github.com/langchain-ai/langchain",
-        "stars_28d": 15,
-        "total_stars": 116760,
-        "description": "The agent engineering platform.",
-        "category": "General Agent Stack",
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
         "name": "Significant-Gravitas/AutoGPT",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "stars_28d": 15,
         "total_stars": 175324,
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "category": "Autonomous Agent Platform",
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 2,
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "stars_28d": 15,
+        "total_stars": 116760,
+        "description": "The agent engineering platform.",
+        "category": "General Agent Stack",
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 553,
+        "upvotes": 555,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 1097
@@ -549,7 +549,7 @@
         "upvotes": 121,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 97781
+        "github_stars": 97865
       },
       {
         "rank": 3,
@@ -600,80 +600,79 @@
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+        "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
         "authors": [
-          "Alan Li",
-          "Rahul Saha",
-          "Anton Xue"
+          "Saman Marandi",
+          "Yu-Shu Hu",
+          "Mohammad Modarres"
         ],
-        "url": "https://arxiv.org/abs/2608.11195",
+        "url": "https://arxiv.org/abs/2608.12304",
         "categories": [
-          "cs.AI",
-          "cs.CC",
-          "cs.HC",
-          "math.FA"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-08-12"
+        "published": "2026-08-13"
       },
       {
         "rank": 2,
-        "title": "sLTN: Structural Logic Tensor Networks",
+        "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
         "authors": [
-          "Davide Rinaldi",
-          "Luciano Serafini"
+          "Ankita Rajaram Naik",
+          "Anupama Murthi",
+          "Benjamin Elder"
         ],
-        "url": "https://arxiv.org/abs/2608.11136",
+        "url": "https://arxiv.org/abs/2608.12282",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-08-12"
+        "published": "2026-08-13"
       },
       {
         "rank": 3,
-        "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+        "title": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
         "authors": [
-          "Kushal Chakrabarti"
+          "Yuzhong Shen",
+          "Masha Sosonkina",
+          "Peng Xu"
         ],
-        "url": "https://arxiv.org/abs/2608.11095",
+        "url": "https://arxiv.org/abs/2608.12249",
         "categories": [
-          "cs.AI",
-          "cs.LG",
-          "cs.SE"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-08-12"
+        "published": "2026-08-13"
       },
       {
         "rank": 4,
-        "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+        "title": "How to Spend Your Oracle Budget: Practical Guidance for Protein Structure Prediction Models",
         "authors": [
-          "Shutong Zhu",
-          "Tianxing Wu",
-          "Runfeng Liu"
+          "Aleksandra Kalisz",
+          "Jack Simons",
+          "Krisztina Sinkovics"
         ],
-        "url": "https://arxiv.org/abs/2608.11080",
+        "url": "https://arxiv.org/abs/2608.12192",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-08-12"
+        "published": "2026-08-13"
       },
       {
         "rank": 5,
-        "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+        "title": "Who Thinks Best Depends on How Long You Let Them: Budget-Dependent Rankings in LLM Evaluation",
         "authors": [
-          "Xiaofan Bai",
-          "Hongqiang Lin",
-          "Chao Liu"
+          "Rodrigo Guedes de Souza",
+          "Alison R. Panisson"
         ],
-        "url": "https://arxiv.org/abs/2608.11079",
+        "url": "https://arxiv.org/abs/2608.12150",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-08-12"
+        "published": "2026-08-13"
       }
     ]
   },
@@ -686,10 +685,10 @@
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "discussion_url": "https://news.ycombinator.com/item?id=49274600",
         "site": "openrouter.ai",
-        "points": 720,
-        "comments": 270,
+        "points": 785,
+        "comments": 301,
         "author": "explosion-s",
-        "age": "8h ago"
+        "age": "11h ago"
       },
       {
         "rank": 2,
@@ -698,10 +697,10 @@
         "url": "https://zed.dev/blog/introducing-delta",
         "discussion_url": "https://news.ycombinator.com/item?id=49276574",
         "site": "zed.dev",
-        "points": 373,
-        "comments": 121,
+        "points": 436,
+        "comments": 146,
         "author": "khy",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
@@ -710,34 +709,34 @@
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "discussion_url": "https://news.ycombinator.com/item?id=49272832",
         "site": "tailscale.com",
-        "points": 779,
-        "comments": 139,
+        "points": 851,
+        "comments": 162,
         "author": "ropbear",
-        "age": "10h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
-        "id": 49280103,
-        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-        "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-        "discussion_url": "https://news.ycombinator.com/item?id=49280103",
-        "site": "sharktastica.co.uk",
-        "points": 17,
-        "comments": 1,
-        "author": "tart-lemonade",
-        "age": "1h ago"
+        "id": 49273478,
+        "title": "Qwen3.8-2.4T",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "discussion_url": "https://news.ycombinator.com/item?id=49273478",
+        "site": "huggingface.co",
+        "points": 521,
+        "comments": 115,
+        "author": "Philpax",
+        "age": "12h ago"
       },
       {
         "rank": 5,
-        "id": 49280061,
-        "title": "What's New in Flutter 3.47",
-        "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-        "discussion_url": "https://news.ycombinator.com/item?id=49280061",
-        "site": "flutter.dev",
-        "points": 22,
-        "comments": 11,
-        "author": "gumby271",
-        "age": "1h ago"
+        "id": 49279928,
+        "title": "Principia Mathematica is modern and insightful",
+        "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49279928",
+        "site": "okmij.org",
+        "points": 68,
+        "comments": 25,
+        "author": "matt_d",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -749,9 +748,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49279494",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 1,
+        "comments": 2,
         "author": "ochidaniel4",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -763,22 +762,10 @@
         "points": 4,
         "comments": 2,
         "author": "dzonga",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 49278761,
-        "title": "Ask HN: Why Connected Home Appliances?",
-        "url": "https://news.ycombinator.com/item?id=49278761",
-        "discussion_url": "https://news.ycombinator.com/item?id=49278761",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 5,
-        "author": "ripe",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
         "id": 49213660,
         "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
         "url": "https://news.ycombinator.com/item?id=49213660",
@@ -790,16 +777,28 @@
         "age": "5d ago"
       },
       {
+        "rank": 4,
+        "id": 49278761,
+        "title": "Ask HN: Why Connected Home Appliances?",
+        "url": "https://news.ycombinator.com/item?id=49278761",
+        "discussion_url": "https://news.ycombinator.com/item?id=49278761",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 5,
+        "author": "ripe",
+        "age": "5h ago"
+      },
+      {
         "rank": 5,
         "id": 49276529,
         "title": "Ask HN:Why do websites today refuse to work on EDGE/2G?",
         "url": "https://news.ycombinator.com/item?id=49276529",
         "discussion_url": "https://news.ycombinator.com/item?id=49276529",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 2,
         "author": "DenisDolya",
-        "age": "6h ago"
+        "age": "9h ago"
       }
     ],
     "show": [
@@ -810,58 +809,58 @@
         "url": "https://www.ballet.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=49280184",
         "site": "ballet.dev",
-        "points": 11,
-        "comments": 1,
+        "points": 18,
+        "comments": 2,
         "author": "danielkimber",
-        "age": "56m ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 49281370,
+        "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+        "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+        "discussion_url": "https://news.ycombinator.com/item?id=49281370",
+        "site": "agentmemoryleaderboard.ai",
+        "points": 2,
+        "comments": 0,
+        "author": "IreneAI",
+        "age": "14m ago"
+      },
+      {
+        "rank": 3,
         "id": 49270040,
         "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
         "url": "https://woxi.ad-si.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49270040",
         "site": "woxi.ad-si.com",
-        "points": 253,
-        "comments": 39,
+        "points": 264,
+        "comments": 40,
         "author": "adius",
-        "age": "14h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49276673,
         "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
         "url": "https://timer.jotaen.net",
         "discussion_url": "https://news.ycombinator.com/item?id=49276673",
         "site": "timer.jotaen.net",
-        "points": 19,
-        "comments": 4,
+        "points": 22,
+        "comments": 7,
         "author": "jotaen",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49279207,
         "title": "Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat",
         "url": "https://www.orangecrumbs.com/stories/show-hn",
         "discussion_url": "https://news.ycombinator.com/item?id=49279207",
         "site": "orangecrumbs.com",
-        "points": 4,
+        "points": 5,
         "comments": 1,
         "author": "oyster143",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49280079,
-        "title": "Show HN: GreenTree – Cache test results by Git tree, not commit SHA",
-        "url": "https://github.com/Reachpad/greentree",
-        "discussion_url": "https://news.ycombinator.com/item?id=49280079",
-        "site": "github.com",
-        "points": 4,
-        "comments": 0,
-        "author": "officezage",
-        "age": "1h ago"
+        "age": "5h ago"
       }
     ]
   }
