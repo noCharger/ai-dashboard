@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-13T07:41:19Z",
+  "generated": "2026-08-13T09:00:33Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "meta-models/Muse-Glimmer-30B",
         "org": "meta-models",
-        "trending_score": 1267,
-        "downloads": 0,
-        "likes": 1335,
+        "trending_score": 1274,
+        "downloads": 121042,
+        "likes": 1346,
         "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3",
         "org": "MiniMaxAI",
-        "trending_score": 990,
-        "downloads": 1575808,
-        "likes": 3756,
+        "trending_score": 979,
+        "downloads": 1605940,
+        "likes": 3767,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "tags": [
           "minimax-h3",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.8-2.4T-A95B",
         "org": "Qwen",
-        "trending_score": 614,
-        "downloads": 978,
-        "likes": 621,
+        "trending_score": 629,
+        "downloads": 1012,
+        "likes": 640,
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "deepseek-ai/DeepSeek-V4-Flash-0731",
         "org": "deepseek-ai",
-        "trending_score": 551,
-        "downloads": 1048685,
-        "likes": 3262,
+        "trending_score": 550,
+        "downloads": 1431587,
+        "likes": 3272,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "larryvrh/MiniMax-H3-Turbo-Lora",
-        "org": "larryvrh",
-        "trending_score": 545,
-        "downloads": 0,
-        "likes": 705,
-        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
+        "trending_score": 541,
+        "downloads": 57287,
+        "likes": 608,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
+          "diffusion-single-file",
+          "image-to-video",
           "text-to-video",
-          "text-to-audio",
-          "audio-video",
-          "lora",
-          "minimax-h3"
+          "video-to-video",
+          "image-text-to-video"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 11905,
+        "stars": 12195,
         "stars_delta": 2855,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -321,7 +321,7 @@
         "name": "macro-inc/macro",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
         "url": "https://github.com/macro-inc/macro",
-        "stars": 2190,
+        "stars": 2257,
         "stars_delta": 227,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5956,
+        "stars": 5989,
         "stars_delta": 845,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 44319,
+        "stars": 44407,
         "stars_delta": 1235,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "msitarzewski/agency-agents",
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "url": "https://github.com/msitarzewski/agency-agents",
-        "stars": 144834,
+        "stars": 144889,
         "stars_delta": 1873,
         "language": "Shell",
         "language_color": "#89e051"
@@ -363,7 +363,7 @@
         "name": "cloudflare/computer",
         "description": "Give your agent a computer 👾",
         "url": "https://github.com/cloudflare/computer",
-        "stars": 7874,
+        "stars": 7883,
         "stars_delta": 6020,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 5956,
+        "stars": 5989,
         "stars_delta": 3585,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 20851,
+        "stars": 20908,
         "stars_delta": 5720,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "huangruiteng/loopx",
         "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
         "url": "https://github.com/huangruiteng/loopx",
-        "stars": 4491,
+        "stars": 4507,
         "stars_delta": 2509,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "firecrawl/pdf-inspector",
         "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
         "url": "https://github.com/firecrawl/pdf-inspector",
-        "stars": 15129,
+        "stars": 15158,
         "stars_delta": 4043,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Clin",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 46819,
+        "stars": 46874,
         "stars_delta": 30720,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 81379,
+        "stars": 81397,
         "stars_delta": 19780,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 24488,
+        "stars": 24507,
         "stars_delta": 20434,
         "language": "CSS",
         "language_color": "#663399"
@@ -445,7 +445,7 @@
         "name": "1jehuang/jcode",
         "description": "The most RAM efficient harness",
         "url": "https://github.com/1jehuang/jcode",
-        "stars": 17378,
+        "stars": 17385,
         "stars_delta": 9141,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 24615,
+        "stars": 24659,
         "stars_delta": 16418,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 560,
+        "upvotes": 563,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 1193
@@ -594,7 +594,7 @@
         "upvotes": 52,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 36920
+        "github_stars": 37020
       }
     ],
     "arxiv_recent": [
@@ -680,68 +680,80 @@
     "top": [
       {
         "rank": 1,
+        "id": 49281916,
+        "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+        "url": "https://openai.com/codex/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49281916",
+        "site": "openai.com",
+        "points": 82,
+        "comments": 28,
+        "author": "allanrbo",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
         "id": 49274600,
         "title": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "discussion_url": "https://news.ycombinator.com/item?id=49274600",
         "site": "openrouter.ai",
-        "points": 884,
-        "comments": 357,
+        "points": 910,
+        "comments": 372,
         "author": "explosion-s",
-        "age": "15h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49218040,
-        "title": "Mushroom behind 'tiny people' hallucinations identified",
-        "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49218040",
-        "site": "phys.org",
-        "points": 82,
-        "comments": 44,
-        "author": "wglb",
-        "age": "5d ago"
+        "age": "16h ago"
       },
       {
         "rank": 3,
         "id": 49272832,
-        "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+        "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "discussion_url": "https://news.ycombinator.com/item?id=49272832",
         "site": "tailscale.com",
-        "points": 990,
-        "comments": 188,
+        "points": 1020,
+        "comments": 189,
         "author": "ropbear",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
         "rank": 4,
-        "id": 49276574,
-        "title": "Delta",
-        "url": "https://zed.dev/blog/introducing-delta",
-        "discussion_url": "https://news.ycombinator.com/item?id=49276574",
-        "site": "zed.dev",
-        "points": 516,
-        "comments": 179,
-        "author": "khy",
-        "age": "13h ago"
-      },
-      {
-        "rank": 5,
         "id": 49273478,
         "title": "Qwen3.8-2.4T",
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "discussion_url": "https://news.ycombinator.com/item?id=49273478",
         "site": "huggingface.co",
-        "points": 590,
-        "comments": 135,
+        "points": 614,
+        "comments": 141,
         "author": "Philpax",
-        "age": "16h ago"
+        "age": "17h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49276574,
+        "title": "Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "discussion_url": "https://news.ycombinator.com/item?id=49276574",
+        "site": "zed.dev",
+        "points": 537,
+        "comments": 188,
+        "author": "khy",
+        "age": "14h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49283011,
+        "title": "Gemini API removes postpay billing",
+        "url": "https://news.ycombinator.com/item?id=49283011",
+        "discussion_url": "https://news.ycombinator.com/item?id=49283011",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 0,
+        "author": "alex14fr",
+        "age": "54m ago"
+      },
+      {
+        "rank": 2,
         "id": 49213660,
         "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
         "url": "https://news.ycombinator.com/item?id=49213660",
@@ -753,7 +765,7 @@
         "age": "5d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49279790,
         "title": "Ask HN: How are you finding the job market in 2026?",
         "url": "https://news.ycombinator.com/item?id=49279790",
@@ -762,10 +774,10 @@
         "points": 6,
         "comments": 7,
         "author": "dzonga",
-        "age": "8h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49279494,
         "title": "Ask HN: Is AI code verification becoming your main bottleneck?",
         "url": "https://news.ycombinator.com/item?id=49279494",
@@ -774,45 +786,33 @@
         "points": 6,
         "comments": 2,
         "author": "ochidaniel4",
-        "age": "9h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49273774,
-        "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
-        "url": "https://news.ycombinator.com/item?id=49273774",
-        "discussion_url": "https://news.ycombinator.com/item?id=49273774",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "atif089",
-        "age": "16h ago"
+        "age": "10h ago"
       },
       {
         "rank": 5,
-        "id": 49276529,
-        "title": "Ask HN:Why do websites today refuse to work on EDGE/2G?",
-        "url": "https://news.ycombinator.com/item?id=49276529",
-        "discussion_url": "https://news.ycombinator.com/item?id=49276529",
+        "id": 49233423,
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49233423",
+        "discussion_url": "https://news.ycombinator.com/item?id=49233423",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 3,
-        "author": "DenisDolya",
-        "age": "13h ago"
+        "points": 316,
+        "comments": 1156,
+        "author": "david927",
+        "age": "3d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49280184,
-        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-        "url": "https://www.ballet.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49280184",
-        "site": "ballet.dev",
-        "points": 29,
-        "comments": 8,
-        "author": "danielkimber",
-        "age": "7h ago"
+        "id": 49282960,
+        "title": "Show HN: Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
+        "url": "https://github.com/rockeet/relational-to-kv",
+        "discussion_url": "https://news.ycombinator.com/item?id=49282960",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "rockeetterark",
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -822,12 +822,36 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49270040",
         "site": "woxi.ad-si.com",
         "points": 288,
-        "comments": 40,
+        "comments": 41,
         "author": "adius",
-        "age": "21h ago"
+        "age": "22h ago"
       },
       {
         "rank": 3,
+        "id": 49280184,
+        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+        "url": "https://www.ballet.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49280184",
+        "site": "ballet.dev",
+        "points": 29,
+        "comments": 10,
+        "author": "danielkimber",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49276673,
+        "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
+        "url": "https://timer.jotaen.net",
+        "discussion_url": "https://news.ycombinator.com/item?id=49276673",
+        "site": "timer.jotaen.net",
+        "points": 27,
+        "comments": 10,
+        "author": "jotaen",
+        "age": "14h ago"
+      },
+      {
+        "rank": 5,
         "id": 49281675,
         "title": "Show HN: UTC Time - live clock, ISO 8601, Unix timestamp",
         "url": "https://utctime.app/",
@@ -836,31 +860,7 @@
         "points": 10,
         "comments": 0,
         "author": "nadermx",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49281618,
-        "title": "Show HN: I asked Claude to write DDIA as a live comic",
-        "url": "https://systemscomic.com/ddia/read",
-        "discussion_url": "https://news.ycombinator.com/item?id=49281618",
-        "site": "systemscomic.com",
-        "points": 6,
-        "comments": 0,
-        "author": "samuelxing",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49276673,
-        "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-        "url": "https://timer.jotaen.net",
-        "discussion_url": "https://news.ycombinator.com/item?id=49276673",
-        "site": "timer.jotaen.net",
-        "points": 26,
-        "comments": 9,
-        "author": "jotaen",
-        "age": "13h ago"
+        "age": "4h ago"
       }
     ]
   }
