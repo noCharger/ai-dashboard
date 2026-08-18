@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-18T19:19:45Z",
+  "generated": "2026-08-18T20:10:13Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 10507,
+        "trending_score": 10512,
         "downloads": 665513,
-        "likes": 11070,
+        "likes": 11075,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1698,
+        "trending_score": 1701,
         "downloads": 3561466,
-        "likes": 1796,
+        "likes": 1799,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -42,7 +42,7 @@
         "org": "Qwen",
         "trending_score": 1016,
         "downloads": 11212,
-        "likes": 1062,
+        "likes": 1063,
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 940,
-        "downloads": 503632,
-        "likes": 1204,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "MiniMaxAI/MiniMax-Music3",
         "org": "MiniMaxAI",
-        "trending_score": 917,
+        "trending_score": 918,
         "downloads": 11745,
-        "likes": 945,
+        "likes": 946,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
         "tags": [
           "diffusers",
@@ -84,6 +67,23 @@
           "minimax_music3",
           "music-generation",
           "text-to-music"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
+        "trending_score": 907,
+        "downloads": 503632,
+        "likes": 1207,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "tags": [
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 108313,
+        "stars": 108353,
         "stars_delta": 2306,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "chaitanyagiri/munder-difflin",
         "description": "local multi-agent harness",
         "url": "https://github.com/chaitanyagiri/munder-difflin",
-        "stars": 1913,
+        "stars": 1939,
         "stars_delta": 256,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "url": "https://github.com/akitaonrails/ai-memory",
-        "stars": 2631,
+        "stars": 2637,
         "stars_delta": 730,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 29244,
+        "stars": 29262,
         "stars_delta": 298,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 29033,
+        "stars": 29058,
         "stars_delta": 726,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 21575,
+        "stars": 21611,
         "stars_delta": 16260,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -373,7 +373,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 8947,
+        "stars": 8955,
         "stars_delta": 4746,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 7446,
+        "stars": 7453,
         "stars_delta": 3627,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "megadose/holehe",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "url": "https://github.com/megadose/holehe",
-        "stars": 13578,
+        "stars": 13581,
         "stars_delta": 1416,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 26343,
+        "stars": 26351,
         "stars_delta": 1477,
         "language": "Shell",
         "language_color": "#89e051"
@@ -415,7 +415,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 21907,
+        "stars": 21917,
         "stars_delta": 20926,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35540,
+        "stars": 35542,
         "stars_delta": 9517,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 39036,
+        "stars": 39044,
         "stars_delta": 37085,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 50381,
+        "stars": 50398,
         "stars_delta": 31675,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 82932,
+        "stars": 82941,
         "stars_delta": 21062,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 653,
+        "upvotes": 659,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 3350
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.16859",
         "categories": [],
-        "upvotes": 108,
+        "upvotes": 109,
         "published": "2026-08-16",
         "github_repo": "https://github.com/MirroS-Lab/HarnessEval-W",
         "github_stars": 132
@@ -683,58 +683,58 @@
         "url": "https://github.com/RyanCodrai/turbovec",
         "discussion_url": "https://news.ycombinator.com/item?id=49349898",
         "site": "github.com",
-        "points": 67,
-        "comments": 9,
+        "points": 109,
+        "comments": 13,
         "author": "fittingopposite",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49349984,
-        "title": "How does IKEA come up with names for its products?",
-        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49349984",
-        "site": "ikea.com",
-        "points": 72,
-        "comments": 39,
-        "author": "NaOH",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49348912,
-        "title": "And then the men with guns tell you to do it anyway",
-        "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49348912",
-        "site": "shkspr.mobi",
-        "points": 59,
-        "comments": 10,
-        "author": "_djo_",
         "age": "2h ago"
       },
       {
+        "rank": 2,
+        "id": 49351324,
+        "title": "Beware Management Consultants",
+        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49351324",
+        "site": "about.iceland.co.uk",
+        "points": 31,
+        "comments": 6,
+        "author": "KolmogorovComp",
+        "age": "40m ago"
+      },
+      {
+        "rank": 3,
+        "id": 49351330,
+        "title": "Norway Should Buy OpenAI",
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "discussion_url": "https://news.ycombinator.com/item?id=49351330",
+        "site": "onethousandmeans.com",
+        "points": 93,
+        "comments": 83,
+        "author": "alexeigannon",
+        "age": "39m ago"
+      },
+      {
         "rank": 4,
+        "id": 49345263,
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49345263",
+        "site": "seths.blog",
+        "points": 638,
+        "comments": 429,
+        "author": "herbertl",
+        "age": "6h ago"
+      },
+      {
+        "rank": 5,
         "id": 49344825,
         "title": "Using the railway network as a flatbed scanner",
         "url": "https://philo.gay/linecam/",
         "discussion_url": "https://news.ycombinator.com/item?id=49344825",
         "site": "philo.gay",
-        "points": 309,
+        "points": 326,
         "comments": 52,
         "author": "otherayden",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49345220,
-        "title": "Fixing a bricked Framework laptop",
-        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49345220",
-        "site": "quantum5.ca",
-        "points": 262,
-        "comments": 168,
-        "author": "jp_sc",
-        "age": "6h ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
@@ -745,8 +745,8 @@
         "url": "https://news.ycombinator.com/item?id=49332495",
         "discussion_url": "https://news.ycombinator.com/item?id=49332495",
         "site": "news.ycombinator.com",
-        "points": 165,
-        "comments": 124,
+        "points": 174,
+        "comments": 127,
         "author": "sharts",
         "age": "1d ago"
       },
@@ -757,8 +757,8 @@
         "url": "https://news.ycombinator.com/item?id=49331033",
         "discussion_url": "https://news.ycombinator.com/item?id=49331033",
         "site": "news.ycombinator.com",
-        "points": 622,
-        "comments": 415,
+        "points": 624,
+        "comments": 418,
         "author": "dhruv3006",
         "age": "1d ago"
       },
@@ -770,7 +770,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49313346",
         "site": "news.ycombinator.com",
         "points": 37,
-        "comments": 42,
+        "comments": 43,
         "author": "Abh1Works",
         "age": "3d ago"
       },
@@ -781,10 +781,10 @@
         "url": "https://news.ycombinator.com/item?id=49348365",
         "discussion_url": "https://news.ycombinator.com/item?id=49348365",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 8,
         "author": "gruensk",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
@@ -793,7 +793,7 @@
         "url": "https://news.ycombinator.com/item?id=49322107",
         "discussion_url": "https://news.ycombinator.com/item?id=49322107",
         "site": "news.ycombinator.com",
-        "points": 640,
+        "points": 641,
         "comments": 198,
         "author": "stagas",
         "age": "2d ago"
@@ -802,63 +802,63 @@
     "show": [
       {
         "rank": 1,
-        "id": 49350637,
-        "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-        "url": "https://pantheongpu.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49350637",
-        "site": "pantheongpu.com",
-        "points": 6,
-        "comments": 0,
-        "author": "saqibkhan1992",
-        "age": "31m ago"
-      },
-      {
-        "rank": 2,
-        "id": 49349159,
-        "title": "Show HN: macOS data protection keychain for Electron apps",
-        "url": "https://github.com/biw/keychain-store",
-        "discussion_url": "https://news.ycombinator.com/item?id=49349159",
-        "site": "github.com",
-        "points": 11,
-        "comments": 0,
-        "author": "biwills",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49347178,
-        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-        "url": "https://github.com/therepanic/openleetcode",
-        "discussion_url": "https://news.ycombinator.com/item?id=49347178",
-        "site": "github.com",
-        "points": 24,
-        "comments": 10,
-        "author": "therepanic",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
         "id": 49351020,
         "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
         "url": "https://github.com/argus-testing/argus",
         "discussion_url": "https://news.ycombinator.com/item?id=49351020",
         "site": "github.com",
-        "points": 3,
-        "comments": 0,
+        "points": 7,
+        "comments": 3,
         "author": "canergl",
-        "age": "9m ago"
+        "age": "59m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49347178,
+        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+        "url": "https://github.com/therepanic/openleetcode",
+        "discussion_url": "https://news.ycombinator.com/item?id=49347178",
+        "site": "github.com",
+        "points": 30,
+        "comments": 13,
+        "author": "therepanic",
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49350637,
+        "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+        "url": "https://pantheongpu.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49350637",
+        "site": "pantheongpu.com",
+        "points": 8,
+        "comments": 0,
+        "author": "saqibkhan1992",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49349159,
+        "title": "Show HN: macOS data protection keychain for Electron apps",
+        "url": "https://github.com/biw/keychain-store",
+        "discussion_url": "https://news.ycombinator.com/item?id=49349159",
+        "site": "github.com",
+        "points": 12,
+        "comments": 0,
+        "author": "biwills",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49350964,
-        "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
-        "url": "https://github.com/cjchanh/aaap-challenge",
-        "discussion_url": "https://news.ycombinator.com/item?id=49350964",
+        "id": 49351178,
+        "title": "Show HN: Releasaurus – software versioning and release automation tool",
+        "url": "https://github.com/robgonnella/releasaurus",
+        "discussion_url": "https://news.ycombinator.com/item?id=49351178",
         "site": "github.com",
-        "points": 3,
+        "points": 2,
         "comments": 0,
-        "author": "cjarchivist",
-        "age": "12m ago"
+        "author": "rgonn",
+        "age": "49m ago"
       }
     ]
   }
