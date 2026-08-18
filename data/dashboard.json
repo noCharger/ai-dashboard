@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-17T23:11:50Z",
+  "generated": "2026-08-18T00:32:47Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 10189,
+        "trending_score": 10201,
         "downloads": 415039,
-        "likes": 10697,
+        "likes": 10711,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1541,
+        "trending_score": 1546,
         "downloads": 2727609,
-        "likes": 1623,
+        "likes": 1628,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 894,
+        "trending_score": 896,
         "downloads": 465529,
-        "likes": 1104,
+        "likes": 1108,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "meta-models/Muse-Glimmer-30B",
-        "org": "meta-models",
-        "trending_score": 879,
-        "downloads": 334099,
-        "likes": 1660,
-        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "name": "MiniMaxAI/MiniMax-Music3",
+        "org": "MiniMaxAI",
+        "trending_score": 880,
+        "downloads": 10375,
+        "likes": 904,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
         "tags": [
-          "transformers",
+          "diffusers",
           "safetensors",
-          "muse_glimmer",
-          "image-text-to-text",
-          "conversational"
+          "minimax_music3",
+          "music-generation",
+          "text-to-music"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 51.7333848314647,
+        "speed_tps": 51.2938078389307,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.4204833256263,
+        "speed_tps": 51.2873130498463,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.176366233487,
+        "speed_tps": 50.9048489949727,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -311,8 +311,8 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 105927,
-        "stars_delta": 1275,
+        "stars": 105994,
+        "stars_delta": 1189,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "usestrix/strix",
         "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
         "url": "https://github.com/usestrix/strix",
-        "stars": 54100,
-        "stars_delta": 656,
+        "stars": 54159,
+        "stars_delta": 598,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "nautechsystems/nautilus_trader",
         "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
         "url": "https://github.com/nautechsystems/nautilus_trader",
-        "stars": 25887,
-        "stars_delta": 115,
+        "stars": 25910,
+        "stars_delta": 120,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -341,7 +341,7 @@
         "name": "akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "url": "https://github.com/akitaonrails/ai-memory",
-        "stars": 2004,
+        "stars": 2045,
         "stars_delta": 207,
         "language": "Rust",
         "language_color": "#dea584"
@@ -351,8 +351,8 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 28379,
-        "stars_delta": 156,
+        "stars": 28415,
+        "stars_delta": 198,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,8 +363,8 @@
         "name": "cathrynlavery/diagram-design",
         "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 20622,
-        "stars_delta": 15600,
+        "stars": 20676,
+        "stars_delta": 16260,
         "language": "HTML",
         "language_color": "#e34c26"
       },
@@ -373,8 +373,8 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 8556,
-        "stars_delta": 5284,
+        "stars": 8573,
+        "stars_delta": 4746,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 7110,
-        "stars_delta": 2950,
+        "stars": 7126,
+        "stars_delta": 3627,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "megadose/holehe",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "url": "https://github.com/megadose/holehe",
-        "stars": 13436,
-        "stars_delta": 1287,
+        "stars": 13443,
+        "stars_delta": 1416,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -403,8 +403,8 @@
         "name": "PrimeIntellect-ai/prime-agent",
         "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "stars": 16912,
-        "stars_delta": 6435,
+        "stars": 16924,
+        "stars_delta": 4328,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -415,8 +415,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 21430,
-        "stars_delta": 20897,
+        "stars": 21462,
+        "stars_delta": 20926,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -425,8 +425,8 @@
         "name": "bojieli/ai-agent-book",
         "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
         "url": "https://github.com/bojieli/ai-agent-book",
-        "stars": 38488,
-        "stars_delta": 37110,
+        "stars": 38508,
+        "stars_delta": 37085,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -435,8 +435,8 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 49820,
-        "stars_delta": 31374,
+        "stars": 49838,
+        "stars_delta": 31675,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -445,8 +445,8 @@
         "name": "koala73/worldmonitor",
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "url": "https://github.com/koala73/worldmonitor",
-        "stars": 82670,
-        "stars_delta": 20810,
+        "stars": 82677,
+        "stars_delta": 21062,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 22607,
-        "stars_delta": 13308,
+        "stars": 22621,
+        "stars_delta": 13625,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -534,7 +534,7 @@
         "upvotes": 642,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-        "github_stars": 3227
+        "github_stars": 3314
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 127,
         "published": "2026-05-28",
         "github_repo": "https://github.com/titanwings/colleague-skill",
-        "github_stars": 23074
+        "github_stars": 23136
       },
       {
         "rank": 3,
@@ -685,22 +685,22 @@
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "discussion_url": "https://news.ycombinator.com/item?id=49338459",
         "site": "timmarinin.net",
-        "points": 76,
-        "comments": 50,
+        "points": 158,
+        "comments": 122,
         "author": "gavide",
-        "age": "51m ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49334991,
-        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-        "url": "https://arxiv.org/abs/2608.13759",
-        "discussion_url": "https://news.ycombinator.com/item?id=49334991",
-        "site": "arxiv.org",
-        "points": 136,
-        "comments": 29,
-        "author": "linggen",
-        "age": "5h ago"
+        "id": 49339359,
+        "title": "Cursor Origin",
+        "url": "https://cursor.com/docs/origin",
+        "discussion_url": "https://news.ycombinator.com/item?id=49339359",
+        "site": "cursor.com",
+        "points": 33,
+        "comments": 9,
+        "author": "peterspath",
+        "age": "34m ago"
       },
       {
         "rank": 3,
@@ -709,34 +709,34 @@
         "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49338328",
         "site": "fabiensanglard.net",
-        "points": 44,
-        "comments": 10,
+        "points": 105,
+        "comments": 47,
         "author": "shdon",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 49330781,
-        "title": "A Preview of DuckDB v2.0",
-        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-        "discussion_url": "https://news.ycombinator.com/item?id=49330781",
-        "site": "duckdb.org",
-        "points": 501,
-        "comments": 86,
-        "author": "ibotty",
-        "age": "9h ago"
+        "id": 49338285,
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "discussion_url": "https://news.ycombinator.com/item?id=49338285",
+        "site": "catcrafts.net",
+        "points": 56,
+        "comments": 14,
+        "author": "pizzaiolo",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49331423,
-        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "discussion_url": "https://news.ycombinator.com/item?id=49331423",
-        "site": "wiz.io",
-        "points": 297,
-        "comments": 122,
-        "author": "galnagli",
-        "age": "8h ago"
+        "id": 49334991,
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "discussion_url": "https://news.ycombinator.com/item?id=49334991",
+        "site": "arxiv.org",
+        "points": 151,
+        "comments": 31,
+        "author": "linggen",
+        "age": "6h ago"
       }
     ],
     "ask": [
@@ -747,10 +747,10 @@
         "url": "https://news.ycombinator.com/item?id=49331033",
         "discussion_url": "https://news.ycombinator.com/item?id=49331033",
         "site": "news.ycombinator.com",
-        "points": 467,
-        "comments": 295,
+        "points": 483,
+        "comments": 304,
         "author": "dhruv3006",
-        "age": "9h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
@@ -760,7 +760,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49322107",
         "site": "news.ycombinator.com",
         "points": 621,
-        "comments": 192,
+        "comments": 193,
         "author": "stagas",
         "age": "1d ago"
       },
@@ -772,9 +772,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49335601",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 5,
+        "comments": 6,
         "author": "nerdyguy90",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 4,
@@ -786,7 +786,7 @@
         "points": 4,
         "comments": 2,
         "author": "cakbeslik",
-        "age": "6h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
@@ -798,7 +798,7 @@
         "points": 3,
         "comments": 2,
         "author": "robalni",
-        "age": "6h ago"
+        "age": "8h ago"
       }
     ],
     "show": [
@@ -809,58 +809,58 @@
         "url": "https://desktopcolors.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49327643",
         "site": "desktopcolors.com",
-        "points": 135,
-        "comments": 59,
+        "points": 137,
+        "comments": 60,
         "author": "vlowrian",
-        "age": "15h ago"
+        "age": "16h ago"
       },
       {
         "rank": 2,
+        "id": 49338963,
+        "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+        "url": "https://github.com/couldbeme/holdline",
+        "discussion_url": "https://news.ycombinator.com/item?id=49338963",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "couldbeme_",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 49330215,
         "title": "Show HN: Sokoban AI Solver",
         "url": "https://mkornreich.me/projects/sokoban/",
         "discussion_url": "https://news.ycombinator.com/item?id=49330215",
         "site": "mkornreich.me",
-        "points": 66,
-        "comments": 38,
+        "points": 67,
+        "comments": 40,
         "author": "enjoyyourlife",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49331288,
         "title": "Show HN: Learn Flags Quiz",
         "url": "https://flagquizzes.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49331288",
         "site": "flagquizzes.com",
-        "points": 38,
-        "comments": 22,
+        "points": 40,
+        "comments": 24,
         "author": "artiomyak",
-        "age": "9h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49334754,
-        "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
-        "url": "https://tesana.ai/en",
-        "discussion_url": "https://news.ycombinator.com/item?id=49334754",
-        "site": "tesana.ai",
-        "points": 8,
-        "comments": 4,
-        "author": "solomonyardley",
-        "age": "5h ago"
+        "age": "10h ago"
       },
       {
         "rank": 5,
-        "id": 49333084,
-        "title": "Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression",
-        "url": "https://github.com/liventruth/UL-SMF-Cache-Compression",
-        "discussion_url": "https://news.ycombinator.com/item?id=49333084",
+        "id": 49338367,
+        "title": "Show HN: Graphlib -- A new way to create directional graphs in C++",
+        "url": "https://github.com/RANDOMFNP/Graphlib",
+        "discussion_url": "https://news.ycombinator.com/item?id=49338367",
         "site": "github.com",
-        "points": 10,
-        "comments": 0,
-        "author": "liventruth",
-        "age": "7h ago"
+        "points": 3,
+        "comments": 1,
+        "author": "RandomFNP",
+        "age": "2h ago"
       }
     ]
   }
