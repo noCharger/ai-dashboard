@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-19T14:21:32Z",
+  "generated": "2026-08-19T15:19:38Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 10736,
+        "trending_score": 10747,
         "downloads": 1006235,
-        "likes": 11360,
+        "likes": 11376,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1795,
+        "trending_score": 1804,
         "downloads": 4318134,
-        "likes": 1902,
+        "likes": 1911,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Qwen/Qwen3.8-2.4T-A95B",
-        "org": "Qwen",
-        "trending_score": 1034,
-        "downloads": 12699,
-        "likes": 1082,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5_moe_text",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "MiniMaxAI/MiniMax-Music3",
         "org": "MiniMaxAI",
-        "trending_score": 979,
+        "trending_score": 981,
         "downloads": 13138,
-        "likes": 1009,
+        "likes": 1011,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
         "tags": [
           "diffusers",
@@ -71,10 +54,27 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "Qwen/Qwen3.8-2.4T-A95B",
+        "org": "Qwen",
+        "trending_score": 967,
+        "downloads": 12699,
+        "likes": 1084,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe_text",
+          "text-generation",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 586,
+        "trending_score": 577,
         "downloads": 555993,
         "likes": 1281,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
@@ -311,7 +311,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 109854,
+        "stars": 109984,
         "stars_delta": 2221,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 29880,
+        "stars": 29922,
         "stars_delta": 803,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "chaitanyagiri/munder-difflin",
         "description": "local multi-agent harness",
         "url": "https://github.com/chaitanyagiri/munder-difflin",
-        "stars": 2494,
+        "stars": 2524,
         "stars_delta": 797,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 29595,
+        "stars": 29623,
         "stars_delta": 767,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "url": "https://github.com/akitaonrails/ai-memory",
-        "stars": 3100,
+        "stars": 3121,
         "stars_delta": 609,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 22824,
+        "stars": 22917,
         "stars_delta": 15812,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -373,7 +373,7 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 7719,
+        "stars": 7727,
         "stars_delta": 3772,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 9406,
+        "stars": 9423,
         "stars_delta": 4304,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "megadose/holehe",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "url": "https://github.com/megadose/holehe",
-        "stars": 13682,
+        "stars": 13683,
         "stars_delta": 1568,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 26687,
+        "stars": 26697,
         "stars_delta": 1802,
         "language": "Shell",
         "language_color": "#89e051"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 28545,
+        "stars": 28562,
         "stars_delta": 28442,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35617,
+        "stars": 35620,
         "stars_delta": 9555,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 22208,
+        "stars": 22222,
         "stars_delta": 21447,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 50950,
+        "stars": 50988,
         "stars_delta": 32029,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23175,
+        "stars": 23183,
         "stars_delta": 13944,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 676,
+        "upvotes": 677,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 3535
@@ -686,58 +686,58 @@
         "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
         "discussion_url": "https://news.ycombinator.com/item?id=49360242",
         "site": "grapheneos.social",
-        "points": 270,
-        "comments": 152,
+        "points": 357,
+        "comments": 202,
         "author": "exceptione",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 49361279,
-        "title": "PostgreSQL for Everything",
-        "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49361279",
-        "site": "raphaelbauer.com",
-        "points": 49,
-        "comments": 15,
-        "author": "karlmush",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
         "id": 49360545,
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
         "discussion_url": "https://news.ycombinator.com/item?id=49360545",
         "site": "yassa9.github.io",
-        "points": 109,
-        "comments": 26,
+        "points": 158,
+        "comments": 38,
         "author": "yassa9",
         "age": "2h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 49360015,
         "title": "A joke domain purchase turned in geopolitical warfare",
         "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "discussion_url": "https://news.ycombinator.com/item?id=49360015",
         "site": "sprocketfox.io",
-        "points": 96,
-        "comments": 8,
+        "points": 193,
+        "comments": 21,
         "author": "kareiva",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": 49355606,
         "title": "OpenLogi",
         "url": "https://openlogi.org/en",
         "discussion_url": "https://news.ycombinator.com/item?id=49355606",
         "site": "openlogi.org",
-        "points": 1121,
-        "comments": 315,
+        "points": 1180,
+        "comments": 332,
         "author": "amatheus",
-        "age": "12h ago"
+        "age": "13h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49361279,
+        "title": "PostgreSQL for Everything",
+        "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49361279",
+        "site": "raphaelbauer.com",
+        "points": 94,
+        "comments": 71,
+        "author": "karlmush",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -748,13 +748,25 @@
         "url": "https://news.ycombinator.com/item?id=49332495",
         "discussion_url": "https://news.ycombinator.com/item?id=49332495",
         "site": "news.ycombinator.com",
-        "points": 288,
-        "comments": 234,
+        "points": 290,
+        "comments": 236,
         "author": "sharts",
-        "age": "1d ago"
+        "age": "2d ago"
       },
       {
         "rank": 2,
+        "id": 49362305,
+        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+        "url": "https://news.ycombinator.com/item?id=49362305",
+        "discussion_url": "https://news.ycombinator.com/item?id=49362305",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 3,
+        "author": "elar_verole",
+        "age": "38m ago"
+      },
+      {
+        "rank": 3,
         "id": 49313346,
         "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
         "url": "https://news.ycombinator.com/item?id=49313346",
@@ -766,19 +778,19 @@
         "age": "3d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49331033,
         "title": "Ask HN: Alternatives to GitHub",
         "url": "https://news.ycombinator.com/item?id=49331033",
         "discussion_url": "https://news.ycombinator.com/item?id=49331033",
         "site": "news.ycombinator.com",
-        "points": 632,
+        "points": 633,
         "comments": 425,
         "author": "dhruv3006",
         "age": "2d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49359979,
         "title": "Ask HN: How do you access archive.today?",
         "url": "https://news.ycombinator.com/item?id=49359979",
@@ -787,81 +799,69 @@
         "points": 2,
         "comments": 1,
         "author": "crazybonkersai",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49322107,
-        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-        "url": "https://news.ycombinator.com/item?id=49322107",
-        "discussion_url": "https://news.ycombinator.com/item?id=49322107",
-        "site": "news.ycombinator.com",
-        "points": 647,
-        "comments": 200,
-        "author": "stagas",
-        "age": "2d ago"
+        "age": "4h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49306415,
+        "title": "Show HN: Nikon F100 Film Camera Repair Notes",
+        "url": "https://github.com/enthdegree/f100",
+        "discussion_url": "https://news.ycombinator.com/item?id=49306415",
+        "site": "github.com",
+        "points": 13,
+        "comments": 2,
+        "author": "enthdegree",
+        "age": "4d ago"
+      },
+      {
+        "rank": 2,
+        "id": 49355607,
+        "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+        "url": "https://github.com/katiahayati/lucasartsifier/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49355607",
+        "site": "github.com",
+        "points": 124,
+        "comments": 63,
+        "author": "wkfauna",
+        "age": "13h ago"
+      },
+      {
+        "rank": 3,
         "id": 49361754,
         "title": "Show HN: Verify OpenAI's signed agent traffic in Python (RFC 9421/Web Bot Auth)",
         "url": "https://github.com/regent-protocol/regent-httpsig",
         "discussion_url": "https://news.ycombinator.com/item?id=49361754",
         "site": "github.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "author": "abay_aubakirov",
-        "age": "19m ago"
+        "age": "1h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "id": 49361499,
         "title": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
         "url": "https://www.xalgorix.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49361499",
         "site": "xalgorix.com",
-        "points": 4,
+        "points": 5,
         "comments": 3,
         "author": "xalgord",
-        "age": "38m ago"
+        "age": "1h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49361478,
         "title": "Show HN: Anonymous age verification with passkey-powered encryption",
         "url": "https://loginwithone.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49361478",
         "site": "loginwithone.com",
-        "points": 3,
+        "points": 4,
         "comments": 4,
         "author": "mikeysight",
-        "age": "40m ago"
-      },
-      {
-        "rank": 4,
-        "id": 49361399,
-        "title": "Show HN: My Mac slept through its cron jobs, so I made goguma, a menu bar app",
-        "url": "https://github.com/junnam586/goguma",
-        "discussion_url": "https://news.ycombinator.com/item?id=49361399",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "junnam586",
-        "age": "47m ago"
-      },
-      {
-        "rank": 5,
-        "id": 49361298,
-        "title": "Show HN: Marginal – See which customers and features drive your AI API costs",
-        "url": "https://marginalhq.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49361298",
-        "site": "marginalhq.com",
-        "points": 3,
-        "comments": 0,
-        "author": "jithinlalk25",
-        "age": "58m ago"
+        "age": "1h ago"
       }
     ]
   }
