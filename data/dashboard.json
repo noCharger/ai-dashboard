@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-19T23:12:26Z",
+  "generated": "2026-08-20T00:32:47Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 10817,
+        "trending_score": 10828,
         "downloads": 1006235,
-        "likes": 11466,
+        "likes": 11478,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1936,
+        "trending_score": 1950,
         "downloads": 4318134,
-        "likes": 2058,
+        "likes": 2075,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "MiniMaxAI/MiniMax-Music3",
         "org": "MiniMaxAI",
-        "trending_score": 1000,
+        "trending_score": 1005,
         "downloads": 13138,
-        "likes": 1032,
+        "likes": 1037,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
         "tags": [
           "diffusers",
@@ -55,16 +55,16 @@
       },
       {
         "rank": 4,
-        "name": "Qwen/Qwen3.8-2.4T-A95B",
-        "org": "Qwen",
-        "trending_score": 596,
-        "downloads": 12699,
-        "likes": 1099,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "name": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "org": "deepseek-ai",
+        "trending_score": 580,
+        "downloads": 37583,
+        "likes": 633,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
         "tags": [
           "transformers",
           "safetensors",
-          "qwen3_5_moe_text",
+          "deepseek_v4",
           "text-generation",
           "conversational"
         ],
@@ -72,16 +72,16 @@
       },
       {
         "rank": 5,
-        "name": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "org": "deepseek-ai",
-        "trending_score": 578,
-        "downloads": 37583,
-        "likes": 631,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "name": "Qwen/Qwen3.8-2.4T-A95B",
+        "org": "Qwen",
+        "trending_score": 572,
+        "downloads": 12699,
+        "likes": 1099,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "tags": [
           "transformers",
           "safetensors",
-          "deepseek_v4",
+          "qwen3_5_moe_text",
           "text-generation",
           "conversational"
         ],
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.5996188603798,
+        "speed_tps": 59.1210667794277,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.3421918940244,
+        "speed_tps": 57.3474995782548,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 72.6962141731229,
+        "speed_tps": 73.9375904959433,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.20202087522,
+        "speed_tps": 56.175549891343,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -311,7 +311,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 110535,
+        "stars": 110621,
         "stars_delta": 2221,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,8 +321,8 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 30138,
-        "stars_delta": 803,
+        "stars": 30174,
+        "stars_delta": 804,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "chaitanyagiri/munder-difflin",
         "description": "local multi-agent harness",
         "url": "https://github.com/chaitanyagiri/munder-difflin",
-        "stars": 2657,
-        "stars_delta": 797,
+        "stars": 2684,
+        "stars_delta": 795,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
         "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": 29806,
-        "stars_delta": 767,
+        "stars": 29835,
+        "stars_delta": 766,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "nautechsystems/nautilus_trader",
         "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
         "url": "https://github.com/nautechsystems/nautilus_trader",
-        "stars": 26434,
-        "stars_delta": 79,
+        "stars": 26441,
+        "stars_delta": 80,
         "language": "Rust",
         "language_color": "#dea584"
       }
@@ -361,10 +361,10 @@
       {
         "rank": 1,
         "name": "cathrynlavery/diagram-design",
-        "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 23275,
-        "stars_delta": 15812,
+        "stars": 23321,
+        "stars_delta": 14397,
         "language": "HTML",
         "language_color": "#e34c26"
       },
@@ -373,8 +373,8 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 7801,
-        "stars_delta": 3772,
+        "stars": 7811,
+        "stars_delta": 3838,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 9497,
-        "stars_delta": 4304,
+        "stars": 9508,
+        "stars_delta": 4005,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "megadose/holehe",
         "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
         "url": "https://github.com/megadose/holehe",
-        "stars": 13729,
-        "stars_delta": 1568,
+        "stars": 13737,
+        "stars_delta": 1704,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -403,8 +403,8 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 26770,
-        "stars_delta": 1802,
+        "stars": 26778,
+        "stars_delta": 2208,
         "language": "Shell",
         "language_color": "#89e051"
       }
@@ -415,8 +415,8 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 28657,
-        "stars_delta": 28442,
+        "stars": 28671,
+        "stars_delta": 28450,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -425,8 +425,8 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35644,
-        "stars_delta": 9555,
+        "stars": 35647,
+        "stars_delta": 9639,
         "language": "Swift",
         "language_color": "#F05138"
       },
@@ -435,8 +435,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 22315,
-        "stars_delta": 21447,
+        "stars": 22329,
+        "stars_delta": 20624,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "diegosouzapw/OmniRoute",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline",
         "url": "https://github.com/diegosouzapw/OmniRoute",
-        "stars": 51216,
-        "stars_delta": 32029,
+        "stars": 51238,
+        "stars_delta": 31584,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23218,
-        "stars_delta": 13944,
+        "stars": 23221,
+        "stars_delta": 14200,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -686,10 +686,10 @@
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "discussion_url": "https://news.ycombinator.com/item?id=49364559",
         "site": "openrouter.ai",
-        "points": 528,
-        "comments": 291,
+        "points": 588,
+        "comments": 316,
         "author": "rvz",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -698,46 +698,46 @@
         "url": "https://go.dev/blog/go1.27",
         "discussion_url": "https://news.ycombinator.com/item?id=49365405",
         "site": "go.dev",
-        "points": 378,
-        "comments": 84,
+        "points": 418,
+        "comments": 100,
         "author": "database64128",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
+        "id": 49368625,
+        "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+        "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+        "discussion_url": "https://news.ycombinator.com/item?id=49368625",
+        "site": "kmbc.com",
+        "points": 33,
+        "comments": 6,
+        "author": "cocacola1",
+        "age": "54m ago"
+      },
+      {
+        "rank": 4,
         "id": 49364745,
         "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
         "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
         "discussion_url": "https://news.ycombinator.com/item?id=49364745",
         "site": "grapheneos.social",
-        "points": 222,
-        "comments": 67,
+        "points": 269,
+        "comments": 105,
         "author": "Animux",
-        "age": "5h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49367350,
-        "title": "Anthropic Refuses to Support Agents.md",
-        "url": "https://github.com/anthropics/claude-code/issues/6235",
-        "discussion_url": "https://news.ycombinator.com/item?id=49367350",
-        "site": "github.com",
-        "points": 48,
-        "comments": 22,
-        "author": "fg137",
-        "age": "1h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 49365443,
-        "title": "Unsloth Dynamic 3.0 GGUFs",
-        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-        "discussion_url": "https://news.ycombinator.com/item?id=49365443",
-        "site": "unsloth.ai",
-        "points": 154,
-        "comments": 53,
-        "author": "jonesy827",
-        "age": "4h ago"
+        "id": 49365841,
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49365841",
+        "site": "sprocketfox.io",
+        "points": 122,
+        "comments": 33,
+        "author": "1e1a",
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -755,30 +755,18 @@
       },
       {
         "rank": 2,
-        "id": 49366144,
-        "title": "Ask HN: Has anyone shipped a self-modifying application with LLMs?",
-        "url": "https://news.ycombinator.com/item?id=49366144",
-        "discussion_url": "https://news.ycombinator.com/item?id=49366144",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 6,
-        "author": "ex-aws-dude",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
         "id": 49313346,
         "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
         "url": "https://news.ycombinator.com/item?id=49313346",
         "discussion_url": "https://news.ycombinator.com/item?id=49313346",
         "site": "news.ycombinator.com",
-        "points": 48,
+        "points": 49,
         "comments": 54,
         "author": "Abh1Works",
         "age": "4d ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 49331033,
         "title": "Ask HN: Alternatives to GitHub",
         "url": "https://news.ycombinator.com/item?id=49331033",
@@ -788,6 +776,18 @@
         "comments": 425,
         "author": "dhruv3006",
         "age": "2d ago"
+      },
+      {
+        "rank": 4,
+        "id": 49366144,
+        "title": "Ask HN: Has anyone shipped a self-modifying application with LLMs?",
+        "url": "https://news.ycombinator.com/item?id=49366144",
+        "discussion_url": "https://news.ycombinator.com/item?id=49366144",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 7,
+        "author": "ex-aws-dude",
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -813,7 +813,7 @@
         "points": 2,
         "comments": 1,
         "author": "breynard",
-        "age": "34m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -822,10 +822,10 @@
         "url": "https://book.curiora.space/",
         "discussion_url": "https://news.ycombinator.com/item?id=49367942",
         "site": "book.curiora.space",
-        "points": 3,
-        "comments": 0,
+        "points": 4,
+        "comments": 1,
         "author": "pentagram",
-        "age": "50m ago"
+        "age": "2h ago"
       },
       {
         "rank": 3,
@@ -837,22 +837,10 @@
         "points": 26,
         "comments": 6,
         "author": "dpc94",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 49367419,
-        "title": "Show HN: Turning websites into micro CLIs for Claude Code to save on tokens",
-        "url": "https://github.com/only-cli/oc",
-        "discussion_url": "https://news.ycombinator.com/item?id=49367419",
-        "site": "github.com",
-        "points": 3,
-        "comments": 2,
-        "author": "hyes",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
         "id": 49355607,
         "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
         "url": "https://github.com/katiahayati/lucasartsifier/",
@@ -861,7 +849,19 @@
         "points": 139,
         "comments": 83,
         "author": "wkfauna",
-        "age": "21h ago"
+        "age": "22h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49306415,
+        "title": "Show HN: Nikon F100 Film Camera Repair Notes",
+        "url": "https://github.com/enthdegree/f100",
+        "discussion_url": "https://news.ycombinator.com/item?id=49306415",
+        "site": "github.com",
+        "points": 42,
+        "comments": 20,
+        "author": "enthdegree",
+        "age": "4d ago"
       }
     ]
   }
