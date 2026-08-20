@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-20T12:22:15Z",
+  "generated": "2026-08-20T13:37:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 9977,
+        "trending_score": 9686,
         "downloads": 1373584,
-        "likes": 11626,
+        "likes": 11639,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 2112,
+        "trending_score": 2123,
         "downloads": 5126652,
-        "likes": 2250,
+        "likes": 2263,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "MiniMaxAI/MiniMax-Music3",
         "org": "MiniMaxAI",
-        "trending_score": 1038,
+        "trending_score": 1044,
         "downloads": 14471,
-        "likes": 1074,
+        "likes": 1080,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
         "tags": [
           "diffusers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "org": "deepseek-ai",
-        "trending_score": 607,
-        "downloads": 43287,
-        "likes": 664,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v4",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "Qwen/Qwen3.8-27B-FP8",
         "org": "Qwen",
-        "trending_score": 583,
+        "trending_score": 584,
         "downloads": 1517643,
-        "likes": 617,
+        "likes": 618,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen3_5",
           "image-text-to-text",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "org": "orcarouter",
+        "trending_score": 566,
+        "downloads": 76109,
+        "likes": 652,
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "abliterated"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.5996188603798,
+        "speed_tps": 57.6133186790788,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.3474995782548,
+        "speed_tps": 55.3421918940244,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 74.4503129628365,
+        "speed_tps": 74.0790684119254,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 67.7937937919151,
+        "speed_tps": 69.6019642685599,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 27514,
+        "stars": 27565,
         "stars_delta": 340,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -321,7 +321,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 224884,
+        "stars": 225078,
         "stars_delta": 1894,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 11099,
+        "stars": 11195,
         "stars_delta": 1225,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 274647,
+        "stars": 274686,
         "stars_delta": 557,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 3869,
+        "stars": 3892,
         "stars_delta": 473,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 23943,
+        "stars": 24008,
         "stars_delta": 14397,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -373,7 +373,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 30761,
+        "stars": 30791,
         "stars_delta": 1659,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 26922,
+        "stars": 26941,
         "stars_delta": 2208,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 8007,
+        "stars": 8021,
         "stars_delta": 3838,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 9725,
+        "stars": 9735,
         "stars_delta": 4005,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 28794,
+        "stars": 28811,
         "stars_delta": 28450,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35679,
+        "stars": 35682,
         "stars_delta": 9639,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 22465,
+        "stars": 22486,
         "stars_delta": 20624,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 12141,
+        "stars": 12152,
         "stars_delta": 11504,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23394,
+        "stars": 23406,
         "stars_delta": 14200,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -688,10 +688,10 @@
         "url": "https://dontpastetheai.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49371857",
         "site": "dontpastetheai.com",
-        "points": 544,
-        "comments": 265,
+        "points": 724,
+        "comments": 359,
         "author": "pjerem",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
@@ -700,22 +700,22 @@
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49372583",
         "site": "blog.laserphile.com",
-        "points": 160,
-        "comments": 45,
+        "points": 263,
+        "comments": 83,
         "author": "emctech",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 49373269,
-        "title": "AI didn't erase the junior engineer's value, it increased it it",
-        "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49373269",
-        "site": "franciscotrindade.me",
-        "points": 25,
-        "comments": 27,
-        "author": "franciscomt",
-        "age": "39m ago"
+        "id": 49373456,
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49373456",
+        "site": "simedw.com",
+        "points": 83,
+        "comments": 25,
+        "author": "simedw",
+        "age": "1h ago"
       },
       {
         "rank": 4,
@@ -724,22 +724,22 @@
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "discussion_url": "https://news.ycombinator.com/item?id=49371006",
         "site": "devblogs.microsoft.com",
-        "points": 247,
-        "comments": 92,
+        "points": 265,
+        "comments": 99,
         "author": "luu",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 49364559,
-        "title": "OpenRouter is joining Stripe",
-        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49364559",
-        "site": "openrouter.ai",
-        "points": 887,
-        "comments": 454,
-        "author": "rvz",
-        "age": "18h ago"
+        "id": 49374269,
+        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49374269",
+        "site": "safedep.io",
+        "points": 8,
+        "comments": 0,
+        "author": "abhisek",
+        "age": "13m ago"
       }
     ],
     "ask": [
@@ -793,15 +793,15 @@
       },
       {
         "rank": 5,
-        "id": 49362305,
-        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
-        "url": "https://news.ycombinator.com/item?id=49362305",
-        "discussion_url": "https://news.ycombinator.com/item?id=49362305",
+        "id": 49366144,
+        "title": "Ask HN: Has anyone shipped a self-modifying application with LLMs?",
+        "url": "https://news.ycombinator.com/item?id=49366144",
+        "discussion_url": "https://news.ycombinator.com/item?id=49366144",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 9,
-        "author": "elar_verole",
-        "age": "21h ago"
+        "points": 8,
+        "comments": 10,
+        "author": "ex-aws-dude",
+        "age": "18h ago"
       }
     ],
     "show": [
@@ -812,58 +812,58 @@
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "discussion_url": "https://news.ycombinator.com/item?id=49373456",
         "site": "simedw.com",
-        "points": 7,
-        "comments": 0,
+        "points": 83,
+        "comments": 25,
         "author": "simedw",
-        "age": "17m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49373101,
-        "title": "Show HN: Your all-in-one text engine – zero dependencies",
-        "url": "https://dg.calia.cc/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49373101",
-        "site": "dg.calia.cc",
-        "points": 3,
-        "comments": 0,
-        "author": "silly-tae",
-        "age": "1h ago"
+        "id": 49374274,
+        "title": "Show HN: evepad – The missing IDE for building eve agents",
+        "url": "https://github.com/andrewckor/evepad",
+        "discussion_url": "https://news.ycombinator.com/item?id=49374274",
+        "site": "github.com",
+        "points": 4,
+        "comments": 1,
+        "author": "ckor",
+        "age": "13m ago"
       },
       {
         "rank": 3,
-        "id": 49373097,
-        "title": "Show HN: Ez – a macOS command runner that flags when a command gets slower",
-        "url": "https://github.com/urtti/ez",
-        "discussion_url": "https://news.ycombinator.com/item?id=49373097",
-        "site": "github.com",
+        "id": 49374169,
+        "title": "Show HN: Find every AI model your code calls and warn before it's retired",
+        "url": "https://llmstatus.ai",
+        "discussion_url": "https://news.ycombinator.com/item?id=49374169",
+        "site": "llmstatus.ai",
         "points": 4,
-        "comments": 0,
-        "author": "frankbyte",
-        "age": "1h ago"
+        "comments": 1,
+        "author": "taylorgt",
+        "age": "24m ago"
       },
       {
         "rank": 4,
-        "id": 49355607,
-        "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-        "url": "https://github.com/katiahayati/lucasartsifier/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49355607",
-        "site": "github.com",
-        "points": 152,
-        "comments": 94,
-        "author": "wkfauna",
-        "age": "1d ago"
+        "id": 49374154,
+        "title": "Show HN: FindHost – hosting provider database with no affiliate links",
+        "url": "https://www.findhost.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49374154",
+        "site": "findhost.app",
+        "points": 4,
+        "comments": 2,
+        "author": "esher",
+        "age": "25m ago"
       },
       {
         "rank": 5,
-        "id": 49364223,
-        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-        "url": "https://demo.frugaltokens.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49364223",
-        "site": "demo.frugaltokens.com",
-        "points": 35,
-        "comments": 8,
-        "author": "dpc94",
-        "age": "19h ago"
+        "id": 49374151,
+        "title": "Show HN: Open-source tool turning company knowledge into Duolingo-like courses",
+        "url": "https://www.scibly.com/de/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49374151",
+        "site": "scibly.com",
+        "points": 3,
+        "comments": 0,
+        "author": "Niclas63",
+        "age": "25m ago"
       }
     ]
   }
