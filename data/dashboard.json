@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-21T12:21:49Z",
+  "generated": "2026-08-21T13:36:26Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 5608,
+        "trending_score": 5064,
         "downloads": 1726651,
-        "likes": 11847,
+        "likes": 11861,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 2269,
+        "trending_score": 2272,
         "downloads": 5804917,
-        "likes": 2440,
+        "likes": 2443,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 642,
+        "trending_score": 645,
         "downloads": 18193,
-        "likes": 772,
+        "likes": 777,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -76,7 +76,7 @@
         "org": "orcarouter",
         "trending_score": 605,
         "downloads": 107520,
-        "likes": 701,
+        "likes": 703,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 60.2879868893641,
+        "speed_tps": 58.8310732458971,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 60.1839181720883,
+        "speed_tps": 57.2126370548159,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 73.42486802905,
+        "speed_tps": 72.0744379940801,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.6815043665656,
+        "speed_tps": 57.6867809638944,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -311,8 +311,8 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 28395,
-        "stars_delta": 268,
+        "stars": 28432,
+        "stars_delta": 905,
         "language": "Mojo",
         "language_color": "#ff4c1f"
       },
@@ -321,8 +321,8 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 228169,
-        "stars_delta": 2192,
+        "stars": 228359,
+        "stars_delta": 3368,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,8 +331,8 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 12455,
-        "stars_delta": 1545,
+        "stars": 12516,
+        "stars_delta": 1372,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -341,8 +341,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 275349,
-        "stars_delta": 727,
+        "stars": 275385,
+        "stars_delta": 789,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -351,8 +351,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 4255,
-        "stars_delta": 449,
+        "stars": 4272,
+        "stars_delta": 391,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,7 +363,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 24730,
+        "stars": 24763,
         "stars_delta": 11325,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -373,7 +373,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 31400,
+        "stars": 31434,
         "stars_delta": 2444,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 27147,
+        "stars": 27157,
         "stars_delta": 2395,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 8243,
+        "stars": 8254,
         "stars_delta": 3409,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 9993,
+        "stars": 10002,
         "stars_delta": 3674,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 29033,
+        "stars": 29046,
         "stars_delta": 28701,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35740,
+        "stars": 35743,
         "stars_delta": 9710,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 22844,
+        "stars": 22861,
         "stars_delta": 18443,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 12411,
+        "stars": 12422,
         "stars_delta": 11627,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23593,
+        "stars": 23597,
         "stars_delta": 14407,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -594,7 +594,7 @@
         "upvotes": 123,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 99072
+        "github_stars": 99121
       }
     ],
     "arxiv_recent": [
@@ -688,10 +688,10 @@
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "discussion_url": "https://news.ycombinator.com/item?id=49386163",
         "site": "api-docs.deepseek.com",
-        "points": 147,
-        "comments": 31,
+        "points": 220,
+        "comments": 54,
         "author": "dares2573",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -700,10 +700,10 @@
         "url": "https://annas-archive.pk/blog/physical-destruction.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49385994",
         "site": "annas-archive.pk",
-        "points": 82,
-        "comments": 23,
+        "points": 237,
+        "comments": 159,
         "author": "darccio",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -712,51 +712,63 @@
         "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
         "discussion_url": "https://news.ycombinator.com/item?id=49386659",
         "site": "ixuvo.com",
-        "points": 17,
-        "comments": 1,
+        "points": 55,
+        "comments": 22,
         "author": "ksec",
-        "age": "38m ago"
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49384896,
-        "title": "The Lost Treasure of Sid Meier's Pirates",
-        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49384896",
-        "site": "remapradio.com",
-        "points": 135,
-        "comments": 66,
-        "author": "spankibalt",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
         "id": 49385860,
         "title": "Small, native web tricks worth remembering",
         "url": "https://htmlcat.net/",
         "discussion_url": "https://news.ycombinator.com/item?id=49385860",
         "site": "htmlcat.net",
-        "points": 76,
-        "comments": 18,
+        "points": 125,
+        "comments": 26,
         "author": "marcomezzavilla",
-        "age": "2h ago"
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49384896,
+        "title": "The Lost Treasure of Sid Meier's Pirates",
+        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49384896",
+        "site": "remapradio.com",
+        "points": 163,
+        "comments": 94,
+        "author": "spankibalt",
+        "age": "6h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49386529,
+        "title": "Ask HN: How do you keep notes organized across long-running side projects?",
+        "url": "https://news.ycombinator.com/item?id=49386529",
+        "discussion_url": "https://news.ycombinator.com/item?id=49386529",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 1,
+        "author": "hackerstest",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 49386514,
         "title": "Ask HN: Do teams really need to use GitHub?",
         "url": "https://news.ycombinator.com/item?id=49386514",
         "discussion_url": "https://news.ycombinator.com/item?id=49386514",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 0,
+        "comments": 1,
         "author": "avinoth",
-        "age": "54m ago"
+        "age": "2h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49332495,
         "title": "Ask HN: GitHub employees what's going on? Why?",
         "url": "https://news.ycombinator.com/item?id=49332495",
@@ -768,7 +780,7 @@
         "age": "3d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49385541,
         "title": "Ask HN: Do you need Google ads help?",
         "url": "https://news.ycombinator.com/item?id=49385541",
@@ -777,10 +789,10 @@
         "points": 5,
         "comments": 0,
         "author": "cosbgn",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49331033,
         "title": "Ask HN: Alternatives to GitHub",
         "url": "https://news.ycombinator.com/item?id=49331033",
@@ -790,35 +802,35 @@
         "comments": 431,
         "author": "dhruv3006",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49313346,
-        "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
-        "url": "https://news.ycombinator.com/item?id=49313346",
-        "discussion_url": "https://news.ycombinator.com/item?id=49313346",
-        "site": "news.ycombinator.com",
-        "points": 52,
-        "comments": 89,
-        "author": "Abh1Works",
-        "age": "5d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49387504,
+        "title": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+        "url": "https://github.com/baturyilmaz/agent-office",
+        "discussion_url": "https://news.ycombinator.com/item?id=49387504",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "arbayi",
+        "age": "31m ago"
+      },
+      {
+        "rank": 2,
         "id": 49378768,
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "discussion_url": "https://news.ycombinator.com/item?id=49378768",
         "site": "danielvaughn.dev",
-        "points": 332,
-        "comments": 178,
+        "points": 341,
+        "comments": 196,
         "author": "danielvaughn",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49386437,
         "title": "Show HN: Local design and video editor with in-browser 4K MP4 export",
         "url": "https://github.com/karamuhammet/Open-Editor-Dika-Studio-Community",
@@ -827,10 +839,10 @@
         "points": 2,
         "comments": 0,
         "author": "muhammetck",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49386431,
         "title": "Show HN: ContextForge – context engineering platform for AI-assisted development",
         "url": "https://github.com/waterflane/ContextForge",
@@ -839,10 +851,10 @@
         "points": 2,
         "comments": 0,
         "author": "waterflane",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49386386,
         "title": "Show HN: Lunar, a coding harness extensible with Lua",
         "url": "https://github.com/gszr/lunar",
@@ -851,19 +863,7 @@
         "points": 5,
         "comments": 2,
         "author": "gszr",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49386249,
-        "title": "Show HN: Interactive PostgreSQL Permissions",
-        "url": "https://thepartly.github.io/pgroles/docs/postgresql-access-model/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49386249",
-        "site": "thepartly.github.io",
-        "points": 2,
-        "comments": 2,
-        "author": "hardbyte",
-        "age": "1h ago"
+        "age": "2h ago"
       }
     ]
   }
