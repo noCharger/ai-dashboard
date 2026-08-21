@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-21T09:24:01Z",
+  "generated": "2026-08-21T10:18:08Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 6386,
+        "trending_score": 6156,
         "downloads": 1726651,
-        "likes": 11829,
+        "likes": 11839,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 2248,
+        "trending_score": 2255,
         "downloads": 5804917,
-        "likes": 2416,
+        "likes": 2424,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 626,
+        "trending_score": 632,
         "downloads": 18193,
-        "likes": 752,
+        "likes": 759,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "MiniMaxAI/MiniMax-Music3",
-        "org": "MiniMaxAI",
-        "trending_score": 608,
-        "downloads": 15678,
-        "likes": 1140,
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-        "tags": [
-          "diffusers",
-          "safetensors",
-          "minimax_music3",
-          "music-generation",
-          "text-to-music"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "Qwen/Qwen3.8-27B-FP8",
         "org": "Qwen",
-        "trending_score": 603,
+        "trending_score": 604,
         "downloads": 1939895,
-        "likes": 641,
+        "likes": 642,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen3_5",
           "image-text-to-text",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "MiniMaxAI/MiniMax-Music3",
+        "org": "MiniMaxAI",
+        "trending_score": 601,
+        "downloads": 15678,
+        "likes": 1142,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "minimax_music3",
+          "music-generation",
+          "text-to-music"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 28284,
+        "stars": 28322,
         "stars_delta": 268,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -321,7 +321,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 227794,
+        "stars": 227910,
         "stars_delta": 2192,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 12331,
+        "stars": 12378,
         "stars_delta": 1545,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 275266,
+        "stars": 275297,
         "stars_delta": 727,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 4219,
+        "stars": 4228,
         "stars_delta": 449,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 24645,
+        "stars": 24677,
         "stars_delta": 11325,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -373,7 +373,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 31317,
+        "stars": 31344,
         "stars_delta": 2444,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 27127,
+        "stars": 27135,
         "stars_delta": 2395,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "cactus-compute/needle",
         "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "url": "https://github.com/cactus-compute/needle",
-        "stars": 8218,
+        "stars": 8222,
         "stars_delta": 3409,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 9972,
+        "stars": 9981,
         "stars_delta": 3674,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 29004,
+        "stars": 29016,
         "stars_delta": 28701,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35733,
+        "stars": 35734,
         "stars_delta": 9710,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 22803,
+        "stars": 22819,
         "stars_delta": 18443,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 12383,
+        "stars": 12393,
         "stars_delta": 11627,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23571,
+        "stars": 23582,
         "stars_delta": 14407,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -688,8 +688,8 @@
         "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
         "discussion_url": "https://news.ycombinator.com/item?id=49384896",
         "site": "remapradio.com",
-        "points": 60,
-        "comments": 17,
+        "points": 82,
+        "comments": 30,
         "author": "spankibalt",
         "age": "2h ago"
       },
@@ -700,51 +700,63 @@
         "url": "https://encore.dev/blog/firecracker-apple-silicon",
         "discussion_url": "https://news.ycombinator.com/item?id=49384716",
         "site": "encore.dev",
-        "points": 53,
-        "comments": 17,
+        "points": 72,
+        "comments": 35,
         "author": "signa11",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
+        "id": 49385860,
+        "title": "Small, native web tricks worth remembering",
+        "url": "https://htmlcat.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49385860",
+        "site": "htmlcat.net",
+        "points": 12,
+        "comments": 1,
+        "author": "marcomezzavilla",
+        "age": "32m ago"
+      },
+      {
+        "rank": 4,
         "id": 49378957,
         "title": "The August 17 outage",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "discussion_url": "https://news.ycombinator.com/item?id=49378957",
         "site": "github.blog",
-        "points": 516,
-        "comments": 579,
+        "points": 532,
+        "comments": 591,
         "author": "0xedb",
         "age": "14h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49347543,
         "title": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "discussion_url": "https://news.ycombinator.com/item?id=49347543",
         "site": "experimental-history.com",
-        "points": 727,
-        "comments": 297,
+        "points": 733,
+        "comments": 303,
         "author": "Ariarule",
         "age": "2d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49362689,
-        "title": "HTML Can Do That",
-        "url": "https://chrisburnell.com/html-can-do-that/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49362689",
-        "site": "chrisburnell.com",
-        "points": 793,
-        "comments": 190,
-        "author": "encyclopedism",
-        "age": "1d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49385541,
+        "title": "Ask HN: Do you need Google ads help?",
+        "url": "https://news.ycombinator.com/item?id=49385541",
+        "discussion_url": "https://news.ycombinator.com/item?id=49385541",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 0,
+        "author": "cosbgn",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49332495,
         "title": "Ask HN: GitHub employees what's going on? Why?",
         "url": "https://news.ycombinator.com/item?id=49332495",
@@ -756,7 +768,7 @@
         "age": "3d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49331033,
         "title": "Ask HN: Alternatives to GitHub",
         "url": "https://news.ycombinator.com/item?id=49331033",
@@ -768,7 +780,7 @@
         "age": "3d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49313346,
         "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
         "url": "https://news.ycombinator.com/item?id=49313346",
@@ -780,7 +792,7 @@
         "age": "5d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49322107,
         "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
         "url": "https://news.ycombinator.com/item?id=49322107",
@@ -790,18 +802,6 @@
         "comments": 202,
         "author": "stagas",
         "age": "4d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49380490,
-        "title": "Ask HN: How did you write code on restricted hardware?",
-        "url": "https://news.ycombinator.com/item?id=49380490",
-        "discussion_url": "https://news.ycombinator.com/item?id=49380490",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 4,
-        "author": "diselody",
-        "age": "11h ago"
       }
     ],
     "show": [
@@ -812,37 +812,49 @@
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "discussion_url": "https://news.ycombinator.com/item?id=49378768",
         "site": "danielvaughn.dev",
-        "points": 305,
-        "comments": 159,
+        "points": 313,
+        "comments": 164,
         "author": "danielvaughn",
-        "age": "14h ago"
+        "age": "15h ago"
       },
       {
         "rank": 2,
+        "id": 49385557,
+        "title": "Show HN: Can you tell Wodehouse from a model imitating Wodehouse?",
+        "url": "https://voxoria.ai/ai-or-not-text/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49385557",
+        "site": "voxoria.ai",
+        "points": 3,
+        "comments": 0,
+        "author": "sanj001",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 49384477,
         "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
         "url": "https://Argentic.network",
         "discussion_url": "https://news.ycombinator.com/item?id=49384477",
         "site": "argentic.network",
         "points": 7,
-        "comments": 4,
+        "comments": 5,
         "author": "Ag0146",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49373456,
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "discussion_url": "https://news.ycombinator.com/item?id=49373456",
         "site": "simedw.com",
-        "points": 553,
-        "comments": 113,
+        "points": 555,
+        "comments": 112,
         "author": "simedw",
-        "age": "21h ago"
+        "age": "22h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49375244,
         "title": "Show HN: Open-source Stripe Connect alternative",
         "url": "https://zoneless.com",
@@ -851,19 +863,7 @@
         "points": 73,
         "comments": 33,
         "author": "tinyprojects",
-        "age": "18h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49375237,
-        "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-        "url": "https://pub.doub.ly/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49375237",
-        "site": "pub.doub.ly",
-        "points": 74,
-        "comments": 37,
-        "author": "knaught",
-        "age": "18h ago"
+        "age": "19h ago"
       }
     ]
   }
