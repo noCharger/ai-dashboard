@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-22T14:10:15Z",
+  "generated": "2026-08-22T15:09:42Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 2157,
+        "trending_score": 2123,
         "downloads": 2090699,
-        "likes": 12071,
+        "likes": 12074,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1399,
+        "trending_score": 1361,
         "downloads": 6320542,
-        "likes": 2580,
+        "likes": 2582,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 762,
+        "trending_score": 746,
         "downloads": 142846,
-        "likes": 936,
+        "likes": 944,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 706,
+        "trending_score": 707,
         "downloads": 34909,
-        "likes": 855,
+        "likes": 859,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-        "org": "JonathanColetti",
-        "trending_score": 457,
-        "downloads": 1223422,
-        "likes": 598,
-        "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "org": "OBLITERATUS",
+        "trending_score": 456,
+        "downloads": 164950,
+        "likes": 498,
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
-          "llama.cpp",
+          "mlx",
+          "safetensors",
           "gguf",
-          "uncensored",
-          "qwen3.8",
-          "mtp"
+          "qwen3_5_text",
+          "abliterated"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 112238,
+        "stars": 112424,
         "stars_delta": 4159,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 231024,
+        "stars": 231162,
         "stars_delta": 2684,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 242008,
+        "stars": 242028,
         "stars_delta": 357,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 275949,
+        "stars": 275978,
         "stars_delta": 592,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "Wei-Shaw/sub2api",
         "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
         "url": "https://github.com/Wei-Shaw/sub2api",
-        "stars": 38695,
+        "stars": 38707,
         "stars_delta": 673,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -363,7 +363,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 4549,
+        "stars": 4561,
         "stars_delta": 1582,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "url": "https://github.com/cordiverse/cordis",
-        "stars": 7056,
+        "stars": 7065,
         "stars_delta": 3614,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 31891,
+        "stars": 31915,
         "stars_delta": 3033,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 27968,
+        "stars": 28007,
         "stars_delta": 2565,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 28779,
+        "stars": 28785,
         "stars_delta": 1643,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 29569,
+        "stars": 29596,
         "stars_delta": 28941,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23118,
+        "stars": 23128,
         "stars_delta": 16937,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23765,
+        "stars": 23773,
         "stars_delta": 14568,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 12663,
+        "stars": 12676,
         "stars_delta": 11791,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35779,
+        "stars": 35780,
         "stars_delta": 9730,
         "language": "Swift",
         "language_color": "#F05138"
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.20335",
         "categories": [],
-        "upvotes": 62,
+        "upvotes": 63,
         "published": "2026-08-19",
         "github_repo": "https://github.com/ant-research/4DAnyone",
         "github_stars": 280
@@ -579,7 +579,7 @@
         "upvotes": 18,
         "published": "2026-07-05",
         "github_repo": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-        "github_stars": 2575
+        "github_stars": 2610
       },
       {
         "rank": 5,
@@ -688,58 +688,58 @@
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "discussion_url": "https://news.ycombinator.com/item?id=49399524",
         "site": "decodingvibes.com",
-        "points": 31,
-        "comments": 4,
+        "points": 78,
+        "comments": 19,
         "author": "altmanaltman",
-        "age": "46m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
+        "id": 49399591,
+        "title": "The New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49399591",
+        "site": "blog.modelcontextprotocol.io",
+        "points": 33,
+        "comments": 26,
+        "author": "pentagrama",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49399898,
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49399898",
+        "site": "geometridae.bearblog.dev",
+        "points": 17,
+        "comments": 1,
+        "author": "signa11",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49398152,
         "title": "Munder Difflin – Agent harness to run an office of your clones",
         "url": "https://munderdiffl.in/",
         "discussion_url": "https://news.ycombinator.com/item?id=49398152",
         "site": "munderdiffl.in",
-        "points": 117,
-        "comments": 33,
+        "points": 146,
+        "comments": 58,
         "author": "simonpure",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49398158,
-        "title": "Z80–The 1970s Microprocessor Still Alive",
-        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-        "discussion_url": "https://news.ycombinator.com/item?id=49398158",
-        "site": "computer.org",
-        "points": 53,
-        "comments": 24,
-        "author": "asdefghyk",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49398904,
-        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-        "discussion_url": "https://news.ycombinator.com/item?id=49398904",
-        "site": "theguardian.com",
-        "points": 81,
-        "comments": 11,
-        "author": "sbulaev",
-        "age": "2h ago"
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49393052,
-        "title": "Rust Glancer: Rust LSP using 100x less RAM",
-        "url": "https://rust-glancer.github.io/blog/hello-world/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49393052",
-        "site": "rust-glancer.github.io",
-        "points": 318,
-        "comments": 62,
-        "author": "matklad",
-        "age": "18h ago"
+        "id": 49398158,
+        "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "discussion_url": "https://news.ycombinator.com/item?id=49398158",
+        "site": "computer.org",
+        "points": 64,
+        "comments": 31,
+        "author": "asdefghyk",
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -751,9 +751,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49398366",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 1,
+        "comments": 2,
         "author": "roscas",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -774,7 +774,7 @@
         "url": "https://news.ycombinator.com/item?id=49331033",
         "discussion_url": "https://news.ycombinator.com/item?id=49331033",
         "site": "news.ycombinator.com",
-        "points": 647,
+        "points": 648,
         "comments": 435,
         "author": "dhruv3006",
         "age": "5d ago"
@@ -787,9 +787,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49397441",
         "site": "news.ycombinator.com",
         "points": 11,
-        "comments": 9,
+        "comments": 11,
         "author": "roschdal",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -798,7 +798,7 @@
         "url": "https://news.ycombinator.com/item?id=49322107",
         "discussion_url": "https://news.ycombinator.com/item?id=49322107",
         "site": "news.ycombinator.com",
-        "points": 656,
+        "points": 657,
         "comments": 202,
         "author": "stagas",
         "age": "5d ago"
@@ -807,63 +807,63 @@
     "show": [
       {
         "rank": 1,
+        "id": 49391168,
+        "title": "Show HN: Rotation via Double Reflection",
+        "url": "https://static.laszlokorte.de/rotor-reflect/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49391168",
+        "site": "static.laszlokorte.de",
+        "points": 11,
+        "comments": 2,
+        "author": "laszlokorte",
+        "age": "21h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49399928,
+        "title": "Show HN: 3D Engine for Rust Programs",
+        "url": "https://github.com/David-OConnor/graphics",
+        "discussion_url": "https://news.ycombinator.com/item?id=49399928",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "the__alchemist",
+        "age": "57m ago"
+      },
+      {
+        "rank": 3,
         "id": 49399425,
-        "title": "Show HN: Forst – migrate TypeScript back ends to Go",
+        "title": "Show HN: Forst – migrate TypeScript back ends to Go incrementally",
         "url": "https://forst-lang.org/docs",
         "discussion_url": "https://news.ycombinator.com/item?id=49399425",
         "site": "forst-lang.org",
         "points": 3,
         "comments": 0,
         "author": "haveyaseen",
-        "age": "57m ago"
+        "age": "1h ago"
       },
       {
-        "rank": 2,
-        "id": 49326852,
-        "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-        "url": "https://github.com/peterkelly/rex",
-        "discussion_url": "https://news.ycombinator.com/item?id=49326852",
-        "site": "github.com",
-        "points": 23,
-        "comments": 5,
-        "author": "peterkelly",
-        "age": "5d ago"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "id": 49346135,
         "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
         "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
         "discussion_url": "https://news.ycombinator.com/item?id=49346135",
         "site": "notactuallytreyanastasio.github.io",
-        "points": 90,
-        "comments": 18,
+        "points": 91,
+        "comments": 16,
         "author": "rhgraysonii",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49394827,
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "url": "https://ozbrain.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49394827",
-        "site": "ozbrain.com",
-        "points": 71,
-        "comments": 45,
-        "author": "dariusmonsef",
-        "age": "15h ago"
+        "age": "4d ago"
       },
       {
         "rank": 5,
-        "id": 49378768,
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "url": "https://www.danielvaughn.dev/posts/huzzah/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49378768",
-        "site": "danielvaughn.dev",
-        "points": 373,
-        "comments": 207,
-        "author": "danielvaughn",
-        "age": "1d ago"
+        "id": 49326852,
+        "title": "Show HN: Rex, a parallel functional language for scientific workflows",
+        "url": "https://github.com/peterkelly/rex",
+        "discussion_url": "https://news.ycombinator.com/item?id=49326852",
+        "site": "github.com",
+        "points": 24,
+        "comments": 5,
+        "author": "peterkelly",
+        "age": "5d ago"
       }
     ]
   }
