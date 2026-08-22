@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-22T07:22:04Z",
+  "generated": "2026-08-22T08:15:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 2332,
+        "trending_score": 2294,
         "downloads": 1726651,
-        "likes": 12006,
+        "likes": 12014,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1450,
+        "trending_score": 1446,
         "downloads": 5804917,
-        "likes": 2538,
+        "likes": 2541,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 737,
+        "trending_score": 741,
         "downloads": 107520,
-        "likes": 881,
+        "likes": 890,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -76,7 +76,7 @@
         "org": "JonathanColetti",
         "trending_score": 473,
         "downloads": 1126222,
-        "likes": 580,
+        "likes": 583,
         "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
         "tags": [
           "llama.cpp",
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 59.0868998004327,
+        "speed_tps": 58.3905931526623,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.8120016500763,
+        "speed_tps": 56.6933703977153,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.720336689019,
+        "speed_tps": 70.4978566408381,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 58.6815043665656,
+        "speed_tps": 57.6867809638944,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 70.8836574200359,
+        "speed_tps": 69.9837108176511,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,50 +311,50 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 230166,
+        "stars": 230265,
         "stars_delta": 3362,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
         "rank": 2,
-        "name": "mahlernim/google-timeline-visualizer",
-        "description": "Visualize your year in travel using your Google Location History (Timeline) data",
-        "url": "https://github.com/mahlernim/google-timeline-visualizer",
-        "stars": 2336,
-        "stars_delta": 1053,
-        "language": "Kotlin",
-        "language_color": "#A97BFF"
-      },
-      {
-        "rank": 3,
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 114166,
+        "stars": 114208,
         "stars_delta": 1201,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 13189,
+        "stars": 13218,
         "stars_delta": 1380,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "PostHog/posthog",
         "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
         "url": "https://github.com/PostHog/posthog",
-        "stars": 38365,
+        "stars": 38377,
         "stars_delta": 335,
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "microsoft/TypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "url": "https://github.com/microsoft/TypeScript",
+        "stars": 110427,
+        "stars_delta": 65,
+        "language": "Go",
+        "language_color": "#00ADD8"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "url": "https://github.com/cordiverse/cordis",
-        "stars": 7013,
+        "stars": 7016,
         "stars_delta": 3614,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 25138,
+        "stars": 25157,
         "stars_delta": 8457,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -383,7 +383,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 4477,
+        "stars": 4492,
         "stars_delta": 1582,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 31777,
+        "stars": 31790,
         "stars_delta": 3033,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 27724,
+        "stars": 27750,
         "stars_delta": 2565,
         "language": "Shell",
         "language_color": "#89e051"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 29378,
+        "stars": 29404,
         "stars_delta": 28941,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35772,
+        "stars": 35774,
         "stars_delta": 9730,
         "language": "Swift",
         "language_color": "#F05138"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23049,
+        "stars": 23054,
         "stars_delta": 16937,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 12595,
+        "stars": 12605,
         "stars_delta": 11791,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23721,
+        "stars": 23729,
         "stars_delta": 14568,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.20335",
         "categories": [],
-        "upvotes": 59,
+        "upvotes": 60,
         "published": "2026-08-19",
         "github_repo": "https://github.com/ant-research/4DAnyone",
         "github_stars": 221
@@ -688,34 +688,34 @@
         "url": "https://www.felonybench.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49389430",
         "site": "felonybench.com",
-        "points": 641,
-        "comments": 259,
+        "points": 676,
+        "comments": 270,
         "author": "colinprince",
         "age": "16h ago"
       },
       {
         "rank": 2,
-        "id": 49390427,
-        "title": "Kobo can run apps now",
-        "url": "https://bandarlabs.github.io/Cobalt/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49390427",
-        "site": "bandarlabs.github.io",
-        "points": 507,
-        "comments": 177,
-        "author": "thepoet",
-        "age": "14h ago"
-      },
-      {
-        "rank": 3,
         "id": 49393052,
         "title": "Rust Glancer: Rust LSP using 100x less RAM",
         "url": "https://rust-glancer.github.io/blog/hello-world/",
         "discussion_url": "https://news.ycombinator.com/item?id=49393052",
         "site": "rust-glancer.github.io",
-        "points": 122,
-        "comments": 33,
+        "points": 153,
+        "comments": 34,
         "author": "matklad",
-        "age": "11h ago"
+        "age": "12h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49390427,
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49390427",
+        "site": "bandarlabs.github.io",
+        "points": 523,
+        "comments": 186,
+        "author": "thepoet",
+        "age": "15h ago"
       },
       {
         "rank": 4,
@@ -724,27 +724,39 @@
         "url": "https://danluu.com/perf-opt/",
         "discussion_url": "https://news.ycombinator.com/item?id=49395628",
         "site": "danluu.com",
-        "points": 326,
-        "comments": 233,
+        "points": 356,
+        "comments": 258,
         "author": "Jach",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 49391661,
-        "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-        "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49391661",
-        "site": "zeux.io",
-        "points": 14,
-        "comments": 0,
-        "author": "corysama",
-        "age": "13h ago"
+        "id": 49386895,
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49386895",
+        "site": "nytimes.com",
+        "points": 749,
+        "comments": 878,
+        "author": "floathub",
+        "age": "20h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49397441,
+        "title": "Ask HN: Why does the US government search through people's phones at the border?",
+        "url": "https://news.ycombinator.com/item?id=49397441",
+        "discussion_url": "https://news.ycombinator.com/item?id=49397441",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 1,
+        "author": "roschdal",
+        "age": "48m ago"
+      },
+      {
+        "rank": 2,
         "id": 49332495,
         "title": "Ask HN: GitHub employees what's going on? Why?",
         "url": "https://news.ycombinator.com/item?id=49332495",
@@ -756,52 +768,40 @@
         "age": "4d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49397022,
         "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
         "url": "https://news.ycombinator.com/item?id=49397022",
         "discussion_url": "https://news.ycombinator.com/item?id=49397022",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 2,
+        "points": 5,
+        "comments": 3,
         "author": "roschdal",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49395700,
         "title": "Ask HN: Just saw a YC25 job posting front page that looks like a 7-day work week",
         "url": "https://news.ycombinator.com/item?id=49395700",
         "discussion_url": "https://news.ycombinator.com/item?id=49395700",
         "site": "news.ycombinator.com",
-        "points": 60,
+        "points": 63,
         "comments": 45,
         "author": "walrus01",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49331033,
         "title": "Ask HN: Alternatives to GitHub",
         "url": "https://news.ycombinator.com/item?id=49331033",
         "discussion_url": "https://news.ycombinator.com/item?id=49331033",
         "site": "news.ycombinator.com",
-        "points": 645,
-        "comments": 433,
+        "points": 647,
+        "comments": 434,
         "author": "dhruv3006",
         "age": "4d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49389408,
-        "title": "Coding Agents killed my identity. How do you feel?",
-        "url": "https://news.ycombinator.com/item?id=49389408",
-        "discussion_url": "https://news.ycombinator.com/item?id=49389408",
-        "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 31,
-        "author": "bah9",
-        "age": "16h ago"
       }
     ],
     "show": [
@@ -812,37 +812,49 @@
         "url": "https://ozbrain.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49394827",
         "site": "ozbrain.com",
-        "points": 65,
-        "comments": 34,
+        "points": 66,
+        "comments": 38,
         "author": "dariusmonsef",
-        "age": "8h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
+        "id": 49397454,
+        "title": "Show HN: PgExtAssure – pre-admission security evidence for PostgreSQL extensions",
+        "url": "https://github.com/borborich/pgextassure",
+        "discussion_url": "https://news.ycombinator.com/item?id=49397454",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "borborich",
+        "age": "46m ago"
+      },
+      {
+        "rank": 3,
         "id": 49326852,
         "title": "Show HN: Rex, a parallel functional language for scientific workflows",
         "url": "https://github.com/peterkelly/rex",
         "discussion_url": "https://news.ycombinator.com/item?id=49326852",
         "site": "github.com",
-        "points": 18,
+        "points": 19,
         "comments": 2,
         "author": "peterkelly",
         "age": "5d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49346135,
         "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
         "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
         "discussion_url": "https://news.ycombinator.com/item?id=49346135",
         "site": "notactuallytreyanastasio.github.io",
-        "points": 86,
+        "points": 87,
         "comments": 18,
         "author": "rhgraysonii",
         "age": "3d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49390739,
         "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
         "url": "https://github.com/proliferate-ai/proliferate",
@@ -851,19 +863,7 @@
         "points": 39,
         "comments": 15,
         "author": "pablo24602",
-        "age": "14h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49395297,
-        "title": "Show HN: EchoVault, an app that interviews you and answers as you after death",
-        "url": "https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028",
-        "discussion_url": "https://news.ycombinator.com/item?id=49395297",
-        "site": "apps.apple.com",
-        "points": 4,
-        "comments": 2,
-        "author": "kingbillion1",
-        "age": "7h ago"
+        "age": "15h ago"
       }
     ]
   }
