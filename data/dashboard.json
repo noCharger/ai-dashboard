@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-23T08:15:55Z",
+  "generated": "2026-08-23T09:16:29Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1868,
-        "downloads": 2090699,
-        "likes": 12192,
+        "trending_score": 1852,
+        "downloads": 2358347,
+        "likes": 12197,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1218,
-        "downloads": 6320542,
-        "likes": 2657,
+        "trending_score": 1208,
+        "downloads": 6674515,
+        "likes": 2659,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 732,
-        "downloads": 34909,
-        "likes": 896,
+        "trending_score": 734,
+        "downloads": 47098,
+        "likes": 898,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 606,
-        "downloads": 142846,
-        "likes": 1002,
+        "trending_score": 600,
+        "downloads": 190062,
+        "likes": 1005,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 506,
-        "downloads": 164950,
-        "likes": 567,
+        "trending_score": 511,
+        "downloads": 244834,
+        "likes": 574,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.8743329959289,
+        "speed_tps": 53.5097976414952,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.4978566408381,
+        "speed_tps": 70.0945365937634,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.1840849080726,
+        "speed_tps": 52.5215510005019,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 71.7836040224206,
+        "speed_tps": 72.6588362055055,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 114268,
+        "stars": 114400,
         "stars_delta": 1544,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 232754,
+        "stars": 232868,
         "stars_delta": 2683,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 242291,
+        "stars": 242310,
         "stars_delta": 411,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 276368,
+        "stars": 276401,
         "stars_delta": 592,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "Wei-Shaw/sub2api",
         "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
         "url": "https://github.com/Wei-Shaw/sub2api",
-        "stars": 38903,
+        "stars": 38924,
         "stars_delta": 278,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -363,7 +363,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 4724,
+        "stars": 4728,
         "stars_delta": 1693,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "url": "https://github.com/cordiverse/cordis",
-        "stars": 7163,
+        "stars": 7168,
         "stars_delta": 3364,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 32207,
+        "stars": 32235,
         "stars_delta": 3447,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 28504,
+        "stars": 28526,
         "stars_delta": 3151,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 28895,
+        "stars": 28902,
         "stars_delta": 2017,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 29845,
+        "stars": 29851,
         "stars_delta": 26583,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23309,
+        "stars": 23326,
         "stars_delta": 15557,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23908,
+        "stars": 23916,
         "stars_delta": 14702,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "citrolabs/ego-lite",
         "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
         "url": "https://github.com/citrolabs/ego-lite",
-        "stars": 12812,
+        "stars": 12821,
         "stars_delta": 11724,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "permissionlesstech/bitchat",
         "description": "bluetooth mesh chat, IRC vibes",
         "url": "https://github.com/permissionlesstech/bitchat",
-        "stars": 35813,
+        "stars": 35817,
         "stars_delta": 9757,
         "language": "Swift",
         "language_color": "#F05138"
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.20335",
         "categories": [],
-        "upvotes": 66,
+        "upvotes": 67,
         "published": "2026-08-19",
         "github_repo": "https://github.com/ant-research/4DAnyone",
         "github_stars": 317
@@ -688,10 +688,10 @@
         "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
         "discussion_url": "https://news.ycombinator.com/item?id=49406333",
         "site": "os2museum.com",
-        "points": 58,
-        "comments": 9,
+        "points": 73,
+        "comments": 17,
         "author": "userbinator",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -700,63 +700,51 @@
         "url": "https://malisper.me/jit-compiling-code-in-5-us/",
         "discussion_url": "https://news.ycombinator.com/item?id=49406387",
         "site": "malisper.me",
-        "points": 41,
-        "comments": 4,
+        "points": 53,
+        "comments": 11,
         "author": "zX41ZdbW",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 49405816,
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "url": "https://martypc.net/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49405816",
-        "site": "martypc.net",
-        "points": 100,
-        "comments": 24,
-        "author": "boilerupnc",
-        "age": "5h ago"
-      },
-      {
-        "rank": 4,
         "id": 49405870,
         "title": "To become a better writer, read as much as you can",
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "discussion_url": "https://news.ycombinator.com/item?id=49405870",
         "site": "nappertime.com",
-        "points": 97,
-        "comments": 55,
+        "points": 127,
+        "comments": 73,
         "author": "andsoitis",
-        "age": "4h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49405816,
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "url": "https://martypc.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49405816",
+        "site": "martypc.net",
+        "points": 111,
+        "comments": 33,
+        "author": "boilerupnc",
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 49406539,
-        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-        "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49406539",
-        "site": "xda-developers.com",
-        "points": 62,
-        "comments": 39,
-        "author": "taubek",
-        "age": "1h ago"
+        "id": 49407143,
+        "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+        "url": "https://erikengdahl.se/autism/isnt/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49407143",
+        "site": "erikengdahl.se",
+        "points": 16,
+        "comments": 5,
+        "author": "verisimi",
+        "age": "27m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49405684,
-        "title": "Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?",
-        "url": "https://news.ycombinator.com/item?id=49405684",
-        "discussion_url": "https://news.ycombinator.com/item?id=49405684",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 4,
-        "author": "MollyRealized",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
         "id": 49332495,
         "title": "Ask HN: GitHub employees what's going on? Why?",
         "url": "https://news.ycombinator.com/item?id=49332495",
@@ -768,19 +756,19 @@
         "age": "5d ago"
       },
       {
-        "rank": 3,
-        "id": 49403759,
-        "title": "Where are people finding GPU capacity?",
-        "url": "https://news.ycombinator.com/item?id=49403759",
-        "discussion_url": "https://news.ycombinator.com/item?id=49403759",
+        "rank": 2,
+        "id": 49405684,
+        "title": "Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?",
+        "url": "https://news.ycombinator.com/item?id=49405684",
+        "discussion_url": "https://news.ycombinator.com/item?id=49405684",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 2,
-        "author": "adilhafeez",
-        "age": "11h ago"
+        "points": 2,
+        "comments": 4,
+        "author": "MollyRealized",
+        "age": "6h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 49331033,
         "title": "Ask HN: Alternatives to GitHub",
         "url": "https://news.ycombinator.com/item?id=49331033",
@@ -792,13 +780,25 @@
         "age": "5d ago"
       },
       {
+        "rank": 4,
+        "id": 49403759,
+        "title": "Where are people finding GPU capacity?",
+        "url": "https://news.ycombinator.com/item?id=49403759",
+        "discussion_url": "https://news.ycombinator.com/item?id=49403759",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 2,
+        "author": "adilhafeez",
+        "age": "12h ago"
+      },
+      {
         "rank": 5,
         "id": 49322107,
         "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
         "url": "https://news.ycombinator.com/item?id=49322107",
         "discussion_url": "https://news.ycombinator.com/item?id=49322107",
         "site": "news.ycombinator.com",
-        "points": 658,
+        "points": 659,
         "comments": 202,
         "author": "stagas",
         "age": "6d ago"
@@ -812,7 +812,7 @@
         "url": "https://www.pianoify.net/",
         "discussion_url": "https://news.ycombinator.com/item?id=49389846",
         "site": "pianoify.net",
-        "points": 41,
+        "points": 42,
         "comments": 8,
         "author": "jardy",
         "age": "1d ago"
@@ -824,7 +824,7 @@
         "url": "https://terminal-code.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49364296",
         "site": "terminal-code.com",
-        "points": 90,
+        "points": 91,
         "comments": 23,
         "author": "robpruzan",
         "age": "3d ago"
@@ -836,10 +836,10 @@
         "url": "https://www.soverybright.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49402521",
         "site": "soverybright.com",
-        "points": 60,
-        "comments": 73,
+        "points": 62,
+        "comments": 74,
         "author": "telecuda",
-        "age": "13h ago"
+        "age": "14h ago"
       },
       {
         "rank": 4,
@@ -855,15 +855,15 @@
       },
       {
         "rank": 5,
-        "id": 49406000,
-        "title": "Show HN: One portal for all your MCP servers",
-        "url": "https://onemcp.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49406000",
-        "site": "onemcp.dev",
-        "points": 4,
-        "comments": 0,
-        "author": "ddoronin",
-        "age": "4h ago"
+        "id": 49391168,
+        "title": "Show HN: Rotation via Double Reflection",
+        "url": "https://static.laszlokorte.de/rotor-reflect/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49391168",
+        "site": "static.laszlokorte.de",
+        "points": 55,
+        "comments": 11,
+        "author": "laszlokorte",
+        "age": "1d ago"
       }
     ]
   }
