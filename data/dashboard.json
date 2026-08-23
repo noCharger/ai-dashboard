@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-23T20:09:13Z",
+  "generated": "2026-08-23T21:10:51Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1700,
+        "trending_score": 1696,
         "downloads": 2358347,
-        "likes": 12289,
+        "likes": 12299,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1160,
+        "trending_score": 1162,
         "downloads": 6674515,
-        "likes": 2720,
+        "likes": 2729,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 771,
+        "trending_score": 772,
         "downloads": 47098,
-        "likes": 945,
+        "likes": 946,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -55,34 +55,34 @@
       },
       {
         "rank": 4,
-        "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "org": "orcarouter",
-        "trending_score": 551,
-        "downloads": 190062,
-        "likes": 1038,
-        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "abliterated"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 545,
+        "trending_score": 549,
         "downloads": 244834,
-        "likes": 613,
+        "likes": 617,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
           "safetensors",
           "gguf",
           "qwen3_5",
+          "abliterated"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "org": "orcarouter",
+        "trending_score": 543,
+        "downloads": 190062,
+        "likes": 1039,
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
           "abliterated"
         ],
         "rank_change": null
@@ -311,7 +311,7 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 115055,
+        "stars": 115074,
         "stars_delta": 2729,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 12631,
+        "stars": 12642,
         "stars_delta": 440,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 233653,
+        "stars": 233710,
         "stars_delta": 2448,
         "language": "Shell",
         "language_color": "#89e051"
@@ -341,7 +341,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 28985,
+        "stars": 29022,
         "stars_delta": 814,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 14784,
+        "stars": 14826,
         "stars_delta": 1008,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 28949,
+        "stars": 28955,
         "stars_delta": 2017,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -373,7 +373,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 115224,
+        "stars": 115245,
         "stars_delta": 10953,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 28985,
+        "stars": 29022,
         "stars_delta": 3151,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 14784,
+        "stars": 14826,
         "stars_delta": 4993,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "url": "https://github.com/cordiverse/cordis",
-        "stars": 7223,
+        "stars": 7232,
         "stars_delta": 3364,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30031,
+        "stars": 30047,
         "stars_delta": 26583,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 23993,
+        "stars": 24000,
         "stars_delta": 14702,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23438,
+        "stars": 23452,
         "stars_delta": 15557,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 27778,
+        "stars": 27804,
         "stars_delta": 18829,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -455,7 +455,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 28985,
+        "stars": 29022,
         "stars_delta": 4036,
         "language": "Shell",
         "language_color": "#89e051"
@@ -683,39 +683,39 @@
     "top": [
       {
         "rank": 1,
+        "id": 49411643,
+        "title": "How I find problems to solve as a staff engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49411643",
+        "site": "lalitm.com",
+        "points": 103,
+        "comments": 42,
+        "author": "vanpra",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49410362,
         "title": "A website for debloated open source alternatives",
         "url": "https://debloat.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=49410362",
         "site": "debloat.dev",
-        "points": 134,
-        "comments": 58,
+        "points": 181,
+        "comments": 69,
         "author": "ryanvogel",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49411643,
-        "title": "How I Find Problems to Solve as a Staff Engineer",
-        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49411643",
-        "site": "lalitm.com",
-        "points": 25,
-        "comments": 11,
-        "author": "vanpra",
-        "age": "45m ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 49409473,
-        "title": "How Complex Systems Fail (1998)",
-        "url": "https://how.complexsystems.fail/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49409473",
-        "site": "how.complexsystems.fail",
-        "points": 156,
-        "comments": 41,
-        "author": "shortcrct",
-        "age": "4h ago"
+        "id": 49411199,
+        "title": "The Vibe Tax",
+        "url": "https://insufferable.dev/posts/vibe-tax/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49411199",
+        "site": "insufferable.dev",
+        "points": 43,
+        "comments": 24,
+        "author": "allisdust",
+        "age": "2h ago"
       },
       {
         "rank": 4,
@@ -724,22 +724,22 @@
         "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
         "discussion_url": "https://news.ycombinator.com/item?id=49409862",
         "site": "punyamishra.com",
-        "points": 78,
-        "comments": 44,
+        "points": 89,
+        "comments": 58,
         "author": "the-mitr",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49408550,
-        "title": "Malware infects Android-based automotive head unit firmware",
-        "url": "https://securelist.com/android-head-unit-malware/121106/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49408550",
-        "site": "securelist.com",
-        "points": 178,
-        "comments": 85,
-        "author": "campuscodi",
-        "age": "7h ago"
+        "id": 49411468,
+        "title": "Fable and the End of the Free Lunch",
+        "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49411468",
+        "site": "dbreunig.com",
+        "points": 66,
+        "comments": 45,
+        "author": "dbreunig",
+        "age": "2h ago"
       }
     ],
     "ask": [
@@ -750,10 +750,10 @@
         "url": "https://news.ycombinator.com/item?id=49410803",
         "discussion_url": "https://news.ycombinator.com/item?id=49410803",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 9,
         "comments": 1,
         "author": "KenPainter",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -765,7 +765,7 @@
         "points": 2,
         "comments": 0,
         "author": "MeshCtxAgent",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -774,10 +774,10 @@
         "url": "https://news.ycombinator.com/item?id=49410681",
         "discussion_url": "https://news.ycombinator.com/item?id=49410681",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
+        "points": 3,
+        "comments": 1,
         "author": "ray__",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
@@ -789,7 +789,7 @@
         "points": 2,
         "comments": 0,
         "author": "felineflock",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -801,7 +801,7 @@
         "points": 2,
         "comments": 0,
         "author": "HPhammad123",
-        "age": "3h ago"
+        "age": "4h ago"
       }
     ],
     "show": [
@@ -815,7 +815,7 @@
         "points": 2,
         "comments": 0,
         "author": "peepsick",
-        "age": "7m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -827,7 +827,7 @@
         "points": 3,
         "comments": 0,
         "author": "aksuta",
-        "age": "40m ago"
+        "age": "1h ago"
       },
       {
         "rank": 3,
@@ -839,7 +839,7 @@
         "points": 3,
         "comments": 0,
         "author": "wowinter15",
-        "age": "42m ago"
+        "age": "1h ago"
       },
       {
         "rank": 4,
@@ -849,9 +849,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49411624",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 1,
+        "comments": 2,
         "author": "jvanveen",
-        "age": "47m ago"
+        "age": "1h ago"
       },
       {
         "rank": 5,
@@ -863,7 +863,7 @@
         "points": 2,
         "comments": 0,
         "author": "kgoedecke",
-        "age": "54m ago"
+        "age": "1h ago"
       }
     ]
   }
