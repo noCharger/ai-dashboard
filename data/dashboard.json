@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-24T14:30:14Z",
+  "generated": "2026-08-24T15:27:40Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1527,
+        "trending_score": 1519,
         "downloads": 2645226,
-        "likes": 12440,
+        "likes": 12452,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1076,
+        "trending_score": 1078,
         "downloads": 7009063,
-        "likes": 2787,
+        "likes": 2791,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 817,
+        "trending_score": 820,
         "downloads": 57947,
-        "likes": 1002,
+        "likes": 1006,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 601,
+        "trending_score": 603,
         "downloads": 312627,
-        "likes": 676,
+        "likes": 678,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 516,
+        "trending_score": 517,
         "downloads": 224114,
-        "likes": 1072,
+        "likes": 1077,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.3170166419443,
+        "speed_tps": 70.720336689019,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 73.584698571383,
+        "speed_tps": 72.2806666883186,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 48576,
+        "stars": 48628,
         "stars_delta": 889,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 116754,
+        "stars": 116805,
         "stars_delta": 1990,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 33569,
+        "stars": 33624,
         "stars_delta": 378,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 206209,
+        "stars": 206247,
         "stars_delta": 491,
         "language": "",
         "language_color": "#586069"
@@ -351,7 +351,7 @@
         "name": "makeplane/plane",
         "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
         "url": "https://github.com/makeplane/plane",
-        "stars": 57717,
+        "stars": 57738,
         "stars_delta": 268,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 29036,
+        "stars": 29040,
         "stars_delta": 2176,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -373,7 +373,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 115767,
+        "stars": 115800,
         "stars_delta": 11167,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 15572,
+        "stars": 15606,
         "stars_delta": 6078,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 29763,
+        "stars": 29817,
         "stars_delta": 3660,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 32837,
+        "stars": 32863,
         "stars_delta": 3799,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30397,
+        "stars": 30411,
         "stars_delta": 24429,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24203,
+        "stars": 24212,
         "stars_delta": 14878,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23698,
+        "stars": 23716,
         "stars_delta": 14450,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 29763,
+        "stars": 29817,
         "stars_delta": 4850,
         "language": "Shell",
         "language_color": "#89e051"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 28493,
+        "stars": 28534,
         "stars_delta": 19063,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -594,7 +594,7 @@
         "upvotes": 15,
         "published": "2026-06-29",
         "github_repo": "https://github.com/Tencent/AI-Infra-Guard",
-        "github_stars": 5679
+        "github_stars": 5726
       }
     ],
     "arxiv_recent": [
@@ -684,58 +684,58 @@
         "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
         "discussion_url": "https://news.ycombinator.com/item?id=49419237",
         "site": "lectronz.com",
-        "points": 278,
-        "comments": 159,
+        "points": 474,
+        "comments": 318,
         "author": "l-one-lone",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 49420873,
+        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+        "url": "https://twitter.com/lemire/status/2091894299289874926",
+        "discussion_url": "https://news.ycombinator.com/item?id=49420873",
+        "site": "twitter.com",
+        "points": 12,
+        "comments": 0,
+        "author": "tosh",
+        "age": "19m ago"
+      },
+      {
+        "rank": 3,
         "id": 49418255,
         "title": "SeL4 security proofs now complete on AArch64",
         "url": "https://proofcraft.systems/news-2026/#2026-08-21",
         "discussion_url": "https://news.ycombinator.com/item?id=49418255",
         "site": "proofcraft.systems",
-        "points": 81,
-        "comments": 18,
+        "points": 101,
+        "comments": 25,
         "author": "snvzz",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 49420592,
+        "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+        "discussion_url": "https://news.ycombinator.com/item?id=49420592",
+        "site": "chipsandcheese.com",
+        "points": 13,
+        "comments": 3,
+        "author": "ksec",
+        "age": "38m ago"
+      },
+      {
+        "rank": 5,
         "id": 49412396,
         "title": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "discussion_url": "https://news.ycombinator.com/item?id=49412396",
         "site": "twitter.com",
-        "points": 312,
-        "comments": 422,
+        "points": 349,
+        "comments": 465,
         "author": "bilsbie",
-        "age": "17h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49413320,
-        "title": "Everything I own, owned",
-        "url": "https://schlarp.com/posts/everything-i-own-owned/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49413320",
-        "site": "schlarp.com",
-        "points": 1172,
-        "comments": 306,
-        "author": "schlarpc",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49418184,
-        "title": "Why older tech is sometimes safer from hackers",
-        "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-        "discussion_url": "https://news.ycombinator.com/item?id=49418184",
-        "site": "bbc.com",
-        "points": 29,
-        "comments": 15,
-        "author": "tchalla",
-        "age": "3h ago"
+        "age": "18h ago"
       }
     ],
     "ask": [
@@ -746,10 +746,10 @@
         "url": "https://news.ycombinator.com/item?id=49418675",
         "discussion_url": "https://news.ycombinator.com/item?id=49418675",
         "site": "news.ycombinator.com",
-        "points": 96,
-        "comments": 69,
+        "points": 100,
+        "comments": 89,
         "author": "mittermayr",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -761,7 +761,7 @@
         "points": 3,
         "comments": 2,
         "author": "linzhangrun",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
@@ -771,9 +771,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49415754",
         "site": "news.ycombinator.com",
         "points": 6,
-        "comments": 1,
+        "comments": 2,
         "author": "terabytest",
-        "age": "8h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
@@ -785,7 +785,7 @@
         "points": 19,
         "comments": 3,
         "author": "KenPainter",
-        "age": "20h ago"
+        "age": "21h ago"
       },
       {
         "rank": 5,
@@ -797,69 +797,69 @@
         "points": 5,
         "comments": 0,
         "author": "felineflock",
-        "age": "21h ago"
+        "age": "22h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49419837,
-        "title": "Show HN: Dashi – a 214KB Chrome new tab dashboard with no servers or analytics",
-        "url": "https://trydashi.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49419837",
-        "site": "trydashi.app",
-        "points": 3,
-        "comments": 2,
-        "author": "trydashi",
-        "age": "34m ago"
-      },
-      {
-        "rank": 2,
         "id": 49419351,
         "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
         "url": "https://ssx360.github.io/rack-02/?src=hn",
         "discussion_url": "https://news.ycombinator.com/item?id=49419351",
         "site": "ssx360.github.io",
+        "points": 34,
+        "comments": 8,
+        "author": "ssx360",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49420783,
+        "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
+        "url": "https://inferquest.org",
+        "discussion_url": "https://news.ycombinator.com/item?id=49420783",
+        "site": "inferquest.org",
         "points": 3,
         "comments": 1,
-        "author": "ssx360",
-        "age": "1h ago"
+        "author": "jesse_portal",
+        "age": "25m ago"
       },
       {
         "rank": 3,
+        "id": 49420650,
+        "title": "Show HN: Tblue – 614 passive security scanners for any website, runs locally",
+        "url": "https://github.com/taylannuhogluofficial-png/Tblue",
+        "discussion_url": "https://news.ycombinator.com/item?id=49420650",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "taylannuhoglu",
+        "age": "34m ago"
+      },
+      {
+        "rank": 4,
         "id": 49417684,
         "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
         "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
         "discussion_url": "https://news.ycombinator.com/item?id=49417684",
         "site": "vanillaos.org",
-        "points": 10,
-        "comments": 4,
+        "points": 18,
+        "comments": 6,
         "author": "NN708",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49416866,
-        "title": "Show HN: Reverse-engineered Half-Life's 2001 WON launcher with LLM agents",
-        "url": "https://github.com/oxiKKK/re-goldsrc-won-launcher-1792",
-        "discussion_url": "https://news.ycombinator.com/item?id=49416866",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "oxi113",
         "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49413744,
-        "title": "Show HN: Neostatic, a tiny site/blog generator for neocities",
-        "url": "https://github.com/giannitedesco/neostatic",
-        "discussion_url": "https://news.ycombinator.com/item?id=49413744",
+        "id": 49420055,
+        "title": "Show HN: My Emacs Zero to IDE Journey",
+        "url": "https://github.com/KallDrexx/emacs-zero-to-ide-journey/blob/main/README.md",
+        "discussion_url": "https://news.ycombinator.com/item?id=49420055",
         "site": "github.com",
-        "points": 6,
+        "points": 4,
         "comments": 0,
-        "author": "scaramanga",
-        "age": "14h ago"
+        "author": "KallDrexx",
+        "age": "1h ago"
       }
     ]
   }
