@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-24T10:26:05Z",
+  "generated": "2026-08-24T11:16:40Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1564,
+        "trending_score": 1556,
         "downloads": 2645226,
-        "likes": 12408,
+        "likes": 12413,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1096,
+        "trending_score": 1092,
         "downloads": 7009063,
-        "likes": 2767,
+        "likes": 2771,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 808,
+        "trending_score": 810,
         "downloads": 57947,
-        "likes": 989,
+        "likes": 993,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 589,
+        "trending_score": 591,
         "downloads": 312627,
-        "likes": 661,
+        "likes": 664,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -74,7 +74,7 @@
         "rank": 5,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 526,
+        "trending_score": 525,
         "downloads": 224114,
         "likes": 1068,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.9136965948696,
+        "speed_tps": 69.4582758409269,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 73.584698571383,
+        "speed_tps": 72.2806666883186,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
+        "name": "Alishahryar1/free-claude-code",
+        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "stars": 48387,
+        "stars_delta": 1081,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 2,
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 116541,
+        "stars": 116585,
         "stars_delta": 2715,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
-        "rank": 2,
-        "name": "freestylefly/awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 14645,
-        "stars_delta": 401,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
         "rank": 3,
-        "name": "mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 234670,
-        "stars_delta": 2447,
-        "language": "Shell",
-        "language_color": "#89e051"
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 33380,
+        "stars_delta": 378,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "basecamp/omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "url": "https://github.com/basecamp/omarchy",
-        "stars": 29587,
-        "stars_delta": 750,
-        "language": "Shell",
-        "language_color": "#89e051"
+        "name": "multica-ai/andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "stars": 206086,
+        "stars_delta": 491,
+        "language": "",
+        "language_color": "#586069"
       },
       {
         "rank": 5,
-        "name": "AprilNEA/OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 15407,
-        "stars_delta": 1009,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "makeplane/plane",
+        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "url": "https://github.com/makeplane/plane",
+        "stars": 57634,
+        "stars_delta": 390,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 29023,
+        "stars": 29024,
         "stars_delta": 2176,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -373,40 +373,40 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 115641,
+        "stars": 115667,
         "stars_delta": 11167,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "basecamp/omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "url": "https://github.com/basecamp/omarchy",
-        "stars": 29587,
-        "stars_delta": 3660,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
-        "rank": 4,
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 15407,
+        "stars": 15439,
         "stars_delta": 6078,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
+        "rank": 4,
+        "name": "basecamp/omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "url": "https://github.com/basecamp/omarchy",
+        "stars": 29626,
+        "stars_delta": 3660,
+        "language": "Shell",
+        "language_color": "#89e051"
+      },
+      {
         "rank": 5,
-        "name": "cordiverse/cordis",
-        "description": "Meta-Framework of Spatiotemporal Composability",
-        "url": "https://github.com/cordiverse/cordis",
-        "stars": 7337,
-        "stars_delta": 2725,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "volcengine/OpenViking",
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "url": "https://github.com/volcengine/OpenViking",
+        "stars": 32779,
+        "stars_delta": 3799,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30343,
+        "stars": 30351,
         "stars_delta": 24429,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24178,
+        "stars": 24182,
         "stars_delta": 14878,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,30 +435,30 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23603,
+        "stars": 23634,
         "stars_delta": 14450,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "zhaoxuya520/reverse-skill",
-        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
-        "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 28330,
-        "stars_delta": 19063,
-        "language": "PowerShell",
-        "language_color": "#012456"
-      },
-      {
-        "rank": 5,
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 29587,
+        "stars": 29626,
         "stars_delta": 4850,
         "language": "Shell",
         "language_color": "#89e051"
+      },
+      {
+        "rank": 5,
+        "name": "zhaoxuya520/reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+        "url": "https://github.com/zhaoxuya520/reverse-skill",
+        "stars": 28362,
+        "stars_delta": 19063,
+        "language": "PowerShell",
+        "language_color": "#012456"
       }
     ],
     "frameworks": [
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.20335",
         "categories": [],
-        "upvotes": 71,
+        "upvotes": 72,
         "published": "2026-08-19",
         "github_repo": "https://github.com/ant-research/4DAnyone",
         "github_stars": 586
@@ -679,27 +679,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 49413320,
-        "title": "Everything I own, owned",
-        "url": "https://schlarp.com/posts/everything-i-own-owned/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49413320",
-        "site": "schlarp.com",
-        "points": 946,
-        "comments": 265,
-        "author": "schlarpc",
-        "age": "11h ago"
-      },
-      {
-        "rank": 2,
         "id": 49412396,
         "title": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "discussion_url": "https://news.ycombinator.com/item?id=49412396",
         "site": "twitter.com",
-        "points": 134,
-        "comments": 216,
+        "points": 177,
+        "comments": 260,
         "author": "bilsbie",
-        "age": "13h ago"
+        "age": "14h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49413320,
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49413320",
+        "site": "schlarp.com",
+        "points": 996,
+        "comments": 278,
+        "author": "schlarpc",
+        "age": "12h ago"
       },
       {
         "rank": 3,
@@ -708,10 +708,10 @@
         "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "discussion_url": "https://news.ycombinator.com/item?id=49415893",
         "site": "medicine.washu.edu",
-        "points": 48,
-        "comments": 15,
+        "points": 65,
+        "comments": 18,
         "author": "dabinat",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 4,
@@ -720,7 +720,7 @@
         "url": "https://github.com/thiagotigaz/ocr-it",
         "discussion_url": "https://news.ycombinator.com/item?id=49415852",
         "site": "github.com",
-        "points": 40,
+        "points": 53,
         "comments": 11,
         "author": "thiagolima",
         "age": "4h ago"
@@ -732,15 +732,27 @@
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "discussion_url": "https://news.ycombinator.com/item?id=49411102",
         "site": "ft.com",
-        "points": 533,
-        "comments": 466,
+        "points": 558,
+        "comments": 499,
         "author": "naves",
-        "age": "16h ago"
+        "age": "17h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49417766,
+        "title": "Ask HN: Those making $500/month on side projects in 2026 – Show and tell",
+        "url": "https://news.ycombinator.com/item?id=49417766",
+        "discussion_url": "https://news.ycombinator.com/item?id=49417766",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 4,
+        "author": "kaladan",
+        "age": "47m ago"
+      },
+      {
+        "rank": 2,
         "id": 49416329,
         "title": "Ask HN: Is Codex's 5-hour usage limit back?",
         "url": "https://news.ycombinator.com/item?id=49416329",
@@ -749,10 +761,10 @@
         "points": 3,
         "comments": 1,
         "author": "linzhangrun",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49415754,
         "title": "Ask HN: Claude Code randomly burning through 10% of the weekly limit?",
         "url": "https://news.ycombinator.com/item?id=49415754",
@@ -761,10 +773,10 @@
         "points": 6,
         "comments": 1,
         "author": "terabytest",
-        "age": "4h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49410803,
         "title": "Talk Like Claude Day",
         "url": "https://news.ycombinator.com/item?id=49410803",
@@ -773,19 +785,7 @@
         "points": 19,
         "comments": 3,
         "author": "KenPainter",
-        "age": "16h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49415517,
-        "title": "When Claude is down, do they have a backup Claude to investigate the root cause?",
-        "url": "https://news.ycombinator.com/item?id=49415517",
-        "discussion_url": "https://news.ycombinator.com/item?id=49415517",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 2,
-        "author": "pykul",
-        "age": "4h ago"
+        "age": "17h ago"
       },
       {
         "rank": 5,
@@ -794,10 +794,10 @@
         "url": "https://news.ycombinator.com/item?id=49410310",
         "discussion_url": "https://news.ycombinator.com/item?id=49410310",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 0,
         "author": "felineflock",
-        "age": "17h ago"
+        "age": "18h ago"
       }
     ],
     "show": [
@@ -808,10 +808,10 @@
         "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
         "discussion_url": "https://news.ycombinator.com/item?id=49417684",
         "site": "vanillaos.org",
-        "points": 2,
+        "points": 4,
         "comments": 0,
         "author": "NN708",
-        "age": "8m ago"
+        "age": "58m ago"
       },
       {
         "rank": 2,
@@ -823,7 +823,7 @@
         "points": 2,
         "comments": 0,
         "author": "oxi113",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 3,
@@ -835,22 +835,10 @@
         "points": 4,
         "comments": 1,
         "author": "jaeseok614",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 49413744,
-        "title": "Show HN: Neostatic, a tiny site/blog generator for neocities",
-        "url": "https://github.com/giannitedesco/neostatic",
-        "discussion_url": "https://news.ycombinator.com/item?id=49413744",
-        "site": "github.com",
-        "points": 5,
-        "comments": 0,
-        "author": "scaramanga",
-        "age": "10h ago"
-      },
-      {
-        "rank": 5,
         "id": 49407309,
         "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
         "url": "https://skylens.yantraai.app/",
@@ -860,6 +848,18 @@
         "comments": 39,
         "author": "skylensspace",
         "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 49413744,
+        "title": "Show HN: Neostatic, a tiny site/blog generator for neocities",
+        "url": "https://github.com/giannitedesco/neostatic",
+        "discussion_url": "https://news.ycombinator.com/item?id=49413744",
+        "site": "github.com",
+        "points": 5,
+        "comments": 0,
+        "author": "scaramanga",
+        "age": "11h ago"
       }
     ]
   }
