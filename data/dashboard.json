@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-24T11:16:40Z",
+  "generated": "2026-08-24T12:22:20Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1556,
+        "trending_score": 1540,
         "downloads": 2645226,
-        "likes": 12413,
+        "likes": 12420,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1092,
+        "trending_score": 1085,
         "downloads": 7009063,
-        "likes": 2771,
+        "likes": 2774,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 810,
+        "trending_score": 812,
         "downloads": 57947,
-        "likes": 993,
+        "likes": 996,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 591,
+        "trending_score": 596,
         "downloads": 312627,
-        "likes": 664,
+        "likes": 669,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 525,
+        "trending_score": 524,
         "downloads": 224114,
-        "likes": 1068,
+        "likes": 1069,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.6812922716623,
+        "speed_tps": 58.8241074389007,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 53.474573113683,
+        "speed_tps": 55.4426597738534,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.4582758409269,
+        "speed_tps": 70.3170166419443,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 53.9145509265506,
+        "speed_tps": 56.70816349795,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 5,
         "price_output": 30,
-        "speed_tps": 72.2806666883186,
+        "speed_tps": 73.584698571383,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,8 +311,8 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 48387,
-        "stars_delta": 1081,
+        "stars": 48442,
+        "stars_delta": 889,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 116585,
-        "stars_delta": 2715,
+        "stars": 116666,
+        "stars_delta": 1990,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -331,7 +331,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 33380,
+        "stars": 33452,
         "stars_delta": 378,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 206086,
+        "stars": 206130,
         "stars_delta": 491,
         "language": "",
         "language_color": "#586069"
@@ -351,7 +351,7 @@
         "name": "makeplane/plane",
         "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
         "url": "https://github.com/makeplane/plane",
-        "stars": 57634,
+        "stars": 57662,
         "stars_delta": 390,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 29024,
+        "stars": 29028,
         "stars_delta": 2176,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -373,7 +373,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 115667,
+        "stars": 115693,
         "stars_delta": 11167,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 15439,
+        "stars": 15486,
         "stars_delta": 6078,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 29626,
+        "stars": 29673,
         "stars_delta": 3660,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 32779,
+        "stars": 32800,
         "stars_delta": 3799,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30351,
+        "stars": 30366,
         "stars_delta": 24429,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24182,
+        "stars": 24187,
         "stars_delta": 14878,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 23634,
+        "stars": 23655,
         "stars_delta": 14450,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 29626,
+        "stars": 29673,
         "stars_delta": 4850,
         "language": "Shell",
         "language_color": "#89e051"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 28362,
+        "stars": 28398,
         "stars_delta": 19063,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -679,63 +679,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 49418255,
+        "title": "SeL4 security proofs now complete on AArch64",
+        "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+        "discussion_url": "https://news.ycombinator.com/item?id=49418255",
+        "site": "proofcraft.systems",
+        "points": 16,
+        "comments": 0,
+        "author": "snvzz",
+        "age": "49m ago"
+      },
+      {
+        "rank": 2,
         "id": 49412396,
         "title": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "discussion_url": "https://news.ycombinator.com/item?id=49412396",
         "site": "twitter.com",
-        "points": 177,
-        "comments": 260,
+        "points": 228,
+        "comments": 317,
         "author": "bilsbie",
-        "age": "14h ago"
+        "age": "15h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49413320,
         "title": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "discussion_url": "https://news.ycombinator.com/item?id=49413320",
         "site": "schlarp.com",
-        "points": 996,
-        "comments": 278,
+        "points": 1054,
+        "comments": 289,
         "author": "schlarpc",
-        "age": "12h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49415893,
-        "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-        "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49415893",
-        "site": "medicine.washu.edu",
-        "points": 65,
-        "comments": 18,
-        "author": "dabinat",
-        "age": "4h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
-        "id": 49415852,
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "discussion_url": "https://news.ycombinator.com/item?id=49415852",
-        "site": "github.com",
-        "points": 53,
-        "comments": 11,
-        "author": "thiagolima",
-        "age": "4h ago"
+        "id": 49418032,
+        "title": "Omacom Foundation funding hits $10M",
+        "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49418032",
+        "site": "omarchy.org",
+        "points": 26,
+        "comments": 15,
+        "author": "tosh",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49411102,
-        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "discussion_url": "https://news.ycombinator.com/item?id=49411102",
-        "site": "ft.com",
-        "points": 558,
-        "comments": 499,
-        "author": "naves",
-        "age": "17h ago"
+        "id": 49418117,
+        "title": "Omakase Computing",
+        "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+        "discussion_url": "https://news.ycombinator.com/item?id=49418117",
+        "site": "learn.omacom.io",
+        "points": 14,
+        "comments": 14,
+        "author": "Bluestein",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -746,10 +746,10 @@
         "url": "https://news.ycombinator.com/item?id=49417766",
         "discussion_url": "https://news.ycombinator.com/item?id=49417766",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 4,
+        "points": 35,
+        "comments": 33,
         "author": "kaladan",
-        "age": "47m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -761,7 +761,7 @@
         "points": 3,
         "comments": 1,
         "author": "linzhangrun",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -773,7 +773,7 @@
         "points": 6,
         "comments": 1,
         "author": "terabytest",
-        "age": "5h ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
@@ -785,7 +785,7 @@
         "points": 19,
         "comments": 3,
         "author": "KenPainter",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
         "rank": 5,
@@ -797,7 +797,7 @@
         "points": 5,
         "comments": 0,
         "author": "felineflock",
-        "age": "18h ago"
+        "age": "19h ago"
       }
     ],
     "show": [
@@ -811,7 +811,7 @@
         "points": 4,
         "comments": 0,
         "author": "NN708",
-        "age": "58m ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -823,7 +823,7 @@
         "points": 2,
         "comments": 0,
         "author": "oxi113",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -832,10 +832,10 @@
         "url": "https://jaeseok614.github.io/llm-gpu-checker-ko/",
         "discussion_url": "https://news.ycombinator.com/item?id=49415348",
         "site": "jaeseok614.github.io",
-        "points": 4,
-        "comments": 1,
+        "points": 5,
+        "comments": 2,
         "author": "jaeseok614",
-        "age": "6h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -859,7 +859,7 @@
         "points": 5,
         "comments": 0,
         "author": "scaramanga",
-        "age": "11h ago"
+        "age": "12h ago"
       }
     ]
   }
