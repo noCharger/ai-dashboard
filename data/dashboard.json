@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-25T06:24:45Z",
+  "generated": "2026-08-25T06:55:53Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1375,
+        "trending_score": 1365,
         "downloads": 2645226,
-        "likes": 12555,
+        "likes": 12560,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 1040,
+        "trending_score": 1037,
         "downloads": 7009063,
-        "likes": 2855,
+        "likes": 2857,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 770,
+        "trending_score": 767,
         "downloads": 57947,
-        "likes": 1044,
+        "likes": 1045,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 626,
+        "trending_score": 627,
         "downloads": 312627,
-        "likes": 704,
+        "likes": 705,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -74,7 +74,7 @@
         "rank": 5,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 491,
+        "trending_score": 490,
         "downloads": 224114,
         "likes": 1105,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.4426597738534,
+        "speed_tps": 54.4429615506517,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 74.3983805717385,
+        "speed_tps": 74.2896739345694,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 49272,
+        "stars": 49297,
         "stars_delta": 891,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 117450,
+        "stars": 117494,
         "stars_delta": 1994,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 34349,
+        "stars": 34383,
         "stars_delta": 434,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 206724,
+        "stars": 206744,
         "stars_delta": 588,
         "language": "",
         "language_color": "#586069"
@@ -351,7 +351,7 @@
         "name": "makeplane/plane",
         "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
         "url": "https://github.com/makeplane/plane",
-        "stars": 58083,
+        "stars": 58097,
         "stars_delta": 243,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 116098,
+        "stars": 116115,
         "stars_delta": 10647,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 16047,
+        "stars": 16059,
         "stars_delta": 7019,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 30420,
+        "stars": 30442,
         "stars_delta": 3934,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "volcengine/OpenViking",
         "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "url": "https://github.com/volcengine/OpenViking",
-        "stars": 33071,
+        "stars": 33078,
         "stars_delta": 4048,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30535,
+        "stars": 30540,
         "stars_delta": 21856,
         "language": "Rust",
         "language_color": "#dea584"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24310,
+        "stars": 24317,
         "stars_delta": 15093,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 30420,
+        "stars": 30442,
         "stars_delta": 5853,
         "language": "Shell",
         "language_color": "#89e051"
@@ -455,7 +455,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 28886,
+        "stars": 28901,
         "stars_delta": 19889,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -508,14 +508,14 @@
       },
       {
         "rank": 5,
-        "name": "pydantic/pydantic-ai",
-        "url": "https://github.com/pydantic/pydantic-ai",
+        "name": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
         "stars_28d": 4,
-        "total_stars": 11879,
-        "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-        "category": "Typed Agent SDK",
-        "language": "Python",
-        "language_color": "#3572A5"
+        "total_stars": 16185,
+        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+        "category": "Full-Stack Agent Platform",
+        "language": "TypeScript",
+        "language_color": "#3178C6"
       }
     ]
   },
@@ -684,8 +684,8 @@
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "discussion_url": "https://news.ycombinator.com/item?id=49426564",
         "site": "developer.apple.com",
-        "points": 376,
-        "comments": 96,
+        "points": 387,
+        "comments": 102,
         "author": "K7PJP",
         "age": "8h ago"
       },
@@ -696,8 +696,8 @@
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "discussion_url": "https://news.ycombinator.com/item?id=49420873",
         "site": "twitter.com",
-        "points": 805,
-        "comments": 565,
+        "points": 819,
+        "comments": 575,
         "author": "tosh",
         "age": "15h ago"
       },
@@ -708,10 +708,10 @@
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "discussion_url": "https://news.ycombinator.com/item?id=49421158",
         "site": "xusheng.dev",
-        "points": 650,
-        "comments": 261,
+        "points": 661,
+        "comments": 265,
         "author": "ComputerGuru",
-        "age": "14h ago"
+        "age": "15h ago"
       },
       {
         "rank": 4,
@@ -720,8 +720,8 @@
         "url": "https://nostr.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=49399722",
         "site": "nostr.org",
-        "points": 82,
-        "comments": 28,
+        "points": 92,
+        "comments": 32,
         "author": "Bluestein",
         "age": "2d ago"
       },
@@ -732,10 +732,10 @@
         "url": "https://paulgraham.com/prepare.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49428121",
         "site": "paulgraham.com",
-        "points": 78,
-        "comments": 76,
+        "points": 90,
+        "comments": 94,
         "author": "gmays",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -746,13 +746,25 @@
         "url": "https://news.ycombinator.com/item?id=49428842",
         "discussion_url": "https://news.ycombinator.com/item?id=49428842",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 3,
+        "points": 13,
+        "comments": 5,
         "author": "foota",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 49417766,
+        "title": "Ask HN: Those making $500/month on side projects in 2026 – Show and tell",
+        "url": "https://news.ycombinator.com/item?id=49417766",
+        "discussion_url": "https://news.ycombinator.com/item?id=49417766",
+        "site": "news.ycombinator.com",
+        "points": 58,
+        "comments": 75,
+        "author": "kaladan",
+        "age": "20h ago"
+      },
+      {
+        "rank": 3,
         "id": 49426275,
         "title": "How I Read Books",
         "url": "https://news.ycombinator.com/item?id=49426275",
@@ -761,19 +773,7 @@
         "points": 11,
         "comments": 7,
         "author": "nomilk",
-        "age": "8h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49417766,
-        "title": "Ask HN: Those making $500/month on side projects in 2026 – Show and tell",
-        "url": "https://news.ycombinator.com/item?id=49417766",
-        "discussion_url": "https://news.ycombinator.com/item?id=49417766",
-        "site": "news.ycombinator.com",
-        "points": 58,
-        "comments": 74,
-        "author": "kaladan",
-        "age": "19h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
@@ -797,7 +797,7 @@
         "points": 2,
         "comments": 2,
         "author": "kbrannigan",
-        "age": "12h ago"
+        "age": "13h ago"
       }
     ],
     "show": [
@@ -808,34 +808,34 @@
         "url": "https://github.com/dragthelake/ambient-context",
         "discussion_url": "https://news.ycombinator.com/item?id=49429095",
         "site": "github.com",
-        "points": 20,
-        "comments": 4,
+        "points": 22,
+        "comments": 9,
         "author": "Dramatize",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49410814,
-        "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-        "url": "https://tarjan.itch.io/thoreaubasic",
-        "discussion_url": "https://news.ycombinator.com/item?id=49410814",
-        "site": "tarjan.itch.io",
-        "points": 33,
-        "comments": 8,
-        "author": "Gorsefound",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
         "id": 49422243,
         "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
         "url": "https://github.com/ovenpasta/adi2",
         "discussion_url": "https://news.ycombinator.com/item?id=49422243",
         "site": "github.com",
-        "points": 39,
+        "points": 45,
         "comments": 15,
         "author": "ovenpasta",
-        "age": "13h ago"
+        "age": "14h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49410814,
+        "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+        "url": "https://tarjan.itch.io/thoreaubasic",
+        "discussion_url": "https://news.ycombinator.com/item?id=49410814",
+        "site": "tarjan.itch.io",
+        "points": 35,
+        "comments": 9,
+        "author": "Gorsefound",
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -844,22 +844,22 @@
         "url": "https://picomq.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49421806",
         "site": "picomq.com",
-        "points": 111,
-        "comments": 20,
+        "points": 112,
+        "comments": 21,
         "author": "adesh_nalpet",
         "age": "14h ago"
       },
       {
         "rank": 5,
-        "id": 49420714,
-        "title": "Show HN: How to mentally calculate the day of the week for any date",
-        "url": "https://tinkerandsee.com/weekday/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49420714",
-        "site": "tinkerandsee.com",
-        "points": 59,
-        "comments": 14,
-        "author": "yang140",
-        "age": "15h ago"
+        "id": 49389593,
+        "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+        "url": "https://github.com/uncognic/steppewm",
+        "discussion_url": "https://news.ycombinator.com/item?id=49389593",
+        "site": "github.com",
+        "points": 13,
+        "comments": 5,
+        "author": "uncognic",
+        "age": "3d ago"
       }
     ]
   }
