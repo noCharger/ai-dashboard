@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-25T16:22:34Z",
+  "generated": "2026-08-25T17:21:32Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1271,
+        "trending_score": 1261,
         "downloads": 2945415,
-        "likes": 12656,
+        "likes": 12663,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 987,
+        "trending_score": 978,
         "downloads": 7334695,
-        "likes": 2890,
+        "likes": 2891,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 724,
+        "trending_score": 716,
         "downloads": 68855,
-        "likes": 1078,
+        "likes": 1080,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 649,
+        "trending_score": 650,
         "downloads": 389747,
-        "likes": 736,
+        "likes": 737,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -76,7 +76,7 @@
         "org": "orcarouter",
         "trending_score": 476,
         "downloads": 249744,
-        "likes": 1132,
+        "likes": 1137,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.9940402666399,
+        "speed_tps": 70.950431617187,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 74.2896739345694,
+        "speed_tps": 72.8797232081967,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 17158,
+        "stars": 17286,
         "stars_delta": 1698,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -321,38 +321,38 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 1617,
+        "stars": 1634,
         "stars_delta": 350,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "MadsLorentzen/ai-job-search",
-        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 35009,
-        "stars_delta": 1266,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 4,
         "name": "apache/maka",
         "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
         "url": "https://github.com/apache/maka",
-        "stars": 3207,
+        "stars": 3223,
         "stars_delta": 538,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 100000,
+        "stars": 100029,
         "stars_delta": 191,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "AgriciDaniel/claude-obsidian",
+        "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
+        "url": "https://github.com/AgriciDaniel/claude-obsidian",
+        "stars": 12506,
+        "stars_delta": 810,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,7 +363,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 29128,
+        "stars": 29129,
         "stars_delta": 2285,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -373,7 +373,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 16317,
+        "stars": 16329,
         "stars_delta": 7019,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "harry0703/MoneyPrinterTurbo",
         "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 116327,
+        "stars": 116345,
         "stars_delta": 10647,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 30950,
+        "stars": 30984,
         "stars_delta": 3934,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 1617,
+        "stars": 1634,
         "stars_delta": 877,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24406,
+        "stars": 24414,
         "stars_delta": 15093,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 30950,
+        "stars": 30984,
         "stars_delta": 5853,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30649,
+        "stars": 30653,
         "stars_delta": 21856,
         "language": "Rust",
         "language_color": "#dea584"
@@ -445,7 +445,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 29138,
+        "stars": 29155,
         "stars_delta": 19889,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -455,7 +455,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 24171,
+        "stars": 24189,
         "stars_delta": 14346,
         "language": "Python",
         "language_color": "#3572A5"
@@ -508,14 +508,14 @@
       },
       {
         "rank": 5,
-        "name": "pydantic/pydantic-ai",
-        "url": "https://github.com/pydantic/pydantic-ai",
+        "name": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
         "stars_28d": 4,
-        "total_stars": 11879,
-        "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-        "category": "Typed Agent SDK",
-        "language": "Python",
-        "language_color": "#3572A5"
+        "total_stars": 16185,
+        "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+        "category": "Full-Stack Agent Platform",
+        "language": "TypeScript",
+        "language_color": "#3178C6"
       }
     ]
   },
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.23283",
         "categories": [],
-        "upvotes": 163,
+        "upvotes": 165,
         "published": "2026-08-23",
         "github_repo": "https://github.com/ApodexAI/FrontierAgent",
         "github_stars": 453
@@ -684,10 +684,10 @@
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "discussion_url": "https://news.ycombinator.com/item?id=49433292",
         "site": "apple.com",
-        "points": 453,
-        "comments": 368,
+        "points": 572,
+        "comments": 461,
         "author": "interpol_p",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -696,46 +696,46 @@
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "discussion_url": "https://news.ycombinator.com/item?id=49433316",
         "site": "apple.com",
-        "points": 425,
-        "comments": 269,
+        "points": 490,
+        "comments": 308,
         "author": "interpol_p",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
+        "id": 49434820,
+        "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+        "discussion_url": "https://news.ycombinator.com/item?id=49434820",
+        "site": "e360.yale.edu",
+        "points": 142,
+        "comments": 86,
+        "author": "speckx",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 49433450,
         "title": "New Mac mini, featuring M6 and M5 Pro",
         "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
         "discussion_url": "https://news.ycombinator.com/item?id=49433450",
         "site": "apple.com",
-        "points": 199,
-        "comments": 112,
+        "points": 262,
+        "comments": 133,
         "author": "runako",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49432317,
         "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
         "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
         "discussion_url": "https://news.ycombinator.com/item?id=49432317",
         "site": "modelscope.cn",
-        "points": 187,
-        "comments": 81,
+        "points": 221,
+        "comments": 102,
         "author": "garo-pro",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49434820,
-        "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-        "discussion_url": "https://news.ycombinator.com/item?id=49434820",
-        "site": "e360.yale.edu",
-        "points": 89,
-        "comments": 70,
-        "author": "speckx",
-        "age": "1h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -749,7 +749,7 @@
         "points": 4,
         "comments": 10,
         "author": "scottndecker",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -761,7 +761,7 @@
         "points": 3,
         "comments": 1,
         "author": "OhMeadhbh",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -770,10 +770,10 @@
         "url": "https://news.ycombinator.com/item?id=49428842",
         "discussion_url": "https://news.ycombinator.com/item?id=49428842",
         "site": "news.ycombinator.com",
-        "points": 24,
+        "points": 25,
         "comments": 7,
         "author": "foota",
-        "age": "12h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
@@ -785,7 +785,7 @@
         "points": 2,
         "comments": 0,
         "author": "gchamonlive",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 5,
@@ -795,7 +795,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49417766",
         "site": "news.ycombinator.com",
         "points": 65,
-        "comments": 84,
+        "comments": 85,
         "author": "kaladan",
         "age": "1d ago"
       }
@@ -803,63 +803,63 @@
     "show": [
       {
         "rank": 1,
-        "id": 49435251,
-        "title": "Show HN: I built a SaaS without knowing how to code – am I an idiot?",
-        "url": "https://www.learnfrom.co/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49435251",
-        "site": "learnfrom.co",
-        "points": 5,
-        "comments": 5,
-        "author": "bel_hajo",
-        "age": "1h ago"
+        "id": 49437244,
+        "title": "Show HN: I built a cybersecurity challenge for university students",
+        "url": "https://vitb-polimi-cyber-v4.vercel.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49437244",
+        "site": "vitb-polimi-cyber-v4.vercel.app",
+        "points": 2,
+        "comments": 0,
+        "author": "adityainsights",
+        "age": "16m ago"
       },
       {
         "rank": 2,
-        "id": 49434985,
-        "title": "Show HN: Make a Hug – digital care packages to someone you do care about",
-        "url": "https://makeahug.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49434985",
-        "site": "makeahug.com",
-        "points": 2,
+        "id": 49437115,
+        "title": "Show HN: Typeclip – types your clipboard like a human, for screen recordings",
+        "url": "https://github.com/cssllcio/typeclip",
+        "discussion_url": "https://news.ycombinator.com/item?id=49437115",
+        "site": "github.com",
+        "points": 3,
         "comments": 0,
-        "author": "14mnobody",
-        "age": "1h ago"
+        "author": "izenme",
+        "age": "25m ago"
       },
       {
         "rank": 3,
-        "id": 49410814,
-        "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-        "url": "https://tarjan.itch.io/thoreaubasic",
-        "discussion_url": "https://news.ycombinator.com/item?id=49410814",
-        "site": "tarjan.itch.io",
-        "points": 94,
-        "comments": 32,
-        "author": "Gorsefound",
-        "age": "1d ago"
+        "id": 49437032,
+        "title": "Show HN: Is this the limit of what a solo founder can build?",
+        "url": "https://limitpixel.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49437032",
+        "site": "limitpixel.com",
+        "points": 2,
+        "comments": 1,
+        "author": "truth_behold",
+        "age": "30m ago"
       },
       {
         "rank": 4,
-        "id": 49434650,
-        "title": "Show HN: A 34 MB search engine that can't make a network call",
-        "url": "https://www.korvo.xyz/embed",
-        "discussion_url": "https://news.ycombinator.com/item?id=49434650",
-        "site": "korvo.xyz",
-        "points": 4,
+        "id": 49436946,
+        "title": "Show HN: Offer discounts and get more visitors",
+        "url": "https://outdiscount.lol/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49436946",
+        "site": "outdiscount.lol",
+        "points": 2,
         "comments": 0,
-        "author": "akshay_bhardwaj",
-        "age": "2h ago"
+        "author": "devarifhossain",
+        "age": "36m ago"
       },
       {
         "rank": 5,
-        "id": 49434639,
-        "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
-        "url": "https://github.com/rudrasatani13/cot-redteam-agent",
-        "discussion_url": "https://news.ycombinator.com/item?id=49434639",
+        "id": 49436871,
+        "title": "Show HN: Player vs. Computer – fight your computer in my web game",
+        "url": "https://github.com/Rubinoslaw/Player-vs-Computer/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49436871",
         "site": "github.com",
-        "points": 4,
+        "points": 2,
         "comments": 0,
-        "author": "rudrasatani",
-        "age": "2h ago"
+        "author": "PolishDevelop22",
+        "age": "41m ago"
       }
     ]
   }
