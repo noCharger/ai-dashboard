@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-26T18:45:47Z",
+  "generated": "2026-08-26T21:25:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 3437,
+        "trending_score": 3495,
         "downloads": 2551,
-        "likes": 3492,
+        "likes": 3553,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1107,
+        "trending_score": 1099,
         "downloads": 3298569,
-        "likes": 12863,
+        "likes": 12881,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 866,
+        "trending_score": 829,
         "downloads": 7638591,
-        "likes": 2985,
+        "likes": 2990,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "org": "OBLITERATUS",
-        "trending_score": 694,
-        "downloads": 468746,
-        "likes": 798,
-        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-        "tags": [
-          "mlx",
-          "safetensors",
-          "gguf",
-          "qwen3_5",
-          "abliterated"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 653,
+        "trending_score": 722,
         "downloads": 0,
-        "likes": 666,
+        "likes": 737,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "glm5_next",
           "image-text-to-text",
           "text-generation"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "org": "OBLITERATUS",
+        "trending_score": 700,
+        "downloads": 468746,
+        "likes": 806,
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "tags": [
+          "mlx",
+          "safetensors",
+          "gguf",
+          "qwen3_5",
+          "abliterated"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.6637113411087,
+        "speed_tps": 54.8074267275364,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 54.8331543205528,
+        "speed_tps": 53.3155160121349,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 71.2469240673262,
+        "speed_tps": 70.9068229677342,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 61.4751191473465,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.7540008083283,
+        "speed_tps": 54.3938279135812,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 73.1820817415583,
+        "speed_tps": 71.5824400923225,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 17493,
+        "stars": 17670,
         "stars_delta": 1002,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -321,7 +321,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 21126,
+        "stars": 21187,
         "stars_delta": 4044,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 34304,
+        "stars": 34333,
         "stars_delta": 307,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "Alishahryar1/free-claude-code",
         "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
         "url": "https://github.com/Alishahryar1/free-claude-code",
-        "stars": 50249,
+        "stars": 50314,
         "stars_delta": 566,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 36273,
+        "stars": 36366,
         "stars_delta": 1299,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 2126,
+        "stars": 2150,
         "stars_delta": 1199,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 16801,
+        "stars": 16830,
         "stars_delta": 7648,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
-        "stars": 29213,
+        "stars": 29220,
         "stars_delta": 2354,
         "language": "Mojo",
         "language_color": "#ff4c1f"
@@ -393,7 +393,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 31884,
+        "stars": 31930,
         "stars_delta": 4601,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 21126,
+        "stars": 21187,
         "stars_delta": 5329,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 31884,
+        "stars": 31930,
         "stars_delta": 6841,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24649,
+        "stars": 24662,
         "stars_delta": 15253,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 29552,
+        "stars": 29572,
         "stars_delta": 20443,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -445,7 +445,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 5370,
+        "stars": 5398,
         "stars_delta": 2891,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "block/buzz",
         "description": "A hive mind communication platform",
         "url": "https://github.com/block/buzz",
-        "stars": 30862,
+        "stars": 30878,
         "stars_delta": 19846,
         "language": "Rust",
         "language_color": "#dea584"
@@ -508,12 +508,12 @@
       },
       {
         "rank": 5,
-        "name": "pydantic/pydantic-ai",
-        "url": "https://github.com/pydantic/pydantic-ai",
+        "name": "FoundationAgents/MetaGPT",
+        "url": "https://github.com/FoundationAgents/MetaGPT",
         "stars_28d": 4,
-        "total_stars": 11879,
-        "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-        "category": "Typed Agent SDK",
+        "total_stars": 59662,
+        "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "category": "Agent Team Simulation",
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.23283",
         "categories": [],
-        "upvotes": 181,
+        "upvotes": 182,
         "published": "2026-08-23",
         "github_repo": "https://github.com/ApodexAI/FrontierAgent",
         "github_stars": 833
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 755,
+        "upvotes": 756,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 6342
@@ -579,7 +579,7 @@
         "upvotes": 125,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 100489
+        "github_stars": 100709
       },
       {
         "rank": 5,
@@ -677,187 +677,187 @@
     "top": [
       {
         "rank": 1,
+        "id": 49452990,
+        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+        "url": "https://github.com/tailscale/tailcat",
+        "discussion_url": "https://news.ycombinator.com/item?id=49452990",
+        "site": "github.com",
+        "points": 339,
+        "comments": 58,
+        "author": "nderjung",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49449507,
         "title": "GLM-5.3-Flash",
         "url": "https://z.ai/blog/glm-5.3-flash",
         "discussion_url": "https://news.ycombinator.com/item?id=49449507",
         "site": "z.ai",
-        "points": 584,
-        "comments": 277,
+        "points": 748,
+        "comments": 362,
         "author": "Philpax",
-        "age": "4h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49452980,
-        "title": "An ongoing 3D-printer AGPL violation",
-        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49452980",
-        "site": "lwn.net",
-        "points": 75,
-        "comments": 13,
-        "author": "Velocifyer",
-        "age": "1h ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
+        "id": 49454419,
+        "title": "Dallas startup enriches Uranium",
+        "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+        "discussion_url": "https://news.ycombinator.com/item?id=49454419",
+        "site": "actinideinc.com",
+        "points": 95,
+        "comments": 41,
+        "author": "dsalzman",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 49448321,
         "title": "AWS Acquires DuckLabs",
         "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
         "discussion_url": "https://news.ycombinator.com/item?id=49448321",
         "site": "ducklabs.com",
-        "points": 789,
-        "comments": 226,
+        "points": 887,
+        "comments": 261,
         "author": "onderkalaci",
-        "age": "5h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49452990,
-        "title": "Tailcat",
-        "url": "https://github.com/tailscale/tailcat",
-        "discussion_url": "https://news.ycombinator.com/item?id=49452990",
-        "site": "github.com",
-        "points": 74,
-        "comments": 13,
-        "author": "nderjung",
-        "age": "1h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 49450722,
-        "title": "Disruption with Some GitHub Services",
-        "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-        "discussion_url": "https://news.ycombinator.com/item?id=49450722",
-        "site": "githubstatus.com",
-        "points": 182,
-        "comments": 104,
-        "author": "blimmer",
+        "id": 49452980,
+        "title": "An ongoing 3D-printer AGPL violation",
+        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49452980",
+        "site": "lwn.net",
+        "points": 200,
+        "comments": 100,
+        "author": "Velocifyer",
         "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49455036,
+        "title": "Ask HN: Why do tools like customer.io abandon self-serve after their Series A?",
+        "url": "https://news.ycombinator.com/item?id=49455036",
+        "discussion_url": "https://news.ycombinator.com/item?id=49455036",
+        "site": "news.ycombinator.com",
+        "points": 6,
+        "comments": 0,
+        "author": "alessandroetc",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49455449,
+        "title": "I keep getting flagged for AI, but I suck at writing. How can I solve this?",
+        "url": "https://news.ycombinator.com/item?id=49455449",
+        "discussion_url": "https://news.ycombinator.com/item?id=49455449",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 6,
+        "author": "quesobob",
+        "age": "53m ago"
+      },
+      {
+        "rank": 3,
+        "id": 49453403,
+        "title": "Ask HN: How about delayed MIT/GPL?",
+        "url": "https://news.ycombinator.com/item?id=49453403",
+        "discussion_url": "https://news.ycombinator.com/item?id=49453403",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "afiori",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 49452907,
         "title": "Tell HN: Even HN is getting heavy traffic by AI crawlers",
         "url": "https://news.ycombinator.com/item?id=49452907",
         "discussion_url": "https://news.ycombinator.com/item?id=49452907",
         "site": "news.ycombinator.com",
-        "points": 7,
+        "points": 8,
         "comments": 3,
         "author": "ksec",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "id": 49450711,
         "title": "Ask HN: Where else do you spend time on the internet other than HN?",
         "url": "https://news.ycombinator.com/item?id=49450711",
         "discussion_url": "https://news.ycombinator.com/item?id=49450711",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 6,
+        "points": 6,
+        "comments": 10,
         "author": "Gecko4072",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49450183,
-        "title": "Requests for Startups: Energy",
-        "url": "https://news.ycombinator.com/item?id=49450183",
-        "discussion_url": "https://news.ycombinator.com/item?id=49450183",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "NarcisMirandes",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49449290,
-        "title": "Ask HN: Are you still using AI code autocomplete?",
-        "url": "https://news.ycombinator.com/item?id=49449290",
-        "discussion_url": "https://news.ycombinator.com/item?id=49449290",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 6,
-        "author": "jawuilp",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49447708,
-        "title": "Tell HN: Google Search to begin using opaque redirect URLs on search results",
-        "url": "https://news.ycombinator.com/item?id=49447708",
-        "discussion_url": "https://news.ycombinator.com/item?id=49447708",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 2,
-        "author": "exploraz",
         "age": "6h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49453098,
-        "title": "Show HN: Railo – Deterministic security patch bot using AST and Z3 (no LLMs)",
-        "url": "https://www.railo.dev",
-        "discussion_url": "https://news.ycombinator.com/item?id=49453098",
-        "site": "railo.dev",
-        "points": 2,
-        "comments": 0,
-        "author": "mdzariflatif",
-        "age": "55m ago"
+        "id": 49455695,
+        "title": "Show HN: Every push-up becomes an attack in a camera-counted RPG game",
+        "url": "https://pushup.quest/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49455695",
+        "site": "pushup.quest",
+        "points": 7,
+        "comments": 1,
+        "author": "not_wowinter13",
+        "age": "36m ago"
       },
       {
         "rank": 2,
-        "id": 49449648,
-        "title": "Show HN: How much of Hacker News is about AI?",
-        "url": "https://hnstats.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49449648",
-        "site": "hnstats.com",
-        "points": 63,
-        "comments": 38,
-        "author": "beekthos",
-        "age": "4h ago"
+        "id": 49455557,
+        "title": "Show HN: We built the smallest dual-band aircraft tracker",
+        "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49455557",
+        "site": "pantsforbirds.com",
+        "points": 8,
+        "comments": 1,
+        "author": "CoolNamesAllTkn",
+        "age": "46m ago"
       },
       {
         "rank": 3,
-        "id": 49452794,
-        "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
-        "url": "https://timberreader.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49452794",
-        "site": "timberreader.com",
-        "points": 3,
+        "id": 49452037,
+        "title": "Show HN: Build your own theme park",
+        "url": "https://www.magicpatterns.com/theme-park",
+        "discussion_url": "https://news.ycombinator.com/item?id=49452037",
+        "site": "magicpatterns.com",
+        "points": 5,
         "comments": 0,
-        "author": "Fe2_O3",
-        "age": "1h ago"
+        "author": "thealexanderlee",
+        "age": "4h ago"
       },
       {
         "rank": 4,
-        "id": 49452645,
-        "title": "Show HN: Caniuse for spreadsheet functions, every LibreOffice result executed",
-        "url": "https://canispreadsheet.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49452645",
-        "site": "canispreadsheet.com",
+        "id": 49455638,
+        "title": "Show HN: Invader – an indie iOS podcast player that never phones home",
+        "url": "https://invader.gg/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49455638",
+        "site": "invader.gg",
         "points": 2,
-        "comments": 0,
-        "author": "aflabs",
-        "age": "1h ago"
+        "comments": 1,
+        "author": "HeadOfProbing",
+        "age": "40m ago"
       },
       {
         "rank": 5,
-        "id": 49450500,
-        "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
-        "url": "https://github.com/SWUFE-DB-Group/TexLite",
-        "discussion_url": "https://news.ycombinator.com/item?id=49450500",
+        "id": 49455537,
+        "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+        "url": "https://github.com/apvcode/Termux-Dev",
+        "discussion_url": "https://news.ycombinator.com/item?id=49455537",
         "site": "github.com",
-        "points": 13,
-        "comments": 0,
-        "author": "thisispi",
-        "age": "3h ago"
+        "points": 2,
+        "comments": 1,
+        "author": "apvcode",
+        "age": "47m ago"
       }
     ]
   }
