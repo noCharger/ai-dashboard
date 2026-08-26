@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-26T11:18:33Z",
+  "generated": "2026-08-26T12:25:24Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 1143,
+        "trending_score": 1132,
         "downloads": 3298569,
-        "likes": 12805,
+        "likes": 12814,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Qwen3.8-27B-GGUF",
         "org": "unsloth",
-        "trending_score": 935,
+        "trending_score": 930,
         "downloads": 7638591,
-        "likes": 2945,
+        "likes": 2948,
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "org": "OBLITERATUS",
-        "trending_score": 681,
+        "trending_score": 683,
         "downloads": 468746,
-        "likes": 776,
+        "likes": 778,
         "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
         "tags": [
           "mlx",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "org": "orcarouter",
-        "trending_score": 544,
+        "trending_score": 534,
         "downloads": 79395,
-        "likes": 1123,
+        "likes": 1125,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
         "tags": [
           "mlx",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "org": "orcarouter",
-        "trending_score": 433,
+        "trending_score": 430,
         "downloads": 269805,
-        "likes": 1159,
+        "likes": 1161,
         "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
         "tags": [
           "transformers",
@@ -308,51 +308,51 @@
     "daily": [
       {
         "rank": 1,
+        "name": "tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "url": "https://github.com/tt-a1i/archify",
+        "stars": 16833,
+        "stars_delta": 1002,
+        "language": "HTML",
+        "language_color": "#e34c26"
+      },
+      {
+        "rank": 2,
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 20330,
-        "stars_delta": 1698,
+        "stars": 20485,
+        "stars_delta": 4044,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 2,
-        "name": "anthropics/claude-plugins-community",
-        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 2007,
-        "stars_delta": 351,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
         "rank": 3,
-        "name": "MadsLorentzen/ai-job-search",
-        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 35922,
-        "stars_delta": 1265,
+        "name": "anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "stars": 34240,
+        "stars_delta": 307,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "apache/maka",
-        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-        "url": "https://github.com/apache/maka",
-        "stars": 3534,
-        "stars_delta": 543,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "Alishahryar1/free-claude-code",
+        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "stars": 50078,
+        "stars_delta": 1047,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "TauricResearch/TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 100631,
-        "stars_delta": 218,
+        "name": "MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "stars": 35978,
+        "stars_delta": 1299,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -360,6 +360,26 @@
     "weekly": [
       {
         "rank": 1,
+        "name": "anthropics/claude-plugins-community",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "stars": 2033,
+        "stars_delta": 1199,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 2,
+        "name": "AprilNEA/OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "stars": 16692,
+        "stars_delta": 7648,
+        "language": "Rust",
+        "language_color": "#dea584"
+      },
+      {
+        "rank": 3,
         "name": "modular/modular",
         "description": "The Modular Platform (includes MAX & Mojo)",
         "url": "https://github.com/modular/modular",
@@ -369,96 +389,76 @@
         "language_color": "#ff4c1f"
       },
       {
-        "rank": 2,
-        "name": "AprilNEA/OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 16674,
-        "stars_delta": 7648,
-        "language": "Rust",
-        "language_color": "#dea584"
-      },
-      {
-        "rank": 3,
-        "name": "harry0703/MoneyPrinterTurbo",
-        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-        "stars": 116727,
-        "stars_delta": 9019,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
         "rank": 4,
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 31649,
+        "stars": 31689,
         "stars_delta": 4601,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
         "rank": 5,
-        "name": "anthropics/claude-plugins-community",
-        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 2007,
-        "stars_delta": 1199,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "freestylefly/awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "stars": 20485,
+        "stars_delta": 5329,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       }
     ],
     "monthly": [
       {
         "rank": 1,
-        "name": "TencentCloud/TencentDB-Agent-Memory",
-        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
-        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 24577,
-        "stars_delta": 15253,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 2,
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 31649,
+        "stars": 31689,
         "stars_delta": 6841,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
-        "rank": 3,
-        "name": "block/buzz",
-        "description": "A hive mind communication platform",
-        "url": "https://github.com/block/buzz",
-        "stars": 30771,
-        "stars_delta": 19846,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "rank": 2,
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "stars": 24587,
+        "stars_delta": 15253,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 29466,
+        "stars": 29485,
         "stars_delta": 20443,
         "language": "PowerShell",
         "language_color": "#012456"
       },
       {
+        "rank": 4,
+        "name": "cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "url": "https://github.com/cursor/plugins",
+        "stars": 5290,
+        "stars_delta": 2891,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 5,
-        "name": "ayghri/i-have-adhd",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 24466,
-        "stars_delta": 14431,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "block/buzz",
+        "description": "A hive mind communication platform",
+        "url": "https://github.com/block/buzz",
+        "stars": 30790,
+        "stars_delta": 19846,
+        "language": "Rust",
+        "language_color": "#dea584"
       }
     ],
     "frameworks": [
@@ -677,15 +677,15 @@
     "top": [
       {
         "rank": 1,
-        "id": 49445873,
-        "title": "Oldinsurancemaps.net is now a Charter Project",
-        "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49445873",
-        "site": "openstreetmap.us",
-        "points": 56,
-        "comments": 7,
-        "author": "altilunium",
-        "age": "2h ago"
+        "id": 49447682,
+        "title": "Omarchy is full of security holes",
+        "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49447682",
+        "site": "blog.happyfellow.dev",
+        "points": 34,
+        "comments": 3,
+        "author": "arn3n",
+        "age": "7m ago"
       },
       {
         "rank": 2,
@@ -694,46 +694,46 @@
         "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
         "discussion_url": "https://news.ycombinator.com/item?id=49445727",
         "site": "lighthousenewsletter.com",
-        "points": 76,
-        "comments": 40,
+        "points": 149,
+        "comments": 68,
         "author": "j0selit0",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
+        "id": 49445873,
+        "title": "Oldinsurancemaps.net is now a Charter Project",
+        "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49445873",
+        "site": "openstreetmap.us",
+        "points": 86,
+        "comments": 13,
+        "author": "altilunium",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 49446422,
         "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
         "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
         "discussion_url": "https://news.ycombinator.com/item?id=49446422",
         "site": "bloomberg.com",
-        "points": 79,
-        "comments": 20,
+        "points": 170,
+        "comments": 68,
         "author": "garo-pro",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49445286,
-        "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-        "url": "https://rupertlinacre.com/buslens/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49445286",
-        "site": "rupertlinacre.com",
-        "points": 40,
-        "comments": 26,
-        "author": "RobinL",
-        "age": "3h ago"
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49433292,
-        "title": "Apple introduces M6 and M5 Ultra",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49433292",
-        "site": "apple.com",
-        "points": 1169,
-        "comments": 1143,
-        "author": "interpol_p",
-        "age": "22h ago"
+        "id": 49445884,
+        "title": "Value Classes Still Need Compiler Sympathy",
+        "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49445884",
+        "site": "johan-sjolen.github.io",
+        "points": 45,
+        "comments": 17,
+        "author": "lichtenberger",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -744,10 +744,10 @@
         "url": "https://news.ycombinator.com/item?id=49446210",
         "discussion_url": "https://news.ycombinator.com/item?id=49446210",
         "site": "news.ycombinator.com",
-        "points": 13,
-        "comments": 2,
+        "points": 67,
+        "comments": 17,
         "author": "mobilio",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -759,7 +759,7 @@
         "points": 2,
         "comments": 2,
         "author": "andriimb",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -771,7 +771,7 @@
         "points": 2,
         "comments": 0,
         "author": "VishnuShayeq01",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
@@ -781,9 +781,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49445356",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 3,
+        "comments": 4,
         "author": "throwaw12",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -792,10 +792,10 @@
         "url": "https://news.ycombinator.com/item?id=49444955",
         "discussion_url": "https://news.ycombinator.com/item?id=49444955",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 0,
         "author": "mutahn",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ],
     "show": [
@@ -806,58 +806,58 @@
         "url": "https://rupertlinacre.com/buslens/",
         "discussion_url": "https://news.ycombinator.com/item?id=49445286",
         "site": "rupertlinacre.com",
-        "points": 40,
-        "comments": 26,
+        "points": 58,
+        "comments": 38,
         "author": "RobinL",
-        "age": "3h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
+        "id": 49447372,
+        "title": "Show HN: Routebase – One OpenAPI spec drives your docs, mocks, tests, monitors",
+        "url": "https://routebase.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49447372",
+        "site": "routebase.dev",
+        "points": 3,
+        "comments": 0,
+        "author": "driedl",
+        "age": "35m ago"
+      },
+      {
+        "rank": 3,
+        "id": 49447202,
+        "title": "Show HN: DBLift – database migration management for Python teams",
+        "url": "https://dblift.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49447202",
+        "site": "dblift.com",
+        "points": 2,
+        "comments": 0,
+        "author": "cmodiano",
+        "age": "49m ago"
+      },
+      {
+        "rank": 4,
+        "id": 49447045,
+        "title": "Show HN: A local tool that logs every time you swear at your AI coding assistant",
+        "url": "https://github.com/fireinbelly/biomass-conversion-index-monitoring-system",
+        "discussion_url": "https://news.ycombinator.com/item?id=49447045",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "lokinkl",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 49446769,
-        "title": "Show HN: I have feelings about my tasks",
+        "title": "Show HN: I fear my tasks",
         "url": "https://taskroom.autobirds.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49446769",
         "site": "taskroom.autobirds.com",
         "points": 2,
-        "comments": 0,
+        "comments": 1,
         "author": "eyalgoren",
-        "age": "30m ago"
-      },
-      {
-        "rank": 3,
-        "id": 49437049,
-        "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-        "url": "https://github.com/jeffhajewski/latticedb",
-        "discussion_url": "https://news.ycombinator.com/item?id=49437049",
-        "site": "github.com",
-        "points": 160,
-        "comments": 41,
-        "author": "smiths1999",
-        "age": "18h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49441375,
-        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-        "url": "https://github.com/swimmingbrain/texbrain",
-        "discussion_url": "https://news.ycombinator.com/item?id=49441375",
-        "site": "github.com",
-        "points": 103,
-        "comments": 21,
-        "author": "swimmingbrain",
-        "age": "13h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49445889,
-        "title": "Show HN: The Great Mountains and the Weather That Defines Them",
-        "url": "https://www.wfy24.com/en/article/the-worlds-great-mountains-and-the-weather-that-defines-them",
-        "discussion_url": "https://news.ycombinator.com/item?id=49445889",
-        "site": "wfy24.com",
-        "points": 2,
-        "comments": 0,
-        "author": "weatherfun",
-        "age": "2h ago"
+        "age": "1h ago"
       }
     ]
   }
