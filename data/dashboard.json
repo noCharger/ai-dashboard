@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-29T02:33:12Z",
+  "generated": "2026-08-29T09:30:01Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 4041,
-        "downloads": 4810,
-        "likes": 4169,
+        "trending_score": 4064,
+        "downloads": 52341,
+        "likes": 4198,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 1455,
-        "downloads": 34,
-        "likes": 1514,
+        "trending_score": 1481,
+        "downloads": 189793,
+        "likes": 1544,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.3",
         "org": "zai-org",
-        "trending_score": 1094,
-        "downloads": 0,
-        "likes": 1127,
+        "trending_score": 1155,
+        "downloads": 8804,
+        "likes": 1194,
         "url": "https://huggingface.co/zai-org/GLM-5.3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 899,
-        "downloads": 3457687,
-        "likes": 13152,
+        "trending_score": 884,
+        "downloads": 4028839,
+        "likes": 13175,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "unsloth/Qwen3.8-27B-GGUF",
+        "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
         "org": "unsloth",
-        "trending_score": 532,
-        "downloads": 7758790,
-        "likes": 3147,
-        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "trending_score": 528,
+        "downloads": 188061,
+        "likes": 534,
+        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
         "tags": [
           "gguf",
-          "qwen3_5",
           "unsloth",
-          "base_model:Qwen/Qwen3.8-27B",
-          "base_model:quantized:Qwen/Qwen3.8-27B"
+          "image-text-to-text",
+          "base_model:Qwen/Qwen3.8-Flash-Next",
+          "base_model:quantized:Qwen/Qwen3.8-Flash-Next"
         ],
         "rank_change": null
       }
@@ -118,7 +118,7 @@
         "intelligence_index": 62.0726622017462,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 62.4421922806455,
+        "speed_tps": 64.740993857113,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 60.9298701329203,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 74.30193259595,
+        "speed_tps": 75.404294194956,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
       }
@@ -311,7 +311,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 27696,
+        "stars": 28874,
         "stars_delta": 4562,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -321,7 +321,7 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 36694,
+        "stars": 37132,
         "stars_delta": 720,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 35058,
+        "stars": 35153,
         "stars_delta": 457,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 11172,
+        "stars": 11626,
         "stars_delta": 3829,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "abhigyanpatwari/GitNexus",
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZI",
         "url": "https://github.com/abhigyanpatwari/GitNexus",
-        "stars": 46174,
+        "stars": 46251,
         "stars_delta": 202,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 2597,
+        "stars": 2646,
         "stars_delta": 2207,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 24312,
+        "stars": 24583,
         "stars_delta": 12877,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 33606,
+        "stars": 33985,
         "stars_delta": 5942,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "openai/codex",
         "description": "Lightweight coding agent that runs in your terminal",
         "url": "https://github.com/openai/codex",
-        "stars": 119580,
+        "stars": 119667,
         "stars_delta": 9109,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 27696,
+        "stars": 28875,
         "stars_delta": 11099,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "basecamp/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/basecamp/omarchy",
-        "stars": 33606,
+        "stars": 33985,
         "stars_delta": 9083,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "TencentCloud/TencentDB-Agent-Memory",
         "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
         "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "stars": 25047,
+        "stars": 25089,
         "stars_delta": 15798,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 24312,
+        "stars": 24583,
         "stars_delta": 15580,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "zhaoxuya520/reverse-skill",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
         "url": "https://github.com/zhaoxuya520/reverse-skill",
-        "stars": 30142,
+        "stars": 30246,
         "stars_delta": 21291,
         "language": "PowerShell",
         "language_color": "#012456"
@@ -455,7 +455,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 2597,
+        "stars": 2646,
         "stars_delta": 2246,
         "language": "Python",
         "language_color": "#3572A5"
@@ -510,8 +510,8 @@
         "rank": 5,
         "name": "pydantic/pydantic-ai",
         "url": "https://github.com/pydantic/pydantic-ai",
-        "stars_28d": 5,
-        "total_stars": 11880,
+        "stars_28d": 6,
+        "total_stars": 11881,
         "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
         "category": "Typed Agent SDK",
         "language": "Python",
@@ -549,7 +549,7 @@
         "upvotes": 100,
         "published": "2026-08-16",
         "github_repo": "https://github.com/FlashML-org/FreeToken",
-        "github_stars": 9251
+        "github_stars": 9380
       },
       {
         "rank": 3,
@@ -579,7 +579,7 @@
         "upvotes": 200,
         "published": "2026-08-23",
         "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-        "github_stars": 1218
+        "github_stars": 1247
       },
       {
         "rank": 5,
@@ -685,89 +685,89 @@
     "top": [
       {
         "rank": 1,
-        "id": 49485267,
-        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "url": "https://github.com/Lakr233/vphone-cli",
-        "discussion_url": "https://news.ycombinator.com/item?id=49485267",
-        "site": "github.com",
-        "points": 97,
-        "comments": 30,
-        "author": "hentrep",
+        "id": 49487341,
+        "title": "Samsung's Processing-in-Memory (PIM)",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+        "discussion_url": "https://news.ycombinator.com/item?id=49487341",
+        "site": "chipsandcheese.com",
+        "points": 66,
+        "comments": 13,
+        "author": "ingve",
         "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 49456819,
+        "title": "Europe's last regular standard-gauge steam passenger service",
+        "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+        "discussion_url": "https://news.ycombinator.com/item?id=49456819",
+        "site": "parowozowniawolsztyn.pl",
+        "points": 32,
+        "comments": 12,
+        "author": "GungulSurm",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
         "id": 49479837,
         "title": "GUIs should be fully keyboard-driven",
         "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49479837",
         "site": "ckardaris.com",
-        "points": 635,
-        "comments": 311,
+        "points": 793,
+        "comments": 402,
         "author": "ckardaris",
-        "age": "11h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49485452,
-        "title": "9th Circuit sides with states in Kalshi gambling fight",
-        "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49485452",
-        "site": "azmirror.com",
-        "points": 54,
-        "comments": 23,
-        "author": "hungryhobbit",
-        "age": "3h ago"
+        "age": "18h ago"
       },
       {
         "rank": 4,
-        "id": 49485532,
-        "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-        "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49485532",
-        "site": "vectorian.be",
-        "points": 57,
-        "comments": 16,
-        "author": "dev_l1x_be",
-        "age": "2h ago"
+        "id": 49485267,
+        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "discussion_url": "https://news.ycombinator.com/item?id=49485267",
+        "site": "github.com",
+        "points": 259,
+        "comments": 73,
+        "author": "hentrep",
+        "age": "10h ago"
       },
       {
         "rank": 5,
-        "id": 49478178,
-        "title": "Htmx 4.0",
-        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "discussion_url": "https://news.ycombinator.com/item?id=49478178",
-        "site": "four.htmx.org",
-        "points": 547,
-        "comments": 132,
-        "author": "rmsaksida",
-        "age": "13h ago"
+        "id": 49486334,
+        "title": "TurboKV: Insanely fast Rust key-value store",
+        "url": "https://github.com/kingroryg/turbokv",
+        "discussion_url": "https://news.ycombinator.com/item?id=49486334",
+        "site": "github.com",
+        "points": 99,
+        "comments": 35,
+        "author": "rgbimbochamp",
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49486912,
+        "title": "Ask HN: What BOYK AI client are you using?",
+        "url": "https://news.ycombinator.com/item?id=49486912",
+        "discussion_url": "https://news.ycombinator.com/item?id=49486912",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "yeeyang",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
         "id": 49462253,
         "title": "Tell HN: PayPal blocks GrapheneOS",
         "url": "https://news.ycombinator.com/item?id=49462253",
         "discussion_url": "https://news.ycombinator.com/item?id=49462253",
         "site": "news.ycombinator.com",
-        "points": 503,
+        "points": 506,
         "comments": 323,
         "author": "leumon",
         "age": "1d ago"
-      },
-      {
-        "rank": 2,
-        "id": 49484284,
-        "title": "Ask HN: Is observability over the dependencies in codebases still a problem?",
-        "url": "https://news.ycombinator.com/item?id=49484284",
-        "discussion_url": "https://news.ycombinator.com/item?id=49484284",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "enismustafaj",
-        "age": "5h ago"
       },
       {
         "rank": 3,
@@ -776,13 +776,25 @@
         "url": "https://news.ycombinator.com/item?id=49484000",
         "discussion_url": "https://news.ycombinator.com/item?id=49484000",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 2,
         "author": "gmarkwa",
-        "age": "5h ago"
+        "age": "12h ago"
       },
       {
         "rank": 4,
+        "id": 49484284,
+        "title": "Ask HN: Is observability over the dependencies in codebases still a problem?",
+        "url": "https://news.ycombinator.com/item?id=49484284",
+        "discussion_url": "https://news.ycombinator.com/item?id=49484284",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "enismustafaj",
+        "age": "12h ago"
+      },
+      {
+        "rank": 5,
         "id": 49476981,
         "title": "Ask HN: What's a Good Physical Printer?",
         "url": "https://news.ycombinator.com/item?id=49476981",
@@ -791,81 +803,69 @@
         "points": 6,
         "comments": 9,
         "author": "xrd",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49483258,
-        "title": "Zed: Edit predictions are leaving the free Personal plan on October 7",
-        "url": "https://news.ycombinator.com/item?id=49483258",
-        "discussion_url": "https://news.ycombinator.com/item?id=49483258",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 1,
-        "author": "lumpa",
-        "age": "6h ago"
+        "age": "22h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49487838,
+        "title": "Show HN: Itsuki – open-source memory engine for AI agents (API and MCP)",
+        "url": "https://itsuki.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49487838",
+        "site": "itsuki.app",
+        "points": 2,
+        "comments": 2,
+        "author": "12ziyad",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49483038,
         "title": "Show HN: Sesame - a local-first, open-source password manager",
         "url": "https://usesesame.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=49483038",
         "site": "usesesame.app",
-        "points": 40,
-        "comments": 42,
+        "points": 52,
+        "comments": 68,
         "author": "d0mkaaa",
-        "age": "7h ago"
+        "age": "14h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49476894,
         "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
         "url": "https://subsmith.app",
         "discussion_url": "https://news.ycombinator.com/item?id=49476894",
         "site": "subsmith.app",
-        "points": 64,
+        "points": 67,
         "comments": 51,
         "author": "IbrahimF96",
-        "age": "15h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49485902,
-        "title": "Show HN: An annotated archive of S-1 filings, with hindsight",
-        "url": "https://s-1.space/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49485902",
-        "site": "s-1.space",
-        "points": 2,
-        "comments": 0,
-        "author": "eigen-vector",
-        "age": "1h ago"
+        "age": "22h ago"
       },
       {
         "rank": 4,
-        "id": 49485541,
-        "title": "Show HN: NodeAkt – Zero-dependency distributed actor framework for TypeScript",
-        "url": "https://tochemey.github.io/nodeakt/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49485541",
-        "site": "tochemey.github.io",
-        "points": 4,
-        "comments": 0,
-        "author": "Tochemey",
+        "id": 49487500,
+        "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+        "url": "https://github.com/ritenv/tokensift",
+        "discussion_url": "https://news.ycombinator.com/item?id=49487500",
+        "site": "github.com",
+        "points": 3,
+        "comments": 1,
+        "author": "ritenv",
         "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49483436,
-        "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
-        "url": "https://github.com/nilbuild/rundown",
-        "discussion_url": "https://news.ycombinator.com/item?id=49483436",
-        "site": "github.com",
-        "points": 7,
+        "id": 49487177,
+        "title": "Show HN: AMC Stocks Hub – asset-manager profiles, 13F holdings, and co-holdings",
+        "url": "https://assetmanagementcompany.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49487177",
+        "site": "assetmanagementcompany.net",
+        "points": 2,
         "comments": 0,
-        "author": "kamranahmedse",
-        "age": "6h ago"
+        "author": "lzyuan1006",
+        "age": "3h ago"
       }
     ]
   }
