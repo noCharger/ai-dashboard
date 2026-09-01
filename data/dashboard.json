@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-01T18:56:39Z",
+  "generated": "2026-09-01T21:30:44Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 3720,
+        "trending_score": 3380,
         "downloads": 207941,
-        "likes": 4617,
+        "likes": 4628,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 1751,
+        "trending_score": 1758,
         "downloads": 441348,
-        "likes": 1866,
+        "likes": 1874,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "zai-org/GLM-5.3",
         "org": "zai-org",
-        "trending_score": 1388,
+        "trending_score": 1391,
         "downloads": 94403,
-        "likes": 1462,
+        "likes": 1466,
         "url": "https://huggingface.co/zai-org/GLM-5.3",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 659,
+        "trending_score": 655,
         "downloads": 4960483,
-        "likes": 13559,
+        "likes": 13573,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
         "org": "unsloth",
-        "trending_score": 647,
+        "trending_score": 649,
         "downloads": 431339,
-        "likes": 664,
+        "likes": 666,
         "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
         "tags": [
           "gguf",
@@ -91,58 +91,58 @@
     "benchmark": [
       {
         "rank": 1,
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 65.6528630094377,
+        "price_input": 10,
+        "price_output": 50,
+        "speed_tps": 66.0241178556912,
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
+      },
+      {
+        "rank": 2,
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 64.8015742258595,
+        "price_input": 10,
+        "price_output": 50,
+        "speed_tps": 47.8998625558856,
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
+      },
+      {
+        "rank": 3,
         "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
         "org": "Anthropic",
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.0725769153691,
+        "speed_tps": 53.6871679448644,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
         "org": "Anthropic",
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 50.9267432705038,
+        "speed_tps": 51.9556971596879,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
       {
-        "rank": 3,
-        "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+        "rank": 5,
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
         "org": "Anthropic",
-        "intelligence_index": 62.0726622017462,
+        "intelligence_index": 62.4807148804427,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 65.5491812934544,
+        "speed_tps": 47.5141936517176,
         "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5"
-      },
-      {
-        "rank": 4,
-        "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
-        "org": "Anthropic",
-        "intelligence_index": 61.4751191473465,
-        "price_input": 5,
-        "price_output": 25,
-        "speed_tps": 48.8714929284271,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-opus-5-high"
-      },
-      {
-        "rank": 5,
-        "name": "GPT-5.6 Sol (max)",
-        "org": "OpenAI",
-        "intelligence_index": 60.9298701329203,
-        "price_input": 4,
-        "price_output": 20,
-        "speed_tps": 76.542480705187,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/gpt-5-6-sol"
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
     ]
   },
@@ -311,7 +311,7 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 31178,
+        "stars": 31212,
         "stars_delta": 37,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 44774,
+        "stars": 44826,
         "stars_delta": 161,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 29277,
+        "stars": 29356,
         "stars_delta": 3122,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "iv-org/invidious",
         "description": "Invidious is an alternative front-end to YouTube",
         "url": "https://github.com/iv-org/invidious",
-        "stars": 23709,
+        "stars": 23731,
         "stars_delta": 583,
         "language": "Crystal",
         "language_color": "#000100"
@@ -351,7 +351,7 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 56934,
+        "stars": 56982,
         "stars_delta": 1005,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 41563,
+        "stars": 41698,
         "stars_delta": 22095,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3146,
+        "stars": 3152,
         "stars_delta": 1846,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 6492,
+        "stars": 6515,
         "stars_delta": 1479,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 29277,
+        "stars": 29356,
         "stars_delta": 5014,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 26913,
+        "stars": 26926,
         "stars_delta": 11711,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 36715,
+        "stars": 36762,
         "stars_delta": 12040,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 6492,
+        "stars": 6515,
         "stars_delta": 3992,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3146,
+        "stars": 3152,
         "stars_delta": 2749,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 41563,
+        "stars": 41698,
         "stars_delta": 29539,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 18341,
+        "stars": 18374,
         "stars_delta": 10223,
         "language": "Rust",
         "language_color": "#dea584"
@@ -534,7 +534,7 @@
         "upvotes": 766,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-        "github_stars": 9666
+        "github_stars": 9927
       },
       {
         "rank": 2,
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.16157",
         "categories": [],
-        "upvotes": 105,
+        "upvotes": 106,
         "published": "2026-08-16",
         "github_repo": "https://github.com/FlashML-org/FreeToken",
         "github_stars": 10846
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+        "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
         "authors": [
-          "Junjie Zhou",
-          "Ke Mei",
-          "Lei Li"
+          "Shaoan Wang",
+          "Aocheng Luo",
+          "Fei Huang"
         ],
-        "url": "https://huggingface.co/papers/2608.24053",
+        "url": "https://huggingface.co/papers/2608.30935",
         "categories": [],
-        "upvotes": 69,
-        "published": "2026-08-24",
-        "github_repo": "https://github.com/Tencent/WeMM-Embedding",
-        "github_stars": 1053
+        "upvotes": 24,
+        "published": "2026-08-30",
+        "github_repo": "https://github.com/lightorigins/LightNav-0",
+        "github_stars": 253
       }
     ],
     "arxiv_recent": [
@@ -686,58 +686,58 @@
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "discussion_url": "https://news.ycombinator.com/item?id=49525378",
         "site": "anthropic.com",
-        "points": 313,
-        "comments": 244,
+        "points": 684,
+        "comments": 652,
         "author": "denysvitali",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49523754,
-        "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-        "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-        "discussion_url": "https://news.ycombinator.com/item?id=49523754",
-        "site": "gitlab.com",
-        "points": 294,
-        "comments": 113,
-        "author": "erikvanoosten",
         "age": "3h ago"
       },
       {
+        "rank": 2,
+        "id": 49527232,
+        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+        "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49527232",
+        "site": "tomverbeure.github.io",
+        "points": 38,
+        "comments": 11,
+        "author": "jwise0",
+        "age": "1h ago"
+      },
+      {
         "rank": 3,
-        "id": 49525153,
-        "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-        "url": "https://www.norirobotics.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49525153",
-        "site": "norirobotics.com",
-        "points": 42,
-        "comments": 8,
-        "author": "AntonioLi",
+        "id": 49527396,
+        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49527396",
+        "site": "simonwillison.net",
+        "points": 102,
+        "comments": 56,
+        "author": "timpera",
         "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49525297,
-        "title": "The creator of Jujutsu has joined ERSC",
-        "url": "https://ersc.io/blog/martin-joins-ersc",
-        "discussion_url": "https://news.ycombinator.com/item?id=49525297",
-        "site": "ersc.io",
-        "points": 50,
-        "comments": 28,
-        "author": "steveklabnik",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
         "id": 49520022,
         "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
         "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
         "discussion_url": "https://news.ycombinator.com/item?id=49520022",
         "site": "github.com",
-        "points": 707,
-        "comments": 196,
+        "points": 769,
+        "comments": 223,
         "author": "hexa555",
-        "age": "8h ago"
+        "age": "11h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49525153,
+        "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+        "url": "https://www.norirobotics.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49525153",
+        "site": "norirobotics.com",
+        "points": 86,
+        "comments": 31,
+        "author": "AntonioLi",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -748,46 +748,46 @@
         "url": "https://news.ycombinator.com/item?id=49522897",
         "discussion_url": "https://news.ycombinator.com/item?id=49522897",
         "site": "news.ycombinator.com",
-        "points": 134,
-        "comments": 129,
+        "points": 160,
+        "comments": 174,
         "author": "whoishiring",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
+        "id": 49522896,
+        "title": "Ask HN: Who wants to be hired? (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49522896",
+        "discussion_url": "https://news.ycombinator.com/item?id=49522896",
+        "site": "news.ycombinator.com",
+        "points": 50,
+        "comments": 192,
+        "author": "whoishiring",
+        "age": "6h ago"
+      },
+      {
+        "rank": 3,
         "id": 49521882,
         "title": "Asked Reddit support to give me API key so I can delete my data. They refused",
         "url": "https://news.ycombinator.com/item?id=49521882",
         "discussion_url": "https://news.ycombinator.com/item?id=49521882",
         "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 7,
+        "points": 12,
+        "comments": 14,
         "author": "leoriq",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49510066,
         "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
         "url": "https://news.ycombinator.com/item?id=49510066",
         "discussion_url": "https://news.ycombinator.com/item?id=49510066",
         "site": "news.ycombinator.com",
-        "points": 36,
-        "comments": 72,
+        "points": 37,
+        "comments": 75,
         "author": "jc_811",
         "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49519639,
-        "title": "Is it just me, or has Claude Opus gotten worse recently?",
-        "url": "https://news.ycombinator.com/item?id=49519639",
-        "discussion_url": "https://news.ycombinator.com/item?id=49519639",
-        "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 16,
-        "author": "de6u99er",
-        "age": "9h ago"
       },
       {
         "rank": 5,
@@ -796,10 +796,10 @@
         "url": "https://news.ycombinator.com/item?id=49514427",
         "discussion_url": "https://news.ycombinator.com/item?id=49514427",
         "site": "news.ycombinator.com",
-        "points": 33,
+        "points": 36,
         "comments": 7,
         "author": "hmate9",
-        "age": "22h ago"
+        "age": "1d ago"
       }
     ],
     "show": [
@@ -810,58 +810,58 @@
         "url": "https://github.com/carloslfu/slotstream",
         "discussion_url": "https://news.ycombinator.com/item?id=49524447",
         "site": "github.com",
-        "points": 55,
-        "comments": 49,
+        "points": 105,
+        "comments": 71,
         "author": "carloslfu",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 49525220,
-        "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
-        "url": "https://semantic-overlays.vercel.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49525220",
-        "site": "semantic-overlays.vercel.app",
-        "points": 3,
+        "id": 49524469,
+        "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
+        "url": "https://newtonsorchard.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49524469",
+        "site": "newtonsorchard.app",
+        "points": 7,
         "comments": 0,
-        "author": "joshua_s_penman",
-        "age": "1h ago"
+        "author": "andrewchilds",
+        "age": "4h ago"
       },
       {
         "rank": 3,
+        "id": 49528057,
+        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "url": "https://hnmatchmaker.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49528057",
+        "site": "hnmatchmaker.com",
+        "points": 5,
+        "comments": 1,
+        "author": "all2",
+        "age": "37m ago"
+      },
+      {
+        "rank": 4,
+        "id": 49527807,
+        "title": "Show HN: Mcptunnels – ngrok for MCP with basic OAuth",
+        "url": "https://terragohan.github.io/mcptunnels/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49527807",
+        "site": "terragohan.github.io",
+        "points": 9,
+        "comments": 0,
+        "author": "helpprotactiniu",
+        "age": "55m ago"
+      },
+      {
+        "rank": 5,
         "id": 49489376,
         "title": "Show HN: Laser Graffiti",
         "url": "https://laser.consti.de",
         "discussion_url": "https://news.ycombinator.com/item?id=49489376",
         "site": "laser.consti.de",
         "points": 246,
-        "comments": 55,
+        "comments": 59,
         "author": "con",
         "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49455557,
-        "title": "Show HN: We built the smallest dual-band aircraft tracker",
-        "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49455557",
-        "site": "pantsforbirds.com",
-        "points": 91,
-        "comments": 23,
-        "author": "CoolNamesAllTkn",
-        "age": "5d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49522719,
-        "title": "Show HN: I measured when impossible-to-book restaurants release their tables",
-        "url": "https://tablefriend.app/clock",
-        "discussion_url": "https://news.ycombinator.com/item?id=49522719",
-        "site": "tablefriend.app",
-        "points": 3,
-        "comments": 4,
-        "author": "BrendanSF",
-        "age": "4h ago"
       }
     ]
   }
