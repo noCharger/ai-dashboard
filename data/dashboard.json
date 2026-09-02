@@ -1,31 +1,14 @@
 {
-  "generated": "2026-09-02T15:29:33Z",
+  "generated": "2026-09-02T19:02:44Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "zai-org/GLM-5.3-Flash",
-        "org": "zai-org",
-        "trending_score": 1417,
-        "downloads": 441348,
-        "likes": 1935,
-        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "glm5_next",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "zai-org/GLM-5.3",
         "org": "zai-org",
-        "trending_score": 1414,
+        "trending_score": 1424,
         "downloads": 94403,
-        "likes": 1493,
+        "likes": 1507,
         "url": "https://huggingface.co/zai-org/GLM-5.3",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "zai-org/GLM-5.3-Flash",
+        "org": "zai-org",
+        "trending_score": 1150,
+        "downloads": 441348,
+        "likes": 1945,
+        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm5_next",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 1193,
+        "trending_score": 1034,
         "downloads": 207941,
-        "likes": 4706,
+        "likes": 4718,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 594,
+        "trending_score": 585,
         "downloads": 4960483,
-        "likes": 13657,
+        "likes": 13673,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "org": "unsloth",
-        "trending_score": 495,
-        "downloads": 431339,
-        "likes": 711,
-        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "org": "deepseek-ai",
+        "trending_score": 477,
+        "downloads": 17893,
+        "likes": 493,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "tags": [
-          "gguf",
-          "unsloth",
-          "image-text-to-text",
-          "base_model:Qwen/Qwen3.8-Flash-Next",
-          "base_model:quantized:Qwen/Qwen3.8-Flash-Next"
+          "transformers",
+          "safetensors",
+          "deepseek_v4",
+          "text-generation",
+          "image-text-to-text"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 65.6528630094377,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 66.4456620971394,
+        "speed_tps": 66.2348899764153,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 64.8015742258595,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 60.3431117770515,
+        "speed_tps": 60.1812825235755,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 62.4807148804427,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 50.9540997412998,
+        "speed_tps": 53.2238240251574,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,7 +311,7 @@
         "name": "fmtlib/fmt",
         "description": "A modern formatting library",
         "url": "https://github.com/fmtlib/fmt",
-        "stars": 23962,
+        "stars": 24091,
         "stars_delta": 3,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -321,7 +321,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 29240,
+        "stars": 29470,
         "stars_delta": 326,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 120926,
+        "stars": 121179,
         "stars_delta": 1364,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 14160,
+        "stars": 14391,
         "stars_delta": 834,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,8 +351,8 @@
         "name": "sngyai/Sequoia-X",
         "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
         "url": "https://github.com/sngyai/Sequoia-X",
-        "stars": 5978,
-        "stars_delta": 195,
+        "stars": 6007,
+        "stars_delta": 138,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,7 +363,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 15706,
+        "stars": 15913,
         "stars_delta": 12042,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 43393,
+        "stars": 43599,
         "stars_delta": 25469,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "zedeus/nitter",
         "description": "Alternative Twitter front-end",
         "url": "https://github.com/zedeus/nitter",
-        "stars": 14070,
+        "stars": 14071,
         "stars_delta": 561,
         "language": "Nim",
         "language_color": "#ffc200"
@@ -393,7 +393,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 30371,
+        "stars": 30436,
         "stars_delta": 8014,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 27297,
+        "stars": 27327,
         "stars_delta": 10669,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 37188,
+        "stars": 37262,
         "stars_delta": 12675,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 11679,
+        "stars": 11697,
         "stars_delta": 9981,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3245,
+        "stars": 3258,
         "stars_delta": 2866,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 43393,
+        "stars": 43599,
         "stars_delta": 33153,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 18541,
+        "stars": 18571,
         "stars_delta": 10446,
         "language": "Rust",
         "language_color": "#dea584"
@@ -568,6 +568,21 @@
       },
       {
         "rank": 4,
+        "title": "A decoder-only foundation model for time-series forecasting",
+        "authors": [
+          "Abhimanyu Das",
+          "Weihao Kong",
+          "Rajat Sen"
+        ],
+        "url": "https://huggingface.co/papers/2310.10688",
+        "categories": [],
+        "upvotes": 39,
+        "published": "2023-10-14",
+        "github_repo": "https://github.com/google-research/timesfm",
+        "github_stars": 29441
+      },
+      {
+        "rank": 5,
         "title": "Prime Agent: A Self-Improving RLM Harness",
         "authors": [
           "Seth Karten",
@@ -580,21 +595,6 @@
         "published": "2026-08-23",
         "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
         "github_stars": 19617
-      },
-      {
-        "rank": 5,
-        "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
-        "authors": [
-          "Shaoan Wang",
-          "Aocheng Luo",
-          "Fei Huang"
-        ],
-        "url": "https://huggingface.co/papers/2608.30935",
-        "categories": [],
-        "upvotes": 26,
-        "published": "2026-08-30",
-        "github_repo": "https://github.com/lightorigins/LightNav-0",
-        "github_stars": 253
       }
     ],
     "arxiv_recent": [
@@ -681,187 +681,187 @@
     "top": [
       {
         "rank": 1,
+        "id": 49537553,
+        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49537553",
+        "site": "blog.google",
+        "points": 546,
+        "comments": 336,
+        "author": "bratao",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49535752,
         "title": "A Note from LWN",
         "url": "https://lwn.net/Articles/1090585/",
         "discussion_url": "https://news.ycombinator.com/item?id=49535752",
         "site": "lwn.net",
-        "points": 353,
-        "comments": 66,
+        "points": 614,
+        "comments": 124,
         "author": "rwky",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49536375,
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536375",
-        "site": "trellner.com",
-        "points": 103,
-        "comments": 51,
-        "author": "jakobgreenfeld",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
-        "id": 49536384,
-        "title": "GrapheneOS says Pixel 11 has MTE support after all",
-        "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536384",
-        "site": "grapheneos.social",
-        "points": 62,
-        "comments": 46,
-        "author": "user_7832",
+        "id": 49539389,
+        "title": "Paint.net 5.2 alpha now runs on Linux",
+        "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49539389",
+        "site": "forums.paint.net",
+        "points": 84,
+        "comments": 54,
+        "author": "judah",
         "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49536079,
-        "title": "Biggest dark matter detector spots a single weird particle",
-        "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536079",
-        "site": "science.org",
-        "points": 70,
-        "comments": 7,
-        "author": "randycupertino",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
         "id": 49535284,
         "title": "Mistral now trains on user input by default, except on enterprise tier",
         "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
         "discussion_url": "https://news.ycombinator.com/item?id=49535284",
         "site": "help.mistral.ai",
-        "points": 116,
-        "comments": 67,
+        "points": 284,
+        "comments": 126,
         "author": "teekert",
-        "age": "2h ago"
+        "age": "6h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49539872,
+        "title": "I Don't Have a Smartphone",
+        "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49539872",
+        "site": "ploum.net",
+        "points": 90,
+        "comments": 70,
+        "author": "speckx",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49537675,
-        "title": "Ask HN: Would you be interested in using a VoIP system that has an operator?",
-        "url": "https://news.ycombinator.com/item?id=49537675",
-        "discussion_url": "https://news.ycombinator.com/item?id=49537675",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "left-struck",
-        "age": "8m ago"
-      },
-      {
-        "rank": 2,
         "id": 49522896,
         "title": "Ask HN: Who wants to be hired? (September 2026)",
         "url": "https://news.ycombinator.com/item?id=49522896",
         "discussion_url": "https://news.ycombinator.com/item?id=49522896",
         "site": "news.ycombinator.com",
         "points": 98,
-        "comments": 326,
+        "comments": 350,
         "author": "whoishiring",
         "age": "1d ago"
       },
       {
-        "rank": 3,
-        "id": 49535402,
-        "title": "ChatGPT Linux GUI version updates redownload all files, require 1.4GB download",
-        "url": "https://news.ycombinator.com/item?id=49535402",
-        "discussion_url": "https://news.ycombinator.com/item?id=49535402",
+        "rank": 2,
+        "id": 49539315,
+        "title": "Kimi K3 and GLM-5.3 are better than Gemini 3.8 Flash",
+        "url": "https://news.ycombinator.com/item?id=49539315",
+        "discussion_url": "https://news.ycombinator.com/item?id=49539315",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 0,
-        "author": "juujian",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49536264,
-        "title": "Knowledge Graph Engine for Codebases",
-        "url": "https://news.ycombinator.com/item?id=49536264",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536264",
-        "site": "news.ycombinator.com",
-        "points": 2,
+        "points": 6,
         "comments": 2,
-        "author": "Shourya_55",
+        "author": "theHocineSaad",
         "age": "1h ago"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "id": 49522897,
         "title": "Ask HN: Who is hiring? (September 2026)",
         "url": "https://news.ycombinator.com/item?id=49522897",
         "discussion_url": "https://news.ycombinator.com/item?id=49522897",
         "site": "news.ycombinator.com",
-        "points": 229,
-        "comments": 253,
+        "points": 231,
+        "comments": 267,
         "author": "whoishiring",
         "age": "1d ago"
+      },
+      {
+        "rank": 4,
+        "id": 49535402,
+        "title": "ChatGPT Linux GUI version updates redownload all files, require 1.4GB download",
+        "url": "https://news.ycombinator.com/item?id=49535402",
+        "discussion_url": "https://news.ycombinator.com/item?id=49535402",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 0,
+        "author": "juujian",
+        "age": "6h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49537706,
+        "title": "Ask HN: How to ask questions in Ask HN",
+        "url": "https://news.ycombinator.com/item?id=49537706",
+        "discussion_url": "https://news.ycombinator.com/item?id=49537706",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 6,
+        "author": "samikama",
+        "age": "3h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49537066,
-        "title": "Show HN: FontWizard, Change Windows system font everywhere in UI and apps",
-        "url": "https://github.com/karnyadavdev/FontWizard",
-        "discussion_url": "https://news.ycombinator.com/item?id=49537066",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "karnyadav",
-        "age": "46m ago"
+        "id": 49538490,
+        "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+        "url": "https://frontierharness.org",
+        "discussion_url": "https://news.ycombinator.com/item?id=49538490",
+        "site": "frontierharness.org",
+        "points": 44,
+        "comments": 21,
+        "author": "shiqimei",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49528895,
-        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-        "url": "https://masteranza.github.io/weedout/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49528895",
-        "site": "masteranza.github.io",
-        "points": 168,
-        "comments": 73,
-        "author": "masteranza",
-        "age": "17h ago"
+        "id": 49540277,
+        "title": "Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed",
+        "url": "https://github.com/asalsali/codeknow",
+        "discussion_url": "https://news.ycombinator.com/item?id=49540277",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "alexjsalsali",
+        "age": "41m ago"
       },
       {
         "rank": 3,
-        "id": 49536843,
-        "title": "Show HN: Convert Anything to Markdown",
-        "url": "https://anyto.md/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536843",
-        "site": "anyto.md",
+        "id": 49539954,
+        "title": "Show HN: SufferTrails, the Anti-AllTrails",
+        "url": "https://suffertrails.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49539954",
+        "site": "suffertrails.com",
         "points": 4,
         "comments": 0,
-        "author": "vlucas",
-        "age": "59m ago"
+        "author": "richhwang",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49536607,
-        "title": "Show HN: Flawd is mutation testing for the AI era",
-        "url": "https://fixture.dev/flawd",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536607",
-        "site": "fixture.dev",
-        "points": 3,
-        "comments": 4,
-        "author": "fohara",
-        "age": "1h ago"
+        "id": 49539043,
+        "title": "Show HN: Kekoso – On-device dictation and transcription for macOS",
+        "url": "https://kekoso.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49539043",
+        "site": "kekoso.app",
+        "points": 5,
+        "comments": 2,
+        "author": "a_chmerev",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49536585,
-        "title": "Show HN: Edgy – Ambient edge lighting for macOS",
-        "url": "https://getedgy.app",
-        "discussion_url": "https://news.ycombinator.com/item?id=49536585",
-        "site": "getedgy.app",
-        "points": 3,
-        "comments": 0,
-        "author": "renatoworks",
-        "age": "1h ago"
+        "id": 49538195,
+        "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
+        "url": "https://github.com/mezmo/aura",
+        "discussion_url": "https://news.ycombinator.com/item?id=49538195",
+        "site": "github.com",
+        "points": 17,
+        "comments": 2,
+        "author": "jvogt",
+        "age": "3h ago"
       }
     ]
   }
