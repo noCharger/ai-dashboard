@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-01T23:38:13Z",
+  "generated": "2026-09-02T01:45:34Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 3197,
+        "trending_score": 2995,
         "downloads": 207941,
-        "likes": 4634,
+        "likes": 4642,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 1762,
+        "trending_score": 1764,
         "downloads": 441348,
-        "likes": 1878,
+        "likes": 1882,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "Qwen/Qwen3.8-27B",
-        "org": "Qwen",
-        "trending_score": 651,
-        "downloads": 4960483,
-        "likes": 13581,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
         "org": "unsloth",
-        "trending_score": 650,
+        "trending_score": 654,
         "downloads": 431339,
-        "likes": 667,
+        "likes": 671,
         "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
         "tags": [
           "gguf",
@@ -84,6 +67,23 @@
           "image-text-to-text",
           "base_model:Qwen/Qwen3.8-Flash-Next",
           "base_model:quantized:Qwen/Qwen3.8-Flash-Next"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Qwen/Qwen3.8-27B",
+        "org": "Qwen",
+        "trending_score": 641,
+        "downloads": 4960483,
+        "likes": 13586,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 65.6528630094377,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 66.0241178556912,
+        "speed_tps": 66.2348899764153,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 64.8015742258595,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 47.8998625558856,
+        "speed_tps": 60.1812825235755,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 62.4807148804427,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 47.5141936517176,
+        "speed_tps": 47.0351872251095,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,8 +311,8 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 31257,
-        "stars_delta": 37,
+        "stars": 31332,
+        "stars_delta": 80,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,8 +321,8 @@
         "name": "Imbad0202/academic-research-skills",
         "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
         "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 44855,
-        "stars_delta": 161,
+        "stars": 44931,
+        "stars_delta": 193,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 29436,
-        "stars_delta": 3122,
+        "stars": 29545,
+        "stars_delta": 3128,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "iv-org/invidious",
         "description": "Invidious is an alternative front-end to YouTube",
         "url": "https://github.com/iv-org/invidious",
-        "stars": 23753,
-        "stars_delta": 583,
+        "stars": 23774,
+        "stars_delta": 577,
         "language": "Crystal",
         "language_color": "#000100"
       },
@@ -351,7 +351,7 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 57027,
+        "stars": 57118,
         "stars_delta": 1005,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,8 +363,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 41804,
-        "stars_delta": 22095,
+        "stars": 41994,
+        "stars_delta": 25469,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -373,8 +373,8 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3160,
-        "stars_delta": 1846,
+        "stars": 3174,
+        "stars_delta": 1634,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 6522,
-        "stars_delta": 1479,
+        "stars": 6535,
+        "stars_delta": 1377,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 29436,
-        "stars_delta": 5014,
+        "stars": 29545,
+        "stars_delta": 8014,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 26934,
-        "stars_delta": 11711,
+        "stars": 26978,
+        "stars_delta": 10669,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -415,8 +415,8 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 36796,
-        "stars_delta": 12040,
+        "stars": 36853,
+        "stars_delta": 12675,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -425,8 +425,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 6522,
-        "stars_delta": 3992,
+        "stars": 6535,
+        "stars_delta": 4020,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -435,8 +435,8 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3160,
-        "stars_delta": 2749,
+        "stars": 3174,
+        "stars_delta": 2866,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 41804,
-        "stars_delta": 29539,
+        "stars": 41994,
+        "stars_delta": 33153,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -455,8 +455,8 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 18392,
-        "stars_delta": 10223,
+        "stars": 18400,
+        "stars_delta": 10446,
         "language": "Rust",
         "language_color": "#dea584"
       }
@@ -681,27 +681,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 49525378,
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "discussion_url": "https://news.ycombinator.com/item?id=49525378",
-        "site": "anthropic.com",
-        "points": 832,
-        "comments": 798,
-        "author": "denysvitali",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
         "id": 49527748,
         "title": "Hang on to Your Firefox",
         "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
         "discussion_url": "https://news.ycombinator.com/item?id=49527748",
         "site": "newsonaut.com",
-        "points": 193,
-        "comments": 92,
+        "points": 497,
+        "comments": 266,
         "author": "speckx",
-        "age": "3h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49525378,
+        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "discussion_url": "https://news.ycombinator.com/item?id=49525378",
+        "site": "anthropic.com",
+        "points": 932,
+        "comments": 879,
+        "author": "denysvitali",
+        "age": "7h ago"
       },
       {
         "rank": 3,
@@ -710,33 +710,33 @@
         "url": "https://danluu.com/zitron/",
         "discussion_url": "https://news.ycombinator.com/item?id=49526069",
         "site": "danluu.com",
-        "points": 321,
-        "comments": 379,
+        "points": 413,
+        "comments": 501,
         "author": "jatins",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
+        "id": 49529898,
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49529898",
+        "site": "baseten.co",
+        "points": 36,
+        "comments": 6,
+        "author": "philipkiely",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 49528895,
         "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
         "url": "https://masteranza.github.io/weedout/",
         "discussion_url": "https://news.ycombinator.com/item?id=49528895",
         "site": "masteranza.github.io",
-        "points": 27,
-        "comments": 9,
+        "points": 54,
+        "comments": 19,
         "author": "masteranza",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49527396,
-        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49527396",
-        "site": "simonwillison.net",
-        "points": 200,
-        "comments": 104,
-        "author": "timpera",
         "age": "3h ago"
       }
     ],
@@ -748,10 +748,10 @@
         "url": "https://news.ycombinator.com/item?id=49522897",
         "discussion_url": "https://news.ycombinator.com/item?id=49522897",
         "site": "news.ycombinator.com",
-        "points": 176,
-        "comments": 192,
+        "points": 183,
+        "comments": 204,
         "author": "whoishiring",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
@@ -760,25 +760,37 @@
         "url": "https://news.ycombinator.com/item?id=49522896",
         "discussion_url": "https://news.ycombinator.com/item?id=49522896",
         "site": "news.ycombinator.com",
-        "points": 65,
-        "comments": 223,
+        "points": 74,
+        "comments": 237,
         "author": "whoishiring",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
+        "id": 49529929,
+        "title": "Ask HN: Anyone homeschooling their kids?",
+        "url": "https://news.ycombinator.com/item?id=49529929",
+        "discussion_url": "https://news.ycombinator.com/item?id=49529929",
+        "site": "news.ycombinator.com",
+        "points": 6,
+        "comments": 4,
+        "author": "wbnns",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49528768,
         "title": "Ask HN: Does HN block mobile browsers?",
         "url": "https://news.ycombinator.com/item?id=49528768",
         "discussion_url": "https://news.ycombinator.com/item?id=49528768",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 4,
+        "comments": 5,
         "author": "pbohun",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49521882,
         "title": "Asked Reddit support to give me API key so I can delete my data. They refused",
         "url": "https://news.ycombinator.com/item?id=49521882",
@@ -787,19 +799,7 @@
         "points": 13,
         "comments": 15,
         "author": "leoriq",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49510066,
-        "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
-        "url": "https://news.ycombinator.com/item?id=49510066",
-        "discussion_url": "https://news.ycombinator.com/item?id=49510066",
-        "site": "news.ycombinator.com",
-        "points": 37,
-        "comments": 80,
-        "author": "jc_811",
-        "age": "1d ago"
+        "age": "12h ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://masteranza.github.io/weedout/",
         "discussion_url": "https://news.ycombinator.com/item?id=49528895",
         "site": "masteranza.github.io",
-        "points": 27,
-        "comments": 9,
+        "points": 54,
+        "comments": 19,
         "author": "masteranza",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -822,10 +822,10 @@
         "url": "https://hnmatchmaker.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49528057",
         "site": "hnmatchmaker.com",
-        "points": 27,
-        "comments": 11,
+        "points": 40,
+        "comments": 21,
         "author": "all2",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -834,10 +834,10 @@
         "url": "https://github.com/carloslfu/slotstream",
         "discussion_url": "https://news.ycombinator.com/item?id=49524447",
         "site": "github.com",
-        "points": 128,
-        "comments": 82,
+        "points": 142,
+        "comments": 86,
         "author": "carloslfu",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
@@ -846,10 +846,10 @@
         "url": "https://newtonsorchard.app",
         "discussion_url": "https://news.ycombinator.com/item?id=49524469",
         "site": "newtonsorchard.app",
-        "points": 15,
+        "points": 16,
         "comments": 1,
         "author": "andrewchilds",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 5,
@@ -858,10 +858,10 @@
         "url": "https://notesplus.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=49529608",
         "site": "notesplus.io",
-        "points": 2,
-        "comments": 0,
+        "points": 3,
+        "comments": 4,
         "author": "sliqqq",
-        "age": "21m ago"
+        "age": "2h ago"
       }
     ]
   }
