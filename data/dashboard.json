@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-02T11:48:43Z",
+  "generated": "2026-09-02T15:29:33Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 1794,
+        "trending_score": 1417,
         "downloads": 441348,
-        "likes": 1921,
+        "likes": 1935,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "Qwen/Qwen3.8-Flash-Next",
-        "org": "Qwen",
-        "trending_score": 1775,
-        "downloads": 207941,
-        "likes": 4694,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen4_exp",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "zai-org/GLM-5.3",
         "org": "zai-org",
-        "trending_score": 1408,
+        "trending_score": 1414,
         "downloads": 94403,
-        "likes": 1486,
+        "likes": 1493,
         "url": "https://huggingface.co/zai-org/GLM-5.3",
         "tags": [
           "transformers",
@@ -54,29 +37,29 @@
         "rank_change": null
       },
       {
-        "rank": 4,
-        "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
-        "org": "unsloth",
-        "trending_score": 678,
-        "downloads": 431339,
-        "likes": 700,
-        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "rank": 3,
+        "name": "Qwen/Qwen3.8-Flash-Next",
+        "org": "Qwen",
+        "trending_score": 1193,
+        "downloads": 207941,
+        "likes": 4706,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
-          "gguf",
-          "unsloth",
+          "transformers",
+          "safetensors",
+          "qwen4_exp",
           "image-text-to-text",
-          "base_model:Qwen/Qwen3.8-Flash-Next",
-          "base_model:quantized:Qwen/Qwen3.8-Flash-Next"
+          "conversational"
         ],
         "rank_change": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 604,
+        "trending_score": 594,
         "downloads": 4960483,
-        "likes": 13636,
+        "likes": 13657,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen3_5",
           "image-text-to-text",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "unsloth/Qwen3.8-Flash-Next-GGUF",
+        "org": "unsloth",
+        "trending_score": 495,
+        "downloads": 431339,
+        "likes": 711,
+        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "tags": [
+          "gguf",
+          "unsloth",
+          "image-text-to-text",
+          "base_model:Qwen/Qwen3.8-Flash-Next",
+          "base_model:quantized:Qwen/Qwen3.8-Flash-Next"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 64.8015742258595,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 58.8054884211139,
+        "speed_tps": 60.3431117770515,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 52.0725769153691,
+        "speed_tps": 55.6384867541943,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 50.9267432705038,
+        "speed_tps": 51.9556971596879,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 62.4807148804427,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 49.0607354954062,
+        "speed_tps": 50.9540997412998,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -308,51 +308,51 @@
     "daily": [
       {
         "rank": 1,
-        "name": "Gitlawb/openclaude",
-        "description": "runs anywhere. uses anything",
-        "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 31745,
-        "stars_delta": 80,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "fmtlib/fmt",
+        "description": "A modern formatting library",
+        "url": "https://github.com/fmtlib/fmt",
+        "stars": 23962,
+        "stars_delta": 3,
+        "language": "C++",
+        "language_color": "#f34b7d"
       },
       {
         "rank": 2,
-        "name": "Imbad0202/academic-research-skills",
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "url": "https://github.com/Imbad0202/academic-research-skills",
-        "stars": 45344,
-        "stars_delta": 193,
+        "name": "google-research/timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "url": "https://github.com/google-research/timesfm",
+        "stars": 29240,
+        "stars_delta": 326,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 3,
-        "name": "THU-MAIC/OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 30220,
-        "stars_delta": 3128,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "stars": 120926,
+        "stars_delta": 1364,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       },
       {
         "rank": 4,
-        "name": "iv-org/invidious",
-        "description": "Invidious is an alternative front-end to YouTube",
-        "url": "https://github.com/iv-org/invidious",
-        "stars": 23930,
-        "stars_delta": 577,
-        "language": "Crystal",
-        "language_color": "#000100"
+        "name": "debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "stars": 14160,
+        "stars_delta": 834,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "jingyaogong/minimind",
-        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "url": "https://github.com/jingyaogong/minimind",
-        "stars": 57597,
-        "stars_delta": 1005,
+        "name": "sngyai/Sequoia-X",
+        "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+        "url": "https://github.com/sngyai/Sequoia-X",
+        "stars": 5978,
+        "stars_delta": 195,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -360,40 +360,40 @@
     "weekly": [
       {
         "rank": 1,
-        "name": "tt-a1i/archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "url": "https://github.com/tt-a1i/archify",
-        "stars": 43094,
-        "stars_delta": 25469,
+        "name": "bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "stars": 15706,
+        "stars_delta": 12042,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 2,
-        "name": "anthropics/claude-plugins-community",
-        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3233,
-        "stars_delta": 1634,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "tt-a1i/archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "url": "https://github.com/tt-a1i/archify",
+        "stars": 43393,
+        "stars_delta": 25469,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       },
       {
         "rank": 3,
-        "name": "cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "url": "https://github.com/cursor/plugins",
-        "stars": 6601,
-        "stars_delta": 1377,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "zedeus/nitter",
+        "description": "Alternative Twitter front-end",
+        "url": "https://github.com/zedeus/nitter",
+        "stars": 14070,
+        "stars_delta": 561,
+        "language": "Nim",
+        "language_color": "#ffc200"
       },
       {
         "rank": 4,
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 30220,
+        "stars": 30371,
         "stars_delta": 8014,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 27242,
+        "stars": 27297,
         "stars_delta": 10669,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,27 +415,27 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 37105,
+        "stars": 37188,
         "stars_delta": 12675,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
         "rank": 2,
-        "name": "cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "url": "https://github.com/cursor/plugins",
-        "stars": 6601,
-        "stars_delta": 4020,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "semantica-agi/semantica",
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "url": "https://github.com/semantica-agi/semantica",
+        "stars": 11679,
+        "stars_delta": 9981,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 3,
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3233,
+        "stars": 3245,
         "stars_delta": 2866,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 43094,
+        "stars": 43393,
         "stars_delta": 33153,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 18507,
+        "stars": 18541,
         "stars_delta": 10446,
         "language": "Rust",
         "language_color": "#dea584"
@@ -681,77 +681,77 @@
     "top": [
       {
         "rank": 1,
-        "id": 49533497,
-        "title": "Commodore 64 released September 1, 1982",
-        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49533497",
-        "site": "dfarq.homeip.net",
-        "points": 118,
-        "comments": 37,
-        "author": "giuliomagnifico",
-        "age": "3h ago"
+        "id": 49535752,
+        "title": "A Note from LWN",
+        "url": "https://lwn.net/Articles/1090585/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49535752",
+        "site": "lwn.net",
+        "points": 353,
+        "comments": 66,
+        "author": "rwky",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49525378,
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "discussion_url": "https://news.ycombinator.com/item?id=49525378",
-        "site": "anthropic.com",
-        "points": 1290,
-        "comments": 1203,
-        "author": "denysvitali",
-        "age": "17h ago"
+        "id": 49536375,
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536375",
+        "site": "trellner.com",
+        "points": 103,
+        "comments": 51,
+        "author": "jakobgreenfeld",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49531651,
-        "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-        "url": "https://arxiv.org/abs/2608.29530",
-        "discussion_url": "https://news.ycombinator.com/item?id=49531651",
-        "site": "arxiv.org",
-        "points": 173,
-        "comments": 62,
-        "author": "schmuhblaster",
-        "age": "7h ago"
+        "id": 49536384,
+        "title": "GrapheneOS says Pixel 11 has MTE support after all",
+        "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536384",
+        "site": "grapheneos.social",
+        "points": 62,
+        "comments": 46,
+        "author": "user_7832",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49534583,
-        "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
-        "url": "https://arxiv.org/abs/2608.31016",
-        "discussion_url": "https://news.ycombinator.com/item?id=49534583",
-        "site": "arxiv.org",
-        "points": 10,
-        "comments": 2,
-        "author": "sbulaev",
-        "age": "41m ago"
+        "id": 49536079,
+        "title": "Biggest dark matter detector spots a single weird particle",
+        "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536079",
+        "site": "science.org",
+        "points": 70,
+        "comments": 7,
+        "author": "randycupertino",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49526069,
-        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "url": "https://danluu.com/zitron/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49526069",
-        "site": "danluu.com",
-        "points": 744,
-        "comments": 821,
-        "author": "jatins",
-        "age": "17h ago"
+        "id": 49535284,
+        "title": "Mistral now trains on user input by default, except on enterprise tier",
+        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "discussion_url": "https://news.ycombinator.com/item?id=49535284",
+        "site": "help.mistral.ai",
+        "points": 116,
+        "comments": 67,
+        "author": "teekert",
+        "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49522897,
-        "title": "Ask HN: Who is hiring? (September 2026)",
-        "url": "https://news.ycombinator.com/item?id=49522897",
-        "discussion_url": "https://news.ycombinator.com/item?id=49522897",
+        "id": 49537675,
+        "title": "Ask HN: Would you be interested in using a VoIP system that has an operator?",
+        "url": "https://news.ycombinator.com/item?id=49537675",
+        "discussion_url": "https://news.ycombinator.com/item?id=49537675",
         "site": "news.ycombinator.com",
-        "points": 222,
-        "comments": 248,
-        "author": "whoishiring",
-        "age": "20h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "left-struck",
+        "age": "8m ago"
       },
       {
         "rank": 2,
@@ -760,108 +760,108 @@
         "url": "https://news.ycombinator.com/item?id=49522896",
         "discussion_url": "https://news.ycombinator.com/item?id=49522896",
         "site": "news.ycombinator.com",
-        "points": 94,
-        "comments": 300,
+        "points": 98,
+        "comments": 326,
         "author": "whoishiring",
-        "age": "20h ago"
+        "age": "1d ago"
       },
       {
         "rank": 3,
-        "id": 49534377,
-        "title": "Whose interview process has caught up to the new way of working?",
-        "url": "https://news.ycombinator.com/item?id=49534377",
-        "discussion_url": "https://news.ycombinator.com/item?id=49534377",
+        "id": 49535402,
+        "title": "ChatGPT Linux GUI version updates redownload all files, require 1.4GB download",
+        "url": "https://news.ycombinator.com/item?id=49535402",
+        "discussion_url": "https://news.ycombinator.com/item?id=49535402",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "verygoodenginee",
-        "age": "1h ago"
+        "points": 5,
+        "comments": 0,
+        "author": "juujian",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 49533073,
-        "title": "Ask HN: How do you survive a job you hate which is slowly making you sick?",
-        "url": "https://news.ycombinator.com/item?id=49533073",
-        "discussion_url": "https://news.ycombinator.com/item?id=49533073",
+        "id": 49536264,
+        "title": "Knowledge Graph Engine for Codebases",
+        "url": "https://news.ycombinator.com/item?id=49536264",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536264",
         "site": "news.ycombinator.com",
-        "points": 37,
-        "comments": 58,
-        "author": "_override",
-        "age": "4h ago"
+        "points": 2,
+        "comments": 2,
+        "author": "Shourya_55",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49529929,
-        "title": "Ask HN: Anyone homeschooling their kids?",
-        "url": "https://news.ycombinator.com/item?id=49529929",
-        "discussion_url": "https://news.ycombinator.com/item?id=49529929",
+        "id": 49522897,
+        "title": "Ask HN: Who is hiring? (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49522897",
+        "discussion_url": "https://news.ycombinator.com/item?id=49522897",
         "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 10,
-        "author": "wbnns",
-        "age": "11h ago"
+        "points": 229,
+        "comments": 253,
+        "author": "whoishiring",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49537066,
+        "title": "Show HN: FontWizard, Change Windows system font everywhere in UI and apps",
+        "url": "https://github.com/karnyadavdev/FontWizard",
+        "discussion_url": "https://news.ycombinator.com/item?id=49537066",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "karnyadav",
+        "age": "46m ago"
+      },
+      {
+        "rank": 2,
         "id": 49528895,
         "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
         "url": "https://masteranza.github.io/weedout/",
         "discussion_url": "https://news.ycombinator.com/item?id=49528895",
         "site": "masteranza.github.io",
-        "points": 155,
-        "comments": 69,
+        "points": 168,
+        "comments": 73,
         "author": "masteranza",
-        "age": "13h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49528057,
-        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-        "url": "https://hnmatchmaker.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49528057",
-        "site": "hnmatchmaker.com",
-        "points": 97,
-        "comments": 41,
-        "author": "all2",
-        "age": "14h ago"
+        "age": "17h ago"
       },
       {
         "rank": 3,
-        "id": 49524447,
-        "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-        "url": "https://github.com/carloslfu/slotstream",
-        "discussion_url": "https://news.ycombinator.com/item?id=49524447",
-        "site": "github.com",
-        "points": 218,
-        "comments": 100,
-        "author": "carloslfu",
-        "age": "19h ago"
+        "id": 49536843,
+        "title": "Show HN: Convert Anything to Markdown",
+        "url": "https://anyto.md/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536843",
+        "site": "anyto.md",
+        "points": 4,
+        "comments": 0,
+        "author": "vlucas",
+        "age": "59m ago"
       },
       {
         "rank": 4,
-        "id": 49532083,
-        "title": "Show HN: I Have Been Clawed – Index of coding agent incidents",
-        "url": "https://ihavebeenclawed.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49532083",
-        "site": "ihavebeenclawed.com",
-        "points": 10,
-        "comments": 2,
-        "author": "nezhar",
-        "age": "6h ago"
+        "id": 49536607,
+        "title": "Show HN: Flawd is mutation testing for the AI era",
+        "url": "https://fixture.dev/flawd",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536607",
+        "site": "fixture.dev",
+        "points": 3,
+        "comments": 4,
+        "author": "fohara",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49533286,
-        "title": "Show HN: Campsend – open-source Alternative to WeTransfer",
-        "url": "https://campsend.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49533286",
-        "site": "campsend.app",
+        "id": 49536585,
+        "title": "Show HN: Edgy – Ambient edge lighting for macOS",
+        "url": "https://getedgy.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49536585",
+        "site": "getedgy.app",
         "points": 3,
         "comments": 0,
-        "author": "bakimosadi",
-        "age": "3h ago"
+        "author": "renatoworks",
+        "age": "1h ago"
       }
     ]
   }
