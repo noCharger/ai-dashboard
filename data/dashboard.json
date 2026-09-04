@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-04T18:39:08Z",
+  "generated": "2026-09-04T21:07:21Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 571,
+        "trending_score": 552,
         "downloads": 351374,
-        "likes": 4861,
+        "likes": 4865,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 552,
+        "trending_score": 550,
         "downloads": 5739341,
-        "likes": 13922,
+        "likes": 13938,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "zai-org/GLM-5.3",
-        "org": "zai-org",
-        "trending_score": 548,
-        "downloads": 303534,
-        "likes": 1688,
-        "url": "https://huggingface.co/zai-org/GLM-5.3",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "glm_moe_dsa",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "org": "deepseek-ai",
-        "trending_score": 548,
+        "trending_score": 550,
         "downloads": 133024,
-        "likes": 586,
+        "likes": 588,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "zai-org/GLM-5.3",
+        "org": "zai-org",
+        "trending_score": 518,
+        "downloads": 303534,
+        "likes": 1690,
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm_moe_dsa",
+          "text-generation",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 477,
+        "trending_score": 467,
         "downloads": 654957,
-        "likes": 2038,
+        "likes": 2041,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -311,7 +311,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 249862,
+        "stars": 250132,
         "stars_delta": 2757,
         "language": "Shell",
         "language_color": "#89e051"
@@ -321,7 +321,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 125205,
+        "stars": 125621,
         "stars_delta": 1683,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "fmtlib/fmt",
         "description": "A modern formatting library",
         "url": "https://github.com/fmtlib/fmt",
-        "stars": 25437,
+        "stars": 25451,
         "stars_delta": 681,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -341,7 +341,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 248215,
+        "stars": 248357,
         "stars_delta": 1139,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 174033,
+        "stars": 174076,
         "stars_delta": 512,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 47739,
+        "stars": 47911,
         "stars_delta": 24227,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 31420,
+        "stars": 31454,
         "stars_delta": 10023,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 17380,
+        "stars": 17441,
         "stars_delta": 10485,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32542,
+        "stars": 32552,
         "stars_delta": 1389,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 30980,
+        "stars": 31005,
         "stars_delta": 2324,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 30784,
+        "stars": 30849,
         "stars_delta": 27488,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 37976,
+        "stars": 38003,
         "stars_delta": 13597,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "PrimeIntellect-ai/prime-agent",
         "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "stars": 19846,
+        "stars": 19858,
         "stars_delta": 19906,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 11980,
+        "stars": 11988,
         "stars_delta": 10058,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 47739,
+        "stars": 47911,
         "stars_delta": 36689,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -523,21 +523,6 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
-        "authors": [
-          "Björn Engdahl",
-          "Adrian Kosowski",
-          "Jan Chorowski"
-        ],
-        "url": "https://huggingface.co/papers/2608.09888",
-        "categories": [],
-        "upvotes": 772,
-        "published": "2026-08-09",
-        "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-        "github_stars": 10309
-      },
-      {
-        "rank": 2,
         "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
         "authors": [
           "Shuo Yang",
@@ -552,6 +537,21 @@
         "github_stars": 11582
       },
       {
+        "rank": 2,
+        "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+        "authors": [
+          "Björn Engdahl",
+          "Adrian Kosowski",
+          "Jan Chorowski"
+        ],
+        "url": "https://huggingface.co/papers/2608.09888",
+        "categories": [],
+        "upvotes": 772,
+        "published": "2026-08-09",
+        "github_repo": "https://github.com/pathwaycom/arc-task-gen",
+        "github_stars": 10582
+      },
+      {
         "rank": 3,
         "title": "A decoder-only foundation model for time-series forecasting",
         "authors": [
@@ -564,7 +564,7 @@
         "upvotes": 39,
         "published": "2023-10-14",
         "github_repo": "https://github.com/google-research/timesfm",
-        "github_stars": 29441
+        "github_stars": 30985
       },
       {
         "rank": 4,
@@ -678,125 +678,125 @@
     "top": [
       {
         "rank": 1,
+        "id": 49568506,
+        "title": "Formalizing Fermat's Last Theorem",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "discussion_url": "https://news.ycombinator.com/item?id=49568506",
+        "site": "anthropic.com",
+        "points": 273,
+        "comments": 160,
+        "author": "jlebar",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 49563355,
         "title": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
         "discussion_url": "https://news.ycombinator.com/item?id=49563355",
         "site": "collusion.wiki",
-        "points": 1078,
-        "comments": 843,
+        "points": 1293,
+        "comments": 1049,
         "author": "moultano",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 49569366,
+        "title": "Can AI design circuit boards yet?",
+        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49569366",
+        "site": "eebench.org",
+        "points": 51,
+        "comments": 33,
+        "author": "iopapa",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49568579,
+        "title": "Shutting down our public encrypted DNS",
+        "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+        "discussion_url": "https://news.ycombinator.com/item?id=49568579",
+        "site": "mullvad.net",
+        "points": 141,
+        "comments": 36,
+        "author": "mywacaday",
+        "age": "2h ago"
+      },
+      {
+        "rank": 5,
         "id": 49567437,
         "title": "Show HN: Open-Source eInk Bike Computer",
         "url": "https://opentrailpaper.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49567437",
         "site": "opentrailpaper.com",
-        "points": 75,
-        "comments": 17,
+        "points": 169,
+        "comments": 54,
         "author": "stingrae",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49566788,
-        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49566788",
-        "site": "github.blog",
-        "points": 34,
-        "comments": 14,
-        "author": "qainsights",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49563851,
-        "title": "IBM Bob",
-        "url": "https://bob.ibm.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49563851",
-        "site": "bob.ibm.com",
-        "points": 143,
-        "comments": 165,
-        "author": "artpar",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49554643,
-        "title": "GPT-6 Astra",
-        "url": "https://openai.com/index/gpt-6-astra/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49554643",
-        "site": "openai.com",
-        "points": 2096,
-        "comments": 1908,
-        "author": "kibae",
-        "age": "23h ago"
+        "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49533840,
+        "title": "Resources to Get Good at Soldering?",
+        "url": "https://news.ycombinator.com/item?id=49533840",
+        "discussion_url": "https://news.ycombinator.com/item?id=49533840",
+        "site": "news.ycombinator.com",
+        "points": 64,
+        "comments": 41,
+        "author": "tosmatos",
+        "age": "2d ago"
+      },
+      {
+        "rank": 2,
         "id": 49548600,
         "title": "Ask HN: Who is using MCP in production?",
         "url": "https://news.ycombinator.com/item?id=49548600",
         "discussion_url": "https://news.ycombinator.com/item?id=49548600",
         "site": "news.ycombinator.com",
-        "points": 153,
-        "comments": 169,
+        "points": 156,
+        "comments": 177,
         "author": "sukit",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49551096,
         "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
         "url": "https://news.ycombinator.com/item?id=49551096",
         "discussion_url": "https://news.ycombinator.com/item?id=49551096",
         "site": "news.ycombinator.com",
-        "points": 387,
-        "comments": 547,
+        "points": 390,
+        "comments": 669,
         "author": "halcdev",
         "age": "1d ago"
       },
       {
-        "rank": 3,
-        "id": 49567441,
-        "title": "Is there any way to contribute to nitter and xcancel's legal fights?",
-        "url": "https://news.ycombinator.com/item?id=49567441",
-        "discussion_url": "https://news.ycombinator.com/item?id=49567441",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 1,
-        "author": "orange999",
-        "age": "1h ago"
-      },
-      {
         "rank": 4,
-        "id": 49565799,
-        "title": "Tell HN: Check your Claude settings, it may have silently enabled remote access",
-        "url": "https://news.ycombinator.com/item?id=49565799",
-        "discussion_url": "https://news.ycombinator.com/item?id=49565799",
+        "id": 49568385,
+        "title": "Xfinity silently blocks lots of new domains",
+        "url": "https://news.ycombinator.com/item?id=49568385",
+        "discussion_url": "https://news.ycombinator.com/item?id=49568385",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 4,
-        "author": "cromka",
-        "age": "3h ago"
+        "points": 10,
+        "comments": 2,
+        "author": "dschwartz18",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49565526,
-        "title": "Ask HN: Do all of you use Cloudflare for preventing DDoS, Bot and more attacks?",
-        "url": "https://news.ycombinator.com/item?id=49565526",
-        "discussion_url": "https://news.ycombinator.com/item?id=49565526",
+        "id": 49557563,
+        "title": "Tell HN: Both recent GCP outages caused by fiber optic maintenance",
+        "url": "https://news.ycombinator.com/item?id=49557563",
+        "discussion_url": "https://news.ycombinator.com/item?id=49557563",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "skwasimin",
-        "age": "3h ago"
+        "points": 16,
+        "comments": 1,
+        "author": "fastest963",
+        "age": "23h ago"
       }
     ],
     "show": [
@@ -807,10 +807,10 @@
         "url": "https://opentrailpaper.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49567437",
         "site": "opentrailpaper.com",
-        "points": 75,
-        "comments": 17,
+        "points": 169,
+        "comments": 54,
         "author": "stingrae",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -819,46 +819,46 @@
         "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
         "discussion_url": "https://news.ycombinator.com/item?id=49562219",
         "site": "github.com",
-        "points": 20,
-        "comments": 6,
+        "points": 64,
+        "comments": 24,
         "author": "gioscarab",
-        "age": "9h ago"
+        "age": "12h ago"
       },
       {
         "rank": 3,
-        "id": 49567615,
-        "title": "Show HN: Local Mitsubishi AC Control with ESPHome and an AtomS3 Lite",
-        "url": "https://didac.dev/builds/mitsubishi-air-conditioning",
-        "discussion_url": "https://news.ycombinator.com/item?id=49567615",
-        "site": "didac.dev",
+        "id": 49569940,
+        "title": "Show HN: Marketplace for finding craft fairs and vendor events",
+        "url": "https://www.boothscout.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=49569940",
+        "site": "boothscout.com",
         "points": 2,
-        "comments": 0,
-        "author": "sabatesduran",
-        "age": "1h ago"
+        "comments": 1,
+        "author": "wowinter15",
+        "age": "29m ago"
       },
       {
         "rank": 4,
-        "id": 49567346,
-        "title": "Show HN: NationalDex • minimal open-source Pokédex",
-        "url": "https://www.nationaldex.app",
-        "discussion_url": "https://news.ycombinator.com/item?id=49567346",
-        "site": "nationaldex.app",
-        "points": 4,
-        "comments": 0,
-        "author": "linesofcode",
+        "id": 49569136,
+        "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+        "url": "https://sageling.ai/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49569136",
+        "site": "sageling.ai",
+        "points": 2,
+        "comments": 1,
+        "author": "kirillklimuk",
         "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49549148,
-        "title": "Show HN: Reactor Atlas",
-        "url": "https://reactoratlas.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49549148",
-        "site": "reactoratlas.com",
-        "points": 60,
-        "comments": 24,
-        "author": "fedecaccia",
-        "age": "1d ago"
+        "id": 49569003,
+        "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
+        "url": "https://github.com/asalsali/covenant-framework-community",
+        "discussion_url": "https://news.ycombinator.com/item?id=49569003",
+        "site": "github.com",
+        "points": 2,
+        "comments": 1,
+        "author": "alexjsalsali",
+        "age": "1h ago"
       }
     ]
   }
