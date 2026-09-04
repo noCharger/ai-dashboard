@@ -1,31 +1,14 @@
 {
-  "generated": "2026-09-04T15:19:28Z",
+  "generated": "2026-09-04T18:39:08Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "zai-org/GLM-5.3",
-        "org": "zai-org",
-        "trending_score": 714,
-        "downloads": 303534,
-        "likes": 1677,
-        "url": "https://huggingface.co/zai-org/GLM-5.3",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "glm_moe_dsa",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 591,
+        "trending_score": 571,
         "downloads": 351374,
-        "likes": 4852,
+        "likes": 4861,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -37,12 +20,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 556,
+        "trending_score": 552,
         "downloads": 5739341,
-        "likes": 13905,
+        "likes": 13922,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "zai-org/GLM-5.3",
+        "org": "zai-org",
+        "trending_score": 548,
+        "downloads": 303534,
+        "likes": 1688,
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "glm_moe_dsa",
+          "text-generation",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "org": "deepseek-ai",
-        "trending_score": 546,
+        "trending_score": 548,
         "downloads": 133024,
-        "likes": 584,
+        "likes": 586,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 497,
+        "trending_score": 477,
         "downloads": 654957,
-        "likes": 2036,
+        "likes": 2038,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 65.6528630094377,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 67.282771689926,
+        "speed_tps": 66.4456620971394,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 63.0532452071291,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 57.5222063686016,
+        "speed_tps": 59.0843115480097,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 62.52047429879,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 55.2252388553512,
+        "speed_tps": 56.7273904890227,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 62.4807148804427,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 56.249475480334,
+        "speed_tps": 56.0842972919332,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,7 +311,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 249374,
+        "stars": 249862,
         "stars_delta": 2757,
         "language": "Shell",
         "language_color": "#89e051"
@@ -321,7 +321,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 124784,
+        "stars": 125205,
         "stars_delta": 1683,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "fmtlib/fmt",
         "description": "A modern formatting library",
         "url": "https://github.com/fmtlib/fmt",
-        "stars": 25418,
+        "stars": 25437,
         "stars_delta": 681,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -341,7 +341,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 248011,
+        "stars": 248215,
         "stars_delta": 1139,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 173972,
+        "stars": 174033,
         "stars_delta": 512,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 47432,
+        "stars": 47739,
         "stars_delta": 24227,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 31365,
+        "stars": 31420,
         "stars_delta": 10023,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 17306,
+        "stars": 17380,
         "stars_delta": 10485,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32519,
+        "stars": 32542,
         "stars_delta": 1389,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 30928,
+        "stars": 30980,
         "stars_delta": 2324,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 30666,
+        "stars": 30784,
         "stars_delta": 27488,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 37931,
+        "stars": 37976,
         "stars_delta": 13597,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "PrimeIntellect-ai/prime-agent",
         "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "stars": 19823,
+        "stars": 19846,
         "stars_delta": 19906,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 11966,
+        "stars": 11980,
         "stars_delta": 10058,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 47432,
+        "stars": 47739,
         "stars_delta": 36689,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -594,7 +594,7 @@
         "upvotes": 48,
         "published": "2026-08-23",
         "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "github_stars": 19617
+        "github_stars": 19837
       }
     ],
     "arxiv_recent": [
@@ -683,45 +683,45 @@
         "url": "https://collusion.wiki/",
         "discussion_url": "https://news.ycombinator.com/item?id=49563355",
         "site": "collusion.wiki",
-        "points": 575,
-        "comments": 395,
+        "points": 1078,
+        "comments": 843,
         "author": "moultano",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
-        "id": 49563386,
-        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-        "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-        "discussion_url": "https://news.ycombinator.com/item?id=49563386",
-        "site": "productrise.app",
-        "points": 140,
-        "comments": 23,
-        "author": "DeepLogin",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49564960,
-        "title": "Burnt out on a three-day week",
-        "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49564960",
-        "site": "jennywanger.com",
-        "points": 50,
-        "comments": 39,
-        "author": "thelastgallon",
+        "id": 49567437,
+        "title": "Show HN: Open-Source eInk Bike Computer",
+        "url": "https://opentrailpaper.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=49567437",
+        "site": "opentrailpaper.com",
+        "points": 75,
+        "comments": 17,
+        "author": "stingrae",
         "age": "1h ago"
       },
       {
+        "rank": 3,
+        "id": 49566788,
+        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49566788",
+        "site": "github.blog",
+        "points": 34,
+        "comments": 14,
+        "author": "qainsights",
+        "age": "2h ago"
+      },
+      {
         "rank": 4,
-        "id": 49562657,
-        "title": "Solving the Jane Street Reverse Engineering Challenge",
-        "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49562657",
-        "site": "jestoph.com",
-        "points": 213,
-        "comments": 55,
-        "author": "anitil",
+        "id": 49563851,
+        "title": "IBM Bob",
+        "url": "https://bob.ibm.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49563851",
+        "site": "bob.ibm.com",
+        "points": 143,
+        "comments": 165,
+        "author": "artpar",
         "age": "5h ago"
       },
       {
@@ -731,10 +731,10 @@
         "url": "https://openai.com/index/gpt-6-astra/",
         "discussion_url": "https://news.ycombinator.com/item?id=49554643",
         "site": "openai.com",
-        "points": 1989,
-        "comments": 1818,
+        "points": 2096,
+        "comments": 1908,
         "author": "kibae",
-        "age": "20h ago"
+        "age": "23h ago"
       }
     ],
     "ask": [
@@ -745,107 +745,107 @@
         "url": "https://news.ycombinator.com/item?id=49548600",
         "discussion_url": "https://news.ycombinator.com/item?id=49548600",
         "site": "news.ycombinator.com",
-        "points": 123,
-        "comments": 144,
+        "points": 153,
+        "comments": 169,
         "author": "sukit",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 49551096,
+        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+        "url": "https://news.ycombinator.com/item?id=49551096",
+        "discussion_url": "https://news.ycombinator.com/item?id=49551096",
+        "site": "news.ycombinator.com",
+        "points": 387,
+        "comments": 547,
+        "author": "halcdev",
+        "age": "1d ago"
+      },
+      {
+        "rank": 3,
+        "id": 49567441,
+        "title": "Is there any way to contribute to nitter and xcancel's legal fights?",
+        "url": "https://news.ycombinator.com/item?id=49567441",
+        "discussion_url": "https://news.ycombinator.com/item?id=49567441",
+        "site": "news.ycombinator.com",
+        "points": 7,
+        "comments": 1,
+        "author": "orange999",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49565799,
+        "title": "Tell HN: Check your Claude settings, it may have silently enabled remote access",
+        "url": "https://news.ycombinator.com/item?id=49565799",
+        "discussion_url": "https://news.ycombinator.com/item?id=49565799",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 4,
+        "author": "cromka",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 49565526,
         "title": "Ask HN: Do all of you use Cloudflare for preventing DDoS, Bot and more attacks?",
         "url": "https://news.ycombinator.com/item?id=49565526",
         "discussion_url": "https://news.ycombinator.com/item?id=49565526",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 1,
+        "comments": 2,
         "author": "skwasimin",
-        "age": "27m ago"
-      },
-      {
-        "rank": 3,
-        "id": 49551096,
-        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-        "url": "https://news.ycombinator.com/item?id=49551096",
-        "discussion_url": "https://news.ycombinator.com/item?id=49551096",
-        "site": "news.ycombinator.com",
-        "points": 382,
-        "comments": 545,
-        "author": "halcdev",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49557563,
-        "title": "Tell HN: Both recent GCP outages caused by fiber optic maintenance",
-        "url": "https://news.ycombinator.com/item?id=49557563",
-        "discussion_url": "https://news.ycombinator.com/item?id=49557563",
-        "site": "news.ycombinator.com",
-        "points": 14,
-        "comments": 1,
-        "author": "fastest963",
-        "age": "17h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49555592,
-        "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-        "url": "https://news.ycombinator.com/item?id=49555592",
-        "discussion_url": "https://news.ycombinator.com/item?id=49555592",
-        "site": "news.ycombinator.com",
-        "points": 62,
-        "comments": 17,
-        "author": "Animats",
-        "age": "19h ago"
+        "age": "3h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49564984,
-        "title": "Show HN: Declick – Turn an OpenAPI Spec, MCP Server or SQLite DB into a CLI",
-        "url": "https://github.com/ucsandman/declick",
-        "discussion_url": "https://news.ycombinator.com/item?id=49564984",
-        "site": "github.com",
-        "points": 3,
-        "comments": 2,
-        "author": "practicalsystem",
+        "id": 49567437,
+        "title": "Show HN: Open-Source eInk Bike Computer",
+        "url": "https://opentrailpaper.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=49567437",
+        "site": "opentrailpaper.com",
+        "points": 75,
+        "comments": 17,
+        "author": "stingrae",
         "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49564980,
-        "title": "Show HN: Audioreality.ai – email to private daily podcast summary show",
-        "url": "https://www.audioreality.ai",
-        "discussion_url": "https://news.ycombinator.com/item?id=49564980",
-        "site": "audioreality.ai",
-        "points": 2,
-        "comments": 0,
-        "author": "BSOhealth",
-        "age": "1h ago"
+        "id": 49562219,
+        "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+        "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+        "discussion_url": "https://news.ycombinator.com/item?id=49562219",
+        "site": "github.com",
+        "points": 20,
+        "comments": 6,
+        "author": "gioscarab",
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 49564974,
-        "title": "Show HN: Sentrint, Ship AI features without losing sleep",
-        "url": "https://sentrint.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49564974",
-        "site": "sentrint.com",
-        "points": 3,
-        "comments": 1,
-        "author": "xEcho",
+        "id": 49567615,
+        "title": "Show HN: Local Mitsubishi AC Control with ESPHome and an AtomS3 Lite",
+        "url": "https://didac.dev/builds/mitsubishi-air-conditioning",
+        "discussion_url": "https://news.ycombinator.com/item?id=49567615",
+        "site": "didac.dev",
+        "points": 2,
+        "comments": 0,
+        "author": "sabatesduran",
         "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49564921,
-        "title": "Show HN: OpenStint – lap timing using RTL-SDR and near-field transponders",
-        "url": "https://openstint.org/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49564921",
-        "site": "openstint.org",
-        "points": 2,
+        "id": 49567346,
+        "title": "Show HN: NationalDex • minimal open-source Pokédex",
+        "url": "https://www.nationaldex.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49567346",
+        "site": "nationaldex.app",
+        "points": 4,
         "comments": 0,
-        "author": "zsellera",
+        "author": "linesofcode",
         "age": "1h ago"
       },
       {
@@ -855,8 +855,8 @@
         "url": "https://reactoratlas.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49549148",
         "site": "reactoratlas.com",
-        "points": 51,
-        "comments": 22,
+        "points": 60,
+        "comments": 24,
         "author": "fedecaccia",
         "age": "1d ago"
       }
