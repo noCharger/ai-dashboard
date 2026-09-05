@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-05T10:19:38Z",
+  "generated": "2026-09-05T10:59:50Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "org": "deepseek-ai",
-        "trending_score": 582,
+        "trending_score": 583,
         "downloads": 184542,
-        "likes": 630,
+        "likes": 633,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 552,
+        "trending_score": 549,
         "downloads": 6024467,
-        "likes": 13986,
+        "likes": 13988,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.8-Flash-Next",
         "org": "Qwen",
-        "trending_score": 523,
+        "trending_score": 521,
         "downloads": 401327,
-        "likes": 4892,
+        "likes": 4894,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -57,7 +57,7 @@
         "rank": 4,
         "name": "zai-org/GLM-5.3-Flash",
         "org": "zai-org",
-        "trending_score": 428,
+        "trending_score": 424,
         "downloads": 727610,
         "likes": 2063,
         "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 407,
+        "trending_score": 408,
         "downloads": 4755,
-        "likes": 496,
+        "likes": 497,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 56.7580864237761,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.7143163690824,
+        "speed_tps": 67.0992353971218,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 54.6573323423926,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 87.4970011149705,
+        "speed_tps": 62.4665467134099,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 54.3148645943349,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 81.2289195969977,
+        "speed_tps": 56.7600643996609,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 54.0539443539342,
         "price_input": 5,
         "price_output": 25,
-        "speed_tps": 59.0843115480097,
+        "speed_tps": 57.5222063686016,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.8031695908873,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.367543686985,
+        "speed_tps": 68.9049911377199,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
@@ -311,50 +311,50 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 251275,
+        "stars": 251339,
         "stars_delta": 2758,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
         "rank": 2,
-        "name": "DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 127007,
-        "stars_delta": 1679,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
-        "rank": 3,
-        "name": "fmtlib/fmt",
-        "description": "A modern formatting library",
-        "url": "https://github.com/fmtlib/fmt",
-        "stars": 25520,
-        "stars_delta": 688,
-        "language": "C++",
-        "language_color": "#f34b7d"
-      },
-      {
-        "rank": 4,
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 248925,
+        "stars": 248962,
         "stars_delta": 1135,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 5,
-        "name": "anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills",
-        "stars": 174321,
-        "stars_delta": 511,
+        "rank": 3,
+        "name": "DietrichGebert/ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "stars": 127064,
+        "stars_delta": 1679,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
+      },
+      {
+        "rank": 4,
+        "name": "NousResearch/hermes-agent",
+        "description": "The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "stars": 241716,
+        "stars_delta": 720,
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "fmtlib/fmt",
+        "description": "A modern formatting library",
+        "url": "https://github.com/fmtlib/fmt",
+        "stars": 25523,
+        "stars_delta": 688,
+        "language": "C++",
+        "language_color": "#f34b7d"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 48685,
+        "stars": 48711,
         "stars_delta": 21896,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,38 +373,38 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 31692,
+        "stars": 31701,
         "stars_delta": 10274,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 17733,
-        "stars_delta": 7314,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
-        "rank": 4,
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32639,
+        "stars": 32642,
         "stars_delta": 1679,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 31187,
+        "stars": 31194,
         "stars_delta": 2653,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "jingyaogong/minimind",
+        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "url": "https://github.com/jingyaogong/minimind",
+        "stars": 58656,
+        "stars_delta": 3390,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 31301,
+        "stars": 31322,
         "stars_delta": 27843,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,37 +425,37 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 38140,
+        "stars": 38148,
         "stars_delta": 13961,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
         "rank": 3,
-        "name": "PrimeIntellect-ai/prime-agent",
-        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "stars": 19908,
-        "stars_delta": 19927,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 12041,
+        "stars": 12042,
         "stars_delta": 10154,
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 4,
+        "name": "cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "url": "https://github.com/cursor/plugins",
+        "stars": 6883,
+        "stars_delta": 4406,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 48685,
+        "stars": 48711,
         "stars_delta": 38699,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -683,10 +683,10 @@
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "discussion_url": "https://news.ycombinator.com/item?id=49574167",
         "site": "sylvainkalache.com",
-        "points": 114,
-        "comments": 78,
+        "points": 145,
+        "comments": 114,
         "author": "sylvainkalache",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -695,10 +695,10 @@
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
         "discussion_url": "https://news.ycombinator.com/item?id=49570669",
         "site": "nvd.nist.gov",
-        "points": 506,
-        "comments": 276,
+        "points": 518,
+        "comments": 279,
         "author": "negura",
-        "age": "12h ago"
+        "age": "13h ago"
       },
       {
         "rank": 3,
@@ -707,10 +707,10 @@
         "url": "https://collusion.wiki/",
         "discussion_url": "https://news.ycombinator.com/item?id=49563355",
         "site": "collusion.wiki",
-        "points": 1729,
-        "comments": 1324,
+        "points": 1741,
+        "comments": 1337,
         "author": "moultano",
-        "age": "22h ago"
+        "age": "23h ago"
       },
       {
         "rank": 4,
@@ -719,10 +719,10 @@
         "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
         "discussion_url": "https://news.ycombinator.com/item?id=49568506",
         "site": "anthropic.com",
-        "points": 619,
-        "comments": 388,
+        "points": 625,
+        "comments": 390,
         "author": "jlebar",
-        "age": "15h ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
@@ -731,8 +731,8 @@
         "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
         "discussion_url": "https://news.ycombinator.com/item?id=49571634",
         "site": "codeberg.org",
-        "points": 232,
-        "comments": 78,
+        "points": 257,
+        "comments": 91,
         "author": "Cider9986",
         "age": "10h ago"
       }
@@ -745,8 +745,8 @@
         "url": "https://news.ycombinator.com/item?id=49533840",
         "discussion_url": "https://news.ycombinator.com/item?id=49533840",
         "site": "news.ycombinator.com",
-        "points": 131,
-        "comments": 74,
+        "points": 138,
+        "comments": 76,
         "author": "tosmatos",
         "age": "3d ago"
       },
@@ -769,8 +769,8 @@
         "url": "https://news.ycombinator.com/item?id=49551096",
         "discussion_url": "https://news.ycombinator.com/item?id=49551096",
         "site": "news.ycombinator.com",
-        "points": 395,
-        "comments": 688,
+        "points": 396,
+        "comments": 689,
         "author": "halcdev",
         "age": "1d ago"
       },
@@ -788,15 +788,15 @@
       },
       {
         "rank": 5,
-        "id": 49573149,
-        "title": "Word42 1.0.0 Released",
-        "url": "https://news.ycombinator.com/item?id=49573149",
-        "discussion_url": "https://news.ycombinator.com/item?id=49573149",
+        "id": 49522897,
+        "title": "Ask HN: Who is hiring? (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49522897",
+        "discussion_url": "https://news.ycombinator.com/item?id=49522897",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "andreasrosdal",
-        "age": "5h ago"
+        "points": 247,
+        "comments": 338,
+        "author": "whoishiring",
+        "age": "3d ago"
       }
     ],
     "show": [
@@ -807,7 +807,7 @@
         "url": "https://opentrailpaper.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49567437",
         "site": "opentrailpaper.com",
-        "points": 288,
+        "points": 292,
         "comments": 102,
         "author": "stingrae",
         "age": "17h ago"
@@ -819,8 +819,8 @@
         "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
         "discussion_url": "https://news.ycombinator.com/item?id=49562219",
         "site": "github.com",
-        "points": 135,
-        "comments": 36,
+        "points": 139,
+        "comments": 37,
         "author": "gioscarab",
         "age": "1d ago"
       },
@@ -834,7 +834,7 @@
         "points": 2,
         "comments": 0,
         "author": "suchait6655",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 4,
@@ -846,7 +846,7 @@
         "points": 25,
         "comments": 11,
         "author": "tupe12334",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
         "rank": 5,
