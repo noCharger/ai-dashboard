@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-06T20:55:34Z",
+  "generated": "2026-09-06T22:31:23Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "org": "deepseek-ai",
-        "trending_score": 648,
+        "trending_score": 649,
         "downloads": 209191,
-        "likes": 736,
+        "likes": 738,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 537,
+        "trending_score": 534,
         "downloads": 6190807,
-        "likes": 14118,
+        "likes": 14123,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 499,
+        "trending_score": 501,
         "downloads": 5477,
-        "likes": 596,
+        "likes": 598,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "google/timesfm-3.0-pytorch",
         "org": "google",
-        "trending_score": 434,
+        "trending_score": 440,
         "downloads": 144455,
-        "likes": 493,
+        "likes": 499,
         "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
         "tags": [
           "safetensors",
@@ -76,7 +76,7 @@
         "org": "Qwen",
         "trending_score": 419,
         "downloads": 432966,
-        "likes": 4940,
+        "likes": 4942,
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
         "tags": [
           "transformers",
@@ -96,53 +96,53 @@
         "intelligence_index": 56.7580864237761,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.4856263383394,
+        "speed_tps": 68.9553119798498,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
       {
         "rank": 2,
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 56.2440953839192,
+        "price_input": 10,
+        "price_output": 50,
+        "speed_tps": 64.6202601522988,
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
+      },
+      {
+        "rank": 3,
         "name": "GPT-6 Astra (max)",
         "org": "OpenAI",
         "intelligence_index": 54.6573323423926,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 71.308542914593,
+        "speed_tps": 66.9529229842932,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 54.455549030173,
+        "price_input": 10,
+        "price_output": 50,
+        "speed_tps": 56.4568004483165,
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
+      },
+      {
+        "rank": 5,
         "name": "GPT-6 Astra (xhigh)",
         "org": "OpenAI",
         "intelligence_index": 54.3148645943349,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 66.6326029462074,
+        "speed_tps": 61.9326087133095,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
-      },
-      {
-        "rank": 4,
-        "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
-        "org": "Anthropic",
-        "intelligence_index": 54.0539443539342,
-        "price_input": 5,
-        "price_output": 25,
-        "speed_tps": 57.5196620239909,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-opus-5"
-      },
-      {
-        "rank": 5,
-        "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
-        "org": "Anthropic",
-        "intelligence_index": 53.8031695908873,
-        "price_input": 10,
-        "price_output": 50,
-        "speed_tps": 66.6682232658976,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
     ]
   },
@@ -311,7 +311,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 251099,
+        "stars": 251210,
         "stars_delta": 1486,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -321,7 +321,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 254344,
+        "stars": 254431,
         "stars_delta": 2206,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 32249,
+        "stars": 32286,
         "stars_delta": 621,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -341,7 +341,7 @@
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 242483,
+        "stars": 242510,
         "stars_delta": 520,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "openai/skills",
         "description": "Skills Catalog for Codex",
         "url": "https://github.com/openai/skills",
-        "stars": 25579,
+        "stars": 25599,
         "stars_delta": 44,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 50651,
+        "stars": 50700,
         "stars_delta": 19480,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "magnitudedev/magnitude",
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
         "url": "https://github.com/magnitudedev/magnitude",
-        "stars": 3626,
+        "stars": 3645,
         "stars_delta": 1396,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 32367,
+        "stars": 32383,
         "stars_delta": 10109,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32825,
+        "stars": 32832,
         "stars_delta": 1839,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "pollen-robotics/microduck_rl",
         "description": "RL training environments for Microduck (mjlab)",
         "url": "https://github.com/pollen-robotics/microduck_rl",
-        "stars": 1812,
+        "stars": 1813,
         "stars_delta": 1247,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 32249,
+        "stars": 32286,
         "stars_delta": 28654,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 38564,
+        "stars": 38586,
         "stars_delta": 14222,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 12164,
+        "stars": 12168,
         "stars_delta": 10251,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 50651,
+        "stars": 50700,
         "stars_delta": 40038,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3522,
+        "stars": 3525,
         "stars_delta": 3187,
         "language": "Python",
         "language_color": "#3572A5"
@@ -594,7 +594,7 @@
         "upvotes": 127,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 102661
+        "github_stars": 102726
       }
     ],
     "arxiv_recent": [
@@ -678,63 +678,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 49590362,
-        "title": "They're Made Out of Meat",
-        "url": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
-        "discussion_url": "https://news.ycombinator.com/item?id=49590362",
-        "site": "eastoftheweb.com",
-        "points": 15,
-        "comments": 2,
-        "author": "embedding-shape",
-        "age": "47m ago"
+        "id": 49590512,
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "discussion_url": "https://news.ycombinator.com/item?id=49590512",
+        "site": "grapheneos.social",
+        "points": 84,
+        "comments": 23,
+        "author": "Cider9986",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49588988,
-        "title": "Nitter and XCancel resume",
-        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "discussion_url": "https://news.ycombinator.com/item?id=49588988",
-        "site": "github.com",
-        "points": 280,
-        "comments": 170,
-        "author": "zImPatrick",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49590225,
-        "title": "The car industry A/B tested selling a car with and without CarPlay",
-        "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49590225",
-        "site": "a.wholelottanothing.org",
-        "points": 58,
-        "comments": 35,
-        "author": "gumby",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
         "id": 49590738,
         "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
         "url": "https://github.com/marsbos/mador",
         "discussion_url": "https://news.ycombinator.com/item?id=49590738",
         "site": "github.com",
-        "points": 6,
-        "comments": 2,
+        "points": 41,
+        "comments": 16,
         "author": "bosmarcel",
-        "age": "10m ago"
+        "age": "1h ago"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "id": 49590611,
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49590611",
+        "site": "anubis.techaro.lol",
+        "points": 85,
+        "comments": 49,
+        "author": "xena",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49585644,
         "title": "Your intellectual fly is open (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "discussion_url": "https://news.ycombinator.com/item?id=49585644",
         "site": "bcantrill.dtrace.org",
-        "points": 403,
-        "comments": 268,
+        "points": 450,
+        "comments": 290,
         "author": "cyb0rg0",
-        "age": "8h ago"
+        "age": "10h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49584083,
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "discussion_url": "https://news.ycombinator.com/item?id=49584083",
+        "site": "isaraerospace.com",
+        "points": 526,
+        "comments": 169,
+        "author": "mpweiher",
+        "age": "15h ago"
       }
     ],
     "ask": [
@@ -745,33 +745,33 @@
         "url": "https://news.ycombinator.com/item?id=49589730",
         "discussion_url": "https://news.ycombinator.com/item?id=49589730",
         "site": "news.ycombinator.com",
-        "points": 16,
+        "points": 19,
         "comments": 6,
         "author": "burnt-resistor",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 49590656,
-        "title": "Ask HN: Show your micro-SaaS (September 2026)",
-        "url": "https://news.ycombinator.com/item?id=49590656",
-        "discussion_url": "https://news.ycombinator.com/item?id=49590656",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "genekrapivin",
-        "age": "18m ago"
-      },
-      {
-        "rank": 3,
         "id": 49589914,
         "title": "Ask HN: How do you manage skills files?",
         "url": "https://news.ycombinator.com/item?id=49589914",
         "discussion_url": "https://news.ycombinator.com/item?id=49589914",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 3,
+        "points": 4,
+        "comments": 5,
         "author": "imadtaieber",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49590656,
+        "title": "Ask HN: Show your micro-SaaS (September 2026)",
+        "url": "https://news.ycombinator.com/item?id=49590656",
+        "discussion_url": "https://news.ycombinator.com/item?id=49590656",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 0,
+        "author": "genekrapivin",
         "age": "1h ago"
       },
       {
@@ -782,7 +782,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49548600",
         "site": "news.ycombinator.com",
         "points": 188,
-        "comments": 194,
+        "comments": 195,
         "author": "sukit",
         "age": "3d ago"
       },
@@ -793,7 +793,7 @@
         "url": "https://news.ycombinator.com/item?id=49533840",
         "discussion_url": "https://news.ycombinator.com/item?id=49533840",
         "site": "news.ycombinator.com",
-        "points": 267,
+        "points": 268,
         "comments": 164,
         "author": "tosmatos",
         "age": "4d ago"
@@ -807,10 +807,10 @@
         "url": "https://github.com/marsbos/mador",
         "discussion_url": "https://news.ycombinator.com/item?id=49590738",
         "site": "github.com",
-        "points": 6,
-        "comments": 2,
+        "points": 41,
+        "comments": 16,
         "author": "bosmarcel",
-        "age": "10m ago"
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -819,34 +819,34 @@
         "url": "https://getvodforge.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49590354",
         "site": "getvodforge.com",
-        "points": 4,
-        "comments": 1,
+        "points": 25,
+        "comments": 4,
         "author": "coopernusbaum",
-        "age": "48m ago"
+        "age": "2h ago"
       },
       {
         "rank": 3,
-        "id": 49590351,
-        "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-        "url": "https://github.com/mmeyerlein/meclaw",
-        "discussion_url": "https://news.ycombinator.com/item?id=49590351",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "mmeyerlein",
-        "age": "48m ago"
-      },
-      {
-        "rank": 4,
         "id": 49590729,
         "title": "Show HN: Byosynch – Continuous two-way file sync over SSH for Mac and Linux",
         "url": "https://byosynch.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49590729",
         "site": "byosynch.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "author": "hamiltonc",
-        "age": "11m ago"
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49586902,
+        "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+        "url": "https://github.com/scastiel/kado",
+        "discussion_url": "https://news.ycombinator.com/item?id=49586902",
+        "site": "github.com",
+        "points": 64,
+        "comments": 29,
+        "author": "scastiel",
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -855,10 +855,10 @@
         "url": "https://github.com/FulltimeFeline/Sol",
         "discussion_url": "https://news.ycombinator.com/item?id=49590524",
         "site": "github.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
         "author": "fulltimefeline",
-        "age": "30m ago"
+        "age": "2h ago"
       }
     ]
   }
