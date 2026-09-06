@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-06T13:15:17Z",
+  "generated": "2026-09-06T16:32:12Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "org": "deepseek-ai",
-        "trending_score": 629,
+        "trending_score": 639,
         "downloads": 209191,
-        "likes": 706,
+        "likes": 719,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 529,
+        "trending_score": 532,
         "downloads": 6190807,
-        "likes": 14075,
+        "likes": 14095,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 480,
+        "trending_score": 485,
         "downloads": 5477,
-        "likes": 576,
+        "likes": 581,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "Qwen/Qwen3.8-Flash-Next",
-        "org": "Qwen",
-        "trending_score": 441,
-        "downloads": 432966,
-        "likes": 4932,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen4_exp",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "google/timesfm-3.0-pytorch",
         "org": "google",
-        "trending_score": 421,
+        "trending_score": 427,
         "downloads": 144455,
-        "likes": 480,
+        "likes": 486,
         "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
         "tags": [
           "safetensors",
@@ -84,6 +67,23 @@
           "forecasting",
           "pretrained",
           "pytorch"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Qwen/Qwen3.8-Flash-Next",
+        "org": "Qwen",
+        "trending_score": 426,
+        "downloads": 432966,
+        "likes": 4938,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen4_exp",
+          "image-text-to-text",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 253739,
-        "stars_delta": 2206,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
-        "rank": 2,
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 250542,
+        "stars": 250786,
         "stars_delta": 1486,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
+        "rank": 2,
+        "name": "mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 254059,
+        "stars_delta": 2206,
+        "language": "Shell",
+        "language_color": "#89e051"
+      },
+      {
         "rank": 3,
-        "name": "DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 128719,
-        "stars_delta": 1539,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
+        "name": "cathrynlavery/diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "stars": 32132,
+        "stars_delta": 621,
+        "language": "HTML",
+        "language_color": "#e34c26"
       },
       {
         "rank": 4,
         "name": "NousResearch/hermes-agent",
         "description": "The agent that grows with you",
         "url": "https://github.com/NousResearch/hermes-agent",
-        "stars": 242280,
+        "stars": 242368,
         "stars_delta": 520,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "fmtlib/fmt",
-        "description": "A modern formatting library",
-        "url": "https://github.com/fmtlib/fmt",
-        "stars": 25612,
-        "stars_delta": 78,
-        "language": "C++",
-        "language_color": "#f34b7d"
+        "name": "openai/skills",
+        "description": "Skills Catalog for Codex",
+        "url": "https://github.com/openai/skills",
+        "stars": 25513,
+        "stars_delta": 44,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "weekly": [
@@ -363,48 +363,48 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 50223,
+        "stars": 50464,
         "stars_delta": 19480,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 2,
-        "name": "THU-MAIC/OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 32233,
-        "stars_delta": 10109,
+        "name": "magnitudedev/magnitude",
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "stars": 3547,
+        "stars_delta": 1396,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "Gitlawb/openclaude",
-        "description": "runs anywhere. uses anything",
-        "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32778,
-        "stars_delta": 1839,
+        "name": "THU-MAIC/OpenMAIC",
+        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+        "url": "https://github.com/THU-MAIC/OpenMAIC",
+        "stars": 32307,
+        "stars_delta": 10109,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "google-research/timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "url": "https://github.com/google-research/timesfm",
-        "stars": 31456,
-        "stars_delta": 2968,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "Gitlawb/openclaude",
+        "description": "runs anywhere. uses anything",
+        "url": "https://github.com/Gitlawb/openclaude",
+        "stars": 32804,
+        "stars_delta": 1839,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "jingyaogong/minimind",
-        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "url": "https://github.com/jingyaogong/minimind",
-        "stars": 59016,
-        "stars_delta": 3649,
+        "name": "pollen-robotics/microduck_rl",
+        "description": "RL training environments for Microduck (mjlab)",
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "stars": 1804,
+        "stars_delta": 1247,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 31996,
+        "stars": 32132,
         "stars_delta": 28654,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 38466,
+        "stars": 38512,
         "stars_delta": 14222,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,30 +435,30 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 12140,
+        "stars": 12153,
         "stars_delta": 10251,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "url": "https://github.com/cursor/plugins",
-        "stars": 6965,
-        "stars_delta": 4411,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 50223,
+        "stars": 50464,
         "stars_delta": 40038,
         "language": "JavaScript",
         "language_color": "#f1e05a"
+      },
+      {
+        "rank": 5,
+        "name": "anthropics/claude-plugins-community",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "stars": 3512,
+        "stars_delta": 3187,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "frameworks": [
@@ -568,6 +568,21 @@
       },
       {
         "rank": 4,
+        "title": "AutoResearch: Insight In, Hallucination Out",
+        "authors": [
+          "Yiming Ren",
+          "Xiang Liu",
+          "Qumeng Sun"
+        ],
+        "url": "https://huggingface.co/papers/2608.17906",
+        "categories": [],
+        "upvotes": 10,
+        "published": "2026-08-22",
+        "github_repo": "https://github.com/EvoMap/AutoResearch",
+        "github_stars": 1352
+      },
+      {
+        "rank": 5,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -580,21 +595,6 @@
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 102661
-      },
-      {
-        "rank": 5,
-        "title": "AutoResearch: Insight In, Hallucination Out",
-        "authors": [
-          "Yiming Ren",
-          "Xiang Liu",
-          "Qumeng Sun"
-        ],
-        "url": "https://huggingface.co/papers/2608.17906",
-        "categories": [],
-        "upvotes": 10,
-        "published": "2026-08-22",
-        "github_repo": "https://github.com/EvoMap/AutoResearch",
-        "github_stars": 868
       }
     ],
     "arxiv_recent": [
@@ -678,92 +678,80 @@
     "top": [
       {
         "rank": 1,
-        "id": 49585644,
-        "title": "Intellectual Fly Is Open",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49585644",
-        "site": "bcantrill.dtrace.org",
-        "points": 81,
-        "comments": 46,
-        "author": "cyb0rg0",
-        "age": "1h ago"
+        "id": 49586171,
+        "title": "QBittorrent breaks out of sandbox to commit crimes",
+        "url": "https://beige.party/@intransitivelie/117057396732763183",
+        "discussion_url": "https://news.ycombinator.com/item?id=49586171",
+        "site": "beige.party",
+        "points": 334,
+        "comments": 50,
+        "author": "mraniki",
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 49585644,
+        "title": "Intellectual Fly Is Open (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49585644",
+        "site": "bcantrill.dtrace.org",
+        "points": 281,
+        "comments": 155,
+        "author": "cyb0rg0",
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49586898,
+        "title": "A/I shuts down – Stay human",
+        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49586898",
+        "site": "keepitfree.ai",
+        "points": 241,
+        "comments": 121,
+        "author": "captainmuon",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49584083,
         "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
         "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
         "discussion_url": "https://news.ycombinator.com/item?id=49584083",
         "site": "isaraerospace.com",
-        "points": 312,
-        "comments": 81,
+        "points": 410,
+        "comments": 117,
         "author": "mpweiher",
-        "age": "5h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49585627,
         "title": "Doomscrolling Ourselves to Death",
         "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
         "discussion_url": "https://news.ycombinator.com/item?id=49585627",
         "site": "edwest.co.uk",
-        "points": 47,
-        "comments": 27,
+        "points": 212,
+        "comments": 140,
         "author": "shubhamjain",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49531619,
-        "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-        "url": "https://en.wikipedia.org/wiki/M-DISC",
-        "discussion_url": "https://news.ycombinator.com/item?id=49531619",
-        "site": "en.wikipedia.org",
-        "points": 63,
-        "comments": 19,
-        "author": "gurjeet",
-        "age": "4d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49585300,
-        "title": "I asked astra to make playable 4D chess",
-        "url": "https://4d-chess.pages.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49585300",
-        "site": "4d-chess.pages.dev",
-        "points": 26,
-        "comments": 10,
-        "author": "mikiyas",
-        "age": "2h ago"
+        "age": "4h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49585683,
-        "title": "Astra still fails at creating acceptable Rotational Ambigram",
-        "url": "https://news.ycombinator.com/item?id=49585683",
-        "discussion_url": "https://news.ycombinator.com/item?id=49585683",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "das_vicky",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 49533840,
         "title": "Ask HN: Resources to get good at soldering?",
         "url": "https://news.ycombinator.com/item?id=49533840",
         "discussion_url": "https://news.ycombinator.com/item?id=49533840",
         "site": "news.ycombinator.com",
-        "points": 260,
-        "comments": 162,
+        "points": 265,
+        "comments": 163,
         "author": "tosmatos",
         "age": "4d ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 49548600,
         "title": "Ask HN: Who is using MCP in production?",
         "url": "https://news.ycombinator.com/item?id=49548600",
@@ -775,7 +763,31 @@
         "age": "3d ago"
       },
       {
+        "rank": 3,
+        "id": 49587379,
+        "title": "Cutting (Claude Code) token spend on dynamic workflows 80%",
+        "url": "https://news.ycombinator.com/item?id=49587379",
+        "discussion_url": "https://news.ycombinator.com/item?id=49587379",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "gojkoa",
+        "age": "1h ago"
+      },
+      {
         "rank": 4,
+        "id": 49585683,
+        "title": "Astra still fails at creating acceptable Rotational Ambigram",
+        "url": "https://news.ycombinator.com/item?id=49585683",
+        "discussion_url": "https://news.ycombinator.com/item?id=49585683",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 2,
+        "author": "das_vicky",
+        "age": "4h ago"
+      },
+      {
+        "rank": 5,
         "id": 49551096,
         "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
         "url": "https://news.ycombinator.com/item?id=49551096",
@@ -784,45 +796,33 @@
         "points": 400,
         "comments": 701,
         "author": "halcdev",
-        "age": "2d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49522897,
-        "title": "Ask HN: Who is hiring? (September 2026)",
-        "url": "https://news.ycombinator.com/item?id=49522897",
-        "discussion_url": "https://news.ycombinator.com/item?id=49522897",
-        "site": "news.ycombinator.com",
-        "points": 248,
-        "comments": 347,
-        "author": "whoishiring",
-        "age": "4d ago"
+        "age": "3d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49585787,
-        "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
-        "url": "https://github.com/LakBud/vernLLM",
-        "discussion_url": "https://news.ycombinator.com/item?id=49585787",
+        "id": 49586902,
+        "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+        "url": "https://github.com/scastiel/kado",
+        "discussion_url": "https://news.ycombinator.com/item?id=49586902",
         "site": "github.com",
-        "points": 3,
-        "comments": 1,
-        "author": "Buddo",
-        "age": "58m ago"
+        "points": 30,
+        "comments": 8,
+        "author": "scastiel",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49585201,
-        "title": "Show HN: Wayfinder – A reference implementation for evaluating AI applications",
-        "url": "https://github.com/DivakarUngatla/wayfinder",
-        "discussion_url": "https://news.ycombinator.com/item?id=49585201",
+        "id": 49586159,
+        "title": "Show HN: Dsnitch – Real-time, zero-config Docker egress inspector via eBPF",
+        "url": "https://github.com/infomaniac777/dsnitch",
+        "discussion_url": "https://news.ycombinator.com/item?id=49586159",
         "site": "github.com",
-        "points": 2,
+        "points": 3,
         "comments": 0,
-        "author": "divakarungatla",
-        "age": "2h ago"
+        "author": "infomaniac777",
+        "age": "3h ago"
       },
       {
         "rank": 3,
@@ -831,22 +831,22 @@
         "url": "https://opentrailpaper.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49567437",
         "site": "opentrailpaper.com",
-        "points": 398,
-        "comments": 127,
+        "points": 406,
+        "comments": 128,
         "author": "stingrae",
         "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 49519101,
-        "title": "Show HN: Fly By – retro biplane flying game",
-        "url": "https://michaelteter.com/flyby.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49519101",
-        "site": "michaelteter.com",
-        "points": 82,
-        "comments": 54,
-        "author": "michaelteter",
-        "age": "5d ago"
+        "id": 49585787,
+        "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+        "url": "https://github.com/LakBud/vernLLM",
+        "discussion_url": "https://news.ycombinator.com/item?id=49585787",
+        "site": "github.com",
+        "points": 4,
+        "comments": 1,
+        "author": "Buddo",
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -855,7 +855,7 @@
         "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
         "discussion_url": "https://news.ycombinator.com/item?id=49562219",
         "site": "github.com",
-        "points": 201,
+        "points": 203,
         "comments": 45,
         "author": "gioscarab",
         "age": "2d ago"
