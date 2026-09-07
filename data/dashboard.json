@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-07T12:05:05Z",
+  "generated": "2026-09-07T16:10:34Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 543,
+        "trending_score": 566,
         "downloads": 7216,
-        "likes": 649,
+        "likes": 674,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "org": "deepseek-ai",
-        "trending_score": 539,
-        "downloads": 251611,
-        "likes": 779,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v4",
-          "text-generation",
-          "image-text-to-text"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 521,
+        "trending_score": 514,
         "downloads": 6416358,
-        "likes": 14185,
+        "likes": 14212,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -54,12 +37,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "google/timesfm-3.0-pytorch",
         "org": "google",
-        "trending_score": 475,
+        "trending_score": 489,
         "downloads": 271713,
-        "likes": 538,
+        "likes": 558,
         "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
         "tags": [
           "safetensors",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "org": "deepseek-ai",
+        "trending_score": 425,
+        "downloads": 251611,
+        "likes": 785,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v4",
+          "text-generation",
+          "image-text-to-text"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "org": "ISTA-DASLab",
-        "trending_score": 399,
+        "trending_score": 402,
         "downloads": 403292,
-        "likes": 491,
+        "likes": 506,
         "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "tags": [
           "gguf",
@@ -129,7 +129,7 @@
         "intelligence_index": 54.455549030173,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 56.0410274989044,
+        "speed_tps": 54.7590339753656,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 54.3148645943349,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 59.6019487463627,
+        "speed_tps": 59.4059046680744,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       }
@@ -311,8 +311,8 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 44688,
-        "stars_delta": 220,
+        "stars": 45198,
+        "stars_delta": 734,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,7 +321,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 179240,
+        "stars": 179696,
         "stars_delta": 771,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,8 +331,8 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 20540,
-        "stars_delta": 85,
+        "stars": 20646,
+        "stars_delta": 147,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,7 +341,7 @@
         "name": "jo-inc/camofox-browser",
         "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
         "url": "https://github.com/jo-inc/camofox-browser",
-        "stars": 9306,
+        "stars": 9452,
         "stars_delta": 117,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "MoonTechLab/LunaTV",
         "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
         "url": "https://github.com/MoonTechLab/LunaTV",
-        "stars": 9567,
+        "stars": 9637,
         "stars_delta": 171,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "magnitudedev/magnitude",
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
         "url": "https://github.com/magnitudedev/magnitude",
-        "stars": 3918,
+        "stars": 3978,
         "stars_delta": 1961,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 51845,
+        "stars": 52241,
         "stars_delta": 17190,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32882,
+        "stars": 32909,
         "stars_delta": 1944,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 32790,
+        "stars": 32928,
         "stars_delta": 9193,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 31748,
+        "stars": 31792,
         "stars_delta": 3203,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 33054,
+        "stars": 33178,
         "stars_delta": 29194,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 38769,
+        "stars": 38853,
         "stars_delta": 14497,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 12246,
+        "stars": 12261,
         "stars_delta": 10145,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3552,
+        "stars": 3559,
         "stars_delta": 3243,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 51845,
+        "stars": 52241,
         "stars_delta": 41018,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 773,
+        "upvotes": 775,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
         "github_stars": 11016
@@ -546,13 +546,28 @@
         ],
         "url": "https://huggingface.co/papers/2310.10688",
         "categories": [],
-        "upvotes": 39,
+        "upvotes": 41,
         "published": "2023-10-14",
         "github_repo": "https://github.com/google-research/timesfm",
         "github_stars": 31676
       },
       {
         "rank": 3,
+        "title": "AutoResearch: Insight In, Hallucination Out",
+        "authors": [
+          "Yiming Ren",
+          "Xiang Liu",
+          "Qumeng Sun"
+        ],
+        "url": "https://huggingface.co/papers/2608.17906",
+        "categories": [],
+        "upvotes": 11,
+        "published": "2026-08-22",
+        "github_repo": "https://github.com/EvoMap/AutoResearch",
+        "github_stars": 1682
+      },
+      {
+        "rank": 4,
         "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
         "authors": [
           "Shuo Yang",
@@ -565,21 +580,6 @@
         "published": "2026-08-16",
         "github_repo": "https://github.com/FlashML-org/FreeToken",
         "github_stars": 11914
-      },
-      {
-        "rank": 4,
-        "title": "AutoResearch: Insight In, Hallucination Out",
-        "authors": [
-          "Yiming Ren",
-          "Xiang Liu",
-          "Qumeng Sun"
-        ],
-        "url": "https://huggingface.co/papers/2608.17906",
-        "categories": [],
-        "upvotes": 10,
-        "published": "2026-08-22",
-        "github_repo": "https://github.com/EvoMap/AutoResearch",
-        "github_stars": 1365
       },
       {
         "rank": 5,
@@ -680,63 +680,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 49598291,
+        "title": "bzip3",
+        "url": "https://github.com/iczelia/bzip3",
+        "discussion_url": "https://news.ycombinator.com/item?id=49598291",
+        "site": "github.com",
+        "points": 131,
+        "comments": 33,
+        "author": "tosh",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49597907,
+        "title": "De-Brainrot Vacations",
+        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49597907",
+        "site": "devz.cl",
+        "points": 290,
+        "comments": 129,
+        "author": "DanielVZ",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
         "id": 49593563,
         "title": "Keep Our Servers Running",
         "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
         "discussion_url": "https://news.ycombinator.com/item?id=49593563",
         "site": "blog.archive.org",
-        "points": 583,
-        "comments": 131,
+        "points": 761,
+        "comments": 191,
         "author": "sonicrocketman",
-        "age": "8h ago"
+        "age": "12h ago"
       },
       {
-        "rank": 2,
-        "id": 49595865,
-        "title": "Live map of public transport in Belgium",
-        "url": "https://openbaarvervoerbelgie.be/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49595865",
-        "site": "openbaarvervoerbelgie.be",
-        "points": 71,
-        "comments": 23,
-        "author": "coinfused",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "id": 49596055,
         "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
         "url": "https://mathathonchallenge.com/index.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49596055",
         "site": "mathathonchallenge.com",
-        "points": 41,
-        "comments": 4,
+        "points": 128,
+        "comments": 27,
         "author": "astroanax",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49596054,
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "discussion_url": "https://news.ycombinator.com/item?id=49596054",
-        "site": "vllm.ai",
-        "points": 37,
-        "comments": 9,
-        "author": "ankitg12",
-        "age": "2h ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 49596274,
-        "title": "Impedance Matching (2017)",
-        "url": "https://www.edge.org/response-detail/27238",
-        "discussion_url": "https://news.ycombinator.com/item?id=49596274",
-        "site": "edge.org",
-        "points": 22,
-        "comments": 5,
-        "author": "muti",
-        "age": "2h ago"
+        "id": 49558685,
+        "title": "Simple Is Not Small",
+        "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49558685",
+        "site": "jyn.dev",
+        "points": 44,
+        "comments": 15,
+        "author": "zdw",
+        "age": "3d ago"
       }
     ],
     "ask": [
@@ -747,10 +747,10 @@
         "url": "https://news.ycombinator.com/item?id=49589914",
         "discussion_url": "https://news.ycombinator.com/item?id=49589914",
         "site": "news.ycombinator.com",
-        "points": 166,
-        "comments": 141,
+        "points": 234,
+        "comments": 212,
         "author": "imadtaieber",
-        "age": "16h ago"
+        "age": "20h ago"
       },
       {
         "rank": 2,
@@ -759,10 +759,10 @@
         "url": "https://news.ycombinator.com/item?id=49577129",
         "discussion_url": "https://news.ycombinator.com/item?id=49577129",
         "site": "news.ycombinator.com",
-        "points": 178,
-        "comments": 112,
+        "points": 222,
+        "comments": 136,
         "author": "jmpman",
-        "age": "1d ago"
+        "age": "2d ago"
       },
       {
         "rank": 3,
@@ -771,10 +771,10 @@
         "url": "https://news.ycombinator.com/item?id=49596976",
         "discussion_url": "https://news.ycombinator.com/item?id=49596976",
         "site": "news.ycombinator.com",
-        "points": 20,
-        "comments": 6,
+        "points": 79,
+        "comments": 38,
         "author": "maxim-fin",
-        "age": "42m ago"
+        "age": "4h ago"
       },
       {
         "rank": 4,
@@ -783,84 +783,84 @@
         "url": "https://news.ycombinator.com/item?id=49583440",
         "discussion_url": "https://news.ycombinator.com/item?id=49583440",
         "site": "news.ycombinator.com",
-        "points": 83,
-        "comments": 50,
+        "points": 95,
+        "comments": 54,
         "author": "usernametaken29",
         "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 49595998,
-        "title": "Ask HN: Do People Care About Image Optimisation Anymore?",
-        "url": "https://news.ycombinator.com/item?id=49595998",
-        "discussion_url": "https://news.ycombinator.com/item?id=49595998",
+        "id": 49598441,
+        "title": "Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
+        "url": "https://news.ycombinator.com/item?id=49598441",
+        "discussion_url": "https://news.ycombinator.com/item?id=49598441",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 0,
-        "author": "CM30",
+        "comments": 1,
+        "author": "skaiuijing",
         "age": "2h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49592840,
-        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-        "url": "https://gettogether.dev",
-        "discussion_url": "https://news.ycombinator.com/item?id=49592840",
-        "site": "gettogether.dev",
-        "points": 73,
-        "comments": 32,
-        "author": "nchudleigh",
-        "age": "10h ago"
+        "id": 49599618,
+        "title": "Show HN: I have created a browser FPS game with kamikaze drones",
+        "url": "https://sectorlock.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49599618",
+        "site": "sectorlock.com",
+        "points": 2,
+        "comments": 1,
+        "author": "canerg",
+        "age": "30m ago"
       },
       {
         "rank": 2,
+        "id": 49599559,
+        "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+        "url": "https://news.ycombinator.com/item?id=49599559",
+        "discussion_url": "https://news.ycombinator.com/item?id=49599559",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 1,
+        "author": "fabian_shipamax",
+        "age": "35m ago"
+      },
+      {
+        "rank": 3,
+        "id": 49599509,
+        "title": "Show HN: Titles – Can you write a better Hacker News title?",
+        "url": "https://www.orangecrumbs.com/hn-titles",
+        "discussion_url": "https://news.ycombinator.com/item?id=49599509",
+        "site": "orangecrumbs.com",
+        "points": 2,
+        "comments": 0,
+        "author": "oyster143",
+        "age": "41m ago"
+      },
+      {
+        "rank": 4,
+        "id": 49599445,
+        "title": "Show HN: A fast, private, cross-platform Markdown editor built with Tauri/Rust",
+        "url": "https://github.com/skanga/mdedit",
+        "discussion_url": "https://news.ycombinator.com/item?id=49599445",
+        "site": "github.com",
+        "points": 2,
+        "comments": 1,
+        "author": "skanga",
+        "age": "47m ago"
+      },
+      {
+        "rank": 5,
         "id": 49594008,
         "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
         "url": "https://github.com/timgordontg/engrim",
         "discussion_url": "https://news.ycombinator.com/item?id=49594008",
         "site": "github.com",
-        "points": 47,
-        "comments": 11,
+        "points": 69,
+        "comments": 38,
         "author": "timgordontg",
-        "age": "7h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49537143,
-        "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
-        "url": "https://play.simten.dev",
-        "discussion_url": "https://news.ycombinator.com/item?id=49537143",
-        "site": "play.simten.dev",
-        "points": 7,
-        "comments": 2,
-        "author": "charlesfrisbee",
-        "age": "4d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49590738,
-        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-        "url": "https://github.com/marsbos/mador",
-        "discussion_url": "https://news.ycombinator.com/item?id=49590738",
-        "site": "github.com",
-        "points": 93,
-        "comments": 31,
-        "author": "bosmarcel",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49596203,
-        "title": "Show HN: Guile-Secure Your Stack",
-        "url": "https://guile.in",
-        "discussion_url": "https://news.ycombinator.com/item?id=49596203",
-        "site": "guile.in",
-        "points": 3,
-        "comments": 0,
-        "author": "Harsha2193",
-        "age": "2h ago"
+        "age": "11h ago"
       }
     ]
   }
