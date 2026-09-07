@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-07T16:10:34Z",
+  "generated": "2026-09-07T20:14:37Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 566,
+        "trending_score": 589,
         "downloads": 7216,
-        "likes": 674,
+        "likes": 701,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 514,
+        "trending_score": 519,
         "downloads": 6416358,
-        "likes": 14212,
+        "likes": 14243,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "google/timesfm-3.0-pytorch",
         "org": "google",
-        "trending_score": 489,
+        "trending_score": 482,
         "downloads": 271713,
-        "likes": 558,
+        "likes": 567,
         "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
         "tags": [
           "safetensors",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "org": "deepseek-ai",
-        "trending_score": 425,
-        "downloads": 251611,
-        "likes": 785,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v4",
-          "text-generation",
-          "image-text-to-text"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "org": "ISTA-DASLab",
-        "trending_score": 402,
+        "trending_score": 426,
         "downloads": 403292,
-        "likes": 506,
+        "likes": 533,
         "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "tags": [
           "gguf",
@@ -86,6 +69,23 @@
           "mixed-precision"
         ],
         "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "org": "deepseek-ai",
+        "trending_score": 386,
+        "downloads": 251611,
+        "likes": 790,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v4",
+          "text-generation",
+          "image-text-to-text"
+        ],
+        "rank_change": null
       }
     ],
     "benchmark": [
@@ -93,10 +93,10 @@
         "rank": 1,
         "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
-        "intelligence_index": 56.7580864237761,
+        "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.2192011996306,
+        "speed_tps": 69.537191157551,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -104,10 +104,10 @@
         "rank": 2,
         "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
         "org": "Anthropic",
-        "intelligence_index": 56.2440953839192,
+        "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 59.3610044697346,
+        "speed_tps": 60.2462447272413,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -115,34 +115,34 @@
         "rank": 3,
         "name": "GPT-6 Astra (max)",
         "org": "OpenAI",
-        "intelligence_index": 54.6573323423926,
+        "intelligence_index": 52.814069395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 62.4665467134099,
+        "speed_tps": 61.5156043716499,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
       {
         "rank": 4,
-        "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
-        "org": "Anthropic",
-        "intelligence_index": 54.455549030173,
+        "name": "GPT-6 Astra (xhigh)",
+        "org": "OpenAI",
+        "intelligence_index": 52.5059027108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 54.7590339753656,
+        "speed_tps": 59.161536184151,
         "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
+        "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
       {
         "rank": 5,
-        "name": "GPT-6 Astra (xhigh)",
-        "org": "OpenAI",
-        "intelligence_index": 54.3148645943349,
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 51.2094958852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 59.4059046680744,
+        "speed_tps": 56.0410274989044,
         "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
     ]
   },
@@ -311,7 +311,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 45198,
+        "stars": 45584,
         "stars_delta": 734,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 179696,
+        "stars": 179969,
         "stars_delta": 771,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 20646,
+        "stars": 20744,
         "stars_delta": 147,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,8 +341,8 @@
         "name": "jo-inc/camofox-browser",
         "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
         "url": "https://github.com/jo-inc/camofox-browser",
-        "stars": 9452,
-        "stars_delta": 117,
+        "stars": 9570,
+        "stars_delta": 285,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -351,7 +351,7 @@
         "name": "MoonTechLab/LunaTV",
         "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
         "url": "https://github.com/MoonTechLab/LunaTV",
-        "stars": 9637,
+        "stars": 9674,
         "stars_delta": 171,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "magnitudedev/magnitude",
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
         "url": "https://github.com/magnitudedev/magnitude",
-        "stars": 3978,
+        "stars": 4004,
         "stars_delta": 1961,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 52241,
+        "stars": 52616,
         "stars_delta": 17190,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32909,
+        "stars": 32926,
         "stars_delta": 1944,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 32928,
+        "stars": 33005,
         "stars_delta": 9193,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 31792,
+        "stars": 31822,
         "stars_delta": 3203,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 33178,
+        "stars": 33238,
         "stars_delta": 29194,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 38853,
+        "stars": 38913,
         "stars_delta": 14497,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 12261,
+        "stars": 12274,
         "stars_delta": 10145,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3559,
+        "stars": 3569,
         "stars_delta": 3243,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 52241,
+        "stars": 52616,
         "stars_delta": 41018,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -531,28 +531,13 @@
         ],
         "url": "https://huggingface.co/papers/2608.09888",
         "categories": [],
-        "upvotes": 775,
+        "upvotes": 776,
         "published": "2026-08-09",
         "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-        "github_stars": 11016
+        "github_stars": 11147
       },
       {
         "rank": 2,
-        "title": "A decoder-only foundation model for time-series forecasting",
-        "authors": [
-          "Abhimanyu Das",
-          "Weihao Kong",
-          "Rajat Sen"
-        ],
-        "url": "https://huggingface.co/papers/2310.10688",
-        "categories": [],
-        "upvotes": 41,
-        "published": "2023-10-14",
-        "github_repo": "https://github.com/google-research/timesfm",
-        "github_stars": 31676
-      },
-      {
-        "rank": 3,
         "title": "AutoResearch: Insight In, Hallucination Out",
         "authors": [
           "Yiming Ren",
@@ -567,6 +552,21 @@
         "github_stars": 1682
       },
       {
+        "rank": 3,
+        "title": "A decoder-only foundation model for time-series forecasting",
+        "authors": [
+          "Abhimanyu Das",
+          "Weihao Kong",
+          "Rajat Sen"
+        ],
+        "url": "https://huggingface.co/papers/2310.10688",
+        "categories": [],
+        "upvotes": 41,
+        "published": "2023-10-14",
+        "github_repo": "https://github.com/google-research/timesfm",
+        "github_stars": 31793
+      },
+      {
         "rank": 4,
         "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
         "authors": [
@@ -579,7 +579,7 @@
         "upvotes": 107,
         "published": "2026-08-16",
         "github_repo": "https://github.com/FlashML-org/FreeToken",
-        "github_stars": 11914
+        "github_stars": 12000
       },
       {
         "rank": 5,
@@ -680,89 +680,89 @@
     "top": [
       {
         "rank": 1,
+        "id": 49601655,
+        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+        "url": "https://lax-skyline.parcelscope.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49601655",
+        "site": "lax-skyline.parcelscope.net",
+        "points": 70,
+        "comments": 21,
+        "author": "rustywasm",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49598291,
         "title": "bzip3",
         "url": "https://github.com/iczelia/bzip3",
         "discussion_url": "https://news.ycombinator.com/item?id=49598291",
         "site": "github.com",
-        "points": 131,
-        "comments": 33,
+        "points": 317,
+        "comments": 90,
         "author": "tosh",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49597907,
-        "title": "De-Brainrot Vacations",
-        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49597907",
-        "site": "devz.cl",
-        "points": 290,
-        "comments": 129,
-        "author": "DanielVZ",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
+        "id": 49601810,
+        "title": "AI Cold Showers",
+        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49601810",
+        "site": "allan.reyes.sh",
+        "points": 12,
+        "comments": 0,
+        "author": "mooreds",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49593563,
         "title": "Keep Our Servers Running",
         "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
         "discussion_url": "https://news.ycombinator.com/item?id=49593563",
         "site": "blog.archive.org",
-        "points": 761,
-        "comments": 191,
+        "points": 892,
+        "comments": 220,
         "author": "sonicrocketman",
-        "age": "12h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49596055,
-        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-        "url": "https://mathathonchallenge.com/index.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49596055",
-        "site": "mathathonchallenge.com",
-        "points": 128,
-        "comments": 27,
-        "author": "astroanax",
-        "age": "6h ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
-        "id": 49558685,
-        "title": "Simple Is Not Small",
-        "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49558685",
-        "site": "jyn.dev",
-        "points": 44,
-        "comments": 15,
-        "author": "zdw",
+        "id": 49557986,
+        "title": "Methods for Random Gradients",
+        "url": "https://justinjay.wang/methods-for-random-gradients/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49557986",
+        "site": "justinjay.wang",
+        "points": 18,
+        "comments": 3,
+        "author": "nickswalker",
         "age": "3d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49589914,
-        "title": "Ask HN: How do you manage skills files?",
-        "url": "https://news.ycombinator.com/item?id=49589914",
-        "discussion_url": "https://news.ycombinator.com/item?id=49589914",
-        "site": "news.ycombinator.com",
-        "points": 234,
-        "comments": 212,
-        "author": "imadtaieber",
-        "age": "20h ago"
-      },
-      {
-        "rank": 2,
         "id": 49577129,
         "title": "Ask HN: Fable hacked my piano, can I release the results?",
         "url": "https://news.ycombinator.com/item?id=49577129",
         "discussion_url": "https://news.ycombinator.com/item?id=49577129",
         "site": "news.ycombinator.com",
-        "points": 222,
-        "comments": 136,
+        "points": 275,
+        "comments": 148,
         "author": "jmpman",
         "age": "2d ago"
+      },
+      {
+        "rank": 2,
+        "id": 49589914,
+        "title": "Ask HN: How do you manage skills files?",
+        "url": "https://news.ycombinator.com/item?id=49589914",
+        "discussion_url": "https://news.ycombinator.com/item?id=49589914",
+        "site": "news.ycombinator.com",
+        "points": 279,
+        "comments": 252,
+        "author": "imadtaieber",
+        "age": "1d ago"
       },
       {
         "rank": 3,
@@ -771,84 +771,84 @@
         "url": "https://news.ycombinator.com/item?id=49596976",
         "discussion_url": "https://news.ycombinator.com/item?id=49596976",
         "site": "news.ycombinator.com",
-        "points": 79,
-        "comments": 38,
+        "points": 105,
+        "comments": 51,
         "author": "maxim-fin",
-        "age": "4h ago"
+        "age": "8h ago"
       },
       {
         "rank": 4,
+        "id": 49600233,
+        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "url": "https://news.ycombinator.com/item?id=49600233",
+        "discussion_url": "https://news.ycombinator.com/item?id=49600233",
+        "site": "news.ycombinator.com",
+        "points": 113,
+        "comments": 125,
+        "author": "spwa4",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 49583440,
         "title": "Ask HN: Would you read a statistics textbook?",
         "url": "https://news.ycombinator.com/item?id=49583440",
         "discussion_url": "https://news.ycombinator.com/item?id=49583440",
         "site": "news.ycombinator.com",
-        "points": 95,
-        "comments": 54,
+        "points": 98,
+        "comments": 60,
         "author": "usernametaken29",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49598441,
-        "title": "Is OpenAI silently routing GPT‑6 requests to GPT‑4o?",
-        "url": "https://news.ycombinator.com/item?id=49598441",
-        "discussion_url": "https://news.ycombinator.com/item?id=49598441",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "skaiuijing",
-        "age": "2h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49599618,
-        "title": "Show HN: I have created a browser FPS game with kamikaze drones",
-        "url": "https://sectorlock.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49599618",
-        "site": "sectorlock.com",
-        "points": 2,
-        "comments": 1,
-        "author": "canerg",
-        "age": "30m ago"
+        "id": 49601328,
+        "title": "Show HN: HomeCat – Design your backyard office",
+        "url": "https://myhomecat.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=49601328",
+        "site": "myhomecat.com",
+        "points": 14,
+        "comments": 7,
+        "author": "dearilos",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49599559,
-        "title": "Show HN: Send flowers from your AI agent and make your mum happy",
-        "url": "https://news.ycombinator.com/item?id=49599559",
-        "discussion_url": "https://news.ycombinator.com/item?id=49599559",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 1,
-        "author": "fabian_shipamax",
-        "age": "35m ago"
+        "id": 49600269,
+        "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
+        "url": "https://github.com/logimaxx/wg-admin",
+        "discussion_url": "https://news.ycombinator.com/item?id=49600269",
+        "site": "github.com",
+        "points": 12,
+        "comments": 3,
+        "author": "vsergione",
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 49599509,
-        "title": "Show HN: Titles – Can you write a better Hacker News title?",
-        "url": "https://www.orangecrumbs.com/hn-titles",
-        "discussion_url": "https://news.ycombinator.com/item?id=49599509",
-        "site": "orangecrumbs.com",
+        "id": 49601208,
+        "title": "Show HN: Possess, a TUI to browse and transfer coding sessions",
+        "url": "https://github.com/steven-p-walsh/Possess",
+        "discussion_url": "https://news.ycombinator.com/item?id=49601208",
+        "site": "github.com",
         "points": 2,
         "comments": 0,
-        "author": "oyster143",
-        "age": "41m ago"
+        "author": "swalsh",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 49599445,
-        "title": "Show HN: A fast, private, cross-platform Markdown editor built with Tauri/Rust",
-        "url": "https://github.com/skanga/mdedit",
-        "discussion_url": "https://news.ycombinator.com/item?id=49599445",
-        "site": "github.com",
-        "points": 2,
-        "comments": 1,
-        "author": "skanga",
-        "age": "47m ago"
+        "id": 49592840,
+        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+        "url": "https://gettogether.dev",
+        "discussion_url": "https://news.ycombinator.com/item?id=49592840",
+        "site": "gettogether.dev",
+        "points": 99,
+        "comments": 52,
+        "author": "nchudleigh",
+        "age": "18h ago"
       },
       {
         "rank": 5,
@@ -857,10 +857,10 @@
         "url": "https://github.com/timgordontg/engrim",
         "discussion_url": "https://news.ycombinator.com/item?id=49594008",
         "site": "github.com",
-        "points": 69,
-        "comments": 38,
+        "points": 80,
+        "comments": 48,
         "author": "timgordontg",
-        "age": "11h ago"
+        "age": "15h ago"
       }
     ]
   }
