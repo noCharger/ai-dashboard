@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-07T23:07:52Z",
+  "generated": "2026-09-08T01:49:12Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 603,
+        "trending_score": 616,
         "downloads": 7216,
-        "likes": 718,
+        "likes": 734,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 519,
+        "trending_score": 523,
         "downloads": 6416358,
-        "likes": 14255,
+        "likes": 14271,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "google/timesfm-3.0-pytorch",
         "org": "google",
-        "trending_score": 468,
+        "trending_score": 464,
         "downloads": 271713,
-        "likes": 571,
+        "likes": 576,
         "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
         "tags": [
           "safetensors",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "org": "ISTA-DASLab",
-        "trending_score": 442,
+        "trending_score": 448,
         "downloads": 403292,
-        "likes": 551,
+        "likes": 558,
         "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "tags": [
           "gguf",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "org": "deepseek-ai",
-        "trending_score": 369,
-        "downloads": 251611,
-        "likes": 797,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
+        "trending_score": 359,
+        "downloads": 1584382,
+        "likes": 3082,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v4",
-          "text-generation",
-          "image-text-to-text"
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.2192011996306,
+        "speed_tps": 68.6018725042474,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 60.2462447272413,
+        "speed_tps": 58.0004014265917,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 52.814069395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 61.5156043716499,
+        "speed_tps": 60.5646620298899,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 52.5059027108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 58.1647163070948,
+        "speed_tps": 56.7600643996609,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
@@ -311,8 +311,8 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 45780,
-        "stars_delta": 734,
+        "stars": 46040,
+        "stars_delta": 474,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,8 +321,8 @@
         "name": "microsoft/markitdown",
         "description": "Python tool for converting files and office documents to Markdown.",
         "url": "https://github.com/microsoft/markitdown",
-        "stars": 180125,
-        "stars_delta": 771,
+        "stars": 180330,
+        "stars_delta": 886,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 20794,
-        "stars_delta": 147,
+        "stars": 20873,
+        "stars_delta": 96,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "jo-inc/camofox-browser",
         "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
         "url": "https://github.com/jo-inc/camofox-browser",
-        "stars": 9646,
-        "stars_delta": 285,
+        "stars": 9752,
+        "stars_delta": 135,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -351,8 +351,8 @@
         "name": "MoonTechLab/LunaTV",
         "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
         "url": "https://github.com/MoonTechLab/LunaTV",
-        "stars": 9690,
-        "stars_delta": 171,
+        "stars": 9753,
+        "stars_delta": 197,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "magnitudedev/magnitude",
         "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
         "url": "https://github.com/magnitudedev/magnitude",
-        "stars": 4029,
-        "stars_delta": 1961,
+        "stars": 4052,
+        "stars_delta": 2430,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 52807,
-        "stars_delta": 17190,
+        "stars": 53017,
+        "stars_delta": 14946,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -383,8 +383,8 @@
         "name": "Gitlawb/openclaude",
         "description": "runs anywhere. uses anything",
         "url": "https://github.com/Gitlawb/openclaude",
-        "stars": 32936,
-        "stars_delta": 1944,
+        "stars": 32947,
+        "stars_delta": 2040,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 33033,
-        "stars_delta": 9193,
+        "stars": 33097,
+        "stars_delta": 6934,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "google-research/timesfm",
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "url": "https://github.com/google-research/timesfm",
-        "stars": 31834,
-        "stars_delta": 3203,
+        "stars": 31846,
+        "stars_delta": 3506,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,8 +415,8 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 33271,
-        "stars_delta": 29194,
+        "stars": 33312,
+        "stars_delta": 29958,
         "language": "HTML",
         "language_color": "#e34c26"
       },
@@ -425,8 +425,8 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 38962,
-        "stars_delta": 14497,
+        "stars": 39011,
+        "stars_delta": 14766,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -435,8 +435,8 @@
         "name": "semantica-agi/semantica",
         "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
         "url": "https://github.com/semantica-agi/semantica",
-        "stars": 12282,
-        "stars_delta": 10145,
+        "stars": 12295,
+        "stars_delta": 10142,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3577,
-        "stars_delta": 3243,
+        "stars": 3581,
+        "stars_delta": 3285,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -455,8 +455,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 52807,
-        "stars_delta": 41018,
+        "stars": 53017,
+        "stars_delta": 42314,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -538,21 +538,6 @@
       },
       {
         "rank": 2,
-        "title": "AutoResearch: Insight In, Hallucination Out",
-        "authors": [
-          "Yiming Ren",
-          "Xiang Liu",
-          "Qumeng Sun"
-        ],
-        "url": "https://huggingface.co/papers/2608.17906",
-        "categories": [],
-        "upvotes": 11,
-        "published": "2026-08-22",
-        "github_repo": "https://github.com/EvoMap/AutoResearch",
-        "github_stars": 1682
-      },
-      {
-        "rank": 3,
         "title": "A decoder-only foundation model for time-series forecasting",
         "authors": [
           "Abhimanyu Das",
@@ -565,6 +550,21 @@
         "published": "2023-10-14",
         "github_repo": "https://github.com/google-research/timesfm",
         "github_stars": 31793
+      },
+      {
+        "rank": 3,
+        "title": "AutoResearch: Insight In, Hallucination Out",
+        "authors": [
+          "Yiming Ren",
+          "Xiang Liu",
+          "Qumeng Sun"
+        ],
+        "url": "https://huggingface.co/papers/2608.17906",
+        "categories": [],
+        "upvotes": 11,
+        "published": "2026-08-22",
+        "github_repo": "https://github.com/EvoMap/AutoResearch",
+        "github_stars": 1697
       },
       {
         "rank": 4,
@@ -680,101 +680,101 @@
     "top": [
       {
         "rank": 1,
+        "id": 49604637,
+        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49604637",
+        "site": "mcpherrin.ca",
+        "points": 31,
+        "comments": 0,
+        "author": "ahlCVA",
+        "age": "32m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49604150,
+        "title": "TALA Is Open-Source",
+        "url": "https://d2lang.com/blog/tala-is-open-source/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49604150",
+        "site": "d2lang.com",
+        "points": 79,
+        "comments": 7,
+        "author": "alixanderwang",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49603546,
+        "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+        "url": "https://github.com/Sadpainy/Stuxnet",
+        "discussion_url": "https://news.ycombinator.com/item?id=49603546",
+        "site": "github.com",
+        "points": 87,
+        "comments": 26,
+        "author": "CMDDestory",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 49601655,
         "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
         "url": "https://lax-skyline.parcelscope.net/",
         "discussion_url": "https://news.ycombinator.com/item?id=49601655",
         "site": "lax-skyline.parcelscope.net",
-        "points": 168,
-        "comments": 72,
+        "points": 219,
+        "comments": 105,
         "author": "rustywasm",
-        "age": "4h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49575515,
-        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-        "url": "https://arxiv.org/abs/2607.24888",
-        "discussion_url": "https://news.ycombinator.com/item?id=49575515",
-        "site": "arxiv.org",
-        "points": 109,
-        "comments": 25,
-        "author": "signa11",
-        "age": "2d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49603086,
-        "title": "Working on Economics with Fable 5",
-        "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49603086",
-        "site": "wilsoniumite.com",
-        "points": 17,
-        "comments": 1,
-        "author": "Wilsoniumite",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49552299,
-        "title": "WeatherNext 3",
-        "url": "https://deepmind.google/science/weathernext/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49552299",
-        "site": "deepmind.google",
-        "points": 182,
-        "comments": 34,
-        "author": "matthieu_bl",
-        "age": "4d ago"
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 49569838,
-        "title": "Scientists observe Einstein's gravity in the quantum world",
-        "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-        "discussion_url": "https://news.ycombinator.com/item?id=49569838",
-        "site": "ox.ac.uk",
-        "points": 95,
-        "comments": 25,
-        "author": "mudil",
-        "age": "3d ago"
+        "id": 49602699,
+        "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+        "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49602699",
+        "site": "virtualizationhowto.com",
+        "points": 90,
+        "comments": 46,
+        "author": "josephcsible",
+        "age": "5h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49577129,
-        "title": "Ask HN: Fable hacked my piano, can I release the results?",
-        "url": "https://news.ycombinator.com/item?id=49577129",
-        "discussion_url": "https://news.ycombinator.com/item?id=49577129",
-        "site": "news.ycombinator.com",
-        "points": 284,
-        "comments": 151,
-        "author": "jmpman",
-        "age": "2d ago"
-      },
-      {
-        "rank": 2,
-        "id": 49589914,
-        "title": "Ask HN: How do you manage skills files?",
-        "url": "https://news.ycombinator.com/item?id=49589914",
-        "discussion_url": "https://news.ycombinator.com/item?id=49589914",
-        "site": "news.ycombinator.com",
-        "points": 286,
-        "comments": 259,
-        "author": "imadtaieber",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
         "id": 49596976,
         "title": "Apparently CodePen 2.0 sends data to their servers as you type",
         "url": "https://news.ycombinator.com/item?id=49596976",
         "discussion_url": "https://news.ycombinator.com/item?id=49596976",
         "site": "news.ycombinator.com",
-        "points": 107,
+        "points": 108,
         "comments": 56,
         "author": "maxim-fin",
-        "age": "11h ago"
+        "age": "14h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49577129,
+        "title": "Ask HN: Fable hacked my piano, can I release the results?",
+        "url": "https://news.ycombinator.com/item?id=49577129",
+        "discussion_url": "https://news.ycombinator.com/item?id=49577129",
+        "site": "news.ycombinator.com",
+        "points": 285,
+        "comments": 153,
+        "author": "jmpman",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
+        "id": 49589914,
+        "title": "Ask HN: How do you manage skills files?",
+        "url": "https://news.ycombinator.com/item?id=49589914",
+        "discussion_url": "https://news.ycombinator.com/item?id=49589914",
+        "site": "news.ycombinator.com",
+        "points": 290,
+        "comments": 262,
+        "author": "imadtaieber",
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -786,7 +786,7 @@
         "points": 120,
         "comments": 133,
         "author": "spwa4",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 5,
@@ -795,7 +795,7 @@
         "url": "https://news.ycombinator.com/item?id=49583440",
         "discussion_url": "https://news.ycombinator.com/item?id=49583440",
         "site": "news.ycombinator.com",
-        "points": 100,
+        "points": 101,
         "comments": 61,
         "author": "usernametaken29",
         "age": "1d ago"
@@ -804,51 +804,51 @@
     "show": [
       {
         "rank": 1,
-        "id": 49559069,
-        "title": "Show HN: Interactive Tree of Life",
-        "url": "https://ptree.org/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49559069",
-        "site": "ptree.org",
-        "points": 36,
-        "comments": 13,
-        "author": "Lucent",
-        "age": "3d ago"
-      },
-      {
-        "rank": 2,
         "id": 49603546,
         "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
         "url": "https://github.com/Sadpainy/Stuxnet",
         "discussion_url": "https://news.ycombinator.com/item?id=49603546",
         "site": "github.com",
-        "points": 6,
-        "comments": 0,
+        "points": 87,
+        "comments": 26,
         "author": "CMDDestory",
-        "age": "55m ago"
+        "age": "3h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 49568162,
         "title": "Show HN: I built an aesthetically pleasing puzzle",
         "url": "https://jigsawhaiku.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49568162",
         "site": "jigsawhaiku.com",
-        "points": 15,
-        "comments": 5,
+        "points": 49,
+        "comments": 14,
         "author": "windowshopping",
         "age": "3d ago"
       },
       {
+        "rank": 3,
+        "id": 49559069,
+        "title": "Show HN: Interactive Tree of Life",
+        "url": "https://ptree.org/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49559069",
+        "site": "ptree.org",
+        "points": 60,
+        "comments": 16,
+        "author": "Lucent",
+        "age": "4d ago"
+      },
+      {
         "rank": 4,
-        "id": 49603561,
-        "title": "Show HN: Animaxxing – get agents to animate the shit out of your website",
-        "url": "https://animaxxing.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49603561",
-        "site": "animaxxing.com",
-        "points": 4,
-        "comments": 2,
-        "author": "johnpolacek",
-        "age": "53m ago"
+        "id": 49604261,
+        "title": "Show HN: Brw - better than Claude chrome",
+        "url": "https://brw.donworks.co.uk",
+        "discussion_url": "https://news.ycombinator.com/item?id=49604261",
+        "site": "brw.donworks.co.uk",
+        "points": 5,
+        "comments": 1,
+        "author": "maxrev17",
+        "age": "1h ago"
       },
       {
         "rank": 5,
@@ -857,10 +857,10 @@
         "url": "https://github.com/logimaxx/wg-admin",
         "discussion_url": "https://news.ycombinator.com/item?id=49600269",
         "site": "github.com",
-        "points": 21,
-        "comments": 5,
+        "points": 23,
+        "comments": 6,
         "author": "vsergione",
-        "age": "6h ago"
+        "age": "9h ago"
       }
     ]
   }
