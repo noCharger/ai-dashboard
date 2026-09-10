@@ -1,31 +1,14 @@
 {
-  "generated": "2026-09-10T11:56:21Z",
+  "generated": "2026-09-10T15:31:22Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "openbmb/MiniCPM5-2B",
-        "org": "openbmb",
-        "trending_score": 845,
-        "downloads": 42289,
-        "likes": 1029,
-        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "llama",
-          "text-generation",
-          "minicpm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 803,
+        "trending_score": 1028,
         "downloads": 6,
-        "likes": 818,
+        "likes": 1054,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "openbmb/MiniCPM5-2B",
+        "org": "openbmb",
+        "trending_score": 881,
+        "downloads": 42289,
+        "likes": 1067,
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "llama",
+          "text-generation",
+          "minicpm"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "XHToken/Spark-X2.5-4B",
         "org": "XHToken",
-        "trending_score": 725,
+        "trending_score": 729,
         "downloads": 15930,
-        "likes": 1034,
+        "likes": 1045,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "org": "ISTA-DASLab",
-        "trending_score": 545,
-        "downloads": 614850,
-        "likes": 760,
-        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "tags": [
-          "gguf",
-          "gsq",
-          "rco",
-          "quantization",
-          "mixed-precision"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 536,
+        "trending_score": 535,
         "downloads": 7322476,
-        "likes": 14577,
+        "likes": 14597,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen3_5",
           "image-text-to-text",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "org": "ISTA-DASLab",
+        "trending_score": 534,
+        "downloads": 614850,
+        "likes": 771,
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "tags": [
+          "gguf",
+          "gsq",
+          "rco",
+          "quantization",
+          "mixed-precision"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 67.2527734656996,
+        "speed_tps": 67.2341313736404,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 59.5483602208581,
+        "speed_tps": 57.989684122452,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 52.814069395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 54.4050670633858,
+        "speed_tps": 54.2927454763923,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 51.2094958852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 50.8091736432872,
+        "speed_tps": 49.1960497902978,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,8 +311,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 36524,
-        "stars_delta": 4650,
+        "stars": 37185,
+        "stars_delta": 3854,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,7 +321,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 22173,
+        "stars": 22890,
         "stars_delta": 1588,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,8 +331,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 284382,
-        "stars_delta": 688,
+        "stars": 284500,
+        "stars_delta": 731,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -341,7 +341,7 @@
         "name": "alsk1992/CloddsBot",
         "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
         "url": "https://github.com/alsk1992/CloddsBot",
-        "stars": 1325,
+        "stars": 1421,
         "stars_delta": 299,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,8 +351,8 @@
         "name": "Tencent/teamai-cli",
         "description": "Make Every Team AI Native",
         "url": "https://github.com/Tencent/teamai-cli",
-        "stars": 3487,
-        "stars_delta": 556,
+        "stars": 3608,
+        "stars_delta": 837,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,7 +363,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 255541,
+        "stars": 255667,
         "stars_delta": 9146,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 36524,
+        "stars": 37185,
         "stars_delta": 6581,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 134177,
+        "stars": 134385,
         "stars_delta": 12431,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 56789,
+        "stars": 57034,
         "stars_delta": 12541,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "fmtlib/fmt",
         "description": "A modern formatting library",
         "url": "https://github.com/fmtlib/fmt",
-        "stars": 25712,
+        "stars": 25714,
         "stars_delta": 1847,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 39914,
+        "stars": 39974,
         "stars_delta": 15578,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 37259,
+        "stars": 37438,
         "stars_delta": 32587,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -435,7 +435,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 7313,
+        "stars": 7339,
         "stars_delta": 4683,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 56789,
+        "stars": 57034,
         "stars_delta": 45313,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3722,
+        "stars": 3730,
         "stars_delta": 3395,
         "language": "Python",
         "language_color": "#3572A5"
@@ -553,6 +553,21 @@
       },
       {
         "rank": 3,
+        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+        "authors": [
+          "Yanzhe Chen",
+          "Zechen Bai",
+          "Zhijun Cao"
+        ],
+        "url": "https://huggingface.co/papers/2609.10522",
+        "categories": [],
+        "upvotes": 66,
+        "published": "2026-09-08",
+        "github_repo": "https://github.com/showlab/Show-Harness",
+        "github_stars": 125
+      },
+      {
+        "rank": 4,
         "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
         "authors": [
           "Ziyang Ma",
@@ -561,13 +576,13 @@
         ],
         "url": "https://huggingface.co/papers/2609.08936",
         "categories": [],
-        "upvotes": 187,
+        "upvotes": 197,
         "published": "2026-09-07",
         "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
         "github_stars": 197
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Omni Interaction Agent Technical Report",
         "authors": [
           "Orantqing",
@@ -576,25 +591,10 @@
         ],
         "url": "https://huggingface.co/papers/2609.08977",
         "categories": [],
-        "upvotes": 124,
+        "upvotes": 125,
         "published": "2026-09-07",
         "github_repo": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
-        "github_stars": 144
-      },
-      {
-        "rank": 5,
-        "title": "A decoder-only foundation model for time-series forecasting",
-        "authors": [
-          "Abhimanyu Das",
-          "Weihao Kong",
-          "Rajat Sen"
-        ],
-        "url": "https://huggingface.co/papers/2310.10688",
-        "categories": [],
-        "upvotes": 41,
-        "published": "2023-10-14",
-        "github_repo": "https://github.com/google-research/timesfm",
-        "github_stars": 32137
+        "github_stars": 158
       }
     ],
     "arxiv_recent": [
@@ -680,68 +680,92 @@
     "top": [
       {
         "rank": 1,
-        "id": 49640646,
-        "title": "What algorithm did Windows XP use to choose your initial user picture?",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-        "discussion_url": "https://news.ycombinator.com/item?id=49640646",
-        "site": "devblogs.microsoft.com",
-        "points": 107,
-        "comments": 42,
-        "author": "soheilpro",
-        "age": "2h ago"
+        "id": 49643982,
+        "title": "Shopify moves back to Native from React Native",
+        "url": "https://shopify.engineering/back-to-native",
+        "discussion_url": "https://news.ycombinator.com/item?id=49643982",
+        "site": "shopify.engineering",
+        "points": 227,
+        "comments": 133,
+        "author": "fnthawar2",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49641215,
-        "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-        "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49641215",
-        "site": "honestlyranked.com",
-        "points": 94,
-        "comments": 94,
-        "author": "honestlyranked",
+        "id": 49643546,
+        "title": "Rust Is Tier-1 Language at Microsoft",
+        "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49643546",
+        "site": "rustfoundation.org",
+        "points": 163,
+        "comments": 72,
+        "author": "mmastrac",
         "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49639090,
-        "title": "DeepSeek v4.1 Flash",
-        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-        "discussion_url": "https://news.ycombinator.com/item?id=49639090",
-        "site": "twitter.com",
-        "points": 470,
-        "comments": 246,
-        "author": "Liwink",
-        "age": "5h ago"
+        "id": 49644047,
+        "title": "Amazon pilots ad services in ChatGPT",
+        "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49644047",
+        "site": "marketingdive.com",
+        "points": 60,
+        "comments": 39,
+        "author": "thm",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49599992,
-        "title": "Stockfish 19",
-        "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49599992",
-        "site": "stockfishchess.org",
-        "points": 81,
-        "comments": 42,
-        "author": "atiedebee",
-        "age": "2d ago"
+        "id": 49627634,
+        "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+        "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49627634",
+        "site": "pv-magazine.com",
+        "points": 168,
+        "comments": 125,
+        "author": "thelastgallon",
+        "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 49630931,
-        "title": "iPhone Duo",
-        "url": "https://www.apple.com/iphone-duo/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49630931",
-        "site": "apple.com",
-        "points": 1240,
-        "comments": 2174,
-        "author": "thecosmicfrog",
-        "age": "17h ago"
+        "id": 49643556,
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "url": "https://news.ycombinator.com/item?id=49643556",
+        "discussion_url": "https://news.ycombinator.com/item?id=49643556",
+        "site": "news.ycombinator.com",
+        "points": 273,
+        "comments": 98,
+        "author": "jacquesm",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49643556,
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "url": "https://news.ycombinator.com/item?id=49643556",
+        "discussion_url": "https://news.ycombinator.com/item?id=49643556",
+        "site": "news.ycombinator.com",
+        "points": 273,
+        "comments": 98,
+        "author": "jacquesm",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49642314,
+        "title": "Google to discontinue allowing send as an external account in Jan. 2027",
+        "url": "https://news.ycombinator.com/item?id=49642314",
+        "discussion_url": "https://news.ycombinator.com/item?id=49642314",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 0,
+        "author": "AuthorizedCust",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
         "id": 49638687,
         "title": "DeepSeek launches v4.1 flash, postpones v4 Pro discontinuation",
         "url": "https://news.ycombinator.com/item?id=49638687",
@@ -750,22 +774,10 @@
         "points": 2,
         "comments": 1,
         "author": "Audiolite",
-        "age": "6h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 2,
-        "id": 49638647,
-        "title": "Anyone miss a flip phone with buttons? Anyone?",
-        "url": "https://news.ycombinator.com/item?id=49638647",
-        "discussion_url": "https://news.ycombinator.com/item?id=49638647",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 9,
-        "author": "wwolfson97",
-        "age": "6h ago"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "id": 49577129,
         "title": "Ask HN: Fable hacked my piano, can I release the results?",
         "url": "https://news.ycombinator.com/item?id=49577129",
@@ -774,44 +786,32 @@
         "points": 297,
         "comments": 164,
         "author": "jmpman",
-        "age": "4d ago"
+        "age": "5d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49589914,
         "title": "Ask HN: How do you manage skills files?",
         "url": "https://news.ycombinator.com/item?id=49589914",
         "discussion_url": "https://news.ycombinator.com/item?id=49589914",
         "site": "news.ycombinator.com",
         "points": 312,
-        "comments": 291,
+        "comments": 292,
         "author": "imadtaieber",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49636751,
-        "title": "Ask HN: Why can I only downvote select comments?",
-        "url": "https://news.ycombinator.com/item?id=49636751",
-        "discussion_url": "https://news.ycombinator.com/item?id=49636751",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 8,
-        "author": "socalgal2",
-        "age": "11h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49641215,
-        "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-        "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49641215",
-        "site": "honestlyranked.com",
-        "points": 94,
-        "comments": 94,
-        "author": "honestlyranked",
+        "id": 49643992,
+        "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
+        "url": "https://learningto.co/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49643992",
+        "site": "learningto.co",
+        "points": 27,
+        "comments": 30,
+        "author": "cdnsteve",
         "age": "1h ago"
       },
       {
@@ -821,10 +821,10 @@
         "url": "https://rivendell.dmitrybrant.com/relativity/",
         "discussion_url": "https://news.ycombinator.com/item?id=49637385",
         "site": "rivendell.dmitrybrant.com",
-        "points": 395,
-        "comments": 160,
+        "points": 504,
+        "comments": 210,
         "author": "dmitrybrant",
-        "age": "9h ago"
+        "age": "13h ago"
       },
       {
         "rank": 3,
@@ -833,34 +833,34 @@
         "url": "https://mrdee.in/mandala/",
         "discussion_url": "https://news.ycombinator.com/item?id=49577541",
         "site": "mrdee.in",
-        "points": 20,
-        "comments": 8,
+        "points": 53,
+        "comments": 22,
         "author": "cyb0rg0",
         "age": "4d ago"
       },
       {
         "rank": 4,
-        "id": 49623398,
-        "title": "Show HN: Compute polynomials twice as fast",
-        "url": "https://thomasahle.com/fast-polynomials/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49623398",
-        "site": "thomasahle.com",
-        "points": 98,
-        "comments": 34,
-        "author": "thomasahle",
-        "age": "1d ago"
+        "id": 49611112,
+        "title": "Show HN: Filament – Fast data movement engine in Go",
+        "url": "https://github.com/galaxy-io/filament",
+        "discussion_url": "https://news.ycombinator.com/item?id=49611112",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "ikswolzok",
+        "age": "2d ago"
       },
       {
         "rank": 5,
-        "id": 49639496,
-        "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-        "url": "https://botbin.io/?v=next",
-        "discussion_url": "https://news.ycombinator.com/item?id=49639496",
-        "site": "botbin.io",
-        "points": 6,
-        "comments": 2,
-        "author": "obilgic",
-        "age": "4h ago"
+        "id": 49644955,
+        "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
+        "url": "https://greaber.github.io/syq/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49644955",
+        "site": "greaber.github.io",
+        "points": 3,
+        "comments": 0,
+        "author": "greaber",
+        "age": "29m ago"
       }
     ]
   }
