@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-12T06:38:56Z",
+  "generated": "2026-09-12T10:25:11Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1712,
-        "downloads": 75774,
-        "likes": 1838,
+        "trending_score": 1743,
+        "downloads": 140636,
+        "likes": 1878,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/MiniCPM5-2B",
         "org": "openbmb",
-        "trending_score": 1016,
-        "downloads": 67550,
-        "likes": 1209,
+        "trending_score": 1027,
+        "downloads": 102334,
+        "likes": 1220,
         "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "XHToken/Spark-X2.5-4B",
-        "org": "XHToken",
-        "trending_score": 549,
-        "downloads": 17712,
-        "likes": 1119,
-        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "spark2_5",
-          "text-generation",
-          "llm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "nex-agi/Nex-N2.5-mini",
         "org": "nex-agi",
-        "trending_score": 545,
-        "downloads": 3121,
-        "likes": 700,
+        "trending_score": 550,
+        "downloads": 3581,
+        "likes": 705,
         "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "XHToken/Spark-X2.5-4B",
+        "org": "XHToken",
+        "trending_score": 547,
+        "downloads": 19733,
+        "likes": 1124,
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "spark2_5",
+          "text-generation",
+          "llm"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 535,
-        "downloads": 7563763,
-        "likes": 14782,
+        "trending_score": 537,
+        "downloads": 7726687,
+        "likes": 14799,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -150,47 +150,47 @@
     "general": [
       {
         "rank": 1,
-        "name": "CustomGPT.ai Research Lab v44",
-        "org": "CustomGPT.ai",
-        "score": 93.36,
+        "name": "SU AI Zero",
+        "org": "Suzhou AI Lab",
+        "score": 76.41,
         "score_unit": "%",
-        "url": "https://github.com/adorosario/customgpt-agent",
+        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       },
       {
         "rank": 2,
-        "name": "Co-Sight Pro v1.0.1",
-        "org": "ZTE-AICloud",
-        "score": 93.02,
+        "name": "h2oGPTe Agent v1.6.27 | March 17 original date",
+        "org": "h2o.ai",
+        "score": 74.75,
         "score_unit": "%",
-        "url": "https://github.com/ZTE-AICloud/Co-Sight",
+        "url": "https://h2ogpte.genai.h2o.ai/",
         "verified": true
       },
       {
         "rank": 3,
-        "name": "OPS-Agentic-Search",
-        "org": "Alibaba Cloud",
-        "score": 92.36,
+        "name": "Trase Agent v0.3",
+        "org": "Trase Systems",
+        "score": 66.78,
         "score_unit": "%",
-        "url": "https://www.alibabacloud.com/en/product/opensearch?_p_lc=1",
+        "url": "https://trasesystems.com",
         "verified": true
       },
       {
         "rank": 4,
-        "name": "Co-Sight Pro v1.0.0",
-        "org": "ZTE-AICloud",
-        "score": 92.03,
+        "name": "h2oGPTe Agent v1.6.8",
+        "org": "h2o.ai",
+        "score": 65.12,
         "score_unit": "%",
-        "url": "https://github.com/ZTE-AICloud/Co-Sight",
+        "url": "https://h2ogpte.genai.h2o.ai/",
         "verified": true
       },
       {
         "rank": 5,
-        "name": "CustomGPT.ai Research Lab v41",
-        "org": "CustomGPT.ai",
-        "score": 92.03,
+        "name": "Anges",
+        "org": "Anges.AI",
+        "score": 56.48,
         "score_unit": "%",
-        "url": "https://github.com/adorosario/customgpt-agent",
+        "url": "anges.ai",
         "verified": true
       }
     ],
@@ -311,7 +311,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 42395,
+        "stars": 42794,
         "stars_delta": 3463,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 27522,
+        "stars": 27856,
         "stars_delta": 3680,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "nab138/iloader",
         "description": "User friendly sideloader",
         "url": "https://github.com/nab138/iloader",
-        "stars": 2951,
+        "stars": 2981,
         "stars_delta": 50,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "melgarafael/DeskcommCRM",
         "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
         "url": "https://github.com/melgarafael/DeskcommCRM",
-        "stars": 1460,
+        "stars": 1531,
         "stars_delta": 152,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "vastsa/PI-Desktop",
         "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
         "url": "https://github.com/vastsa/PI-Desktop",
-        "stars": 2880,
+        "stars": 2945,
         "stars_delta": 552,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 42395,
+        "stars": 42793,
         "stars_delta": 13164,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 256651,
+        "stars": 256758,
         "stars_delta": 8714,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 136004,
+        "stars": 136171,
         "stars_delta": 11054,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "humanlayer/skills",
         "description": "",
         "url": "https://github.com/humanlayer/skills",
-        "stars": 3816,
+        "stars": 3838,
         "stars_delta": 1637,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 6473,
+        "stars": 6487,
         "stars_delta": 1063,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 40394,
+        "stars": 40433,
         "stars_delta": 16125,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 58811,
+        "stars": 59018,
         "stars_delta": 47287,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3824,
+        "stars": 3830,
         "stars_delta": 3515,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "url": "https://github.com/cordiverse/cordis",
-        "stars": 8384,
+        "stars": 8389,
         "stars_delta": 8277,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 7476,
+        "stars": 7489,
         "stars_delta": 4892,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -534,7 +534,7 @@
         "upvotes": 22,
         "published": "2026-08-22",
         "github_repo": "https://github.com/EvoMap/AutoResearch",
-        "github_stars": 3428
+        "github_stars": 3733
       },
       {
         "rank": 2,
@@ -564,7 +564,7 @@
         "upvotes": 86,
         "published": "2024-07-23",
         "github_repo": "https://github.com/opendevin/opendevin",
-        "github_stars": 87494
+        "github_stars": 87580
       },
       {
         "rank": 4,
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.08936",
         "categories": [],
-        "upvotes": 210,
+        "upvotes": 211,
         "published": "2026-09-07",
         "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
         "github_stars": 501
@@ -680,27 +680,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 49668386,
-        "title": "google.com/goto: Google's anti-scraping update",
-        "url": "https://www.autom.dev/blog/google-search-goto-links",
-        "discussion_url": "https://news.ycombinator.com/item?id=49668386",
-        "site": "autom.dev",
-        "points": 292,
-        "comments": 145,
-        "author": "1e1a",
-        "age": "3h ago"
+        "id": 49670032,
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "url": "https://eiln.github.io/posts/ane.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49670032",
+        "site": "eiln.github.io",
+        "points": 85,
+        "comments": 10,
+        "author": "zdw",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49668706,
-        "title": "Navier-Stokes Announcement",
-        "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49668706",
-        "site": "claymath.org",
-        "points": 74,
-        "comments": 31,
-        "author": "rvz",
-        "age": "2h ago"
+        "id": 49639647,
+        "title": "IKEA made a mod for Skyrim [video]",
+        "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+        "discussion_url": "https://news.ycombinator.com/item?id=49639647",
+        "site": "youtube.com",
+        "points": 125,
+        "comments": 17,
+        "author": "kegenaar",
+        "age": "2d ago"
       },
       {
         "rank": 3,
@@ -709,96 +709,96 @@
         "url": "https://mathandai.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=49662371",
         "site": "mathandai.org",
-        "points": 820,
-        "comments": 818,
+        "points": 939,
+        "comments": 899,
         "author": "meredydd",
-        "age": "12h ago"
+        "age": "16h ago"
       },
       {
         "rank": 4,
-        "id": 49668777,
-        "title": "Usenet rewind archive search engine",
-        "url": "https://www.usenet-rewind.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49668777",
-        "site": "usenet-rewind.com",
-        "points": 36,
-        "comments": 6,
-        "author": "cstadler1869",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
         "id": 49662990,
         "title": "I spent $220 on Google app ads and 60% of the installs were robots",
         "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
         "discussion_url": "https://news.ycombinator.com/item?id=49662990",
         "site": "dayzlegame.com",
-        "points": 439,
-        "comments": 228,
+        "points": 540,
+        "comments": 282,
         "author": "nickabe",
-        "age": "12h ago"
+        "age": "16h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49668706,
+        "title": "Navier-Stokes Announcement",
+        "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49668706",
+        "site": "claymath.org",
+        "points": 170,
+        "comments": 112,
+        "author": "rvz",
+        "age": "6h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49670697,
+        "title": "Small Asian Grocery Stores Can Improve Local Product Discovery",
+        "url": "https://news.ycombinator.com/item?id=49670697",
+        "discussion_url": "https://news.ycombinator.com/item?id=49670697",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "yatifoods",
+        "age": "41m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49670455,
+        "title": "GoatCode – open-source terminal AI agent with provider failover",
+        "url": "https://news.ycombinator.com/item?id=49670455",
+        "discussion_url": "https://news.ycombinator.com/item?id=49670455",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "Arhan-w",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 49668196,
         "title": "Ask HN: Did Google kill its enterprise workhorse model?",
         "url": "https://news.ycombinator.com/item?id=49668196",
         "discussion_url": "https://news.ycombinator.com/item?id=49668196",
         "site": "news.ycombinator.com",
-        "points": 11,
-        "comments": 5,
+        "points": 17,
+        "comments": 7,
         "author": "waldrews",
-        "age": "3h ago"
+        "age": "7h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "id": 49668960,
         "title": "Ask HN: What's a good \"semi-dumb\" phone/watch for kids?",
         "url": "https://news.ycombinator.com/item?id=49668960",
         "discussion_url": "https://news.ycombinator.com/item?id=49668960",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 1,
+        "points": 5,
+        "comments": 3,
         "author": "funkaster",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49657850,
         "title": "Ask HN: Can we please limit the AI news flood?",
         "url": "https://news.ycombinator.com/item?id=49657850",
         "discussion_url": "https://news.ycombinator.com/item?id=49657850",
         "site": "news.ycombinator.com",
-        "points": 776,
-        "comments": 365,
+        "points": 792,
+        "comments": 373,
         "author": "cromka",
-        "age": "17h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49666410,
-        "title": "Dreamcast Web Development Links",
-        "url": "https://news.ycombinator.com/item?id=49666410",
-        "discussion_url": "https://news.ycombinator.com/item?id=49666410",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "hefner1456",
-        "age": "7h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49643556,
-        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-        "url": "https://news.ycombinator.com/item?id=49643556",
-        "discussion_url": "https://news.ycombinator.com/item?id=49643556",
-        "site": "news.ycombinator.com",
-        "points": 476,
-        "comments": 184,
-        "author": "jacquesm",
-        "age": "1d ago"
+        "age": "21h ago"
       }
     ],
     "show": [
@@ -809,58 +809,58 @@
         "url": "https://vester.si/bodily-oddities/",
         "discussion_url": "https://news.ycombinator.com/item?id=49649789",
         "site": "vester.si",
-        "points": 197,
-        "comments": 147,
+        "points": 253,
+        "comments": 169,
         "author": "vesterde",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 49670587,
+        "title": "Show HN: We built a local-first Android agent. Then Meta launched Muse",
+        "url": "https://creepy.im/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49670587",
+        "site": "creepy.im",
+        "points": 2,
+        "comments": 0,
+        "author": "kotleta552",
+        "age": "59m ago"
+      },
+      {
+        "rank": 3,
         "id": 49665864,
         "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
         "url": "https://github.com/mirza-rizvi/ResolveHQ",
         "discussion_url": "https://news.ycombinator.com/item?id=49665864",
         "site": "github.com",
-        "points": 55,
-        "comments": 17,
+        "points": 59,
+        "comments": 21,
         "author": "mirza_rizvi",
-        "age": "8h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49669012,
-        "title": "Show HN: Don't Hit Send – the model answers while you type",
-        "url": "https://github.com/scalattice/dont-hit-send",
-        "discussion_url": "https://news.ycombinator.com/item?id=49669012",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "RomulusHill",
-        "age": "1h ago"
+        "age": "12h ago"
       },
       {
         "rank": 4,
-        "id": 49667188,
-        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-        "url": "https://github.com/zachsaw/graphify-csharp",
-        "discussion_url": "https://news.ycombinator.com/item?id=49667188",
-        "site": "github.com",
-        "points": 30,
-        "comments": 15,
-        "author": "zachsaw",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
         "id": 49660676,
         "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
         "url": "https://github.com/godot-pty/gpty",
         "discussion_url": "https://news.ycombinator.com/item?id=49660676",
         "site": "github.com",
-        "points": 86,
-        "comments": 44,
+        "points": 87,
+        "comments": 45,
         "author": "1nv1n",
-        "age": "14h ago"
+        "age": "18h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49667188,
+        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+        "url": "https://github.com/zachsaw/graphify-csharp",
+        "discussion_url": "https://news.ycombinator.com/item?id=49667188",
+        "site": "github.com",
+        "points": 36,
+        "comments": 17,
+        "author": "zachsaw",
+        "age": "10h ago"
       }
     ]
   }
