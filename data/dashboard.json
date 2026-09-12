@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-11T23:38:40Z",
+  "generated": "2026-09-12T01:55:29Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1670,
+        "trending_score": 1682,
         "downloads": 75774,
-        "likes": 1782,
+        "likes": 1800,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/MiniCPM5-2B",
         "org": "openbmb",
-        "trending_score": 1000,
+        "trending_score": 1004,
         "downloads": 67550,
-        "likes": 1191,
+        "likes": 1195,
         "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
         "tags": [
           "transformers",
@@ -42,7 +42,7 @@
         "org": "XHToken",
         "trending_score": 555,
         "downloads": 17712,
-        "likes": 1102,
+        "likes": 1106,
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "Qwen/Qwen3.8-27B",
-        "org": "Qwen",
-        "trending_score": 536,
-        "downloads": 7563763,
-        "likes": 14756,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "nex-agi/Nex-N2.5-mini",
         "org": "nex-agi",
-        "trending_score": 536,
+        "trending_score": 538,
         "downloads": 3121,
-        "likes": 689,
+        "likes": 691,
         "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen3_5_moe",
           "image-text-to-text",
           "text-generation"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Qwen/Qwen3.8-27B",
+        "org": "Qwen",
+        "trending_score": 537,
+        "downloads": 7563763,
+        "likes": 14764,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 41705,
-        "stars_delta": 3440,
+        "stars": 41921,
+        "stars_delta": 3463,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 27029,
-        "stars_delta": 3642,
+        "stars": 27186,
+        "stars_delta": 3680,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -331,8 +331,8 @@
         "name": "nab138/iloader",
         "description": "User friendly sideloader",
         "url": "https://github.com/nab138/iloader",
-        "stars": 2898,
-        "stars_delta": 36,
+        "stars": 2917,
+        "stars_delta": 50,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "melgarafael/DeskcommCRM",
         "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
         "url": "https://github.com/melgarafael/DeskcommCRM",
-        "stars": 1321,
-        "stars_delta": 126,
+        "stars": 1365,
+        "stars_delta": 152,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -351,8 +351,8 @@
         "name": "vastsa/PI-Desktop",
         "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
         "url": "https://github.com/vastsa/PI-Desktop",
-        "stars": 2765,
-        "stars_delta": 545,
+        "stars": 2792,
+        "stars_delta": 552,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 41706,
-        "stars_delta": 10215,
+        "stars": 41921,
+        "stars_delta": 13164,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 256509,
-        "stars_delta": 9257,
+        "stars": 256545,
+        "stars_delta": 8714,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -383,8 +383,8 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 135811,
-        "stars_delta": 11638,
+        "stars": 135856,
+        "stars_delta": 11054,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -393,8 +393,8 @@
         "name": "humanlayer/skills",
         "description": "",
         "url": "https://github.com/humanlayer/skills",
-        "stars": 3772,
-        "stars_delta": 2609,
+        "stars": 3785,
+        "stars_delta": 1637,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 6443,
-        "stars_delta": 1018,
+        "stars": 6454,
+        "stars_delta": 1063,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -415,8 +415,8 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 40338,
-        "stars_delta": 15894,
+        "stars": 40357,
+        "stars_delta": 16125,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -425,8 +425,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 58528,
-        "stars_delta": 46339,
+        "stars": 58604,
+        "stars_delta": 47287,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -435,8 +435,8 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3804,
-        "stars_delta": 3460,
+        "stars": 3810,
+        "stars_delta": 3515,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "cordiverse/cordis",
         "description": "Meta-Framework of Spatiotemporal Composability",
         "url": "https://github.com/cordiverse/cordis",
-        "stars": 8373,
-        "stars_delta": 8270,
+        "stars": 8381,
+        "stars_delta": 8277,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 7460,
-        "stars_delta": 4798,
+        "stars": 7465,
+        "stars_delta": 4892,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -553,21 +553,6 @@
       },
       {
         "rank": 3,
-        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-        "authors": [
-          "Yanzhe Chen",
-          "Zechen Bai",
-          "Zhijun Cao"
-        ],
-        "url": "https://huggingface.co/papers/2609.10522",
-        "categories": [],
-        "upvotes": 134,
-        "published": "2026-09-08",
-        "github_repo": "https://github.com/showlab/Show-Harness",
-        "github_stars": 243
-      },
-      {
-        "rank": 4,
         "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
         "authors": [
           "Ziyang Ma",
@@ -582,7 +567,7 @@
         "github_stars": 462
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
         "authors": [
           "Xingyao Wang",
@@ -595,6 +580,21 @@
         "published": "2024-07-23",
         "github_repo": "https://github.com/opendevin/opendevin",
         "github_stars": 87494
+      },
+      {
+        "rank": 5,
+        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+        "authors": [
+          "Yanzhe Chen",
+          "Zechen Bai",
+          "Zhijun Cao"
+        ],
+        "url": "https://huggingface.co/papers/2609.10522",
+        "categories": [],
+        "upvotes": 135,
+        "published": "2026-09-08",
+        "github_repo": "https://github.com/showlab/Show-Harness",
+        "github_stars": 259
       }
     ],
     "arxiv_recent": [
@@ -685,10 +685,10 @@
         "url": "https://mathandai.org/",
         "discussion_url": "https://news.ycombinator.com/item?id=49662371",
         "site": "mathandai.org",
-        "points": 543,
-        "comments": 607,
+        "points": 645,
+        "comments": 685,
         "author": "meredydd",
-        "age": "5h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -697,60 +697,60 @@
         "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
         "discussion_url": "https://news.ycombinator.com/item?id=49662990",
         "site": "dayzlegame.com",
-        "points": 223,
-        "comments": 117,
+        "points": 297,
+        "comments": 167,
         "author": "nickabe",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
-        "id": 49663373,
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "discussion_url": "https://news.ycombinator.com/item?id=49663373",
-        "site": "github.com",
-        "points": 168,
-        "comments": 97,
-        "author": "microtonal",
-        "age": "4h ago"
+        "id": 49666735,
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://www.rubyhack.ai/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49666735",
+        "site": "rubyhack.ai",
+        "points": 331,
+        "comments": 193,
+        "author": "chao-",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 49666587,
-        "title": "DeCloudflare",
-        "url": "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md",
-        "discussion_url": "https://news.ycombinator.com/item?id=49666587",
-        "site": "0xacab.org",
-        "points": 18,
-        "comments": 25,
-        "author": "DeepLogin",
-        "age": "39m ago"
-      },
-      {
-        "rank": 5,
         "id": 49626718,
         "title": "A Design Space Exploration of Async/Await",
         "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
         "discussion_url": "https://news.ycombinator.com/item?id=49626718",
         "site": "cel.cs.brown.edu",
-        "points": 94,
-        "comments": 20,
+        "points": 147,
+        "comments": 30,
         "author": "wcrichton",
         "age": "2d ago"
+      },
+      {
+        "rank": 5,
+        "id": 49663373,
+        "title": "GrapheneOS' rewritten Messages app is released",
+        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+        "discussion_url": "https://news.ycombinator.com/item?id=49663373",
+        "site": "github.com",
+        "points": 198,
+        "comments": 123,
+        "author": "microtonal",
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
         "id": 49666410,
-        "title": "Dreamcast Development Links",
+        "title": "Dreamcast Web Development Links",
         "url": "https://news.ycombinator.com/item?id=49666410",
         "discussion_url": "https://news.ycombinator.com/item?id=49666410",
         "site": "news.ycombinator.com",
         "points": 3,
         "comments": 0,
         "author": "hefner1456",
-        "age": "55m ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -759,10 +759,10 @@
         "url": "https://news.ycombinator.com/item?id=49657850",
         "discussion_url": "https://news.ycombinator.com/item?id=49657850",
         "site": "news.ycombinator.com",
-        "points": 741,
-        "comments": 356,
+        "points": 749,
+        "comments": 361,
         "author": "cromka",
-        "age": "10h ago"
+        "age": "12h ago"
       },
       {
         "rank": 3,
@@ -774,7 +774,7 @@
         "points": 2,
         "comments": 2,
         "author": "cauliflower99",
-        "age": "4h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -783,10 +783,10 @@
         "url": "https://news.ycombinator.com/item?id=49662978",
         "discussion_url": "https://news.ycombinator.com/item?id=49662978",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 1,
+        "points": 6,
+        "comments": 2,
         "author": "superasn",
-        "age": "5h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -795,10 +795,10 @@
         "url": "https://news.ycombinator.com/item?id=49661928",
         "discussion_url": "https://news.ycombinator.com/item?id=49661928",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 1,
         "author": "rawland",
-        "age": "6h ago"
+        "age": "8h ago"
       }
     ],
     "show": [
@@ -809,22 +809,22 @@
         "url": "https://github.com/mirza-rizvi/ResolveHQ",
         "discussion_url": "https://news.ycombinator.com/item?id=49665864",
         "site": "github.com",
-        "points": 17,
-        "comments": 6,
+        "points": 29,
+        "comments": 10,
         "author": "mirza_rizvi",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 49660676,
-        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-        "url": "https://github.com/godot-pty/gpty",
-        "discussion_url": "https://news.ycombinator.com/item?id=49660676",
+        "id": 49667188,
+        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+        "url": "https://github.com/zachsaw/graphify-csharp",
+        "discussion_url": "https://news.ycombinator.com/item?id=49667188",
         "site": "github.com",
-        "points": 74,
-        "comments": 41,
-        "author": "1nv1n",
-        "age": "7h ago"
+        "points": 8,
+        "comments": 4,
+        "author": "zachsaw",
+        "age": "1h ago"
       },
       {
         "rank": 3,
@@ -833,34 +833,34 @@
         "url": "https://vester.si/bodily-oddities/",
         "discussion_url": "https://news.ycombinator.com/item?id=49649789",
         "site": "vester.si",
-        "points": 152,
-        "comments": 119,
+        "points": 168,
+        "comments": 139,
         "author": "vesterde",
         "age": "1d ago"
       },
       {
         "rank": 4,
+        "id": 49660676,
+        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+        "url": "https://github.com/godot-pty/gpty",
+        "discussion_url": "https://news.ycombinator.com/item?id=49660676",
+        "site": "github.com",
+        "points": 81,
+        "comments": 42,
+        "author": "1nv1n",
+        "age": "9h ago"
+      },
+      {
+        "rank": 5,
         "id": 49659647,
         "title": "Show HN: Hacker News, without AI",
         "url": "https://hcker.news/?ai=exclude",
         "discussion_url": "https://news.ycombinator.com/item?id=49659647",
         "site": "hcker.news",
-        "points": 166,
+        "points": 175,
         "comments": 83,
         "author": "postalcoder",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49663429,
-        "title": "Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js",
-        "url": "https://wesselsdesktop.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49663429",
-        "site": "wesselsdesktop.com",
-        "points": 7,
-        "comments": 1,
-        "author": "Abstract2D",
-        "age": "4h ago"
+        "age": "10h ago"
       }
     ]
   }
