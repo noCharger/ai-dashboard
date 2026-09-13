@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-13T06:55:51Z",
+  "generated": "2026-09-13T11:28:36Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1873,
-        "downloads": 140636,
-        "likes": 2056,
+        "trending_score": 1897,
+        "downloads": 244457,
+        "likes": 2092,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/MiniCPM5-2B",
         "org": "openbmb",
-        "trending_score": 1074,
-        "downloads": 102334,
-        "likes": 1276,
+        "trending_score": 1089,
+        "downloads": 150110,
+        "likes": 1291,
         "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "nex-agi/Nex-N2.5-mini",
-        "org": "nex-agi",
-        "trending_score": 590,
-        "downloads": 3581,
-        "likes": 747,
-        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5_moe",
-          "image-text-to-text",
-          "text-generation"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "Edge0/Edge0-35B-A3B-preview",
         "org": "Edge0",
-        "trending_score": 568,
-        "downloads": 1596,
-        "likes": 588,
+        "trending_score": 635,
+        "downloads": 3552,
+        "likes": 656,
         "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
         "tags": [
           "mlx",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "nex-agi/Nex-N2.5-mini",
+        "org": "nex-agi",
+        "trending_score": 591,
+        "downloads": 3970,
+        "likes": 748,
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_moe",
+          "image-text-to-text",
+          "text-generation"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
         "trending_score": 554,
-        "downloads": 7726687,
-        "likes": 14889,
+        "downloads": 7768964,
+        "likes": 14904,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -91,29 +91,29 @@
     "benchmark": [
       {
         "rank": 1,
-        "name": "",
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 66.260186923693,
+        "speed_tps": 66.7231595906731,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
       {
         "rank": 2,
-        "name": "",
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 57.2751813691805,
+        "speed_tps": 57.7319660537058,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
       {
         "rank": 3,
-        "name": "",
+        "name": "GPT-6 Astra (max)",
         "org": "OpenAI",
         "intelligence_index": 52.814069395513,
         "price_input": 10,
@@ -124,23 +124,23 @@
       },
       {
         "rank": 4,
-        "name": "",
+        "name": "GPT-6 Astra (xhigh)",
         "org": "OpenAI",
         "intelligence_index": 52.5059027108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 51.1411471339534,
+        "speed_tps": 53.1717593704412,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
       {
         "rank": 5,
-        "name": "",
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 51.2094958852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 49.1960497902978,
+        "speed_tps": 55.8058366247892,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "bilawalsidhu/gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 30489,
-        "stars_delta": 2265,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
+        "name": "JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "url": "https://github.com/JustVugg/colibri",
+        "stars": 28858,
+        "stars_delta": 652,
+        "language": "C",
+        "language_color": "#555555"
       },
       {
         "rank": 2,
-        "name": "melgarafael/DeskcommCRM",
-        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "url": "https://github.com/melgarafael/DeskcommCRM",
-        "stars": 1914,
-        "stars_delta": 504,
+        "name": "ever-co/ever-gauzy",
+        "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "url": "https://github.com/ever-co/ever-gauzy",
+        "stars": 4527,
+        "stars_delta": 58,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "asgeirtj/system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "stars": 65587,
-        "stars_delta": 217,
+        "name": "bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "stars": 30911,
+        "stars_delta": 2265,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 4,
-        "name": "nab138/iloader",
-        "description": "User friendly sideloader",
-        "url": "https://github.com/nab138/iloader",
-        "stars": 3156,
-        "stars_delta": 209,
+        "name": "tech-leads-club/agent-skills",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "url": "https://github.com/tech-leads-club/agent-skills",
+        "stars": 5383,
+        "stars_delta": 215,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "Flowseal/zapret-discord-youtube",
-        "description": "",
-        "url": "https://github.com/Flowseal/zapret-discord-youtube",
-        "stars": 33221,
-        "stars_delta": 65,
-        "language": "Batchfile",
-        "language_color": "#C1F12E"
+        "name": "melgarafael/DeskcommCRM",
+        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "url": "https://github.com/melgarafael/DeskcommCRM",
+        "stars": 1991,
+        "stars_delta": 504,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 43632,
+        "stars": 43784,
         "stars_delta": 15924,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 257257,
+        "stars": 257391,
         "stars_delta": 8086,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,18 +383,18 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 6561,
+        "stars": 6574,
         "stars_delta": 1120,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 4,
-        "name": "DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 136800,
-        "stars_delta": 9272,
+        "name": "bilawalsidhu/gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "stars": 30911,
+        "stars_delta": 10510,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -403,7 +403,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 22438,
+        "stars": 22497,
         "stars_delta": 1936,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 40648,
+        "stars": 40687,
         "stars_delta": 16303,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 59973,
+        "stars": 60156,
         "stars_delta": 48036,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,30 +435,30 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3884,
+        "stars": 3896,
         "stars_delta": 3563,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "url": "https://github.com/cursor/plugins",
-        "stars": 7564,
-        "stars_delta": 4933,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 20841,
+        "stars": 20865,
         "stars_delta": 12456,
         "language": "Rust",
         "language_color": "#dea584"
+      },
+      {
+        "rank": 5,
+        "name": "cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "url": "https://github.com/cursor/plugins",
+        "stars": 7571,
+        "stars_delta": 4933,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "frameworks": [
@@ -579,7 +579,7 @@
         "upvotes": 75,
         "published": "2025-03-11",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
-        "github_stars": 7205
+        "github_stars": 7425
       },
       {
         "rank": 5,
@@ -680,187 +680,187 @@
     "top": [
       {
         "rank": 1,
-        "id": 49679459,
-        "title": "The Interim Computer Museum",
-        "url": "https://icm.museum/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49679459",
-        "site": "icm.museum",
-        "points": 78,
-        "comments": 8,
-        "author": "mulmen",
-        "age": "4h ago"
+        "id": 49681152,
+        "title": "JetKVM Mini",
+        "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+        "discussion_url": "https://news.ycombinator.com/item?id=49681152",
+        "site": "jetkvm.com",
+        "points": 156,
+        "comments": 75,
+        "author": "taubek",
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 49682319,
+        "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+        "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49682319",
+        "site": "invezz.com",
+        "points": 25,
+        "comments": 15,
+        "author": "mgh2",
+        "age": "59m ago"
+      },
+      {
+        "rank": 3,
         "id": 49678969,
         "title": "Why are AI agents lying, cheating and coordinating?",
         "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
         "discussion_url": "https://news.ycombinator.com/item?id=49678969",
         "site": "yoshuabengio.org",
-        "points": 86,
-        "comments": 80,
+        "points": 267,
+        "comments": 336,
         "author": "jonifico",
-        "age": "5h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49674050,
         "title": "Make your first edit to OpenStreetMap",
         "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
         "discussion_url": "https://news.ycombinator.com/item?id=49674050",
         "site": "high5apps.github.io",
-        "points": 419,
-        "comments": 96,
-        "author": "juliantigler",
-        "age": "14h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49676820,
-        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "discussion_url": "https://news.ycombinator.com/item?id=49676820",
-        "site": "withspecific.com",
-        "points": 210,
+        "points": 481,
         "comments": 125,
-        "author": "theanonymousone",
-        "age": "10h ago"
+        "author": "juliantigler",
+        "age": "19h ago"
       },
       {
         "rank": 5,
-        "id": 49640913,
-        "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
-        "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-        "discussion_url": "https://news.ycombinator.com/item?id=49640913",
-        "site": "medium.com",
-        "points": 45,
-        "comments": 14,
-        "author": "ichacas",
-        "age": "2d ago"
+        "id": 49679459,
+        "title": "The Interim Computer Museum",
+        "url": "https://icm.museum/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49679459",
+        "site": "icm.museum",
+        "points": 121,
+        "comments": 13,
+        "author": "mulmen",
+        "age": "8h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49681380,
+        "title": "Ask HN: Should we start airgapping our personal devices?",
+        "url": "https://news.ycombinator.com/item?id=49681380",
+        "discussion_url": "https://news.ycombinator.com/item?id=49681380",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 3,
+        "author": "emerongi",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49672966,
         "title": "Ask HN: What default model do you use and why?",
         "url": "https://news.ycombinator.com/item?id=49672966",
         "discussion_url": "https://news.ycombinator.com/item?id=49672966",
         "site": "news.ycombinator.com",
-        "points": 53,
-        "comments": 97,
+        "points": 57,
+        "comments": 96,
         "author": "stikit",
-        "age": "15h ago"
+        "age": "20h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49668196,
         "title": "Ask HN: Did Google kill its enterprise workhorse model?",
         "url": "https://news.ycombinator.com/item?id=49668196",
         "discussion_url": "https://news.ycombinator.com/item?id=49668196",
         "site": "news.ycombinator.com",
-        "points": 23,
-        "comments": 14,
+        "points": 24,
+        "comments": 15,
         "author": "waldrews",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49673323,
         "title": "Reddit Now Blocking Firefox for Android with uBlock Origin?",
         "url": "https://news.ycombinator.com/item?id=49673323",
         "discussion_url": "https://news.ycombinator.com/item?id=49673323",
         "site": "news.ycombinator.com",
-        "points": 19,
-        "comments": 5,
+        "points": 23,
+        "comments": 6,
         "author": "chucksmash",
-        "age": "15h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49675094,
-        "title": "Tell HN: Claude Code appends new commit signature even if older settings is off",
-        "url": "https://news.ycombinator.com/item?id=49675094",
-        "discussion_url": "https://news.ycombinator.com/item?id=49675094",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 1,
-        "author": "ctxc",
-        "age": "13h ago"
+        "age": "19h ago"
       },
       {
         "rank": 5,
-        "id": 49673825,
-        "title": "Ask HN: For Enterprise coding agents, what's your company doing to control cost?",
-        "url": "https://news.ycombinator.com/item?id=49673825",
-        "discussion_url": "https://news.ycombinator.com/item?id=49673825",
+        "id": 49657850,
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "url": "https://news.ycombinator.com/item?id=49657850",
+        "discussion_url": "https://news.ycombinator.com/item?id=49657850",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 7,
-        "author": "m0rde",
-        "age": "14h ago"
+        "points": 834,
+        "comments": 387,
+        "author": "cromka",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49682192,
+        "title": "Show HN: AlertiGate – Kubernetes alerts in, evidence-backed root cause out",
+        "url": "https://alertigate.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49682192",
+        "site": "alertigate.com",
+        "points": 2,
+        "comments": 0,
+        "author": "dafi247",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49644603,
         "title": "Show HN: See Sounds on Your Webcam",
         "url": "https://soundmap.darebuild.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49644603",
         "site": "soundmap.darebuild.com",
-        "points": 16,
+        "points": 17,
         "comments": 5,
         "author": "jimhi",
         "age": "2d ago"
       },
       {
-        "rank": 2,
-        "id": 49679761,
-        "title": "Show HN: I made an alternative to the archived filebrowser",
-        "url": "https://github.com/skidoodle/filebrowser",
-        "discussion_url": "https://news.ycombinator.com/item?id=49679761",
-        "site": "github.com",
-        "points": 3,
-        "comments": 1,
-        "author": "skidoodle",
-        "age": "3h ago"
-      },
-      {
         "rank": 3,
-        "id": 49679671,
-        "title": "Show HN: Aqqai – Every answer, checked before you see it",
-        "url": "https://demo.aqqai.in",
-        "discussion_url": "https://news.ycombinator.com/item?id=49679671",
-        "site": "demo.aqqai.in",
-        "points": 2,
-        "comments": 1,
-        "author": "Vineetyadav2",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49679590,
-        "title": "Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling",
-        "url": "https://github.com/takaakit/astah-pro-mcp",
-        "discussion_url": "https://news.ycombinator.com/item?id=49679590",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "takaakit",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
         "id": 49649789,
         "title": "Show HN: Bodily Oddities",
         "url": "https://vester.si/bodily-oddities/",
         "discussion_url": "https://news.ycombinator.com/item?id=49649789",
         "site": "vester.si",
-        "points": 323,
-        "comments": 199,
+        "points": 324,
+        "comments": 201,
         "author": "vesterde",
         "age": "2d ago"
+      },
+      {
+        "rank": 4,
+        "id": 49677480,
+        "title": "Show HN: What If Donut.c but with Any ASCII Art",
+        "url": "https://asdesai.com/blog/how-fetch-works/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49677480",
+        "site": "asdesai.com",
+        "points": 11,
+        "comments": 1,
+        "author": "areofyl",
+        "age": "13h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49665864,
+        "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+        "url": "https://github.com/mirza-rizvi/ResolveHQ",
+        "discussion_url": "https://news.ycombinator.com/item?id=49665864",
+        "site": "github.com",
+        "points": 67,
+        "comments": 25,
+        "author": "mirza_rizvi",
+        "age": "1d ago"
       }
     ]
   }
