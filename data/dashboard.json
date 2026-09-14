@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-14T02:05:44Z",
+  "generated": "2026-09-14T08:12:13Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1994,
+        "trending_score": 2052,
         "downloads": 244457,
-        "likes": 2224,
+        "likes": 2297,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "openbmb/MiniCPM5-2B",
-        "org": "openbmb",
-        "trending_score": 1139,
-        "downloads": 150110,
-        "likes": 1344,
-        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "llama",
-          "text-generation",
-          "minicpm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "Edge0/Edge0-35B-A3B-preview",
         "org": "Edge0",
-        "trending_score": 1038,
+        "trending_score": 1294,
         "downloads": 3552,
-        "likes": 1064,
+        "likes": 1325,
         "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
         "tags": [
           "mlx",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "openbmb/MiniCPM5-2B",
+        "org": "openbmb",
+        "trending_score": 1150,
+        "downloads": 150110,
+        "likes": 1359,
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "llama",
+          "text-generation",
+          "minicpm"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "nex-agi/Nex-N2.5-mini",
         "org": "nex-agi",
-        "trending_score": 601,
+        "trending_score": 610,
         "downloads": 3970,
-        "likes": 758,
+        "likes": 771,
         "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 557,
+        "trending_score": 572,
         "downloads": 7768964,
-        "likes": 14979,
+        "likes": 15053,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -311,7 +311,7 @@
         "name": "JustVugg/colibri",
         "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "url": "https://github.com/JustVugg/colibri",
-        "stars": 29949,
+        "stars": 30604,
         "stars_delta": 868,
         "language": "C",
         "language_color": "#555555"
@@ -321,7 +321,7 @@
         "name": "ever-co/ever-gauzy",
         "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
         "url": "https://github.com/ever-co/ever-gauzy",
-        "stars": 5145,
+        "stars": 5493,
         "stars_delta": 191,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 32000,
+        "stars": 32585,
         "stars_delta": 2680,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "tech-leads-club/agent-skills",
         "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
         "url": "https://github.com/tech-leads-club/agent-skills",
-        "stars": 5680,
+        "stars": 5832,
         "stars_delta": 265,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "melgarafael/DeskcommCRM",
         "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
         "url": "https://github.com/melgarafael/DeskcommCRM",
-        "stars": 2218,
+        "stars": 2370,
         "stars_delta": 432,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 44393,
+        "stars": 44750,
         "stars_delta": 16740,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 257785,
+        "stars": 257952,
         "stars_delta": 7264,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 6624,
+        "stars": 6656,
         "stars_delta": 1181,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 32000,
+        "stars": 32585,
         "stars_delta": 12931,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 22645,
+        "stars": 22718,
         "stars_delta": 2102,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 40866,
+        "stars": 40934,
         "stars_delta": 16489,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 60860,
+        "stars": 61377,
         "stars_delta": 48808,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 3943,
+        "stars": 3968,
         "stars_delta": 3635,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 20955,
+        "stars": 20987,
         "stars_delta": 12557,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 7628,
+        "stars": 7649,
         "stars_delta": 4967,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -523,21 +523,6 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "AutoResearch: Insight In, Hallucination Out",
-        "authors": [
-          "Yiming Ren",
-          "Xiang Liu",
-          "Qumeng Sun"
-        ],
-        "url": "https://huggingface.co/papers/2608.17906",
-        "categories": [],
-        "upvotes": 22,
-        "published": "2026-08-22",
-        "github_repo": "https://github.com/EvoMap/AutoResearch",
-        "github_stars": 4299
-      },
-      {
-        "rank": 2,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -549,7 +534,22 @@
         "upvotes": 133,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 105019
+        "github_stars": 105416
+      },
+      {
+        "rank": 2,
+        "title": "AutoResearch: Insight In, Hallucination Out",
+        "authors": [
+          "Yiming Ren",
+          "Xiang Liu",
+          "Qumeng Sun"
+        ],
+        "url": "https://huggingface.co/papers/2608.17906",
+        "categories": [],
+        "upvotes": 22,
+        "published": "2026-08-22",
+        "github_repo": "https://github.com/EvoMap/AutoResearch",
+        "github_stars": 4323
       },
       {
         "rank": 3,
@@ -564,7 +564,7 @@
         "upvotes": 19,
         "published": "2024-03-13",
         "github_repo": "https://github.com/vxcontrol/pentagi",
-        "github_stars": 23757
+        "github_stars": 24014
       },
       {
         "rank": 4,
@@ -576,10 +576,10 @@
         ],
         "url": "https://huggingface.co/papers/2503.08638",
         "categories": [],
-        "upvotes": 75,
+        "upvotes": 76,
         "published": "2025-03-11",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
-        "github_stars": 7637
+        "github_stars": 7910
       },
       {
         "rank": 5,
@@ -687,58 +687,58 @@
         "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
         "discussion_url": "https://news.ycombinator.com/item?id=49688695",
         "site": "vals.ai",
-        "points": 484,
-        "comments": 207,
+        "points": 852,
+        "comments": 352,
         "author": "u1hcw9nx",
-        "age": "4h ago"
+        "age": "11h ago"
       },
       {
         "rank": 2,
-        "id": 49686445,
-        "title": "Why is Google still serving dodgy ads?",
-        "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-        "discussion_url": "https://news.ycombinator.com/item?id=49686445",
-        "site": "atomic14.com",
-        "points": 604,
-        "comments": 281,
-        "author": "iamflimflam1",
-        "age": "8h ago"
+        "id": 49638510,
+        "title": "Spaceships (Reverse Asteroid)",
+        "url": "https://spaceships.treybastian.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49638510",
+        "site": "spaceships.treybastian.com",
+        "points": 201,
+        "comments": 36,
+        "author": "zdw",
+        "age": "4d ago"
       },
       {
         "rank": 3,
-        "id": 49690554,
-        "title": "The case against JPEG XL",
-        "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49690554",
-        "site": "giannirosato.com",
-        "points": 38,
-        "comments": 31,
-        "author": "contact9879",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
         "id": 49689048,
         "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
         "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
         "discussion_url": "https://news.ycombinator.com/item?id=49689048",
         "site": "community.signalusers.org",
-        "points": 84,
-        "comments": 41,
+        "points": 227,
+        "comments": 113,
         "author": "Cider9986",
-        "age": "4h ago"
+        "age": "10h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49692765,
+        "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+        "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49692765",
+        "site": "lareviewofbooks.org",
+        "points": 20,
+        "comments": 6,
+        "author": "bryanrasmussen",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49690260,
-        "title": "Open-Source AI and Open Models Reading List",
-        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "discussion_url": "https://news.ycombinator.com/item?id=49690260",
-        "site": "interconnects.ai",
-        "points": 22,
-        "comments": 1,
-        "author": "simonpure",
-        "age": "1h ago"
+        "id": 49690554,
+        "title": "The case against JPEG XL",
+        "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49690554",
+        "site": "giannirosato.com",
+        "points": 131,
+        "comments": 180,
+        "author": "contact9879",
+        "age": "7h ago"
       }
     ],
     "ask": [
@@ -749,10 +749,10 @@
         "url": "https://news.ycombinator.com/item?id=49686380",
         "discussion_url": "https://news.ycombinator.com/item?id=49686380",
         "site": "news.ycombinator.com",
-        "points": 88,
-        "comments": 184,
+        "points": 154,
+        "comments": 470,
         "author": "david927",
-        "age": "8h ago"
+        "age": "14h ago"
       },
       {
         "rank": 2,
@@ -761,108 +761,108 @@
         "url": "https://news.ycombinator.com/item?id=49689696",
         "discussion_url": "https://news.ycombinator.com/item?id=49689696",
         "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 7,
+        "points": 9,
+        "comments": 13,
         "author": "mondobe",
-        "age": "2h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 49681380,
-        "title": "Ask HN: Should we start airgapping our personal devices?",
-        "url": "https://news.ycombinator.com/item?id=49681380",
-        "discussion_url": "https://news.ycombinator.com/item?id=49681380",
+        "id": 49690649,
+        "title": "System 3 Thinking",
+        "url": "https://news.ycombinator.com/item?id=49690649",
+        "discussion_url": "https://news.ycombinator.com/item?id=49690649",
         "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 6,
-        "author": "emerongi",
-        "age": "17h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "rexossbear",
+        "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 49686489,
-        "title": "Ask HN: What would it look like if AI agents \"took over the internet\"?",
-        "url": "https://news.ycombinator.com/item?id=49686489",
-        "discussion_url": "https://news.ycombinator.com/item?id=49686489",
+        "id": 49690524,
+        "title": "Ask HN: What are some privacy/security tools you wish exist, but don't yet?",
+        "url": "https://news.ycombinator.com/item?id=49690524",
+        "discussion_url": "https://news.ycombinator.com/item?id=49690524",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 10,
-        "author": "scripper1",
-        "age": "8h ago"
+        "points": 5,
+        "comments": 6,
+        "author": "ToriTech",
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 49683146,
-        "title": "DietPi released a new version v10.7",
-        "url": "https://news.ycombinator.com/item?id=49683146",
-        "discussion_url": "https://news.ycombinator.com/item?id=49683146",
+        "id": 49690154,
+        "title": "AI Boom / Bust – Boom Boom Pow",
+        "url": "https://news.ycombinator.com/item?id=49690154",
+        "discussion_url": "https://news.ycombinator.com/item?id=49690154",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "stephanstsdietp",
-        "age": "13h ago"
+        "points": 5,
+        "comments": 2,
+        "author": "wwolfson97",
+        "age": "8h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49690943,
-        "title": "Show HN: Is It Greg?",
-        "url": "https://github.com/antoineleclair/is-it-greg",
-        "discussion_url": "https://news.ycombinator.com/item?id=49690943",
-        "site": "github.com",
-        "points": 2,
-        "comments": 1,
-        "author": "antoineleclair",
-        "age": "7m ago"
+        "id": 49693226,
+        "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+        "url": "https://screensize.net/reports/viewport-stats",
+        "discussion_url": "https://news.ycombinator.com/item?id=49693226",
+        "site": "screensize.net",
+        "points": 3,
+        "comments": 0,
+        "author": "zenpe",
+        "age": "37m ago"
       },
       {
         "rank": 2,
-        "id": 49689049,
-        "title": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
-        "url": "https://petrelvoyage.com/app",
-        "discussion_url": "https://news.ycombinator.com/item?id=49689049",
-        "site": "petrelvoyage.com",
-        "points": 4,
-        "comments": 4,
-        "author": "desktopentree",
-        "age": "4h ago"
+        "id": 49645654,
+        "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+        "url": "https://eterdb.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49645654",
+        "site": "eterdb.com",
+        "points": 30,
+        "comments": 7,
+        "author": "fdeth",
+        "age": "3d ago"
       },
       {
         "rank": 3,
-        "id": 49688748,
-        "title": "Show HN: SF Title Alert",
-        "url": "https://sftitlealert.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49688748",
-        "site": "sftitlealert.com",
-        "points": 3,
-        "comments": 0,
-        "author": "arkadiyt",
-        "age": "4h ago"
+        "id": 49690614,
+        "title": "Show HN: Exploring the intersection of prediction markets and social media",
+        "url": "https://www.thevidmarket.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49690614",
+        "site": "thevidmarket.com",
+        "points": 10,
+        "comments": 1,
+        "author": "ryanpere2298",
+        "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 49688359,
-        "title": "Show HN: Vehla – the AI command center for macOS",
-        "url": "https://vehla.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49688359",
-        "site": "vehla.app",
-        "points": 3,
-        "comments": 0,
-        "author": "ibuhs69",
-        "age": "5h ago"
+        "id": 49692144,
+        "title": "Show HN: I was frustrated with AI giving confident answer,Even when it was wrong",
+        "url": "https://demo.aqqai.in",
+        "discussion_url": "https://news.ycombinator.com/item?id=49692144",
+        "site": "demo.aqqai.in",
+        "points": 2,
+        "comments": 1,
+        "author": "Vineetyadav2",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 49688052,
-        "title": "Show HN: VibeWorld – a shared terminal world for developers and scientists",
-        "url": "https://github.com/SorBalda/vibeworld",
-        "discussion_url": "https://news.ycombinator.com/item?id=49688052",
+        "id": 49691060,
+        "title": "Show HN: Dllog – Replay debug logs when an operation fails",
+        "url": "https://github.com/arhuman/dllog",
+        "discussion_url": "https://news.ycombinator.com/item?id=49691060",
         "site": "github.com",
-        "points": 5,
-        "comments": 1,
-        "author": "sorbalda",
-        "age": "6h ago"
+        "points": 3,
+        "comments": 0,
+        "author": "doolta",
+        "age": "5h ago"
       }
     ]
   }
