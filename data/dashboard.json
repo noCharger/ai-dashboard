@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-15T06:53:56Z",
+  "generated": "2026-09-15T11:27:21Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 2212,
-        "downloads": 288414,
-        "likes": 2514,
+        "trending_score": 2260,
+        "downloads": 325712,
+        "likes": 2575,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Edge0/Edge0-35B-A3B-preview",
         "org": "Edge0",
-        "trending_score": 1838,
-        "downloads": 8109,
-        "likes": 2208,
+        "trending_score": 1924,
+        "downloads": 17853,
+        "likes": 2363,
         "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
         "tags": [
           "mlx",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "openbmb/MiniCPM5-2B",
         "org": "openbmb",
-        "trending_score": 846,
-        "downloads": 206774,
-        "likes": 1412,
+        "trending_score": 786,
+        "downloads": 271754,
+        "likes": 1421,
         "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "nex-agi/Nex-N2.5-mini",
         "org": "nex-agi",
-        "trending_score": 624,
-        "downloads": 4543,
-        "likes": 785,
+        "trending_score": 631,
+        "downloads": 5202,
+        "likes": 796,
         "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 575,
-        "downloads": 7703400,
-        "likes": 15170,
+        "trending_score": 581,
+        "downloads": 7702543,
+        "likes": 15198,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -107,7 +107,7 @@
         "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 57.9623945888,
+        "speed_tps": 59.6664463915406,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 51.2094958852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 52.5026190546295,
+        "speed_tps": 54.4193684783232,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "JustVugg/colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "url": "https://github.com/JustVugg/colibri",
-        "stars": 32568,
-        "stars_delta": 2173,
-        "language": "C",
-        "language_color": "#555555"
-      },
-      {
-        "rank": 2,
         "name": "alibaba/open-code-review",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 26463,
+        "stars": 27032,
         "stars_delta": 1571,
         "language": "Go",
         "language_color": "#00ADD8"
       },
       {
+        "rank": 2,
+        "name": "JustVugg/colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "url": "https://github.com/JustVugg/colibri",
+        "stars": 32994,
+        "stars_delta": 2173,
+        "language": "C",
+        "language_color": "#555555"
+      },
+      {
         "rank": 3,
-        "name": "multimodal-art-projection/YuE",
-        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-        "url": "https://github.com/multimodal-art-projection/YuE",
-        "stars": 8633,
-        "stars_delta": 559,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "ever-co/ever-gauzy",
+        "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "url": "https://github.com/ever-co/ever-gauzy",
+        "stars": 6273,
+        "stars_delta": 1130,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 4,
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 29793,
+        "stars": 30160,
         "stars_delta": 2776,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "666ghj/MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "url": "https://github.com/666ghj/MiroFish",
-        "stars": 73419,
-        "stars_delta": 560,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "Homebrew/BrewUI",
+        "description": "📺 Homebrew's official macOS GUI",
+        "url": "https://github.com/Homebrew/BrewUI",
+        "stars": 1018,
+        "stars_delta": 388,
+        "language": "Swift",
+        "language_color": "#F05138"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 45677,
+        "stars": 45873,
         "stars_delta": 17658,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,40 +373,40 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 33920,
+        "stars": 34146,
         "stars_delta": 14403,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 3,
-        "name": "affaan-m/ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "url": "https://github.com/affaan-m/ECC",
-        "stars": 258546,
-        "stars_delta": 6085,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
-        "rank": 4,
         "name": "openai/plugins",
         "description": "OpenAI Plugins",
         "url": "https://github.com/openai/plugins",
-        "stars": 6732,
+        "stars": 6745,
         "stars_delta": 1233,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 5,
-        "name": "DietrichGebert/ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 138716,
-        "stars_delta": 7722,
+        "rank": 4,
+        "name": "affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC",
+        "stars": 258711,
+        "stars_delta": 6085,
         "language": "JavaScript",
         "language_color": "#f1e05a"
+      },
+      {
+        "rank": 5,
+        "name": "mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "url": "https://github.com/mksglu/context-mode",
+        "stars": 22984,
+        "stars_delta": 2241,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 41137,
+        "stars": 41178,
         "stars_delta": 16712,
         "language": "Shell",
         "language_color": "#89e051"
@@ -425,7 +425,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 62674,
+        "stars": 62965,
         "stars_delta": 49900,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4046,
+        "stars": 4056,
         "stars_delta": 3715,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 21112,
+        "stars": 21135,
         "stars_delta": 12695,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 7776,
+        "stars": 7797,
         "stars_delta": 5026,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 135,
+        "upvotes": 134,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 106132
@@ -677,63 +677,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 49710253,
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+        "discussion_url": "https://news.ycombinator.com/item?id=49710253",
+        "site": "bbc.com",
+        "points": 106,
+        "comments": 70,
+        "author": "choult",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49708431,
+        "title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "discussion_url": "https://news.ycombinator.com/item?id=49708431",
+        "site": "notnottalmud.substack.com",
+        "points": 286,
+        "comments": 100,
+        "author": "networked",
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49710015,
+        "title": "How much of F-Droid is LLM generated?",
+        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49710015",
+        "site": "tintotint.eu",
+        "points": 49,
+        "comments": 31,
+        "author": "_ZeD_",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49709381,
+        "title": "Alternatives to MinIO for single-node local S3",
+        "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49709381",
+        "site": "rmoff.net",
+        "points": 39,
+        "comments": 26,
+        "author": "rmoff",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 49701004,
         "title": "iOS 27, iPadOS 27, and macOS 27",
         "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
         "discussion_url": "https://news.ycombinator.com/item?id=49701004",
         "site": "apple.com",
-        "points": 539,
-        "comments": 591,
+        "points": 627,
+        "comments": 719,
         "author": "throw0101d",
-        "age": "13h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49707627,
-        "title": "Linux from Scratch",
-        "url": "https://www.linuxfromscratch.org/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49707627",
-        "site": "linuxfromscratch.org",
-        "points": 76,
-        "comments": 26,
-        "author": "sippingabonedry",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49684289,
-        "title": "OpenArm: An open-source 7DOF humanoid arm",
-        "url": "https://github.com/enactic/OpenArm",
-        "discussion_url": "https://news.ycombinator.com/item?id=49684289",
-        "site": "github.com",
-        "points": 39,
-        "comments": 7,
-        "author": "Lwrless",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49675817,
-        "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-        "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49675817",
-        "site": "arkeonews.net",
-        "points": 100,
-        "comments": 19,
-        "author": "arunbahl",
-        "age": "2d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49679653,
-        "title": "Every invoice in Brazil's economy runs on SOAP 1.2",
-        "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
-        "discussion_url": "https://news.ycombinator.com/item?id=49679653",
-        "site": "github.com",
-        "points": 70,
-        "comments": 37,
-        "author": "lestx",
-        "age": "2d ago"
+        "age": "17h ago"
       }
     ],
     "ask": [
@@ -744,8 +744,8 @@
         "url": "https://news.ycombinator.com/item?id=49686380",
         "discussion_url": "https://news.ycombinator.com/item?id=49686380",
         "site": "news.ycombinator.com",
-        "points": 318,
-        "comments": 986,
+        "points": 338,
+        "comments": 1053,
         "author": "david927",
         "age": "1d ago"
       },
@@ -756,10 +756,10 @@
         "url": "https://news.ycombinator.com/item?id=49704226",
         "discussion_url": "https://news.ycombinator.com/item?id=49704226",
         "site": "news.ycombinator.com",
-        "points": 57,
-        "comments": 13,
+        "points": 66,
+        "comments": 17,
         "author": "nunez",
-        "age": "9h ago"
+        "age": "14h ago"
       },
       {
         "rank": 3,
@@ -771,93 +771,93 @@
         "points": 14,
         "comments": 33,
         "author": "amichail",
-        "age": "17h ago"
+        "age": "22h ago"
       },
       {
         "rank": 4,
+        "id": 49709294,
+        "title": "YouTube has banned Dmitry \"Savromat\" Chernyshevsky",
+        "url": "https://news.ycombinator.com/item?id=49709294",
+        "discussion_url": "https://news.ycombinator.com/item?id=49709294",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 0,
+        "author": "eimrine",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 49699185,
         "title": "Ask HN: What would make you trust an AI's assessment of your understanding?",
         "url": "https://news.ycombinator.com/item?id=49699185",
         "discussion_url": "https://news.ycombinator.com/item?id=49699185",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 2,
         "author": "Aditya_0315",
-        "age": "14h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49698914,
-        "title": "Ask HN: How are you managing aging relatives passwords?",
-        "url": "https://news.ycombinator.com/item?id=49698914",
-        "discussion_url": "https://news.ycombinator.com/item?id=49698914",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 13,
-        "author": "rylando",
-        "age": "15h ago"
+        "age": "19h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49705442,
-        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-        "url": "https://github.com/JamesRyanATX/fcbnerd",
-        "discussion_url": "https://news.ycombinator.com/item?id=49705442",
-        "site": "github.com",
-        "points": 55,
-        "comments": 12,
-        "author": "fretlessjazz",
-        "age": "7h ago"
-      },
-      {
-        "rank": 2,
         "id": 49676425,
         "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
         "url": "https://poltora.dev/redis",
         "discussion_url": "https://news.ycombinator.com/item?id=49676425",
         "site": "poltora.dev",
-        "points": 41,
-        "comments": 7,
+        "points": 109,
+        "comments": 19,
         "author": "poltora",
         "age": "2d ago"
       },
       {
-        "rank": 3,
-        "id": 49699267,
-        "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-        "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49699267",
-        "site": "narilabs.com",
-        "points": 76,
-        "comments": 28,
-        "author": "toebee",
-        "age": "14h ago"
+        "rank": 2,
+        "id": 49705442,
+        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "url": "https://github.com/JamesRyanATX/fcbnerd",
+        "discussion_url": "https://news.ycombinator.com/item?id=49705442",
+        "site": "github.com",
+        "points": 78,
+        "comments": 19,
+        "author": "fretlessjazz",
+        "age": "12h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 49696402,
         "title": "Show HN: Pelican-bicycle alternatives",
         "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49696402",
         "site": "gally.net",
-        "points": 116,
-        "comments": 43,
+        "points": 121,
+        "comments": 44,
         "author": "tkgally",
-        "age": "17h ago"
+        "age": "22h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49699267,
+        "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+        "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49699267",
+        "site": "narilabs.com",
+        "points": 82,
+        "comments": 29,
+        "author": "toebee",
+        "age": "19h ago"
       },
       {
         "rank": 5,
-        "id": 49707707,
-        "title": "Show HN: Analyzed 400 routes and driving a Tesla beats flying 65% of the time",
-        "url": "https://flyortesla.com/insights",
-        "discussion_url": "https://news.ycombinator.com/item?id=49707707",
-        "site": "flyortesla.com",
-        "points": 3,
-        "comments": 3,
-        "author": "drewlem",
-        "age": "2h ago"
+        "id": 49699159,
+        "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+        "url": "https://www.neobrutalism.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49699159",
+        "site": "neobrutalism.dev",
+        "points": 154,
+        "comments": 72,
+        "author": "samke-",
+        "age": "19h ago"
       }
     ]
   }
