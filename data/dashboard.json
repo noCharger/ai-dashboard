@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-17T13:52:36Z",
+  "generated": "2026-09-17T17:48:30Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Edge0/Edge0-35B-A3B-preview",
         "org": "Edge0",
-        "trending_score": 2442,
+        "trending_score": 2445,
         "downloads": 37131,
-        "likes": 3270,
+        "likes": 3285,
         "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
         "tags": [
           "mlx",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1609,
+        "trending_score": 1422,
         "downloads": 390657,
-        "likes": 2948,
+        "likes": 2971,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 610,
+        "trending_score": 601,
         "downloads": 7456257,
-        "likes": 15485,
+        "likes": 15501,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "m-a-p/YuE2-3B",
         "org": "m-a-p",
-        "trending_score": 592,
+        "trending_score": 601,
         "downloads": 11626,
-        "likes": 687,
+        "likes": 704,
         "url": "https://huggingface.co/m-a-p/YuE2-3B",
         "tags": [
           "safetensors",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "openbmb/MiniCPM5-2B",
-        "org": "openbmb",
-        "trending_score": 451,
-        "downloads": 329713,
-        "likes": 1530,
-        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "name": "TokenRhythm/NeoHorse-1-4B",
+        "org": "TokenRhythm",
+        "trending_score": 431,
+        "downloads": 19789,
+        "likes": 2263,
+        "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
         "tags": [
           "transformers",
           "safetensors",
-          "llama",
+          "qwen3_5_text",
           "text-generation",
-          "minicpm"
+          "agentic"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 67.6942867003517,
+        "speed_tps": 67.9743885388089,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 58.1928231238941,
+        "speed_tps": 55.0466012204025,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 52.814069395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 52.9841513460148,
+        "speed_tps": 52.9133064749665,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 52.5059027108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 52.9243169963677,
+        "speed_tps": 50.4061952982861,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 51.2094958852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 57.9952599193268,
+        "speed_tps": 54.7168805015839,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,7 +311,7 @@
         "name": "alibaba/open-code-review",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 33803,
+        "stars": 34328,
         "stars_delta": 3290,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -321,7 +321,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 9437,
+        "stars": 10188,
         "stars_delta": 3606,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 95855,
+        "stars": 95996,
         "stars_delta": 680,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "Tencent/BrowserSkill",
         "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
         "url": "https://github.com/Tencent/BrowserSkill",
-        "stars": 3710,
+        "stars": 3974,
         "stars_delta": 1350,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "alphaXiv/OpenResearch",
         "description": "Turn your coding agents into research agents",
         "url": "https://github.com/alphaXiv/OpenResearch",
-        "stars": 4892,
+        "stars": 5017,
         "stars_delta": 940,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "alibaba/open-code-review",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 33804,
+        "stars": 34328,
         "stars_delta": 8594,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -373,7 +373,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 47250,
+        "stars": 47345,
         "stars_delta": 13737,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 36643,
+        "stars": 36878,
         "stars_delta": 14777,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 260909,
+        "stars": 261093,
         "stars_delta": 5292,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 23334,
+        "stars": 23358,
         "stars_delta": 1612,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 65586,
+        "stars": 65714,
         "stars_delta": 51755,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 41678,
+        "stars": 41706,
         "stars_delta": 16707,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4177,
+        "stars": 4184,
         "stars_delta": 3853,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 8152,
+        "stars": 8169,
         "stars_delta": 5021,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "AprilNEA/OpenLogi",
         "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
         "url": "https://github.com/AprilNEA/OpenLogi",
-        "stars": 21407,
+        "stars": 21425,
         "stars_delta": 12927,
         "language": "Rust",
         "language_color": "#dea584"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 138,
+        "upvotes": 139,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 107260
@@ -549,7 +549,7 @@
         "upvotes": 77,
         "published": "2025-03-11",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
-        "github_stars": 9450
+        "github_stars": 9618
       },
       {
         "rank": 3,
@@ -561,28 +561,13 @@
         ],
         "url": "https://huggingface.co/papers/2609.15818",
         "categories": [],
-        "upvotes": 430,
+        "upvotes": 433,
         "published": "2026-09-13",
         "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-        "github_stars": 422
+        "github_stars": 456
       },
       {
         "rank": 4,
-        "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-        "authors": [
-          "Jiyan He",
-          "Guang Liang",
-          "Hao Liu"
-        ],
-        "url": "https://huggingface.co/papers/2609.13356",
-        "categories": [],
-        "upvotes": 306,
-        "published": "2026-09-10",
-        "github_repo": "https://github.com/zgcagi/ZGCM-1",
-        "github_stars": 396
-      },
-      {
-        "rank": 5,
         "title": "AutoDev: Automated AI-Driven Development",
         "authors": [
           "Michele Tufano",
@@ -595,6 +580,21 @@
         "published": "2024-03-13",
         "github_repo": "https://github.com/vxcontrol/pentagi",
         "github_stars": 24658
+      },
+      {
+        "rank": 5,
+        "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+        "authors": [
+          "Jiyan He",
+          "Guang Liang",
+          "Hao Liu"
+        ],
+        "url": "https://huggingface.co/papers/2609.13356",
+        "categories": [],
+        "upvotes": 308,
+        "published": "2026-09-10",
+        "github_repo": "https://github.com/zgcagi/ZGCM-1",
+        "github_stars": 424
       }
     ],
     "arxiv_recent": [
@@ -687,182 +687,182 @@
         "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
         "discussion_url": "https://news.ycombinator.com/item?id=49715813",
         "site": "global.fujitsu",
-        "points": 37,
-        "comments": 6,
+        "points": 332,
+        "comments": 132,
         "author": "my123",
-        "age": "1d ago"
+        "age": "2d ago"
       },
       {
         "rank": 2,
-        "id": 49737849,
-        "title": "One Year of Sponsored Servo Development",
-        "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49737849",
-        "site": "servo.org",
-        "points": 219,
-        "comments": 92,
-        "author": "AshleysBrain",
-        "age": "5h ago"
+        "id": 49743097,
+        "title": "hister",
+        "url": "https://github.com/asciimoo/hister",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743097",
+        "site": "github.com",
+        "points": 52,
+        "comments": 8,
+        "author": "bookofjoe",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49740047,
-        "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-        "url": "https://flat.social",
-        "discussion_url": "https://news.ycombinator.com/item?id=49740047",
-        "site": "flat.social",
-        "points": 30,
-        "comments": 14,
-        "author": "pawelwentpawel",
-        "age": "55m ago"
+        "id": 49742353,
+        "title": "Rate limits on GitLab.com are changing",
+        "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49742353",
+        "site": "about.gitlab.com",
+        "points": 74,
+        "comments": 65,
+        "author": "darkwater",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 49740507,
-        "title": "Canada welcomes EU proposal to become 'associate member'",
-        "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
-        "discussion_url": "https://news.ycombinator.com/item?id=49740507",
-        "site": "bbc.com",
-        "points": 34,
-        "comments": 1,
-        "author": "witweb",
-        "age": "21m ago"
+        "id": 49742355,
+        "title": "CrowdSec Source Code Leak",
+        "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+        "discussion_url": "https://news.ycombinator.com/item?id=49742355",
+        "site": "crowdsec.net",
+        "points": 45,
+        "comments": 20,
+        "author": "eccgecko",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49740330,
-        "title": "I had Gemini train its own replacement for $9",
-        "url": "https://www.petervijeh.com/projects/reddit-ner",
-        "discussion_url": "https://news.ycombinator.com/item?id=49740330",
-        "site": "petervijeh.com",
-        "points": 9,
-        "comments": 1,
-        "author": "p-s-v",
-        "age": "35m ago"
+        "id": 49742714,
+        "title": "Whoisinspace.com/",
+        "url": "https://whoisinspace.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=49742714",
+        "site": "whoisinspace.com",
+        "points": 70,
+        "comments": 31,
+        "author": "Egg-Man",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49742976,
+        "title": "Ask HN: How to recover Google auth after phone stolen?",
+        "url": "https://news.ycombinator.com/item?id=49742976",
+        "discussion_url": "https://news.ycombinator.com/item?id=49742976",
+        "site": "news.ycombinator.com",
+        "points": 45,
+        "comments": 34,
+        "author": "keymasta",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49743813,
+        "title": "Whoever's doing OpenAI's system security is just incompetent in the worst way",
+        "url": "https://news.ycombinator.com/item?id=49743813",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743813",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "SamInTheShell",
+        "age": "25m ago"
+      },
+      {
+        "rank": 3,
         "id": 49738879,
         "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
         "url": "https://news.ycombinator.com/item?id=49738879",
         "discussion_url": "https://news.ycombinator.com/item?id=49738879",
         "site": "news.ycombinator.com",
-        "points": 227,
-        "comments": 144,
+        "points": 289,
+        "comments": 231,
         "author": "jakemanger",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49686380,
-        "title": "Ask HN: What are you working on? (September 2026)",
-        "url": "https://news.ycombinator.com/item?id=49686380",
-        "discussion_url": "https://news.ycombinator.com/item?id=49686380",
-        "site": "news.ycombinator.com",
-        "points": 373,
-        "comments": 1181,
-        "author": "david927",
-        "age": "3d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49736660,
-        "title": "Open-sourced jev architecture last year with model,paper and dataset",
-        "url": "https://news.ycombinator.com/item?id=49736660",
-        "discussion_url": "https://news.ycombinator.com/item?id=49736660",
-        "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 5,
-        "author": "nandakishor_ml",
-        "age": "8h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 49724691,
-        "title": "Ask HN: What is the most career altering course or book you have gone through?",
-        "url": "https://news.ycombinator.com/item?id=49724691",
-        "discussion_url": "https://news.ycombinator.com/item?id=49724691",
+        "id": 49743493,
+        "title": "Ask HN: Co-Founder(s). Do I need any? How would I even find them?",
+        "url": "https://news.ycombinator.com/item?id=49743493",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743493",
         "site": "news.ycombinator.com",
-        "points": 13,
-        "comments": 15,
-        "author": "learner_yearner",
-        "age": "1d ago"
+        "points": 3,
+        "comments": 1,
+        "author": "bhollan",
+        "age": "52m ago"
       },
       {
         "rank": 5,
-        "id": 49733718,
-        "title": "Can I get insurance for company renting humanoids for parties?",
-        "url": "https://news.ycombinator.com/item?id=49733718",
-        "discussion_url": "https://news.ycombinator.com/item?id=49733718",
+        "id": 49743419,
+        "title": "Ask HN: What Makes Tokens Expensive?",
+        "url": "https://news.ycombinator.com/item?id=49743419",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743419",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 14,
-        "author": "cpsk",
-        "age": "15h ago"
+        "comments": 3,
+        "author": "mtokarski",
+        "age": "57m ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49740047,
-        "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-        "url": "https://flat.social",
-        "discussion_url": "https://news.ycombinator.com/item?id=49740047",
-        "site": "flat.social",
-        "points": 30,
-        "comments": 14,
-        "author": "pawelwentpawel",
-        "age": "55m ago"
-      },
-      {
-        "rank": 2,
-        "id": 49740717,
-        "title": "Show HN: Smart Mouth Billy Bass – another fishy LLM assistant",
-        "url": "https://existens.org/billy/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49740717",
-        "site": "existens.org",
-        "points": 2,
-        "comments": 0,
-        "author": "ryandrake",
-        "age": "3m ago"
-      },
-      {
-        "rank": 3,
-        "id": 49711544,
-        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "url": "https://github.com/arnegiacomo/fugleramme",
-        "discussion_url": "https://news.ycombinator.com/item?id=49711544",
-        "site": "github.com",
-        "points": 2211,
-        "comments": 246,
-        "author": "arnemunthekaas",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
         "id": 49740105,
         "title": "Show HN: Share your AI Setup, Learn from others",
         "url": "https://mysetup.ai/",
         "discussion_url": "https://news.ycombinator.com/item?id=49740105",
         "site": "mysetup.ai",
-        "points": 3,
-        "comments": 0,
+        "points": 86,
+        "comments": 47,
         "author": "steveybrown",
-        "age": "50m ago"
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49743382,
+        "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+        "url": "https://www.aclif.ai/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743382",
+        "site": "aclif.ai",
+        "points": 10,
+        "comments": 3,
+        "author": "chris_marino",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49743478,
+        "title": "Show HN: AutoBot – live voice control for long-running AI work",
+        "url": "https://github.com/demeyer1/Autobot",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743478",
+        "site": "github.com",
+        "points": 6,
+        "comments": 0,
+        "author": "demeyer1",
+        "age": "53m ago"
+      },
+      {
+        "rank": 4,
+        "id": 49740047,
+        "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+        "url": "https://flat.social",
+        "discussion_url": "https://news.ycombinator.com/item?id=49740047",
+        "site": "flat.social",
+        "points": 80,
+        "comments": 49,
+        "author": "pawelwentpawel",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 49739222,
-        "title": "Show HN: Trading on-chain with 0 gas: A <1ms DEX router at 0.50% fees",
-        "url": "https://rhopool.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49739222",
-        "site": "rhopool.com",
-        "points": 7,
+        "id": 49743932,
+        "title": "Show HN: What if you could review code without reading code?",
+        "url": "https://github.com/coldteadotai/pr-lens",
+        "discussion_url": "https://news.ycombinator.com/item?id=49743932",
+        "site": "github.com",
+        "points": 3,
         "comments": 0,
-        "author": "lachlanallen45",
-        "age": "2h ago"
+        "author": "ohans",
+        "age": "18m ago"
       }
     ]
   }
