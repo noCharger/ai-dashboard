@@ -1,31 +1,14 @@
 {
-  "generated": "2026-09-18T23:43:19Z",
+  "generated": "2026-09-19T02:01:19Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "Edge0/Edge0-35B-A3B-preview",
-        "org": "Edge0",
-        "trending_score": 2492,
-        "downloads": 52519,
-        "likes": 3397,
-        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-        "tags": [
-          "mlx",
-          "safetensors",
-          "qwen3_5_moe",
-          "moe",
-          "edge-inference"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1028,
+        "trending_score": 1021,
         "downloads": 429865,
-        "likes": 3169,
+        "likes": 3179,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -37,12 +20,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 864,
+        "trending_score": 890,
         "downloads": 405609,
-        "likes": 909,
+        "likes": 936,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -54,12 +37,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
+        "rank": 3,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 605,
+        "trending_score": 606,
         "downloads": 7358662,
-        "likes": 15647,
+        "likes": 15654,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -71,12 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "m-a-p/YuE2-3B",
         "org": "m-a-p",
-        "trending_score": 539,
+        "trending_score": 542,
         "downloads": 13668,
-        "likes": 800,
+        "likes": 808,
         "url": "https://huggingface.co/m-a-p/YuE2-3B",
         "tags": [
           "safetensors",
@@ -84,6 +67,23 @@
           "music-generation",
           "symbolic-planning",
           "agentic-editing"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "org": "ISTA-DASLab",
+        "trending_score": 469,
+        "downloads": 1078301,
+        "likes": 1340,
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "tags": [
+          "gguf",
+          "gsq",
+          "rco",
+          "quantization",
+          "mixed-precision"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 13599,
-        "stars_delta": 3019,
+        "stars": 13800,
+        "stars_delta": 3006,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -321,8 +321,8 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 146273,
-        "stars_delta": 442,
+        "stars": 146321,
+        "stars_delta": 444,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -331,8 +331,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 36637,
-        "stars_delta": 2724,
+        "stars": 36720,
+        "stars_delta": 2704,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -341,8 +341,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 262036,
-        "stars_delta": 965,
+        "stars": 262102,
+        "stars_delta": 958,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -351,8 +351,8 @@
         "name": "Tencent/BrowserSkill",
         "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
         "url": "https://github.com/Tencent/BrowserSkill",
-        "stars": 5271,
-        "stars_delta": 1319,
+        "stars": 5333,
+        "stars_delta": 1306,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 36637,
-        "stars_delta": 11489,
+        "stars": 36720,
+        "stars_delta": 14144,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -373,8 +373,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 48018,
-        "stars_delta": 10800,
+        "stars": 48067,
+        "stars_delta": 7869,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 37814,
-        "stars_delta": 14460,
+        "stars": 37861,
+        "stars_delta": 11683,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -393,8 +393,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 262036,
-        "stars_delta": 5607,
+        "stars": 262102,
+        "stars_delta": 5877,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -403,8 +403,8 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 26952,
-        "stars_delta": 3982,
+        "stars": 27009,
+        "stars_delta": 4703,
         "language": "Go",
         "language_color": "#00ADD8"
       }
@@ -415,8 +415,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 66793,
-        "stars_delta": 52260,
+        "stars": 66851,
+        "stars_delta": 52955,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -425,8 +425,8 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 41924,
-        "stars_delta": 16196,
+        "stars": 41931,
+        "stars_delta": 15994,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -435,8 +435,8 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4232,
-        "stars_delta": 3896,
+        "stars": 4235,
+        "stars_delta": 3934,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 37812,
-        "stars_delta": 16970,
+        "stars": 37829,
+        "stars_delta": 17177,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 8102,
-        "stars_delta": 5130,
+        "stars": 8110,
+        "stars_delta": 5182,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -579,7 +579,7 @@
         "upvotes": 226,
         "published": "2026-09-13",
         "github_repo": "https://github.com/zhengkid/Dream-RSI",
-        "github_stars": 678
+        "github_stars": 757
       },
       {
         "rank": 5,
@@ -682,27 +682,27 @@
     "top": [
       {
         "rank": 1,
-        "id": 49760187,
-        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-        "url": "https://code.claude.com/docs/en/changelog",
-        "discussion_url": "https://news.ycombinator.com/item?id=49760187",
-        "site": "code.claude.com",
-        "points": 392,
-        "comments": 144,
-        "author": "datadrivenangel",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
         "id": 49758736,
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "discussion_url": "https://news.ycombinator.com/item?id=49758736",
         "site": "grapheneos.social",
-        "points": 419,
-        "comments": 200,
+        "points": 541,
+        "comments": 263,
         "author": "theanonymousone",
-        "age": "4h ago"
+        "age": "6h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49754785,
+        "title": "Cloudflare Quick Tunnels",
+        "url": "https://try.cloudflare.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49754785",
+        "site": "try.cloudflare.com",
+        "points": 578,
+        "comments": 250,
+        "author": "jcbhmr",
+        "age": "11h ago"
       },
       {
         "rank": 3,
@@ -711,34 +711,34 @@
         "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
         "discussion_url": "https://news.ycombinator.com/item?id=49758580",
         "site": "blog.cloudflare.com",
-        "points": 180,
-        "comments": 36,
+        "points": 229,
+        "comments": 43,
         "author": "f311a",
-        "age": "4h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 49761432,
-        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-        "url": "https://spectrum.ieee.org/llms-for-chip-design",
-        "discussion_url": "https://news.ycombinator.com/item?id=49761432",
-        "site": "spectrum.ieee.org",
-        "points": 15,
-        "comments": 9,
-        "author": "maxall4",
-        "age": "39m ago"
+        "id": 49744036,
+        "title": "The Farnese letter",
+        "url": "https://simonklee.dk/farnese-letter",
+        "discussion_url": "https://news.ycombinator.com/item?id=49744036",
+        "site": "simonklee.dk",
+        "points": 27,
+        "comments": 5,
+        "author": "grigolin",
+        "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 49754785,
-        "title": "Cloudflare Quick Tunnels",
-        "url": "https://try.cloudflare.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49754785",
-        "site": "try.cloudflare.com",
-        "points": 525,
-        "comments": 233,
-        "author": "jcbhmr",
-        "age": "9h ago"
+        "id": 49747070,
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49747070",
+        "site": "sockpuppet.org",
+        "points": 392,
+        "comments": 270,
+        "author": "joeriddles",
+        "age": "1d ago"
       }
     ],
     "ask": [
@@ -749,10 +749,10 @@
         "url": "https://news.ycombinator.com/item?id=49756902",
         "discussion_url": "https://news.ycombinator.com/item?id=49756902",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 17,
+        "points": 9,
+        "comments": 20,
         "author": "leonardovb",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
@@ -761,7 +761,7 @@
         "url": "https://news.ycombinator.com/item?id=49742976",
         "discussion_url": "https://news.ycombinator.com/item?id=49742976",
         "site": "news.ycombinator.com",
-        "points": 109,
+        "points": 110,
         "comments": 119,
         "author": "keymasta",
         "age": "1d ago"
@@ -776,7 +776,7 @@
         "points": 3,
         "comments": 0,
         "author": "time-q",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
@@ -788,7 +788,7 @@
         "points": 2,
         "comments": 15,
         "author": "HoldOnAMinute",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
         "rank": 5,
@@ -800,7 +800,7 @@
         "points": 3,
         "comments": 6,
         "author": "amichail",
-        "age": "9h ago"
+        "age": "11h ago"
       }
     ],
     "show": [
@@ -811,58 +811,58 @@
         "url": "https://cactuscompute.com/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=49748553",
         "site": "cactuscompute.com",
-        "points": 152,
-        "comments": 72,
+        "points": 164,
+        "comments": 78,
         "author": "HenryNdubuaku",
-        "age": "23h ago"
+        "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 49762099,
+        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+        "url": "https://liveworld.info/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49762099",
+        "site": "liveworld.info",
+        "points": 8,
+        "comments": 4,
+        "author": "harisingh1612",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 49748041,
         "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
         "url": "https://scry.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=49748041",
         "site": "scry.io",
-        "points": 42,
-        "comments": 18,
+        "points": 44,
+        "comments": 21,
         "author": "Xyra",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 49762076,
+        "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
+        "url": "https://github.com/binuka200/package-doctor",
+        "discussion_url": "https://news.ycombinator.com/item?id=49762076",
+        "site": "github.com",
+        "points": 3,
+        "comments": 1,
+        "author": "binukajayaweera",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 49744416,
         "title": "Show HN: Ax-check.com – Can agents use your product?",
         "url": "https://www.ax-check.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49744416",
         "site": "ax-check.com",
-        "points": 27,
-        "comments": 31,
+        "points": 28,
+        "comments": 33,
         "author": "0x63_Problems",
         "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49757757,
-        "title": "Show HN: Jeff – A read-only CLI for semantic code review using Jev",
-        "url": "https://github.com/Alurith/jeff",
-        "discussion_url": "https://news.ycombinator.com/item?id=49757757",
-        "site": "github.com",
-        "points": 10,
-        "comments": 1,
-        "author": "imalessandro",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49760583,
-        "title": "Show HN: TypeSeer – on-device autocomplete for every text field on macOS",
-        "url": "https://typeseer.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49760583",
-        "site": "typeseer.com",
-        "points": 2,
-        "comments": 1,
-        "author": "animateus",
-        "age": "2h ago"
       }
     ]
   }
