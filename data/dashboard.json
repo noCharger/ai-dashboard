@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-19T02:01:19Z",
+  "generated": "2026-09-19T07:36:23Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1021,
+        "trending_score": 1007,
         "downloads": 429865,
-        "likes": 3179,
+        "likes": 3213,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 890,
+        "trending_score": 952,
         "downloads": 405609,
-        "likes": 936,
+        "likes": 1000,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 606,
+        "trending_score": 602,
         "downloads": 7358662,
-        "likes": 15654,
+        "likes": 15672,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "m-a-p/YuE2-3B",
         "org": "m-a-p",
-        "trending_score": 542,
+        "trending_score": 533,
         "downloads": 13668,
-        "likes": 808,
+        "likes": 823,
         "url": "https://huggingface.co/m-a-p/YuE2-3B",
         "tags": [
           "safetensors",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "org": "ISTA-DASLab",
-        "trending_score": 469,
+        "trending_score": 476,
         "downloads": 1078301,
-        "likes": 1340,
+        "likes": 1358,
         "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "tags": [
           "gguf",
@@ -96,7 +96,7 @@
         "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 67.2605488411467,
+        "speed_tps": 68.7819364918282,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 53.1840337538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 58.1928231238941,
+        "speed_tps": 55.2568671163178,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 52.814069395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 52.9133064749665,
+        "speed_tps": 55.5714393472755,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 52.5059027108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 52.9243169963677,
+        "speed_tps": 50.9458033956951,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 51.2094958852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 57.8644021976799,
+        "speed_tps": 54.2022434999114,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,7 +311,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 13800,
+        "stars": 14414,
         "stars_delta": 3006,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -321,7 +321,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 146321,
+        "stars": 146433,
         "stars_delta": 444,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 36720,
+        "stars": 36973,
         "stars_delta": 2704,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -341,7 +341,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 262102,
+        "stars": 262300,
         "stars_delta": 958,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "Tencent/BrowserSkill",
         "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
         "url": "https://github.com/Tencent/BrowserSkill",
-        "stars": 5333,
+        "stars": 5491,
         "stars_delta": 1306,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 36720,
+        "stars": 36973,
         "stars_delta": 14144,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -373,7 +373,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 48067,
+        "stars": 48293,
         "stars_delta": 7869,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 37861,
+        "stars": 38035,
         "stars_delta": 11683,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 262102,
+        "stars": 262300,
         "stars_delta": 5877,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 27009,
+        "stars": 27126,
         "stars_delta": 4703,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -415,7 +415,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 66851,
+        "stars": 66992,
         "stars_delta": 52955,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 41931,
+        "stars": 41959,
         "stars_delta": 15994,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4235,
+        "stars": 4244,
         "stars_delta": 3934,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 37829,
+        "stars": 37873,
         "stars_delta": 17177,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 8110,
+        "stars": 8133,
         "stars_delta": 5182,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -549,7 +549,7 @@
         "upvotes": 77,
         "published": "2025-03-11",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
-        "github_stars": 9673
+        "github_stars": 9727
       },
       {
         "rank": 3,
@@ -564,7 +564,7 @@
         "upvotes": 207,
         "published": "2026-08-23",
         "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-        "github_stars": 3742
+        "github_stars": 3912
       },
       {
         "rank": 4,
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+        "title": "AutoDev: Automated AI-Driven Development",
         "authors": [
-          "Honglin Guo",
-          "Tao Gui",
-          "Yicheng Chen"
+          "Michele Tufano",
+          "Anisha Agarwal",
+          "Jinu Jang"
         ],
-        "url": "https://huggingface.co/papers/2609.15818",
+        "url": "https://huggingface.co/papers/2403.08299",
         "categories": [],
-        "upvotes": 403,
-        "published": "2026-09-13",
-        "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-        "github_stars": 484
+        "upvotes": 20,
+        "published": "2024-03-13",
+        "github_repo": "https://github.com/vxcontrol/pentagi",
+        "github_stars": 24715
       }
     ],
     "arxiv_recent": [
@@ -682,68 +682,116 @@
     "top": [
       {
         "rank": 1,
+        "id": 49763697,
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763697",
+        "site": "med.stanford.edu",
+        "points": 115,
+        "comments": 30,
+        "author": "emigre",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49763987,
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763987",
+        "site": "prinzai.com",
+        "points": 33,
+        "comments": 6,
+        "author": "nsoonhui",
+        "age": "54m ago"
+      },
+      {
+        "rank": 3,
+        "id": 49763928,
+        "title": "If math is more than proof, we need to better celebrate the rest of it",
+        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763928",
+        "site": "terrytao.wordpress.com",
+        "points": 32,
+        "comments": 10,
+        "author": "num42",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49763296,
+        "title": "San Francisco Onion Futures Company",
+        "url": "https://onionfutures.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763296",
+        "site": "onionfutures.com",
+        "points": 156,
+        "comments": 55,
+        "author": "z-mach9",
+        "age": "3h ago"
+      },
+      {
+        "rank": 5,
         "id": 49758736,
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "discussion_url": "https://news.ycombinator.com/item?id=49758736",
         "site": "grapheneos.social",
-        "points": 541,
-        "comments": 263,
+        "points": 779,
+        "comments": 370,
         "author": "theanonymousone",
-        "age": "6h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49754785,
-        "title": "Cloudflare Quick Tunnels",
-        "url": "https://try.cloudflare.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49754785",
-        "site": "try.cloudflare.com",
-        "points": 578,
-        "comments": 250,
-        "author": "jcbhmr",
-        "age": "11h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49758580,
-        "title": "Saving another 100TB of RAM",
-        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49758580",
-        "site": "blog.cloudflare.com",
-        "points": 229,
-        "comments": 43,
-        "author": "f311a",
-        "age": "7h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49744036,
-        "title": "The Farnese letter",
-        "url": "https://simonklee.dk/farnese-letter",
-        "discussion_url": "https://news.ycombinator.com/item?id=49744036",
-        "site": "simonklee.dk",
-        "points": 27,
-        "comments": 5,
-        "author": "grigolin",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49747070,
-        "title": "How to Write with an LLM",
-        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49747070",
-        "site": "sockpuppet.org",
-        "points": 392,
-        "comments": 270,
-        "author": "joeriddles",
-        "age": "1d ago"
+        "age": "12h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49764057,
+        "title": "How come AI-related posts get so many points on HN?",
+        "url": "https://news.ycombinator.com/item?id=49764057",
+        "discussion_url": "https://news.ycombinator.com/item?id=49764057",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 1,
+        "author": "Muhammad523",
+        "age": "38m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49763466,
+        "title": "Ask HN: Remember N8n? Anyone?",
+        "url": "https://news.ycombinator.com/item?id=49763466",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763466",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 1,
+        "author": "sankalpdomore",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49742976,
+        "title": "Ask HN: How to recover Google auth after phone stolen?",
+        "url": "https://news.ycombinator.com/item?id=49742976",
+        "discussion_url": "https://news.ycombinator.com/item?id=49742976",
+        "site": "news.ycombinator.com",
+        "points": 112,
+        "comments": 124,
+        "author": "keymasta",
+        "age": "1d ago"
+      },
+      {
+        "rank": 4,
+        "id": 49762163,
+        "title": "What I Can Remember",
+        "url": "https://news.ycombinator.com/item?id=49762163",
+        "discussion_url": "https://news.ycombinator.com/item?id=49762163",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 2,
+        "author": "fractal618",
+        "age": "6h ago"
+      },
+      {
+        "rank": 5,
         "id": 49756902,
         "title": "My Thoughts on AI and LLMs",
         "url": "https://news.ycombinator.com/item?id=49756902",
@@ -752,55 +800,7 @@
         "points": 9,
         "comments": 20,
         "author": "leonardovb",
-        "age": "9h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49742976,
-        "title": "Ask HN: How to recover Google auth after phone stolen?",
-        "url": "https://news.ycombinator.com/item?id=49742976",
-        "discussion_url": "https://news.ycombinator.com/item?id=49742976",
-        "site": "news.ycombinator.com",
-        "points": 110,
-        "comments": 119,
-        "author": "keymasta",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49756851,
-        "title": "ESP32 p4 pico and IMX477 camera",
-        "url": "https://news.ycombinator.com/item?id=49756851",
-        "discussion_url": "https://news.ycombinator.com/item?id=49756851",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "time-q",
-        "age": "9h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49755575,
-        "title": "Ask HN: What happens when Claude Code goes away?",
-        "url": "https://news.ycombinator.com/item?id=49755575",
-        "discussion_url": "https://news.ycombinator.com/item?id=49755575",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 15,
-        "author": "HoldOnAMinute",
-        "age": "10h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49755126,
-        "title": "Ask HN: Have you stopped underestimating AI yet?",
-        "url": "https://news.ycombinator.com/item?id=49755126",
-        "discussion_url": "https://news.ycombinator.com/item?id=49755126",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 6,
-        "author": "amichail",
-        "age": "11h ago"
+        "age": "14h ago"
       }
     ],
     "show": [
@@ -811,22 +811,22 @@
         "url": "https://cactuscompute.com/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=49748553",
         "site": "cactuscompute.com",
-        "points": 164,
-        "comments": 78,
+        "points": 195,
+        "comments": 87,
         "author": "HenryNdubuaku",
         "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 49762099,
-        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-        "url": "https://liveworld.info/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49762099",
-        "site": "liveworld.info",
-        "points": 8,
-        "comments": 4,
-        "author": "harisingh1612",
-        "age": "1h ago"
+        "id": 49711544,
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "discussion_url": "https://news.ycombinator.com/item?id=49711544",
+        "site": "github.com",
+        "points": 2327,
+        "comments": 256,
+        "author": "arnemunthekaas",
+        "age": "3d ago"
       },
       {
         "rank": 3,
@@ -835,22 +835,22 @@
         "url": "https://scry.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=49748041",
         "site": "scry.io",
-        "points": 44,
-        "comments": 21,
+        "points": 48,
+        "comments": 23,
         "author": "Xyra",
         "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 49762076,
-        "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
-        "url": "https://github.com/binuka200/package-doctor",
-        "discussion_url": "https://news.ycombinator.com/item?id=49762076",
-        "site": "github.com",
-        "points": 3,
-        "comments": 1,
-        "author": "binukajayaweera",
-        "age": "1h ago"
+        "id": 49762099,
+        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+        "url": "https://liveworld.info/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49762099",
+        "site": "liveworld.info",
+        "points": 30,
+        "comments": 29,
+        "author": "harisingh1612",
+        "age": "7h ago"
       },
       {
         "rank": 5,
@@ -859,8 +859,8 @@
         "url": "https://www.ax-check.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49744416",
         "site": "ax-check.com",
-        "points": 28,
-        "comments": 33,
+        "points": 30,
+        "comments": 35,
         "author": "0x63_Problems",
         "age": "1d ago"
       }
