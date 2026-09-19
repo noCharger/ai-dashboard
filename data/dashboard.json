@@ -1,31 +1,14 @@
 {
-  "generated": "2026-09-19T10:38:43Z",
+  "generated": "2026-09-19T12:07:39Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "org": "deepseek-ai",
-        "trending_score": 1006,
-        "downloads": 482270,
-        "likes": 3243,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v41",
-          "text-generation",
-          "image-text-to-text"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 996,
+        "trending_score": 1015,
         "downloads": 1516960,
-        "likes": 1046,
+        "likes": 1066,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "org": "deepseek-ai",
+        "trending_score": 1000,
+        "downloads": 482270,
+        "likes": 3247,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v41",
+          "text-generation",
+          "image-text-to-text"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 611,
+        "trending_score": 610,
         "downloads": 7365368,
-        "likes": 15693,
+        "likes": 15702,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "m-a-p/YuE2-3B",
         "org": "m-a-p",
-        "trending_score": 534,
+        "trending_score": 533,
         "downloads": 15446,
-        "likes": 838,
+        "likes": 844,
         "url": "https://huggingface.co/m-a-p/YuE2-3B",
         "tags": [
           "safetensors",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "org": "ISTA-DASLab",
-        "trending_score": 494,
-        "downloads": 1154265,
-        "likes": 1380,
-        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "name": "XingChen-AGI/Xing4.0-29B-A4B",
+        "org": "XingChen-AGI",
+        "trending_score": 498,
+        "downloads": 7278,
+        "likes": 570,
+        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
-          "gguf",
-          "gsq",
-          "rco",
-          "quantization",
-          "mixed-precision"
+          "transformers",
+          "safetensors",
+          "xing4_0",
+          "text-generation",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 14820,
+        "stars": 14997,
         "stars_delta": 3006,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -321,7 +321,7 @@
         "name": "trycua/cua",
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "url": "https://github.com/trycua/cua",
-        "stars": 23830,
+        "stars": 23875,
         "stars_delta": 383,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -331,7 +331,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 96631,
+        "stars": 96672,
         "stars_delta": 675,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "coder/coder",
         "description": "Secure environments for developers and their agents",
         "url": "https://github.com/coder/coder",
-        "stars": 15428,
+        "stars": 15440,
         "stars_delta": 478,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -351,7 +351,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 146490,
+        "stars": 146517,
         "stars_delta": 444,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 37117,
+        "stars": 37170,
         "stars_delta": 14144,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -373,7 +373,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 146490,
+        "stars": 146517,
         "stars_delta": 1620,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 262440,
+        "stars": 262504,
         "stars_delta": 5877,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 27194,
+        "stars": 27209,
         "stars_delta": 4703,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 38157,
+        "stars": 38208,
         "stars_delta": 11683,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 67060,
+        "stars": 67102,
         "stars_delta": 52955,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 41970,
+        "stars": 41976,
         "stars_delta": 15994,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4246,
+        "stars": 4247,
         "stars_delta": 3934,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 37901,
+        "stars": 37910,
         "stars_delta": 17177,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 32750,
+        "stars": 32756,
         "stars_delta": 21890,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -579,22 +579,22 @@
         "upvotes": 228,
         "published": "2026-09-13",
         "github_repo": "https://github.com/zhengkid/Dream-RSI",
-        "github_stars": 757
+        "github_stars": 821
       },
       {
         "rank": 5,
-        "title": "AutoDev: Automated AI-Driven Development",
+        "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
         "authors": [
-          "Michele Tufano",
-          "Anisha Agarwal",
-          "Jinu Jang"
+          "Honglin Guo",
+          "Tao Gui",
+          "Yicheng Chen"
         ],
-        "url": "https://huggingface.co/papers/2403.08299",
+        "url": "https://huggingface.co/papers/2609.15818",
         "categories": [],
-        "upvotes": 20,
-        "published": "2024-03-13",
-        "github_repo": "https://github.com/vxcontrol/pentagi",
-        "github_stars": 24715
+        "upvotes": 407,
+        "published": "2026-09-13",
+        "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
+        "github_stars": 494
       }
     ],
     "arxiv_recent": [
@@ -682,39 +682,39 @@
     "top": [
       {
         "rank": 1,
-        "id": 49764791,
-        "title": "AI-generated posters don’t have to be horrible",
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49764791",
-        "site": "john.hartnup.uk",
-        "points": 73,
-        "comments": 43,
-        "author": "ereiamjh",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 49763697,
         "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
         "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49763697",
         "site": "med.stanford.edu",
-        "points": 244,
-        "comments": 104,
+        "points": 300,
+        "comments": 114,
         "author": "emigre",
-        "age": "4h ago"
+        "age": "6h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49764791,
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49764791",
+        "site": "john.hartnup.uk",
+        "points": 260,
+        "comments": 168,
+        "author": "ereiamjh",
+        "age": "2h ago"
       },
       {
         "rank": 3,
-        "id": 49763928,
-        "title": "If math is more than proof, we need to better celebrate the rest of it",
-        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49763928",
-        "site": "terrytao.wordpress.com",
-        "points": 104,
-        "comments": 73,
-        "author": "num42",
-        "age": "4h ago"
+        "id": 49720143,
+        "title": "“The Secret Life of Circuits” is here",
+        "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+        "discussion_url": "https://news.ycombinator.com/item?id=49720143",
+        "site": "blog.coredump.cx",
+        "points": 75,
+        "comments": 26,
+        "author": "surprisetalk",
+        "age": "3d ago"
       },
       {
         "rank": 4,
@@ -723,10 +723,10 @@
         "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
         "discussion_url": "https://news.ycombinator.com/item?id=49763987",
         "site": "prinzai.com",
-        "points": 123,
-        "comments": 60,
+        "points": 150,
+        "comments": 81,
         "author": "nsoonhui",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
         "rank": 5,
@@ -735,27 +735,39 @@
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "discussion_url": "https://news.ycombinator.com/item?id=49758736",
         "site": "grapheneos.social",
-        "points": 851,
-        "comments": 421,
+        "points": 877,
+        "comments": 450,
         "author": "theanonymousone",
-        "age": "15h ago"
+        "age": "17h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49765426,
+        "title": "TimeCodeSecurity – Deterministic AST SAST and Auto-Remediation for Python",
+        "url": "https://news.ycombinator.com/item?id=49765426",
+        "discussion_url": "https://news.ycombinator.com/item?id=49765426",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "AyushGaur",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49764468,
         "title": "Stripe Withholding Balance of $100000",
         "url": "https://news.ycombinator.com/item?id=49764468",
         "discussion_url": "https://news.ycombinator.com/item?id=49764468",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 7,
+        "points": 5,
+        "comments": 10,
         "author": "zenkoakishaga",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49763466,
         "title": "Ask HN: Remember N8n? Anyone?",
         "url": "https://news.ycombinator.com/item?id=49763466",
@@ -764,19 +776,7 @@
         "points": 4,
         "comments": 3,
         "author": "sankalpdomore",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49764285,
-        "title": "Tell HN: You Can Use \"Screen Mirroring\" in EU on iOS 27 via Xcode and Device Hub",
-        "url": "https://news.ycombinator.com/item?id=49764285",
-        "discussion_url": "https://news.ycombinator.com/item?id=49764285",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 2,
-        "author": "giuliomagnifico",
-        "age": "2h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -786,21 +786,21 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49742976",
         "site": "news.ycombinator.com",
         "points": 113,
-        "comments": 124,
+        "comments": 125,
         "author": "keymasta",
         "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 49762163,
-        "title": "What I Can Remember",
-        "url": "https://news.ycombinator.com/item?id=49762163",
-        "discussion_url": "https://news.ycombinator.com/item?id=49762163",
+        "id": 49764285,
+        "title": "Tell HN: You Can Use \"Screen Mirroring\" in EU on iOS 27 via Xcode and Device Hub",
+        "url": "https://news.ycombinator.com/item?id=49764285",
+        "discussion_url": "https://news.ycombinator.com/item?id=49764285",
         "site": "news.ycombinator.com",
         "points": 4,
         "comments": 2,
-        "author": "fractal618",
-        "age": "9h ago"
+        "author": "giuliomagnifico",
+        "age": "4h ago"
       }
     ],
     "show": [
@@ -811,7 +811,7 @@
         "url": "https://cactuscompute.com/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=49748553",
         "site": "cactuscompute.com",
-        "points": 198,
+        "points": 200,
         "comments": 89,
         "author": "HenryNdubuaku",
         "age": "1d ago"
@@ -835,7 +835,7 @@
         "url": "https://scry.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=49748041",
         "site": "scry.io",
-        "points": 52,
+        "points": 55,
         "comments": 23,
         "author": "Xyra",
         "age": "1d ago"
@@ -848,21 +848,21 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49744416",
         "site": "ax-check.com",
         "points": 32,
-        "comments": 37,
+        "comments": 38,
         "author": "0x63_Problems",
         "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 49757757,
-        "title": "Show HN: Jeff – A read-only CLI for semantic code review using Jev",
-        "url": "https://github.com/Alurith/jeff",
-        "discussion_url": "https://news.ycombinator.com/item?id=49757757",
-        "site": "github.com",
-        "points": 23,
-        "comments": 3,
-        "author": "imalessandro",
-        "age": "16h ago"
+        "id": 49762099,
+        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+        "url": "https://liveworld.info/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49762099",
+        "site": "liveworld.info",
+        "points": 34,
+        "comments": 31,
+        "author": "harisingh1612",
+        "age": "11h ago"
       }
     ]
   }
