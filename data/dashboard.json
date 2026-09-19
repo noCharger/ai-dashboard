@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-19T12:07:39Z",
+  "generated": "2026-09-19T16:08:31Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 1015,
+        "trending_score": 1056,
         "downloads": 1516960,
-        "likes": 1066,
+        "likes": 1116,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash",
         "org": "deepseek-ai",
-        "trending_score": 1000,
+        "trending_score": 983,
         "downloads": 482270,
-        "likes": 3247,
+        "likes": 3267,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
           "transformers",
@@ -42,7 +42,7 @@
         "org": "Qwen",
         "trending_score": 610,
         "downloads": 7365368,
-        "likes": 15702,
+        "likes": 15721,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "m-a-p/YuE2-3B",
-        "org": "m-a-p",
-        "trending_score": 533,
-        "downloads": 15446,
-        "likes": 844,
-        "url": "https://huggingface.co/m-a-p/YuE2-3B",
-        "tags": [
-          "safetensors",
-          "yue2",
-          "music-generation",
-          "symbolic-planning",
-          "agentic-editing"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 498,
+        "trending_score": 537,
         "downloads": 7278,
-        "likes": 570,
+        "likes": 610,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "xing4_0",
           "text-generation",
           "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "m-a-p/YuE2-3B",
+        "org": "m-a-p",
+        "trending_score": 524,
+        "downloads": 15446,
+        "likes": 857,
+        "url": "https://huggingface.co/m-a-p/YuE2-3B",
+        "tags": [
+          "safetensors",
+          "yue2",
+          "music-generation",
+          "symbolic-planning",
+          "agentic-editing"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 53.3737509623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.7819364918282,
+        "speed_tps": 68.254490377266,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 52.814069395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 55.5714393472755,
+        "speed_tps": 57.1003667134167,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 52.5059027108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 50.9458033956951,
+        "speed_tps": 51.2097849671953,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
@@ -311,8 +311,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 14997,
-        "stars_delta": 3006,
+        "stars": 15584,
+        "stars_delta": 3162,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -321,7 +321,7 @@
         "name": "trycua/cua",
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "url": "https://github.com/trycua/cua",
-        "stars": 23875,
+        "stars": 24052,
         "stars_delta": 383,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -331,8 +331,8 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 96672,
-        "stars_delta": 675,
+        "stars": 96817,
+        "stars_delta": 547,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -341,8 +341,8 @@
         "name": "coder/coder",
         "description": "Secure environments for developers and their agents",
         "url": "https://github.com/coder/coder",
-        "stars": 15440,
-        "stars_delta": 478,
+        "stars": 15507,
+        "stars_delta": 406,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -351,8 +351,8 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 146517,
-        "stars_delta": 444,
+        "stars": 146591,
+        "stars_delta": 482,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,7 +363,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 37170,
+        "stars": 37337,
         "stars_delta": 14144,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -373,7 +373,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 146517,
+        "stars": 146591,
         "stars_delta": 1620,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 262504,
+        "stars": 262661,
         "stars_delta": 5877,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 27209,
+        "stars": 27323,
         "stars_delta": 4703,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 38208,
+        "stars": 38369,
         "stars_delta": 11683,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 67102,
+        "stars": 67252,
         "stars_delta": 52955,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 41976,
+        "stars": 42059,
         "stars_delta": 15994,
         "language": "Shell",
         "language_color": "#89e051"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4247,
+        "stars": 4258,
         "stars_delta": 3934,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 37910,
+        "stars": 37958,
         "stars_delta": 17177,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 32756,
+        "stars": 32782,
         "stars_delta": 21890,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -549,7 +549,7 @@
         "upvotes": 77,
         "published": "2025-03-11",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
-        "github_stars": 9727
+        "github_stars": 9772
       },
       {
         "rank": 3,
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+        "title": "A decoder-only foundation model for time-series forecasting",
         "authors": [
-          "Honglin Guo",
-          "Tao Gui",
-          "Yicheng Chen"
+          "Abhimanyu Das",
+          "Weihao Kong",
+          "Rajat Sen"
         ],
-        "url": "https://huggingface.co/papers/2609.15818",
+        "url": "https://huggingface.co/papers/2310.10688",
         "categories": [],
-        "upvotes": 407,
-        "published": "2026-09-13",
-        "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-        "github_stars": 494
+        "upvotes": 42,
+        "published": "2023-10-14",
+        "github_repo": "https://github.com/google-research/timesfm",
+        "github_stars": 33156
       }
     ],
     "arxiv_recent": [
@@ -682,104 +682,80 @@
     "top": [
       {
         "rank": 1,
-        "id": 49763697,
-        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49763697",
-        "site": "med.stanford.edu",
-        "points": 300,
-        "comments": 114,
-        "author": "emigre",
-        "age": "6h ago"
+        "id": 49765348,
+        "title": "Laya the open source version of Jev",
+        "url": "https://laya.convaiinnovations.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49765348",
+        "site": "laya.convaiinnovations.com",
+        "points": 449,
+        "comments": 104,
+        "author": "nandakishor_ml",
+        "age": "5h ago"
       },
       {
         "rank": 2,
+        "id": 49766676,
+        "title": "A graphical desktop for the ZX Spectrum",
+        "url": "https://github.com/mindbox77/zxdesk",
+        "discussion_url": "https://news.ycombinator.com/item?id=49766676",
+        "site": "github.com",
+        "points": 56,
+        "comments": 30,
+        "author": "graemep",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 49764791,
         "title": "AI-generated posters don’t have to be horrible",
         "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49764791",
         "site": "john.hartnup.uk",
-        "points": 260,
-        "comments": 168,
+        "points": 686,
+        "comments": 405,
         "author": "ereiamjh",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49720143,
-        "title": "“The Secret Life of Circuits” is here",
-        "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-        "discussion_url": "https://news.ycombinator.com/item?id=49720143",
-        "site": "blog.coredump.cx",
-        "points": 75,
-        "comments": 26,
-        "author": "surprisetalk",
-        "age": "3d ago"
+        "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 49763987,
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "discussion_url": "https://news.ycombinator.com/item?id=49763987",
-        "site": "prinzai.com",
-        "points": 150,
-        "comments": 81,
-        "author": "nsoonhui",
-        "age": "5h ago"
+        "id": 49766611,
+        "title": "Tin: full-text search for Postgres",
+        "url": "https://planetscale.com/blog/introducing-tin",
+        "discussion_url": "https://news.ycombinator.com/item?id=49766611",
+        "site": "planetscale.com",
+        "points": 59,
+        "comments": 17,
+        "author": "ksec",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49758736,
-        "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "discussion_url": "https://news.ycombinator.com/item?id=49758736",
-        "site": "grapheneos.social",
-        "points": 877,
-        "comments": 450,
-        "author": "theanonymousone",
-        "age": "17h ago"
+        "id": 49763697,
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763697",
+        "site": "med.stanford.edu",
+        "points": 462,
+        "comments": 174,
+        "author": "emigre",
+        "age": "10h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49765426,
-        "title": "TimeCodeSecurity – Deterministic AST SAST and Auto-Remediation for Python",
-        "url": "https://news.ycombinator.com/item?id=49765426",
-        "discussion_url": "https://news.ycombinator.com/item?id=49765426",
+        "id": 49764727,
+        "title": "Ask HN: Losing motivation to work in the IT field, need advice",
+        "url": "https://news.ycombinator.com/item?id=49764727",
+        "discussion_url": "https://news.ycombinator.com/item?id=49764727",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "AyushGaur",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49764468,
-        "title": "Stripe Withholding Balance of $100000",
-        "url": "https://news.ycombinator.com/item?id=49764468",
-        "discussion_url": "https://news.ycombinator.com/item?id=49764468",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 10,
-        "author": "zenkoakishaga",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49763466,
-        "title": "Ask HN: Remember N8n? Anyone?",
-        "url": "https://news.ycombinator.com/item?id=49763466",
-        "discussion_url": "https://news.ycombinator.com/item?id=49763466",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 3,
-        "author": "sankalpdomore",
+        "points": 9,
+        "comments": 2,
+        "author": "trowa159",
         "age": "7h ago"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "id": 49742976,
         "title": "Ask HN: How to recover Google auth after phone stolen?",
         "url": "https://news.ycombinator.com/item?id=49742976",
@@ -791,6 +767,30 @@
         "age": "1d ago"
       },
       {
+        "rank": 3,
+        "id": 49763466,
+        "title": "Ask HN: Remember N8n? Anyone?",
+        "url": "https://news.ycombinator.com/item?id=49763466",
+        "discussion_url": "https://news.ycombinator.com/item?id=49763466",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 3,
+        "author": "sankalpdomore",
+        "age": "11h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49756902,
+        "title": "My Thoughts on AI and LLMs",
+        "url": "https://news.ycombinator.com/item?id=49756902",
+        "discussion_url": "https://news.ycombinator.com/item?id=49756902",
+        "site": "news.ycombinator.com",
+        "points": 11,
+        "comments": 20,
+        "author": "leonardovb",
+        "age": "23h ago"
+      },
+      {
         "rank": 5,
         "id": 49764285,
         "title": "Tell HN: You Can Use \"Screen Mirroring\" in EU on iOS 27 via Xcode and Device Hub",
@@ -800,69 +800,69 @@
         "points": 4,
         "comments": 2,
         "author": "giuliomagnifico",
-        "age": "4h ago"
+        "age": "8h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49767360,
+        "title": "Show HN: CrabBoss, radio automation software",
+        "url": "https://crabboss.vercel.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49767360",
+        "site": "crabboss.vercel.app",
+        "points": 2,
+        "comments": 0,
+        "author": "sonyarianto",
+        "age": "38m ago"
+      },
+      {
+        "rank": 2,
         "id": 49748553,
         "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
         "url": "https://cactuscompute.com/needle",
         "discussion_url": "https://news.ycombinator.com/item?id=49748553",
         "site": "cactuscompute.com",
-        "points": 200,
+        "points": 213,
         "comments": 89,
         "author": "HenryNdubuaku",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 49744174,
+        "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+        "url": "https://github.com/Tackx/c8-ass",
+        "discussion_url": "https://news.ycombinator.com/item?id=49744174",
+        "site": "github.com",
+        "points": 23,
+        "comments": 4,
+        "author": "tack1234",
+        "age": "1d ago"
+      },
+      {
+        "rank": 4,
         "id": 49711544,
         "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "url": "https://github.com/arnegiacomo/fugleramme",
         "discussion_url": "https://news.ycombinator.com/item?id=49711544",
         "site": "github.com",
-        "points": 2330,
-        "comments": 256,
+        "points": 2337,
+        "comments": 259,
         "author": "arnemunthekaas",
-        "age": "3d ago"
+        "age": "4d ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49748041,
         "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
         "url": "https://scry.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=49748041",
         "site": "scry.io",
-        "points": 55,
+        "points": 58,
         "comments": 23,
         "author": "Xyra",
         "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49744416,
-        "title": "Show HN: Ax-check.com – Can agents use your product?",
-        "url": "https://www.ax-check.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49744416",
-        "site": "ax-check.com",
-        "points": 32,
-        "comments": 38,
-        "author": "0x63_Problems",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49762099,
-        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-        "url": "https://liveworld.info/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49762099",
-        "site": "liveworld.info",
-        "points": 34,
-        "comments": 31,
-        "author": "harisingh1612",
-        "age": "11h ago"
       }
     ]
   }
