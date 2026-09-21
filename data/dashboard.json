@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-21T02:05:54Z",
+  "generated": "2026-09-21T08:18:10Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 1398,
+        "trending_score": 1470,
         "downloads": 1908396,
-        "likes": 1508,
+        "likes": 1588,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 1103,
+        "trending_score": 1293,
         "downloads": 0,
-        "likes": 1123,
+        "likes": 1319,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -38,18 +38,18 @@
       },
       {
         "rank": 3,
-        "name": "deepseek-ai/DeepSeek-V4.1-Flash",
-        "org": "deepseek-ai",
-        "trending_score": 893,
-        "downloads": 496684,
-        "likes": 3438,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "name": "Qwen/Qwen-Image-2.1",
+        "org": "Qwen",
+        "trending_score": 1016,
+        "downloads": 183,
+        "likes": 1038,
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
-          "transformers",
+          "diffusers",
           "safetensors",
-          "deepseek_v41",
-          "text-generation",
-          "image-text-to-text"
+          "qwen",
+          "image-generation",
+          "image-editing"
         ],
         "rank_change": null
       },
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 800,
+        "trending_score": 862,
         "downloads": 12617,
-        "likes": 900,
+        "likes": 962,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Qwen/Qwen-Image-2.1",
-        "org": "Qwen",
-        "trending_score": 795,
-        "downloads": 183,
-        "likes": 803,
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "name": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "org": "deepseek-ai",
+        "trending_score": 848,
+        "downloads": 496684,
+        "likes": 3459,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
         "tags": [
-          "diffusers",
+          "transformers",
           "safetensors",
-          "qwen",
-          "image-generation",
-          "image-editing"
+          "deepseek_v41",
+          "text-generation",
+          "image-text-to-text"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.7301566560472,
+        "speed_tps": 69.7099812403457,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 53.2032587538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 62.7970404159794,
+        "speed_tps": 64.3948151016412,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 52.673669395513,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.6953851694483,
+        "speed_tps": 70.7637640117344,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 52.3863277108782,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 62.7774954105387,
+        "speed_tps": 65.7866733635805,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 51.1515708852237,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 57.6622942717658,
+        "speed_tps": 59.1084042949167,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
@@ -311,7 +311,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 263797,
+        "stars": 264133,
         "stars_delta": 826,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -321,7 +321,7 @@
         "name": "BuilderIO/agent-native",
         "description": "A framework for building agentic apps",
         "url": "https://github.com/BuilderIO/agent-native",
-        "stars": 5250,
+        "stars": 5469,
         "stars_delta": 98,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 18089,
+        "stars": 18427,
         "stars_delta": 2428,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "trycua/cua",
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "url": "https://github.com/trycua/cua",
-        "stars": 25184,
+        "stars": 25376,
         "stars_delta": 1018,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -351,7 +351,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 35396,
+        "stars": 35548,
         "stars_delta": 260,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 38451,
+        "stars": 38730,
         "stars_delta": 15504,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -373,7 +373,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 147161,
+        "stars": 147319,
         "stars_delta": 2342,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 263797,
+        "stars": 264133,
         "stars_delta": 6453,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 28052,
+        "stars": 28260,
         "stars_delta": 5242,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 97725,
+        "stars": 97896,
         "stars_delta": 3986,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 68310,
+        "stars": 68611,
         "stars_delta": 53904,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 38212,
+        "stars": 38306,
         "stars_delta": 17511,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/claude-plugins-community",
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "url": "https://github.com/anthropics/claude-plugins-community",
-        "stars": 4312,
+        "stars": 4330,
         "stars_delta": 4010,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "omacom/omarchy",
         "description": "Beautiful, Modern & Opinionated Linux",
         "url": "https://github.com/omacom/omarchy",
-        "stars": 42385,
+        "stars": 42428,
         "stars_delta": 15720,
         "language": "Shell",
         "language_color": "#89e051"
@@ -455,7 +455,7 @@
         "name": "freestylefly/awesome-gpt-image-2",
         "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "stars": 33005,
+        "stars": 33070,
         "stars_delta": 22015,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 142,
+        "upvotes": 143,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 107779
@@ -546,28 +546,13 @@
         ],
         "url": "https://huggingface.co/papers/2503.11576",
         "categories": [],
-        "upvotes": 175,
+        "upvotes": 176,
         "published": "2025-03-14",
         "github_repo": "https://github.com/docling-project/docling",
         "github_stars": 67425
       },
       {
         "rank": 3,
-        "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-        "authors": [
-          "Apodex Team",
-          "B. An",
-          "B. Li"
-        ],
-        "url": "https://huggingface.co/papers/2608.23283",
-        "categories": [],
-        "upvotes": 208,
-        "published": "2026-08-23",
-        "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-        "github_stars": 4188
-      },
-      {
-        "rank": 4,
         "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
         "authors": [
           "Ruibin Yuan",
@@ -576,10 +561,25 @@
         ],
         "url": "https://huggingface.co/papers/2503.08638",
         "categories": [],
-        "upvotes": 77,
+        "upvotes": 78,
         "published": "2025-03-11",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
         "github_stars": 9923
+      },
+      {
+        "rank": 4,
+        "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+        "authors": [
+          "Apodex Team",
+          "B. An",
+          "B. Li"
+        ],
+        "url": "https://huggingface.co/papers/2608.23283",
+        "categories": [],
+        "upvotes": 209,
+        "published": "2026-08-23",
+        "github_repo": "https://github.com/ApodexAI/FrontierAgent",
+        "github_stars": 4231
       },
       {
         "rank": 5,
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.20519",
         "categories": [],
-        "upvotes": 94,
+        "upvotes": 95,
         "published": "2026-09-16",
         "github_repo": "https://github.com/NVlabs/SoL-Pi",
         "github_stars": 2656
@@ -678,187 +678,187 @@
     "top": [
       {
         "rank": 1,
-        "id": 49780797,
-        "title": "Google's Open Agentic Orchestrator",
-        "url": "https://agentexecutor.io",
-        "discussion_url": "https://news.ycombinator.com/item?id=49780797",
-        "site": "agentexecutor.io",
-        "points": 206,
-        "comments": 88,
-        "author": "blazarquasar",
-        "age": "3h ago"
+        "id": 49783495,
+        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "discussion_url": "https://news.ycombinator.com/item?id=49783495",
+        "site": "gameshelf.jmac.org",
+        "points": 126,
+        "comments": 22,
+        "author": "kelseyfrog",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49780820,
-        "title": "What happened to the Snowden archive",
-        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-        "discussion_url": "https://news.ycombinator.com/item?id=49780820",
-        "site": "libroot.org",
-        "points": 173,
-        "comments": 74,
-        "author": "EXHades",
-        "age": "3h ago"
+        "id": 49780797,
+        "title": "AX – Google’s Open Agentic Orchestrator",
+        "url": "https://agentexecutor.io",
+        "discussion_url": "https://news.ycombinator.com/item?id=49780797",
+        "site": "agentexecutor.io",
+        "points": 458,
+        "comments": 188,
+        "author": "blazarquasar",
+        "age": "9h ago"
       },
       {
         "rank": 3,
+        "id": 49783999,
+        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "url": "https://github.com/jaredpalmer/kev/tree/main",
+        "discussion_url": "https://news.ycombinator.com/item?id=49783999",
+        "site": "github.com",
+        "points": 29,
+        "comments": 16,
+        "author": "tosh",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 49778029,
         "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
         "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
         "discussion_url": "https://news.ycombinator.com/item?id=49778029",
         "site": "en.sedaily.com",
-        "points": 354,
-        "comments": 227,
+        "points": 455,
+        "comments": 295,
         "author": "giuliomagnifico",
-        "age": "8h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49776729,
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49776729",
-        "site": "buchodi.com",
-        "points": 607,
-        "comments": 321,
-        "author": "lmbbuchodi",
-        "age": "10h ago"
+        "age": "14h ago"
       },
       {
         "rank": 5,
-        "id": 49775499,
-        "title": "Qwen Image 2.1",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "discussion_url": "https://news.ycombinator.com/item?id=49775499",
-        "site": "qwen.ai",
-        "points": 503,
-        "comments": 152,
-        "author": "jmillikin",
-        "age": "12h ago"
+        "id": 49780820,
+        "title": "What happened to the Snowden archive",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "discussion_url": "https://news.ycombinator.com/item?id=49780820",
+        "site": "libroot.org",
+        "points": 393,
+        "comments": 260,
+        "author": "EXHades",
+        "age": "9h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49783865,
+        "title": "Ask HN: My recent show HN post got flagged need guidance",
+        "url": "https://news.ycombinator.com/item?id=49783865",
+        "discussion_url": "https://news.ycombinator.com/item?id=49783865",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 4,
+        "author": "theguysudo",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49783039,
+        "title": "Knowledge Refresh for Production RAG",
+        "url": "https://news.ycombinator.com/item?id=49783039",
+        "discussion_url": "https://news.ycombinator.com/item?id=49783039",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "rajkumarsamra",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49783224,
+        "title": "OSS, security and Funding: libjpeg-turbo",
+        "url": "https://news.ycombinator.com/item?id=49783224",
+        "discussion_url": "https://news.ycombinator.com/item?id=49783224",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 2,
+        "author": "ternaus",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49768826,
+        "title": "Ask HN: How do you interview devs in a post-AI world?",
+        "url": "https://news.ycombinator.com/item?id=49768826",
+        "discussion_url": "https://news.ycombinator.com/item?id=49768826",
+        "site": "news.ycombinator.com",
+        "points": 42,
+        "comments": 33,
+        "author": "mdwelsh",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
         "id": 49777234,
         "title": "Ask HN: Diablo 4 on Ubuntu?",
         "url": "https://news.ycombinator.com/item?id=49777234",
         "discussion_url": "https://news.ycombinator.com/item?id=49777234",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 6,
-        "author": "herodoturtle",
-        "age": "9h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49768826,
-        "title": "Ask HN: How do you interview devs in a post-AI world?",
-        "url": "https://news.ycombinator.com/item?id=49768826",
-        "discussion_url": "https://news.ycombinator.com/item?id=49768826",
-        "site": "news.ycombinator.com",
-        "points": 41,
-        "comments": 33,
-        "author": "mdwelsh",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49742976,
-        "title": "Ask HN: How to recover Google auth after phone stolen?",
-        "url": "https://news.ycombinator.com/item?id=49742976",
-        "discussion_url": "https://news.ycombinator.com/item?id=49742976",
-        "site": "news.ycombinator.com",
-        "points": 117,
-        "comments": 128,
-        "author": "keymasta",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49772922,
-        "title": "Some Thoughts on the Economics of UPI and MDR",
-        "url": "https://news.ycombinator.com/item?id=49772922",
-        "discussion_url": "https://news.ycombinator.com/item?id=49772922",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "pyeri",
-        "age": "19h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49763466,
-        "title": "Ask HN: Remember N8n? Anyone?",
-        "url": "https://news.ycombinator.com/item?id=49763466",
-        "discussion_url": "https://news.ycombinator.com/item?id=49763466",
-        "site": "news.ycombinator.com",
-        "points": 8,
         "comments": 7,
-        "author": "sankalpdomore",
-        "age": "1d ago"
+        "author": "herodoturtle",
+        "age": "16h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49783133,
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49783133",
+        "site": "github.com",
+        "points": 39,
+        "comments": 5,
+        "author": "volotat",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49776523,
         "title": "Show HN: A competition for small neural networks that play strategy games",
         "url": "https://tinybrains.dev",
         "discussion_url": "https://news.ycombinator.com/item?id=49776523",
         "site": "tinybrains.dev",
-        "points": 39,
-        "comments": 11,
+        "points": 64,
+        "comments": 18,
         "author": "codetiger",
-        "age": "11h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49777539,
         "title": "Show HN: Radius – A Meetup.com Alternative",
         "url": "https://radius.to/",
         "discussion_url": "https://news.ycombinator.com/item?id=49777539",
         "site": "radius.to",
-        "points": 103,
-        "comments": 40,
+        "points": 131,
+        "comments": 54,
         "author": "radius89",
-        "age": "9h ago"
+        "age": "15h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 49781727,
+        "title": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter",
+        "url": "https://github.com/behdad/gdocs-me-up",
+        "discussion_url": "https://news.ycombinator.com/item?id=49781727",
+        "site": "github.com",
+        "points": 9,
+        "comments": 2,
+        "author": "behdad",
+        "age": "7h ago"
+      },
+      {
+        "rank": 5,
         "id": 49780849,
         "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
         "url": "https://github.com/openlayer-ai/jevals",
         "discussion_url": "https://news.ycombinator.com/item?id=49780849",
         "site": "github.com",
-        "points": 7,
+        "points": 17,
         "comments": 0,
         "author": "gbayomi",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49765354,
-        "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
-        "url": "https://sigabrt.dev",
-        "discussion_url": "https://news.ycombinator.com/item?id=49765354",
-        "site": "sigabrt.dev",
-        "points": 70,
-        "comments": 33,
-        "author": "4815162342",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49781032,
-        "title": "Show HN: Lightspeed, build real time apps the Laravel way (+asteroids demo)",
-        "url": "https://news.ycombinator.com/item?id=49781032",
-        "discussion_url": "https://news.ycombinator.com/item?id=49781032",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 2,
-        "author": "jv22222",
-        "age": "3h ago"
+        "age": "9h ago"
       }
     ]
   }
