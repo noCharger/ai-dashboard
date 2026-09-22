@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-22T13:44:32Z",
+  "generated": "2026-09-22T17:48:27Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 2171,
+        "trending_score": 2311,
         "downloads": 0,
-        "likes": 2244,
+        "likes": 2394,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
         "org": "prism-ml",
-        "trending_score": 1669,
+        "trending_score": 1691,
         "downloads": 2569604,
-        "likes": 1821,
+        "likes": 1845,
         "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
         "tags": [
           "llama.cpp",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen-Image-2.1",
         "org": "Qwen",
-        "trending_score": 1597,
+        "trending_score": 1649,
         "downloads": 16242,
-        "likes": 1669,
+        "likes": 1729,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
           "diffusers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 1160,
+        "trending_score": 1210,
         "downloads": 30627,
-        "likes": 1261,
+        "likes": 1311,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "abenzerps/Qwen-Image-2.1-GGUF",
         "org": "abenzerps",
-        "trending_score": 819,
+        "trending_score": 904,
         "downloads": 182313,
-        "likes": 908,
+        "likes": 1002,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF",
         "tags": [
           "gguf",
@@ -91,58 +91,58 @@
     "benchmark": [
       {
         "rank": 1,
+        "name": "Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 57.6223698102963,
+        "price_input": 4,
+        "price_output": 20,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
+      },
+      {
+        "rank": 2,
+        "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 55.9873505840139,
+        "price_input": 4,
+        "price_output": 20,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
+      },
+      {
+        "rank": 3,
+        "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 53.5831959822067,
+        "price_input": 4,
+        "price_output": 20,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
+      },
+      {
+        "rank": 4,
         "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 65.8180596366938,
+        "speed_tps": 65.6523226650527,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.2032587538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 61.8045334564068,
+        "speed_tps": 60.9146622200934,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
-      },
-      {
-        "rank": 3,
-        "name": "GPT-6 Astra (max)",
-        "org": "OpenAI",
-        "intelligence_index": 52.673669395513,
-        "price_input": 10,
-        "price_output": 50,
-        "speed_tps": 65.2837342272819,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/gpt-6-astra"
-      },
-      {
-        "rank": 4,
-        "name": "GPT-6 Astra (xhigh)",
-        "org": "OpenAI",
-        "intelligence_index": 52.3863277108782,
-        "price_input": 10,
-        "price_output": 50,
-        "speed_tps": 54.8870667234266,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/gpt-6-astra-xhigh"
-      },
-      {
-        "rank": 5,
-        "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
-        "org": "Anthropic",
-        "intelligence_index": 51.1515708852237,
-        "price_input": 10,
-        "price_output": 50,
-        "speed_tps": 55.7654120908769,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-high"
       }
     ]
   },
@@ -311,7 +311,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 36098,
+        "stars": 36207,
         "stars_delta": 436,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,8 +321,8 @@
         "name": "agent-substrate/substrate",
         "description": "Agent Substrate: the core system",
         "url": "https://github.com/agent-substrate/substrate",
-        "stars": 2758,
-        "stars_delta": 498,
+        "stars": 2850,
+        "stars_delta": 301,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -331,7 +331,7 @@
         "name": "dream-num/univer",
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
         "url": "https://github.com/dream-num/univer",
-        "stars": 15009,
+        "stars": 15171,
         "stars_delta": 202,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,8 +341,8 @@
         "name": "davila7/claude-code-templates",
         "description": "CLI tool for configuring and monitoring Claude Code",
         "url": "https://github.com/davila7/claude-code-templates",
-        "stars": 30953,
-        "stars_delta": 33,
+        "stars": 31013,
+        "stars_delta": 113,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,7 +351,7 @@
         "name": "google/ax",
         "description": "Google's open agentic orchestration runtime",
         "url": "https://github.com/google/ax",
-        "stars": 6958,
+        "stars": 7271,
         "stars_delta": 2324,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -363,7 +363,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 39559,
+        "stars": 39657,
         "stars_delta": 14499,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -373,7 +373,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 147585,
+        "stars": 147620,
         "stars_delta": 2731,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 28818,
+        "stars": 28887,
         "stars_delta": 5455,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -393,7 +393,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 265094,
+        "stars": 265235,
         "stars_delta": 6865,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 25401,
+        "stars": 25414,
         "stars_delta": 1350,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 69629,
+        "stars": 69757,
         "stars_delta": 54494,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 38544,
+        "stars": 38580,
         "stars_delta": 17721,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 19736,
+        "stars": 19955,
         "stars_delta": 15924,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 8380,
+        "stars": 8398,
         "stars_delta": 4224,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 34158,
+        "stars": 34287,
         "stars_delta": 22973,
         "language": "Python",
         "language_color": "#3572A5"
@@ -523,6 +523,36 @@
     "hf_trending": [
       {
         "rank": 1,
+        "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+        "authors": [
+          "Wangbo Yu",
+          "Kunhao Liu",
+          "Wenbo Hu"
+        ],
+        "url": "https://huggingface.co/papers/2609.24984",
+        "categories": [],
+        "upvotes": 108,
+        "published": "2026-09-20",
+        "github_repo": "https://github.com/TencentARC/WorldCrafter",
+        "github_stars": 194
+      },
+      {
+        "rank": 2,
+        "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+        "authors": [
+          "Yiran Wang",
+          "Xingyilang Yin",
+          "Junfu Pu"
+        ],
+        "url": "https://huggingface.co/papers/2609.25001",
+        "categories": [],
+        "upvotes": 107,
+        "published": "2026-09-20",
+        "github_repo": "https://github.com/TencentARC/GameHorizon",
+        "github_stars": 126
+      },
+      {
+        "rank": 3,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -531,13 +561,13 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 144,
+        "upvotes": 143,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 108013
       },
       {
-        "rank": 2,
+        "rank": 4,
         "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
         "authors": [
           "Ahmed Nassar",
@@ -552,7 +582,7 @@
         "github_stars": 67593
       },
       {
-        "rank": 3,
+        "rank": 5,
         "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
         "authors": [
           "Apodex Team",
@@ -565,36 +595,6 @@
         "published": "2026-08-23",
         "github_repo": "https://github.com/ApodexAI/FrontierAgent",
         "github_stars": 4389
-      },
-      {
-        "rank": 4,
-        "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
-        "authors": [
-          "Ruibin Yuan",
-          "Hanfeng Lin",
-          "Shuyue Guo"
-        ],
-        "url": "https://huggingface.co/papers/2503.08638",
-        "categories": [],
-        "upvotes": 78,
-        "published": "2025-03-11",
-        "github_repo": "https://github.com/multimodal-art-projection/YuE",
-        "github_stars": 10046
-      },
-      {
-        "rank": 5,
-        "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-        "authors": [
-          "Haozhe Liu",
-          "Tian Ye",
-          "Sensen Gao"
-        ],
-        "url": "https://huggingface.co/papers/2609.20519",
-        "categories": [],
-        "upvotes": 108,
-        "published": "2026-09-16",
-        "github_repo": "https://github.com/NVlabs/SoL-Pi",
-        "github_stars": 2843
       }
     ],
     "arxiv_recent": [
@@ -683,80 +683,104 @@
     "top": [
       {
         "rank": 1,
-        "id": 49799965,
-        "title": "AI Has No Wisdom and Neither Will You",
-        "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49799965",
-        "site": "alexn.org",
-        "points": 171,
-        "comments": 221,
-        "author": "dimonomid",
+        "id": 49803892,
+        "title": "Claude Opus 5.5",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "discussion_url": "https://news.ycombinator.com/item?id=49803892",
+        "site": "anthropic.com",
+        "points": 335,
+        "comments": 404,
+        "author": "km144",
         "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49797323,
-        "title": "Can gzip be a language model?",
-        "url": "https://nathan.rs/posts/gzip-lm/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49797323",
-        "site": "nathan.rs",
-        "points": 247,
-        "comments": 90,
-        "author": "networked",
-        "age": "7h ago"
+        "id": 49801324,
+        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49801324",
+        "site": "cryptocellar.org",
+        "points": 355,
+        "comments": 280,
+        "author": "sohkamyung",
+        "age": "3h ago"
       },
       {
         "rank": 3,
-        "id": 49792730,
-        "title": "MiMo v2.6",
-        "url": "https://mimo.xiaomi.com/mimo-v2-6",
-        "discussion_url": "https://news.ycombinator.com/item?id=49792730",
-        "site": "mimo.xiaomi.com",
-        "points": 974,
-        "comments": 439,
-        "author": "volf_",
-        "age": "17h ago"
+        "id": 49804683,
+        "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+        "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+        "discussion_url": "https://news.ycombinator.com/item?id=49804683",
+        "site": "grapheneos.social",
+        "points": 35,
+        "comments": 7,
+        "author": "Cider9986",
+        "age": "35m ago"
       },
       {
         "rank": 4,
-        "id": 49794615,
-        "title": "Spymarks, Not Watermarks",
-        "url": "https://brand.io/article/spymarks/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49794615",
-        "site": "brand.io",
-        "points": 545,
-        "comments": 132,
-        "author": "possibilistic",
-        "age": "14h ago"
+        "id": 49804316,
+        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+        "discussion_url": "https://news.ycombinator.com/item?id=49804316",
+        "site": "artificialanalysis.ai",
+        "points": 43,
+        "comments": 22,
+        "author": "theanonymousone",
+        "age": "56m ago"
       },
       {
         "rank": 5,
-        "id": 49798204,
-        "title": "AMD's random number generator can't generate a 0?",
-        "url": "https://board.flatassembler.net/topic.php?t=24261",
-        "discussion_url": "https://news.ycombinator.com/item?id=49798204",
-        "site": "board.flatassembler.net",
-        "points": 148,
-        "comments": 98,
-        "author": "BruceEel",
-        "age": "5h ago"
+        "id": 49803959,
+        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+        "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+        "discussion_url": "https://news.ycombinator.com/item?id=49803959",
+        "site": "github.com",
+        "points": 37,
+        "comments": 14,
+        "author": "vntok",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49804573,
+        "title": "Ask HN: How do your teams share and distribute agent skills?",
+        "url": "https://news.ycombinator.com/item?id=49804573",
+        "discussion_url": "https://news.ycombinator.com/item?id=49804573",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "juanviera23",
+        "age": "40m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49802417,
+        "title": "Ask HN: Should we still learn coding?",
+        "url": "https://news.ycombinator.com/item?id=49802417",
+        "discussion_url": "https://news.ycombinator.com/item?id=49802417",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 17,
+        "author": "NarcisMirandes",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 49786609,
         "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
         "url": "https://news.ycombinator.com/item?id=49786609",
         "discussion_url": "https://news.ycombinator.com/item?id=49786609",
         "site": "news.ycombinator.com",
-        "points": 147,
-        "comments": 77,
+        "points": 148,
+        "comments": 81,
         "author": "semidror",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "id": 49787069,
         "title": "When Claude CLI asks for feedback, responding authorizes conversation capture",
         "url": "https://news.ycombinator.com/item?id=49787069",
@@ -768,102 +792,78 @@
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49798699,
         "title": "Is Claude 20x actually 20x?",
         "url": "https://news.ycombinator.com/item?id=49798699",
         "discussion_url": "https://news.ycombinator.com/item?id=49798699",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "ko3us",
-        "age": "3h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49798435,
-        "title": "Ask HN: What do you expect from the next 5 years of AI?",
-        "url": "https://news.ycombinator.com/item?id=49798435",
-        "discussion_url": "https://news.ycombinator.com/item?id=49798435",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 5,
-        "author": "msuniverse2026",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49797801,
-        "title": "How people are testing AI agents?",
-        "url": "https://news.ycombinator.com/item?id=49797801",
-        "discussion_url": "https://news.ycombinator.com/item?id=49797801",
-        "site": "news.ycombinator.com",
         "points": 4,
         "comments": 2,
-        "author": "sanathbhat",
-        "age": "6h ago"
+        "author": "ko3us",
+        "age": "7h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49799267,
-        "title": "Show HN: Watch all the AI agents on your machine",
-        "url": "https://github.com/markwylde/all-your-agents",
-        "discussion_url": "https://news.ycombinator.com/item?id=49799267",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "turblety",
-        "age": "2h ago"
+        "id": 49801329,
+        "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+        "url": "https://droprun.sh/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49801329",
+        "site": "droprun.sh",
+        "points": 106,
+        "comments": 34,
+        "author": "mixedbit",
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 49799241,
-        "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
-        "url": "https://atlas-sysdes.vercel.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49799241",
-        "site": "atlas-sysdes.vercel.app",
-        "points": 3,
-        "comments": 1,
-        "author": "mertkahyaoglu",
-        "age": "2h ago"
+        "id": 49803683,
+        "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+        "url": "https://ai-rete-rag.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49803683",
+        "site": "ai-rete-rag.com",
+        "points": 14,
+        "comments": 0,
+        "author": "ZaharaHussain",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49783133,
-        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-        "url": "https://github.com/volotat/mini-AGI/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49783133",
+        "id": 49802789,
+        "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+        "url": "https://github.com/General-Instinct/InstinctFlash",
+        "discussion_url": "https://news.ycombinator.com/item?id=49802789",
         "site": "github.com",
-        "points": 266,
-        "comments": 68,
-        "author": "volotat",
-        "age": "1d ago"
+        "points": 8,
+        "comments": 0,
+        "author": "guanming0717",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 49789356,
-        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-        "url": "https://github.com/naw103/foremerge",
-        "discussion_url": "https://news.ycombinator.com/item?id=49789356",
+        "id": 49804217,
+        "title": "Show HN: graf (1000x faster graphify in Rust)",
+        "url": "https://github.com/ctxrs/graf",
+        "discussion_url": "https://news.ycombinator.com/item?id=49804217",
         "site": "github.com",
-        "points": 43,
-        "comments": 14,
-        "author": "naw103",
-        "age": "21h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "ripped_britches",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49786419,
-        "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-        "url": "https://github.com/aru-labs/lossless-memory",
-        "discussion_url": "https://news.ycombinator.com/item?id=49786419",
+        "id": 49802776,
+        "title": "Show HN: OpenMCP – An open, code-first fork of the Model Context Protocol",
+        "url": "https://github.com/enclawed/omcp",
+        "discussion_url": "https://news.ycombinator.com/item?id=49802776",
         "site": "github.com",
-        "points": 63,
-        "comments": 28,
-        "author": "aru-labs",
-        "age": "1d ago"
+        "points": 2,
+        "comments": 0,
+        "author": "enclawed",
+        "age": "2h ago"
       }
     ]
   }
