@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-25T05:54:29Z",
+  "generated": "2026-09-25T10:43:52Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 3296,
+        "trending_score": 3330,
         "downloads": 0,
-        "likes": 3457,
+        "likes": 3512,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen-Image-2.1",
         "org": "Qwen",
-        "trending_score": 2072,
-        "downloads": 37618,
-        "likes": 2220,
+        "trending_score": 2097,
+        "downloads": 42469,
+        "likes": 2252,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
           "diffusers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "org": "prism-ml",
-        "trending_score": 1517,
-        "downloads": 2991233,
-        "likes": 2043,
-        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "tags": [
-          "llama.cpp",
-          "gguf",
-          "ternary",
-          "2-bit",
-          "llama-cpp"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 1456,
-        "downloads": 575697,
-        "likes": 1658,
+        "trending_score": 1487,
+        "downloads": 715906,
+        "likes": 1699,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "org": "prism-ml",
+        "trending_score": 1350,
+        "downloads": 3109078,
+        "likes": 2056,
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "tags": [
+          "llama.cpp",
+          "gguf",
+          "ternary",
+          "2-bit",
+          "llama-cpp"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 1331,
-        "downloads": 41923,
-        "likes": 1648,
+        "trending_score": 1235,
+        "downloads": 42950,
+        "likes": 1652,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -118,7 +118,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 88.5685738606751,
+        "speed_tps": 86.687625582155,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.7387480637071,
+        "speed_tps": 69.0653763549526,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.2032587538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 60.3923014408044,
+        "speed_tps": 59.4954539648332,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
@@ -311,7 +311,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 56793,
+        "stars": 57050,
         "stars_delta": 347,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 28145,
+        "stars": 28469,
         "stars_delta": 1668,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "dream-num/univer",
         "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
         "url": "https://github.com/dream-num/univer",
-        "stars": 17952,
+        "stars": 18092,
         "stars_delta": 1082,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "google/ax",
         "description": "Google's open agentic orchestration runtime",
         "url": "https://github.com/google/ax",
-        "stars": 10710,
+        "stars": 11009,
         "stars_delta": 1373,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -351,7 +351,7 @@
         "name": "NVIDIA/Model-Optimizer",
         "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre",
         "url": "https://github.com/NVIDIA/Model-Optimizer",
-        "stars": 4151,
+        "stars": 4232,
         "stars_delta": 44,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 37420,
+        "stars": 37474,
         "stars_delta": 2382,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 40927,
+        "stars": 41068,
         "stars_delta": 6920,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -383,7 +383,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 147997,
+        "stars": 148017,
         "stars_delta": 2384,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 267044,
+        "stars": 267168,
         "stars_delta": 6193,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 29804,
+        "stars": 29884,
         "stars_delta": 3749,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -415,7 +415,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 42581,
+        "stars": 42714,
         "stars_delta": 41715,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 21379,
+        "stars": 21452,
         "stars_delta": 18441,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 71322,
+        "stars": 71419,
         "stars_delta": 56351,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 38974,
+        "stars": 38984,
         "stars_delta": 18202,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 40927,
+        "stars": 41068,
         "stars_delta": 19583,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -564,7 +564,7 @@
         "upvotes": 177,
         "published": "2025-03-14",
         "github_repo": "https://github.com/docling-project/docling",
-        "github_stars": 67864
+        "github_stars": 67915
       },
       {
         "rank": 4,
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.24981",
         "categories": [],
-        "upvotes": 46,
+        "upvotes": 47,
         "published": "2026-09-20",
         "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
         "github_stars": 294
@@ -680,80 +680,116 @@
     "top": [
       {
         "rank": 1,
-        "id": 49840314,
-        "title": "Goodbye Google",
-        "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49840314",
-        "site": "robert.ocallahan.org",
-        "points": 42,
-        "comments": 14,
-        "author": "Murmuring9087",
-        "age": "1h ago"
+        "id": 49841563,
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "url": "https://www.dawo.community/en/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49841563",
+        "site": "dawo.community",
+        "points": 208,
+        "comments": 86,
+        "author": "fjfaase",
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 49841285,
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "discussion_url": "https://news.ycombinator.com/item?id=49841285",
+        "site": "nyaa.sh",
+        "points": 70,
+        "comments": 23,
+        "author": "hugh4life",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49842270,
+        "title": "Ink and Switch Interactive Homepage",
+        "url": "https://www.inkandswitch.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49842270",
+        "site": "inkandswitch.com",
+        "points": 20,
+        "comments": 1,
+        "author": "iFreilicht",
+        "age": "53m ago"
+      },
+      {
+        "rank": 4,
         "id": 49831968,
         "title": "F-Droid 2.0",
         "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49831968",
         "site": "f-droid.org",
-        "points": 1091,
-        "comments": 288,
+        "points": 1261,
+        "comments": 362,
         "author": "daveoc64",
-        "age": "14h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49823738,
-        "title": "Show HN: Make cursed fonts like Times New Bastard",
-        "url": "https://bastardica.mitpit.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49823738",
-        "site": "bastardica.mitpit.com",
-        "points": 579,
-        "comments": 80,
-        "author": "MitPitt",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49833867,
-        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-        "url": "https://github.com/devdotfast/whiteboard",
-        "discussion_url": "https://news.ycombinator.com/item?id=49833867",
-        "site": "github.com",
-        "points": 256,
-        "comments": 96,
-        "author": "sidharthkmenon",
-        "age": "12h ago"
+        "age": "19h ago"
       },
       {
         "rank": 5,
-        "id": 49832938,
-        "title": "Why is the liver so weirdly regenerative?",
-        "url": "https://dynomight.substack.com/p/liver",
-        "discussion_url": "https://news.ycombinator.com/item?id=49832938",
-        "site": "dynomight.substack.com",
-        "points": 346,
-        "comments": 177,
-        "author": "jbotz",
-        "age": "13h ago"
+        "id": 49841115,
+        "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+        "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+        "discussion_url": "https://news.ycombinator.com/item?id=49841115",
+        "site": "safateam.com",
+        "points": 52,
+        "comments": 14,
+        "author": "safateam",
+        "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49839866,
+        "title": "Ask HN: Who is smarter than you that you listen to what they have to say?",
+        "url": "https://news.ycombinator.com/item?id=49839866",
+        "discussion_url": "https://news.ycombinator.com/item?id=49839866",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 6,
+        "author": "SMAAART",
+        "age": "7h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49841605,
+        "title": "OpenAI $500 ProMax plan listed in API",
+        "url": "https://news.ycombinator.com/item?id=49841605",
+        "discussion_url": "https://news.ycombinator.com/item?id=49841605",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 5,
+        "author": "GustavHartz",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 49836294,
         "title": "Ask HN: How would you know if you have learned something?",
         "url": "https://news.ycombinator.com/item?id=49836294",
         "discussion_url": "https://news.ycombinator.com/item?id=49836294",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 1,
+        "points": 6,
+        "comments": 6,
         "author": "rearview",
-        "age": "9h ago"
+        "age": "14h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "id": 49826029,
+        "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
+        "url": "https://news.ycombinator.com/item?id=49826029",
+        "discussion_url": "https://news.ycombinator.com/item?id=49826029",
+        "site": "news.ycombinator.com",
+        "points": 26,
+        "comments": 33,
+        "author": "platevoltage",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
         "id": 49835866,
         "title": "Any nerds out there who've read a lot of research papers?",
         "url": "https://news.ycombinator.com/item?id=49835866",
@@ -762,43 +798,7 @@
         "points": 4,
         "comments": 11,
         "author": "shriy-singh",
-        "age": "10h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49826029,
-        "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
-        "url": "https://news.ycombinator.com/item?id=49826029",
-        "discussion_url": "https://news.ycombinator.com/item?id=49826029",
-        "site": "news.ycombinator.com",
-        "points": 25,
-        "comments": 32,
-        "author": "platevoltage",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49833541,
-        "title": "Ask HN: Are .shop domains down?",
-        "url": "https://news.ycombinator.com/item?id=49833541",
-        "discussion_url": "https://news.ycombinator.com/item?id=49833541",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 6,
-        "author": "esher",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49786609,
-        "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-        "url": "https://news.ycombinator.com/item?id=49786609",
-        "discussion_url": "https://news.ycombinator.com/item?id=49786609",
-        "site": "news.ycombinator.com",
-        "points": 152,
-        "comments": 85,
-        "author": "semidror",
-        "age": "3d ago"
+        "age": "15h ago"
       }
     ],
     "show": [
@@ -809,8 +809,8 @@
         "url": "https://bastardica.mitpit.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49823738",
         "site": "bastardica.mitpit.com",
-        "points": 579,
-        "comments": 80,
+        "points": 715,
+        "comments": 95,
         "author": "MitPitt",
         "age": "1d ago"
       },
@@ -821,10 +821,10 @@
         "url": "https://github.com/devdotfast/whiteboard",
         "discussion_url": "https://news.ycombinator.com/item?id=49833867",
         "site": "github.com",
-        "points": 256,
-        "comments": 96,
+        "points": 318,
+        "comments": 118,
         "author": "sidharthkmenon",
-        "age": "12h ago"
+        "age": "17h ago"
       },
       {
         "rank": 3,
@@ -833,10 +833,10 @@
         "url": "https://cms-sfx-demo.apeleg.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49827375",
         "site": "cms-sfx-demo.apeleg.com",
-        "points": 55,
-        "comments": 17,
+        "points": 72,
+        "comments": 23,
         "author": "emurlin",
-        "age": "22h ago"
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -845,22 +845,22 @@
         "url": "https://koi.rest",
         "discussion_url": "https://news.ycombinator.com/item?id=49837006",
         "site": "koi.rest",
-        "points": 160,
-        "comments": 41,
+        "points": 186,
+        "comments": 54,
         "author": "hxii",
-        "age": "8h ago"
+        "age": "13h ago"
       },
       {
         "rank": 5,
-        "id": 49821438,
-        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-        "url": "https://github.com/Parcha-ai/agentrun",
-        "discussion_url": "https://news.ycombinator.com/item?id=49821438",
+        "id": 49841469,
+        "title": "Show HN: Can an AI agent bypass a post-quantum signed authorization policy?",
+        "url": "https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX",
+        "discussion_url": "https://news.ycombinator.com/item?id=49841469",
         "site": "github.com",
-        "points": 41,
-        "comments": 10,
-        "author": "miguelrios",
-        "age": "1d ago"
+        "points": 3,
+        "comments": 0,
+        "author": "max-russo",
+        "age": "2h ago"
       }
     ]
   }
