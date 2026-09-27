@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-27T03:55:50Z",
+  "generated": "2026-09-27T09:38:24Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 3127,
+        "trending_score": 3019,
         "downloads": 0,
-        "likes": 3914,
+        "likes": 3966,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen-Image-2.1",
         "org": "Qwen",
-        "trending_score": 2218,
-        "downloads": 48361,
-        "likes": 2406,
+        "trending_score": 2235,
+        "downloads": 52804,
+        "likes": 2426,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
           "diffusers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 1690,
-        "downloads": 876673,
-        "likes": 1950,
+        "trending_score": 1724,
+        "downloads": 964220,
+        "likes": 1991,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 1022,
-        "downloads": 43947,
-        "likes": 1728,
+        "trending_score": 987,
+        "downloads": 45028,
+        "likes": 1759,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-        "org": "prism-ml",
-        "trending_score": 779,
-        "downloads": 3247527,
-        "likes": 2145,
-        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "name": "Edge0/Audio8-ASR-Infinite",
+        "org": "Edge0",
+        "trending_score": 778,
+        "downloads": 19434,
+        "likes": 878,
+        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "tags": [
-          "llama.cpp",
-          "gguf",
-          "ternary",
-          "2-bit",
-          "llama-cpp"
+          "transformers",
+          "safetensors",
+          "audio8_asr_infinite",
+          "text-generation",
+          "streaming"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": null,
+        "speed_tps": "$undefined",
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 87.8027982060208,
+        "speed_tps": 87.6918287066583,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 81.7464065289097,
+        "speed_tps": 80.8688502550388,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 68.7387480637071,
+        "speed_tps": 68.4121197724616,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.2032587538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 65.7825352214867,
+        "speed_tps": 64.8742323826275,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 37722,
+        "stars": 37758,
         "stars_delta": 2633,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22058,
+        "stars": 22135,
         "stars_delta": 6474,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -383,7 +383,7 @@
         "name": "anthropics/claude-code",
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
         "url": "https://github.com/anthropics/claude-code",
-        "stars": 148234,
+        "stars": 148263,
         "stars_delta": 1744,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 87631,
+        "stars": 88188,
         "stars_delta": 5376,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 32543,
+        "stars": 34549,
         "stars_delta": 7282,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 43618,
+        "stars": 43741,
         "stars_delta": 38582,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22058,
+        "stars": 22135,
         "stars_delta": 19124,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 72334,
+        "stars": 72449,
         "stars_delta": 55722,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "THU-MAIC/OpenMAIC",
         "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "url": "https://github.com/THU-MAIC/OpenMAIC",
-        "stars": 39168,
+        "stars": 39197,
         "stars_delta": 18374,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 41649,
+        "stars": 41738,
         "stars_delta": 20421,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -534,7 +534,7 @@
         "upvotes": 14,
         "published": "2026-02-09",
         "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-        "github_stars": 4701
+        "github_stars": 4830
       },
       {
         "rank": 2,
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.24984",
         "categories": [],
-        "upvotes": 152,
+        "upvotes": 155,
         "published": "2026-09-20",
         "github_repo": "https://github.com/TencentARC/WorldCrafter",
         "github_stars": 357
@@ -579,7 +579,7 @@
         "upvotes": 177,
         "published": "2025-03-14",
         "github_repo": "https://github.com/docling-project/docling",
-        "github_stars": 67991
+        "github_stars": 68014
       },
       {
         "rank": 5,
@@ -594,7 +594,7 @@
         "upvotes": 89,
         "published": "2024-07-23",
         "github_repo": "https://github.com/opendevin/opendevin",
-        "github_stars": 89224
+        "github_stars": 89255
       }
     ],
     "arxiv_recent": [
@@ -680,63 +680,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 49842764,
-        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-        "url": "https://github.com/InfinityLoop1308/PipePipe",
-        "discussion_url": "https://news.ycombinator.com/item?id=49842764",
-        "site": "github.com",
-        "points": 341,
-        "comments": 192,
-        "author": "Qision",
-        "age": "1d ago"
+        "id": 49863864,
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49863864",
+        "site": "authorsguild.org",
+        "points": 135,
+        "comments": 90,
+        "author": "papergirl",
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 49859112,
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "discussion_url": "https://news.ycombinator.com/item?id=49859112",
-        "site": "arxiv.org",
-        "points": 184,
-        "comments": 57,
-        "author": "shenli3514",
-        "age": "9h ago"
+        "id": 49864642,
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49864642",
+        "site": "reddit.com",
+        "points": 51,
+        "comments": 15,
+        "author": "rbanffy",
+        "age": "54m ago"
       },
       {
         "rank": 3,
-        "id": 49856988,
-        "title": "Go Concurrency Distilled",
-        "url": "https://antonz.org/go-concurrency-distilled/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49856988",
-        "site": "antonz.org",
-        "points": 69,
-        "comments": 19,
-        "author": "chmaynard",
-        "age": "13h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49858513,
-        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "url": "https://github.com/reladraw/reladraw",
-        "discussion_url": "https://news.ycombinator.com/item?id=49858513",
-        "site": "github.com",
-        "points": 213,
-        "comments": 61,
-        "author": "jpwalsh234",
-        "age": "10h ago"
-      },
-      {
-        "rank": 5,
         "id": 49844657,
         "title": "Does Georgism work? Five years later",
         "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
         "discussion_url": "https://news.ycombinator.com/item?id=49844657",
         "site": "astralcodexten.com",
-        "points": 194,
-        "comments": 126,
+        "points": 333,
+        "comments": 242,
         "author": "silveraxe93",
         "age": "1d ago"
+      },
+      {
+        "rank": 4,
+        "id": 49854219,
+        "title": "Flip Fluid on Flip Dots",
+        "url": "https://mitxela.com/projects/flipflip",
+        "discussion_url": "https://news.ycombinator.com/item?id=49854219",
+        "site": "mitxela.com",
+        "points": 76,
+        "comments": 9,
+        "author": "blutack",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 49856988,
+        "title": "Go Concurrency Distilled",
+        "url": "https://antonz.org/go-concurrency-distilled/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49856988",
+        "site": "antonz.org",
+        "points": 216,
+        "comments": 77,
+        "author": "chmaynard",
+        "age": "19h ago"
       }
     ],
     "ask": [
@@ -747,8 +747,8 @@
         "url": "https://news.ycombinator.com/item?id=49848955",
         "discussion_url": "https://news.ycombinator.com/item?id=49848955",
         "site": "news.ycombinator.com",
-        "points": 247,
-        "comments": 267,
+        "points": 253,
+        "comments": 275,
         "author": "mlaux",
         "age": "1d ago"
       },
@@ -759,10 +759,10 @@
         "url": "https://news.ycombinator.com/item?id=49862453",
         "discussion_url": "https://news.ycombinator.com/item?id=49862453",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 7,
+        "points": 4,
+        "comments": 12,
         "author": "SMAAART",
-        "age": "2h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -809,57 +809,57 @@
         "url": "https://github.com/reladraw/reladraw",
         "discussion_url": "https://news.ycombinator.com/item?id=49858513",
         "site": "github.com",
-        "points": 213,
-        "comments": 61,
+        "points": 300,
+        "comments": 82,
         "author": "jpwalsh234",
-        "age": "10h ago"
+        "age": "16h ago"
       },
       {
         "rank": 2,
+        "id": 49864380,
+        "title": "Show HN: An interactive debugger for the Mornington Crescent esolang",
+        "url": "https://codeberg.org/Two9A/mcresc",
+        "discussion_url": "https://news.ycombinator.com/item?id=49864380",
+        "site": "codeberg.org",
+        "points": 3,
+        "comments": 0,
+        "author": "Two9A",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49864205,
+        "title": "Show HN: Ppgrid – Rasterising points in minutes, not hours",
+        "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49864205",
+        "site": "mrzk.io",
+        "points": 2,
+        "comments": 0,
+        "author": "marzukia",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 49845172,
         "title": "Show HN: Jev Plays Pokémon Red",
         "url": "https://jev-pokemon.vercel.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=49845172",
         "site": "jev-pokemon.vercel.app",
-        "points": 262,
-        "comments": 110,
+        "points": 263,
+        "comments": 114,
         "author": "pancomplex",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49849986,
         "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
         "url": "https://www.gptbeyond.com/try?home=1",
         "discussion_url": "https://news.ycombinator.com/item?id=49849986",
         "site": "gptbeyond.com",
-        "points": 27,
-        "comments": 8,
+        "points": 33,
+        "comments": 9,
         "author": "kdautaj",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49857528,
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
-        "url": "https://github.com/brumar/chess-postmortem-skills",
-        "discussion_url": "https://news.ycombinator.com/item?id=49857528",
-        "site": "github.com",
-        "points": 72,
-        "comments": 53,
-        "author": "brumar",
-        "age": "12h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49844497,
-        "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-        "url": "https://hackeratlas.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49844497",
-        "site": "hackeratlas.com",
-        "points": 82,
-        "comments": 26,
-        "author": "andrearitossa",
         "age": "1d ago"
       }
     ]
