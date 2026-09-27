@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-27T14:53:29Z",
+  "generated": "2026-09-27T18:44:38Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 2964,
+        "trending_score": 2904,
         "downloads": 0,
-        "likes": 4019,
+        "likes": 4057,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "Qwen/Qwen-Image-2.1",
-        "org": "Qwen",
-        "trending_score": 1986,
-        "downloads": 52804,
-        "likes": 2454,
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-        "tags": [
-          "diffusers",
-          "safetensors",
-          "qwen",
-          "image-generation",
-          "image-editing"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 1753,
+        "trending_score": 1757,
         "downloads": 964220,
-        "likes": 2025,
+        "likes": 2046,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Qwen/Qwen-Image-2.1",
+        "org": "Qwen",
+        "trending_score": 1744,
+        "downloads": 52804,
+        "likes": 2472,
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "qwen",
+          "image-generation",
+          "image-editing"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 960,
+        "trending_score": 930,
         "downloads": 45028,
-        "likes": 1774,
+        "likes": 1777,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Edge0/Audio8-ASR-Infinite",
         "org": "Edge0",
-        "trending_score": 859,
+        "trending_score": 867,
         "downloads": 19434,
-        "likes": 969,
+        "likes": 977,
         "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": "$undefined",
+        "speed_tps": 93.8187268602416,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 81.7464065289097,
+        "speed_tps": 80.8688502550388,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.2032587538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 65.7825352214867,
+        "speed_tps": 66.7693921590246,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
@@ -311,7 +311,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 88801,
+        "stars": 89285,
         "stars_delta": 2527,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 35781,
+        "stars": 36841,
         "stars_delta": 4463,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 38986,
+        "stars": 39505,
         "stars_delta": 3060,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 58880,
+        "stars": 59057,
         "stars_delta": 848,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "InfinityLoop1308/PipePipe",
         "description": "An open-source Android app to let you browse YouTube and other services freely.",
         "url": "https://github.com/InfinityLoop1308/PipePipe",
-        "stars": 6430,
+        "stars": 6497,
         "stars_delta": 139,
         "language": "Shell",
         "language_color": "#89e051"
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 37788,
+        "stars": 37828,
         "stars_delta": 2633,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 88801,
+        "stars": 89285,
         "stars_delta": 5376,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 35781,
+        "stars": 36841,
         "stars_delta": 7282,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22217,
+        "stars": 22267,
         "stars_delta": 6474,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 30508,
+        "stars": 30557,
         "stars_delta": 3015,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22217,
+        "stars": 22267,
         "stars_delta": 19124,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 43849,
+        "stars": 43945,
         "stars_delta": 38582,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "miuuyy/codex-chatgpt-web",
         "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
         "url": "https://github.com/miuuyy/codex-chatgpt-web",
-        "stars": 11936,
+        "stars": 12009,
         "stars_delta": 10457,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 72594,
+        "stars": 72688,
         "stars_delta": 55722,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 41817,
+        "stars": 41869,
         "stars_delta": 20421,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -549,7 +549,7 @@
         "upvotes": 147,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 108787
+        "github_stars": 108861
       },
       {
         "rank": 3,
@@ -579,7 +579,7 @@
         "upvotes": 177,
         "published": "2025-03-14",
         "github_repo": "https://github.com/docling-project/docling",
-        "github_stars": 68014
+        "github_stars": 68054
       },
       {
         "rank": 5,
@@ -594,7 +594,7 @@
         "upvotes": 89,
         "published": "2024-07-23",
         "github_repo": "https://github.com/opendevin/opendevin",
-        "github_stars": 89255
+        "github_stars": 89296
       }
     ],
     "arxiv_recent": [
@@ -680,63 +680,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 49866515,
-        "title": "Replacing the old battery on rechargeable bike lights",
-        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49866515",
-        "site": "jvns.ca",
-        "points": 22,
-        "comments": 3,
-        "author": "surprisetalk",
+        "id": 49868830,
+        "title": "Ember-1",
+        "url": "https://fireworks.ai/blog/ember-1",
+        "discussion_url": "https://news.ycombinator.com/item?id=49868830",
+        "site": "fireworks.ai",
+        "points": 73,
+        "comments": 23,
+        "author": "gmays",
         "age": "1h ago"
       },
       {
         "rank": 2,
         "id": 49866951,
-        "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+        "title": "In an $80 motel room, a discovery to shed light on the origins of life",
         "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49866951",
         "site": "nytimes.com",
-        "points": 6,
-        "comments": 6,
+        "points": 123,
+        "comments": 45,
         "author": "danso",
-        "age": "22m ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 49854219,
-        "title": "Flip Fluid on Flip Dots",
-        "url": "https://mitxela.com/projects/flipflip",
-        "discussion_url": "https://news.ycombinator.com/item?id=49854219",
-        "site": "mitxela.com",
-        "points": 235,
-        "comments": 14,
-        "author": "blutack",
+        "id": 49849409,
+        "title": "Writing Efficient C++ Code",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "discussion_url": "https://news.ycombinator.com/item?id=49849409",
+        "site": "asawicki.info",
+        "points": 104,
+        "comments": 42,
+        "author": "ibobev",
         "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 49863864,
-        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49863864",
-        "site": "authorsguild.org",
-        "points": 502,
-        "comments": 412,
-        "author": "papergirl",
-        "age": "8h ago"
+        "id": 49866515,
+        "title": "Replacing the old battery on rechargeable bike lights",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49866515",
+        "site": "jvns.ca",
+        "points": 93,
+        "comments": 42,
+        "author": "surprisetalk",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49856885,
-        "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-        "url": "https://fakecloud.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49856885",
-        "site": "fakecloud.dev",
-        "points": 22,
-        "comments": 9,
-        "author": "theanonymousone",
-        "age": "1d ago"
+        "id": 49869360,
+        "title": "Read My Damn Paper",
+        "url": "https://wilsoniumite.com/2026/09/27/read-my-damn-paper/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49869360",
+        "site": "wilsoniumite.com",
+        "points": 4,
+        "comments": 3,
+        "author": "Wilsoniumite",
+        "age": "21m ago"
       }
     ],
     "ask": [
@@ -747,13 +747,49 @@
         "url": "https://news.ycombinator.com/item?id=49848955",
         "discussion_url": "https://news.ycombinator.com/item?id=49848955",
         "site": "news.ycombinator.com",
-        "points": 260,
-        "comments": 282,
+        "points": 264,
+        "comments": 288,
         "author": "mlaux",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 49867620,
+        "title": "Ask HN: Allow agents access to cloud files with least privilege?",
+        "url": "https://news.ycombinator.com/item?id=49867620",
+        "discussion_url": "https://news.ycombinator.com/item?id=49867620",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 2,
+        "author": "beerglass",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49868483,
+        "title": "I was impressed by Jev, please explain why I shouldn't be",
+        "url": "https://news.ycombinator.com/item?id=49868483",
+        "discussion_url": "https://news.ycombinator.com/item?id=49868483",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 5,
+        "author": "effisfor",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49866739,
+        "title": "Ask HN: How are you getting inference for personal projects?",
+        "url": "https://news.ycombinator.com/item?id=49866739",
+        "discussion_url": "https://news.ycombinator.com/item?id=49866739",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 3,
+        "author": "variety8675",
+        "age": "4h ago"
+      },
+      {
+        "rank": 5,
         "id": 49835866,
         "title": "Ask HN: Any nerds out there who've read a lot of research papers?",
         "url": "https://news.ycombinator.com/item?id=49835866",
@@ -763,104 +799,68 @@
         "comments": 27,
         "author": "shriy-singh",
         "age": "2d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49862453,
-        "title": "Ask HN: Who is the inspiration for your thinking?",
-        "url": "https://news.ycombinator.com/item?id=49862453",
-        "discussion_url": "https://news.ycombinator.com/item?id=49862453",
-        "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 12,
-        "author": "SMAAART",
-        "age": "13h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49833212,
-        "title": "Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls?",
-        "url": "https://news.ycombinator.com/item?id=49833212",
-        "discussion_url": "https://news.ycombinator.com/item?id=49833212",
-        "site": "news.ycombinator.com",
-        "points": 20,
-        "comments": 38,
-        "author": "tkdb",
-        "age": "2d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49837325,
-        "title": "Ask HN: IEEE expulsion of Fei-Yue Wang?",
-        "url": "https://news.ycombinator.com/item?id=49837325",
-        "discussion_url": "https://news.ycombinator.com/item?id=49837325",
-        "site": "news.ycombinator.com",
-        "points": 11,
-        "comments": 1,
-        "author": "sathomasga",
-        "age": "2d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49867029,
-        "title": "Show HN: Andurel V2 – Space-Grade Go Web Framework",
-        "url": "https://andurel.com/docs/head/whats-new",
-        "discussion_url": "https://news.ycombinator.com/item?id=49867029",
-        "site": "andurel.com",
-        "points": 2,
-        "comments": 0,
-        "author": "mbvisti",
-        "age": "12m ago"
+        "id": 49867775,
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49867775",
+        "site": "tinyaiarena.com",
+        "points": 49,
+        "comments": 29,
+        "author": "hp6",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49858513,
-        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "url": "https://github.com/reladraw/reladraw",
-        "discussion_url": "https://news.ycombinator.com/item?id=49858513",
-        "site": "github.com",
-        "points": 350,
-        "comments": 93,
-        "author": "jpwalsh234",
-        "age": "21h ago"
-      },
-      {
-        "rank": 3,
         "id": 49866597,
-        "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+        "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
         "url": "https://www.markdown.beauty/",
         "discussion_url": "https://news.ycombinator.com/item?id=49866597",
         "site": "markdown.beauty",
-        "points": 5,
-        "comments": 5,
+        "points": 28,
+        "comments": 21,
         "author": "thiagoperes",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 49824144,
         "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
         "url": "https://3d-retro.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49824144",
         "site": "3d-retro.com",
-        "points": 10,
-        "comments": 2,
+        "points": 55,
+        "comments": 10,
         "author": "SouthWestAtlas",
         "age": "3d ago"
       },
       {
+        "rank": 4,
+        "id": 49864105,
+        "title": "Show HN: Trail – new kind of logic game",
+        "url": "https://trail.franzai.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49864105",
+        "site": "trail.franzai.com",
+        "points": 8,
+        "comments": 4,
+        "author": "franze",
+        "age": "11h ago"
+      },
+      {
         "rank": 5,
-        "id": 49866163,
-        "title": "Show HN: Interactive Phaistos Disc workbench, rotation ergonomics, null models",
-        "url": "https://lessthanzero.github.io/phaistos-disk/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49866163",
-        "site": "lessthanzero.github.io",
-        "points": 3,
-        "comments": 0,
-        "author": "sashakatin",
-        "age": "2h ago"
+        "id": 49858513,
+        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "url": "https://github.com/reladraw/reladraw",
+        "discussion_url": "https://news.ycombinator.com/item?id=49858513",
+        "site": "github.com",
+        "points": 376,
+        "comments": 103,
+        "author": "jpwalsh234",
+        "age": "1d ago"
       }
     ]
   }
