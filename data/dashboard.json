@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-27T21:43:38Z",
+  "generated": "2026-09-28T00:05:49Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 2844,
+        "trending_score": 2802,
         "downloads": 0,
-        "likes": 4079,
+        "likes": 4087,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 1726,
+        "trending_score": 1718,
         "downloads": 964220,
-        "likes": 2059,
+        "likes": 2078,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen-Image-2.1",
         "org": "Qwen",
-        "trending_score": 1624,
+        "trending_score": 1575,
         "downloads": 52804,
-        "likes": 2480,
+        "likes": 2487,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
           "diffusers",
@@ -55,9 +55,26 @@
       },
       {
         "rank": 4,
+        "name": "Edge0/Audio8-ASR-Infinite",
+        "org": "Edge0",
+        "trending_score": 902,
+        "downloads": 19434,
+        "likes": 1016,
+        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "audio8_asr_infinite",
+          "text-generation",
+          "streaming"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 907,
+        "trending_score": 888,
         "downloads": 45028,
         "likes": 1780,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
@@ -67,23 +84,6 @@
           "xing4_0",
           "text-generation",
           "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "Edge0/Audio8-ASR-Infinite",
-        "org": "Edge0",
-        "trending_score": 870,
-        "downloads": 19434,
-        "likes": 980,
-        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "audio8_asr_infinite",
-          "text-generation",
-          "streaming"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 93.8187268602416,
+        "speed_tps": 92.1890209037795,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 89.0667897520083,
+        "speed_tps": 87.7473134563396,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 80.8688502550388,
+        "speed_tps": 79.6891651617075,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.2032587538944,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 66.7693921590246,
+        "speed_tps": 65.6505554816692,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
@@ -311,8 +311,8 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 89606,
-        "stars_delta": 2527,
+        "stars": 89800,
+        "stars_delta": 2401,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,8 +321,8 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 37106,
-        "stars_delta": 4463,
+        "stars": 37232,
+        "stars_delta": 4520,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 39857,
-        "stars_delta": 3060,
+        "stars": 40068,
+        "stars_delta": 3086,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,8 +341,8 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 59186,
-        "stars_delta": 848,
+        "stars": 59249,
+        "stars_delta": 790,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "InfinityLoop1308/PipePipe",
         "description": "An open-source Android app to let you browse YouTube and other services freely.",
         "url": "https://github.com/InfinityLoop1308/PipePipe",
-        "stars": 6535,
-        "stars_delta": 139,
+        "stars": 6559,
+        "stars_delta": 242,
         "language": "Shell",
         "language_color": "#89e051"
       }
@@ -363,8 +363,8 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 37849,
-        "stars_delta": 2633,
+        "stars": 37857,
+        "stars_delta": 2606,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -373,8 +373,8 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 89606,
-        "stars_delta": 5376,
+        "stars": 89800,
+        "stars_delta": 7364,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -383,8 +383,8 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 37106,
-        "stars_delta": 7282,
+        "stars": 37232,
+        "stars_delta": 11089,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22307,
-        "stars_delta": 6474,
+        "stars": 22327,
+        "stars_delta": 4805,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -403,8 +403,8 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 30582,
-        "stars_delta": 3015,
+        "stars": 30598,
+        "stars_delta": 2705,
         "language": "Go",
         "language_color": "#00ADD8"
       }
@@ -415,8 +415,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22307,
-        "stars_delta": 19124,
+        "stars": 22327,
+        "stars_delta": 19427,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -425,8 +425,8 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 44013,
-        "stars_delta": 38582,
+        "stars": 44056,
+        "stars_delta": 37567,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -435,8 +435,8 @@
         "name": "miuuyy/codex-chatgpt-web",
         "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
         "url": "https://github.com/miuuyy/codex-chatgpt-web",
-        "stars": 12042,
-        "stars_delta": 10457,
+        "stars": 12067,
+        "stars_delta": 10481,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -445,8 +445,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 72737,
-        "stars_delta": 55722,
+        "stars": 72772,
+        "stars_delta": 51711,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -455,8 +455,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 41904,
-        "stars_delta": 20421,
+        "stars": 41919,
+        "stars_delta": 20657,
         "language": "Go",
         "language_color": "#00ADD8"
       }
@@ -685,10 +685,10 @@
         "url": "https://sancho.bearblog.dev/google-weird/",
         "discussion_url": "https://news.ycombinator.com/item?id=49870367",
         "site": "sancho.bearblog.dev",
-        "points": 286,
-        "comments": 152,
+        "points": 616,
+        "comments": 335,
         "author": "sancho-panza",
-        "age": "1h ago"
+        "age": "3h ago"
       },
       {
         "rank": 2,
@@ -697,34 +697,34 @@
         "url": "https://fireworks.ai/blog/ember-1",
         "discussion_url": "https://news.ycombinator.com/item?id=49868830",
         "site": "fireworks.ai",
-        "points": 241,
-        "comments": 138,
+        "points": 314,
+        "comments": 168,
         "author": "gmays",
-        "age": "4h ago"
+        "age": "6h ago"
       },
       {
         "rank": 3,
-        "id": 49870070,
-        "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
-        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-        "discussion_url": "https://news.ycombinator.com/item?id=49870070",
-        "site": "quora.com",
-        "points": 38,
-        "comments": 16,
-        "author": "midnightfish",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
         "id": 49870837,
         "title": "Lunar Terminator Paradox",
         "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
         "discussion_url": "https://news.ycombinator.com/item?id=49870837",
         "site": "notes.secretsauce.net",
-        "points": 12,
-        "comments": 0,
+        "points": 37,
+        "comments": 23,
         "author": "dima55",
-        "age": "37m ago"
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49870070,
+        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+        "discussion_url": "https://news.ycombinator.com/item?id=49870070",
+        "site": "quora.com",
+        "points": 63,
+        "comments": 24,
+        "author": "midnightfish",
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -733,27 +733,39 @@
         "url": "https://loficities.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49869574",
         "site": "loficities.com",
-        "points": 99,
-        "comments": 34,
+        "points": 143,
+        "comments": 68,
         "author": "safaelmali",
-        "age": "2h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49871556,
+        "title": "Ask HN: What are people doing with their OpenClaw set ups now?",
+        "url": "https://news.ycombinator.com/item?id=49871556",
+        "discussion_url": "https://news.ycombinator.com/item?id=49871556",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "will10pa",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49848955,
         "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
         "url": "https://news.ycombinator.com/item?id=49848955",
         "discussion_url": "https://news.ycombinator.com/item?id=49848955",
         "site": "news.ycombinator.com",
-        "points": 267,
+        "points": 269,
         "comments": 290,
         "author": "mlaux",
         "age": "2d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49867620,
         "title": "Ask HN: Allow agents access to cloud files with least privilege?",
         "url": "https://news.ycombinator.com/item?id=49867620",
@@ -762,43 +774,31 @@
         "points": 3,
         "comments": 2,
         "author": "beerglass",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49868721,
+        "title": "macOS 27: ifconfig command no longer prints hardware MAC address",
+        "url": "https://news.ycombinator.com/item?id=49868721",
+        "discussion_url": "https://news.ycombinator.com/item?id=49868721",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "luckman212",
         "age": "6h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49868483,
         "title": "I was impressed by Jev, please explain why I shouldn't be",
         "url": "https://news.ycombinator.com/item?id=49868483",
         "discussion_url": "https://news.ycombinator.com/item?id=49868483",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 10,
+        "comments": 11,
         "author": "effisfor",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49866739,
-        "title": "Ask HN: How are you getting inference for personal projects?",
-        "url": "https://news.ycombinator.com/item?id=49866739",
-        "discussion_url": "https://news.ycombinator.com/item?id=49866739",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 4,
-        "author": "variety8675",
         "age": "7h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49835866,
-        "title": "Ask HN: Any nerds out there who've read a lot of research papers?",
-        "url": "https://news.ycombinator.com/item?id=49835866",
-        "discussion_url": "https://news.ycombinator.com/item?id=49835866",
-        "site": "news.ycombinator.com",
-        "points": 28,
-        "comments": 27,
-        "author": "shriy-singh",
-        "age": "3d ago"
       }
     ],
     "show": [
@@ -809,58 +809,58 @@
         "url": "https://loficities.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49869574",
         "site": "loficities.com",
-        "points": 99,
-        "comments": 34,
+        "points": 143,
+        "comments": 68,
         "author": "safaelmali",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49867775,
-        "title": "Show HN: TinyAIArena watch AI agents battle it out",
-        "url": "https://tinyaiarena.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49867775",
-        "site": "tinyaiarena.com",
-        "points": 83,
-        "comments": 36,
-        "author": "hp6",
         "age": "5h ago"
       },
       {
-        "rank": 3,
-        "id": 49870654,
-        "title": "Show HN: Jevdit – a social network moderated by Jev",
-        "url": "https://jevdit.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=49870654",
-        "site": "jevdit.com",
-        "points": 4,
-        "comments": 0,
-        "author": "TN1ck",
-        "age": "57m ago"
-      },
-      {
-        "rank": 4,
-        "id": 49870517,
-        "title": "Show HN: AstraBox – an open-source alternative to Claude Managed Agents",
-        "url": "https://github.com/Colton-z/AstraBox",
-        "discussion_url": "https://news.ycombinator.com/item?id=49870517",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "coltonz",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "id": 49870394,
         "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
         "url": "https://code.garage44.eu/jeroen/cartopolis",
         "discussion_url": "https://news.ycombinator.com/item?id=49870394",
         "site": "code.garage44.eu",
-        "points": 2,
+        "points": 9,
         "comments": 0,
         "author": "jvanveen",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49867775,
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49867775",
+        "site": "tinyaiarena.com",
+        "points": 93,
+        "comments": 40,
+        "author": "hp6",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49871569,
+        "title": "Show HN: Fusor – Like Vue, but the logic is Rust",
+        "url": "https://fusor.build",
+        "discussion_url": "https://news.ycombinator.com/item?id=49871569",
+        "site": "fusor.build",
+        "points": 3,
+        "comments": 0,
+        "author": "andreespirela",
         "age": "1h ago"
+      },
+      {
+        "rank": 5,
+        "id": 49858513,
+        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "url": "https://github.com/reladraw/reladraw",
+        "discussion_url": "https://news.ycombinator.com/item?id=49858513",
+        "site": "github.com",
+        "points": 389,
+        "comments": 113,
+        "author": "jpwalsh234",
+        "age": "1d ago"
       }
     ]
   }
