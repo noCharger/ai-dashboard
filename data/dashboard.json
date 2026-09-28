@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-28T14:40:05Z",
+  "generated": "2026-09-28T20:54:36Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 2512,
+        "trending_score": 2410,
         "downloads": 0,
-        "likes": 4224,
+        "likes": 4287,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 1520,
+        "trending_score": 1412,
         "downloads": 1062921,
-        "likes": 2197,
+        "likes": 2243,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Edge0/Audio8-ASR-Infinite",
         "org": "Edge0",
-        "trending_score": 1209,
+        "trending_score": 1221,
         "downloads": 19963,
-        "likes": 1359,
+        "likes": 1372,
         "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen-Image-2.1",
         "org": "Qwen",
-        "trending_score": 1135,
+        "trending_score": 1022,
         "downloads": 58693,
-        "likes": 2554,
+        "likes": 2581,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
           "diffusers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "XingChen-AGI/Xing4.0-29B-A4B",
         "org": "XingChen-AGI",
-        "trending_score": 744,
+        "trending_score": 690,
         "downloads": 45834,
-        "likes": 1788,
+        "likes": 1798,
         "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
         "tags": [
           "transformers",
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 95.4775264817022,
+        "speed_tps": 95.2442563102469,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -107,42 +107,42 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 89.6497699063463,
+        "speed_tps": 81.5793258146788,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
       {
         "rank": 3,
+        "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+        "org": "Anthropic",
+        "intelligence_index": 55.9779549012591,
+        "price_input": 2,
+        "price_output": 10,
+        "speed_tps": "$undefined",
+        "context_window": 1000000,
+        "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
+      },
+      {
+        "rank": 4,
         "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 81.9581137180208,
+        "speed_tps": 75.2602056926885,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.652299189521,
+        "speed_tps": 67.9332937796126,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
-      },
-      {
-        "rank": 5,
-        "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
-        "org": "Anthropic",
-        "intelligence_index": 53.2032587538944,
-        "price_input": 10,
-        "price_output": 50,
-        "speed_tps": 66.7693921590246,
-        "context_window": 1000000,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-1-xhigh"
       }
     ]
   },
@@ -311,7 +311,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 42353,
+        "stars": 43591,
         "stars_delta": 3274,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 91897,
+        "stars": 92534,
         "stars_delta": 3185,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 39981,
+        "stars": 40799,
         "stars_delta": 4413,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "NawfalMotii79/PLFM_RADAR",
         "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
         "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-        "stars": 25645,
+        "stars": 25709,
         "stars_delta": 145,
         "language": "PLSQL",
         "language_color": "#dad8d8"
@@ -351,8 +351,8 @@
         "name": "cs341-illinois/coursebook",
         "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
         "url": "https://github.com/cs341-illinois/coursebook",
-        "stars": 2296,
-        "stars_delta": 265,
+        "stars": 2450,
+        "stars_delta": 316,
         "language": "TeX",
         "language_color": "#3D6117"
       }
@@ -363,7 +363,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 37989,
+        "stars": 38031,
         "stars_delta": 2606,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 91897,
+        "stars": 92534,
         "stars_delta": 7364,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 39981,
+        "stars": 40799,
         "stars_delta": 11089,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22589,
+        "stars": 22685,
         "stars_delta": 4805,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -403,7 +403,7 @@
         "name": "davila7/claude-code-templates",
         "description": "CLI tool for configuring and monitoring Claude Code",
         "url": "https://github.com/davila7/claude-code-templates",
-        "stars": 32049,
+        "stars": 32066,
         "stars_delta": 1154,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 22589,
+        "stars": 22685,
         "stars_delta": 19427,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 44371,
+        "stars": 44512,
         "stars_delta": 37567,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "miuuyy/codex-chatgpt-web",
         "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
         "url": "https://github.com/miuuyy/codex-chatgpt-web",
-        "stars": 12393,
+        "stars": 12486,
         "stars_delta": 10481,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 42174,
+        "stars": 42254,
         "stars_delta": 20657,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 73301,
+        "stars": 73478,
         "stars_delta": 51711,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -534,7 +534,7 @@
         "upvotes": 16,
         "published": "2026-02-09",
         "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-        "github_stars": 4972
+        "github_stars": 5013
       },
       {
         "rank": 2,
@@ -553,21 +553,6 @@
       },
       {
         "rank": 3,
-        "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
-        "authors": [
-          "Ahmed Nassar",
-          "Andres Marafioti",
-          "Matteo Omenetti"
-        ],
-        "url": "https://huggingface.co/papers/2503.11576",
-        "categories": [],
-        "upvotes": 177,
-        "published": "2025-03-14",
-        "github_repo": "https://github.com/docling-project/docling",
-        "github_stars": 68092
-      },
-      {
-        "rank": 4,
         "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
         "authors": [
           "Xingyao Wang",
@@ -579,7 +564,22 @@
         "upvotes": 89,
         "published": "2024-07-23",
         "github_repo": "https://github.com/opendevin/opendevin",
-        "github_stars": 89331
+        "github_stars": 89393
+      },
+      {
+        "rank": 4,
+        "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+        "authors": [
+          "Ahmed Nassar",
+          "Andres Marafioti",
+          "Matteo Omenetti"
+        ],
+        "url": "https://huggingface.co/papers/2503.11576",
+        "categories": [],
+        "upvotes": 177,
+        "published": "2025-03-14",
+        "github_repo": "https://github.com/docling-project/docling",
+        "github_stars": 68124
       },
       {
         "rank": 5,
@@ -682,139 +682,139 @@
     "top": [
       {
         "rank": 1,
-        "id": 49877813,
-        "title": "Has Violence Against Teachers Become Accepted by Society?",
-        "url": "https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49877813",
-        "site": "theeducatorsroom.com",
-        "points": 29,
-        "comments": 17,
-        "author": "obscurette",
-        "age": "59m ago"
+        "id": 49880036,
+        "title": "Pirating the Pirates",
+        "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+        "discussion_url": "https://news.ycombinator.com/item?id=49880036",
+        "site": "mubi.com",
+        "points": 309,
+        "comments": 136,
+        "author": "piotrgrabowski",
+        "age": "5h ago"
       },
       {
         "rank": 2,
-        "id": 49875913,
-        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-        "url": "https://git.mills.io/prologic/parley",
-        "discussion_url": "https://news.ycombinator.com/item?id=49875913",
-        "site": "git.mills.io",
-        "points": 157,
-        "comments": 79,
-        "author": "davidcollantes",
-        "age": "4h ago"
+        "id": 49882781,
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "url": "https://stateofutopia.com/experiments/microllmlab/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49882781",
+        "site": "stateofutopia.com",
+        "points": 66,
+        "comments": 17,
+        "author": "logicallee",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49875148,
-        "title": "AI companies in race to demonstrate their model most threatening to humanity",
-        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49875148",
-        "site": "thecivilian.co.nz",
-        "points": 365,
-        "comments": 289,
-        "author": "ljewalsh",
-        "age": "6h ago"
+        "id": 49883760,
+        "title": "World Labs Is Joining AMD",
+        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "discussion_url": "https://news.ycombinator.com/item?id=49883760",
+        "site": "worldlabs.ai",
+        "points": 16,
+        "comments": 2,
+        "author": "mfiguiere",
+        "age": "36m ago"
       },
       {
         "rank": 4,
-        "id": 49877988,
-        "title": "Coding Is Not Solved – Alex Ewerlöf Notes",
-        "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-        "discussion_url": "https://news.ycombinator.com/item?id=49877988",
-        "site": "blog.alexewerlof.com",
-        "points": 61,
-        "comments": 63,
-        "author": "firstSpeaker",
-        "age": "47m ago"
+        "id": 49879702,
+        "title": "Hijacking the PS5's RTMP stream",
+        "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49879702",
+        "site": "yashgarg.dev",
+        "points": 140,
+        "comments": 38,
+        "author": "ibobev",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49876760,
-        "title": "Show HN: Hntui – A TUI for Hacker News",
-        "url": "https://github.com/ahmd-sh/hntui",
-        "discussion_url": "https://news.ycombinator.com/item?id=49876760",
-        "site": "github.com",
-        "points": 61,
-        "comments": 30,
-        "author": "ahmd-sh",
-        "age": "2h ago"
+        "id": 49881606,
+        "title": "Joseph Szabo’s pictures of American adolescents",
+        "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+        "discussion_url": "https://news.ycombinator.com/item?id=49881606",
+        "site": "newyorker.com",
+        "points": 53,
+        "comments": 22,
+        "author": "prismatic",
+        "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49884087,
+        "title": "Ask HN: How do you get your first users for an MVP?",
+        "url": "https://news.ycombinator.com/item?id=49884087",
+        "discussion_url": "https://news.ycombinator.com/item?id=49884087",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "amina124",
+        "age": "10m ago"
+      },
+      {
+        "rank": 2,
+        "id": 49881846,
+        "title": "Ask HN: React Native or Flutter when the back end is Node?",
+        "url": "https://news.ycombinator.com/item?id=49881846",
+        "discussion_url": "https://news.ycombinator.com/item?id=49881846",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 8,
+        "author": "rearview",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 49848955,
         "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
         "url": "https://news.ycombinator.com/item?id=49848955",
         "discussion_url": "https://news.ycombinator.com/item?id=49848955",
         "site": "news.ycombinator.com",
-        "points": 278,
-        "comments": 293,
+        "points": 283,
+        "comments": 294,
         "author": "mlaux",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "id": 49879648,
+        "title": "Ask HN: JEV for K1 Tax Forms",
+        "url": "https://news.ycombinator.com/item?id=49879648",
+        "discussion_url": "https://news.ycombinator.com/item?id=49879648",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "GoRudy",
+        "age": "5h ago"
+      },
+      {
+        "rank": 5,
         "id": 49871556,
         "title": "Ask HN: What are people doing with their OpenClaw set ups now?",
         "url": "https://news.ycombinator.com/item?id=49871556",
         "discussion_url": "https://news.ycombinator.com/item?id=49871556",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 5,
+        "points": 16,
+        "comments": 8,
         "author": "will10pa",
-        "age": "15h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49873913,
-        "title": "Management is forcing us to use AI",
-        "url": "https://news.ycombinator.com/item?id=49873913",
-        "discussion_url": "https://news.ycombinator.com/item?id=49873913",
-        "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 14,
-        "author": "aksjfveoq",
-        "age": "9h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49868721,
-        "title": "macOS 27: ifconfig command no longer prints hardware MAC address",
-        "url": "https://news.ycombinator.com/item?id=49868721",
-        "discussion_url": "https://news.ycombinator.com/item?id=49868721",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 4,
-        "author": "luckman212",
-        "age": "21h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49868483,
-        "title": "I was impressed by Jev, please explain why I shouldn't be",
-        "url": "https://news.ycombinator.com/item?id=49868483",
-        "discussion_url": "https://news.ycombinator.com/item?id=49868483",
-        "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 15,
-        "author": "effisfor",
-        "age": "21h ago"
+        "age": "22h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49876760,
-        "title": "Show HN: Hntui – A TUI for Hacker News",
-        "url": "https://github.com/ahmd-sh/hntui",
-        "discussion_url": "https://news.ycombinator.com/item?id=49876760",
-        "site": "github.com",
-        "points": 61,
-        "comments": 30,
-        "author": "ahmd-sh",
-        "age": "2h ago"
+        "id": 49880601,
+        "title": "Show HN: Destroy Any Website with Stickman",
+        "url": "https://destroy.spritefusion.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49880601",
+        "site": "destroy.spritefusion.com",
+        "points": 59,
+        "comments": 15,
+        "author": "HugoDz",
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -823,45 +823,45 @@
         "url": "https://github.com/seamusc/papermono-shopping-list",
         "discussion_url": "https://news.ycombinator.com/item?id=49875801",
         "site": "github.com",
-        "points": 30,
-        "comments": 9,
+        "points": 117,
+        "comments": 51,
         "author": "seamus_c",
-        "age": "4h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
-        "id": 49877515,
-        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-        "url": "https://www.openappa.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49877515",
-        "site": "openappa.com",
-        "points": 21,
-        "comments": 11,
-        "author": "motakuk",
-        "age": "1h ago"
+        "id": 49875308,
+        "title": "Show HN: Free alternative to graphics design giants",
+        "url": "https://scissor.studio/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49875308",
+        "site": "scissor.studio",
+        "points": 90,
+        "comments": 39,
+        "author": "sia_xi",
+        "age": "11h ago"
       },
       {
         "rank": 4,
-        "id": 49877284,
-        "title": "Show HN: Kern Sandbox, run LLM-generated code locally, no cloud, no daemon",
-        "url": "https://getkern.dev/guide/sandbox.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49877284",
-        "site": "getkern.dev",
-        "points": 2,
-        "comments": 1,
-        "author": "realexweb",
-        "age": "1h ago"
+        "id": 49879401,
+        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "url": "https://hn.watch/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49879401",
+        "site": "hn.watch",
+        "points": 115,
+        "comments": 66,
+        "author": "mrborgen",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49877270,
-        "title": "Show HN: Durable Actor Session Protocol",
-        "url": "https://dasp-protocol.github.io/dasp/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49877270",
-        "site": "dasp-protocol.github.io",
-        "points": 13,
-        "comments": 2,
-        "author": "mikehostetler",
+        "id": 49883253,
+        "title": "Show HN: Personal Manga / Story Recaps",
+        "url": "https://terragohan.github.io/entertainment-harness/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49883253",
+        "site": "terragohan.github.io",
+        "points": 2,
+        "comments": 0,
+        "author": "helpprotactiniu",
         "age": "1h ago"
       }
     ]
