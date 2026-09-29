@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-29T18:58:07Z",
+  "generated": "2026-09-29T22:48:45Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 1884,
+        "trending_score": 1813,
         "downloads": 0,
-        "likes": 4484,
+        "likes": 4502,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Edge0/Audio8-ASR-Infinite",
         "org": "Edge0",
-        "trending_score": 1300,
+        "trending_score": 1305,
         "downloads": 23674,
-        "likes": 1479,
+        "likes": 1484,
         "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 1119,
+        "trending_score": 1088,
         "downloads": 1152523,
-        "likes": 2397,
+        "likes": 2426,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "Qwen/Qwen-Image-2.1",
-        "org": "Qwen",
-        "trending_score": 741,
-        "downloads": 64362,
-        "likes": 2645,
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-        "tags": [
-          "diffusers",
-          "safetensors",
-          "qwen",
-          "image-generation",
-          "image-editing"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "XingChen-AGI/TeleOCR",
         "org": "XingChen-AGI",
-        "trending_score": 728,
+        "trending_score": 732,
         "downloads": 30354,
-        "likes": 862,
+        "likes": 866,
         "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "qwen2_5_vl",
           "image-text-to-text",
           "ocr"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Qwen/Qwen-Image-2.1",
+        "org": "Qwen",
+        "trending_score": 716,
+        "downloads": 64362,
+        "likes": 2655,
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "qwen",
+          "image-generation",
+          "image-editing"
         ],
         "rank_change": null
       }
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 92.5191493491242,
+        "speed_tps": 92.1890209037795,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 79.5554042621064,
+        "speed_tps": 79.509287267617,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 55.9779549012591,
         "price_input": 2,
         "price_output": 10,
-        "speed_tps": 137.594655797196,
+        "speed_tps": 136.520116573835,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 74.0547412424004,
+        "speed_tps": 74.3972614063985,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.2781577129234,
+        "speed_tps": 67.9332937796126,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       }
@@ -311,7 +311,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 47473,
+        "stars": 47953,
         "stars_delta": 4712,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "NVIDIA/OpenShell",
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "url": "https://github.com/NVIDIA/OpenShell",
-        "stars": 10381,
+        "stars": 10520,
         "stars_delta": 978,
         "language": "Rust",
         "language_color": "#dea584"
@@ -331,7 +331,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 42629,
+        "stars": 42776,
         "stars_delta": 2541,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 94256,
+        "stars": 94393,
         "stars_delta": 2412,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "t8y2/dbx",
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock",
         "url": "https://github.com/t8y2/dbx",
-        "stars": 21844,
+        "stars": 21933,
         "stars_delta": 349,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 94256,
+        "stars": 94393,
         "stars_delta": 10518,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 38208,
+        "stars": 38229,
         "stars_delta": 2381,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 42629,
+        "stars": 42776,
         "stars_delta": 15537,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 47473,
+        "stars": 47953,
         "stars_delta": 7972,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 61163,
+        "stars": 61280,
         "stars_delta": 5004,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 44984,
+        "stars": 45051,
         "stars_delta": 34455,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 42556,
+        "stars": 42582,
         "stars_delta": 20955,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -435,7 +435,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 269510,
+        "stars": 269610,
         "stars_delta": 26502,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 74140,
+        "stars": 74225,
         "stars_delta": 48030,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 52110,
+        "stars": 52138,
         "stars_delta": 26854,
         "language": "Python",
         "language_color": "#3572A5"
@@ -546,10 +546,10 @@
         ],
         "url": "https://huggingface.co/papers/2609.24972",
         "categories": [],
-        "upvotes": 213,
+        "upvotes": 215,
         "published": "2026-09-20",
         "github_repo": "https://github.com/google-research/rrsi",
-        "github_stars": 758
+        "github_stars": 904
       },
       {
         "rank": 3,
@@ -679,39 +679,39 @@
     "top": [
       {
         "rank": 1,
+        "id": 49899090,
+        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+        "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49899090",
+        "site": "postalemployeenetwork.com",
+        "points": 121,
+        "comments": 61,
+        "author": "ilamont",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
         "id": 49896586,
         "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
         "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "discussion_url": "https://news.ycombinator.com/item?id=49896586",
         "site": "openai.com",
-        "points": 433,
-        "comments": 340,
+        "points": 714,
+        "comments": 641,
         "author": "crorella",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49896604,
-        "title": "Dots: Always-on agents",
-        "url": "https://openai.com/index/introducing-dots/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49896604",
-        "site": "openai.com",
-        "points": 301,
-        "comments": 197,
-        "author": "alvis",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 3,
-        "id": 49896712,
-        "title": "Tcl/Tk 9.1 Released",
-        "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49896712",
-        "site": "tcl-lang.org",
-        "points": 88,
-        "comments": 19,
-        "author": "dmux",
-        "age": "1h ago"
+        "id": 49895304,
+        "title": "PS5 Relapse Exploit",
+        "url": "https://github.com/ntfargo/Relapse-Exploit",
+        "discussion_url": "https://news.ycombinator.com/item?id=49895304",
+        "site": "github.com",
+        "points": 196,
+        "comments": 101,
+        "author": "therepanic",
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -720,39 +720,63 @@
         "url": "https://spectrum.ieee.org/delhi-electricity-loss",
         "discussion_url": "https://news.ycombinator.com/item?id=49892245",
         "site": "spectrum.ieee.org",
-        "points": 347,
-        "comments": 194,
+        "points": 405,
+        "comments": 238,
         "author": "rbanffy",
-        "age": "6h ago"
+        "age": "10h ago"
       },
       {
         "rank": 5,
-        "id": 49896050,
-        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-        "discussion_url": "https://news.ycombinator.com/item?id=49896050",
-        "site": "eff.org",
-        "points": 278,
-        "comments": 192,
-        "author": "paimapi",
-        "age": "2h ago"
+        "id": 49871018,
+        "title": "NAND-16: a computer built from 277,248 NAND gates",
+        "url": "https://somethingbig.ai/computer",
+        "discussion_url": "https://news.ycombinator.com/item?id=49871018",
+        "site": "somethingbig.ai",
+        "points": 89,
+        "comments": 46,
+        "author": "rossant",
+        "age": "2d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 49893157,
+        "title": "Ask HN: What are you reading?",
+        "url": "https://news.ycombinator.com/item?id=49893157",
+        "discussion_url": "https://news.ycombinator.com/item?id=49893157",
+        "site": "news.ycombinator.com",
+        "points": 98,
+        "comments": 242,
+        "author": "dan-bailey",
+        "age": "9h ago"
+      },
+      {
+        "rank": 2,
+        "id": 49898465,
+        "title": "Ask HN: OpenSEO inspiration for other tools, asking for opinion",
+        "url": "https://news.ycombinator.com/item?id=49898465",
+        "discussion_url": "https://news.ycombinator.com/item?id=49898465",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 0,
+        "author": "yash_salesup",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
         "id": 49848955,
         "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
         "url": "https://news.ycombinator.com/item?id=49848955",
         "discussion_url": "https://news.ycombinator.com/item?id=49848955",
         "site": "news.ycombinator.com",
-        "points": 291,
+        "points": 292,
         "comments": 299,
         "author": "mlaux",
-        "age": "3d ago"
+        "age": "4d ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "id": 49893201,
         "title": "Google now ships \"ads\" with their Android system update?",
         "url": "https://news.ycombinator.com/item?id=49893201",
@@ -761,10 +785,10 @@
         "points": 5,
         "comments": 2,
         "author": "y42",
-        "age": "5h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 49896742,
         "title": "Is there a lanscaping tool which can take photos of my garden and make 3D model?",
         "url": "https://news.ycombinator.com/item?id=49896742",
@@ -773,93 +797,69 @@
         "points": 3,
         "comments": 2,
         "author": "Fh_",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49884087,
-        "title": "Ask HN: How do you get your first users for an MVP?",
-        "url": "https://news.ycombinator.com/item?id=49884087",
-        "discussion_url": "https://news.ycombinator.com/item?id=49884087",
-        "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 10,
-        "author": "amina124",
-        "age": "22h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49881846,
-        "title": "Ask HN: React Native or Flutter when the back end is Node?",
-        "url": "https://news.ycombinator.com/item?id=49881846",
-        "discussion_url": "https://news.ycombinator.com/item?id=49881846",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 15,
-        "author": "rearview",
-        "age": "1d ago"
+        "age": "5h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49891769,
-        "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-        "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49891769",
-        "site": "jevstiller.pages.dev",
-        "points": 48,
-        "comments": 6,
-        "author": "tgluck",
-        "age": "6h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49896757,
-        "title": "Show HN: A working 3D model of an Enigma machine",
-        "url": "https://enigma.design",
-        "discussion_url": "https://news.ycombinator.com/item?id=49896757",
-        "site": "enigma.design",
-        "points": 6,
-        "comments": 0,
-        "author": "primitivesuave",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49879401,
-        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-        "url": "https://hn.watch/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49879401",
-        "site": "hn.watch",
-        "points": 204,
-        "comments": 97,
-        "author": "mrborgen",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49895326,
-        "title": "Show HN: Free browser games designed for 80-year-old eyes and hands",
-        "url": "https://freegamesforseniors.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49895326",
-        "site": "freegamesforseniors.com",
-        "points": 5,
-        "comments": 0,
-        "author": "xmasdong",
+        "id": 49898778,
+        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+        "url": "https://space.bl2.net/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49898778",
+        "site": "space.bl2.net",
+        "points": 50,
+        "comments": 21,
+        "author": "wanick",
         "age": "3h ago"
       },
       {
-        "rank": 5,
+        "rank": 2,
+        "id": 49898931,
+        "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+        "url": "https://github.com/lostmsu/TurboGPT",
+        "discussion_url": "https://news.ycombinator.com/item?id=49898931",
+        "site": "github.com",
+        "points": 36,
+        "comments": 5,
+        "author": "lostmsu",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
         "id": 49894351,
         "title": "Show HN: NSL – WSL for Linux",
         "url": "https://frostyard.github.io/nsl/",
         "discussion_url": "https://news.ycombinator.com/item?id=49894351",
         "site": "frostyard.github.io",
-        "points": 54,
-        "comments": 43,
+        "points": 71,
+        "comments": 53,
         "author": "bketelsen",
-        "age": "4h ago"
+        "age": "7h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49901329,
+        "title": "Show HN: The Activity Monitor for the AI Era",
+        "url": "https://cortexformac.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49901329",
+        "site": "cortexformac.com",
+        "points": 2,
+        "comments": 3,
+        "author": "eduardpantazi",
+        "age": "47m ago"
+      },
+      {
+        "rank": 5,
+        "id": 49900760,
+        "title": "Show HN: Phyics-Based Dice Roller",
+        "url": "https://dice.jswidler.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49900760",
+        "site": "dice.jswidler.com",
+        "points": 2,
+        "comments": 2,
+        "author": "swid",
+        "age": "1h ago"
       }
     ]
   }
