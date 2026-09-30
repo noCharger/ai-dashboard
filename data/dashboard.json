@@ -1,31 +1,14 @@
 {
-  "generated": "2026-09-30T14:22:01Z",
+  "generated": "2026-09-30T19:42:56Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "convaiinnovations/laya",
-        "org": "convaiinnovations",
-        "trending_score": 1514,
-        "downloads": 0,
-        "likes": 4599,
-        "url": "https://huggingface.co/convaiinnovations/laya",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "laya",
-          "system-one",
-          "calibrated-decisions"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "Edge0/Audio8-ASR-Infinite",
         "org": "Edge0",
-        "trending_score": 1385,
+        "trending_score": 1451,
         "downloads": 26749,
-        "likes": 1593,
+        "likes": 1731,
         "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "convaiinnovations/laya",
+        "org": "convaiinnovations",
+        "trending_score": 1444,
+        "downloads": 0,
+        "likes": 4635,
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "laya",
+          "system-one",
+          "calibrated-decisions"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 918,
+        "trending_score": 875,
         "downloads": 1232685,
-        "likes": 2501,
+        "likes": 2524,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "XingChen-AGI/TeleOCR",
         "org": "XingChen-AGI",
-        "trending_score": 845,
+        "trending_score": 861,
         "downloads": 30383,
-        "likes": 983,
+        "likes": 1031,
         "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Qwen/Qwen-Image-2.1",
         "org": "Qwen",
-        "trending_score": 609,
+        "trending_score": 580,
         "downloads": 70687,
-        "likes": 2694,
+        "likes": 2708,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
         "tags": [
           "diffusers",
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 92.1599272387811,
+        "speed_tps": 92.1744740712803,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.2781577129234,
+        "speed_tps": 70.0560908450128,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       }
@@ -311,7 +311,7 @@
         "name": "NVIDIA/OpenShell",
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "url": "https://github.com/NVIDIA/OpenShell",
-        "stars": 11553,
+        "stars": 12252,
         "stars_delta": 1280,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 49855,
+        "stars": 50192,
         "stars_delta": 3481,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "mvschwarz/openrig",
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
         "url": "https://github.com/mvschwarz/openrig",
-        "stars": 2755,
+        "stars": 2907,
         "stars_delta": 622,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 24334,
+        "stars": 24414,
         "stars_delta": 88,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,8 +351,8 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 148712,
-        "stars_delta": 675,
+        "stars": 149000,
+        "stars_delta": 865,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -363,7 +363,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 95066,
+        "stars": 95209,
         "stars_delta": 12941,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 43569,
+        "stars": 43846,
         "stars_delta": 17365,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 38323,
+        "stars": 38347,
         "stars_delta": 2114,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 49856,
+        "stars": 50192,
         "stars_delta": 12722,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 62015,
+        "stars": 62080,
         "stars_delta": 5830,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 45417,
+        "stars": 45587,
         "stars_delta": 33308,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 42808,
+        "stars": 42874,
         "stars_delta": 21236,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -435,7 +435,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 269985,
+        "stars": 270120,
         "stars_delta": 26837,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 52307,
+        "stars": 52357,
         "stars_delta": 26845,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 74907,
+        "stars": 75119,
         "stars_delta": 45168,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -529,7 +529,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.33439",
         "categories": [],
-        "upvotes": 281,
+        "upvotes": 432,
         "published": "2026-09-26",
         "github_repo": "https://github.com/EverMind-AI/Raven",
         "github_stars": 4937
@@ -547,7 +547,7 @@
         "upvotes": 218,
         "published": "2026-09-20",
         "github_repo": "https://github.com/google-research/rrsi",
-        "github_stars": 966
+        "github_stars": 1036
       },
       {
         "rank": 3,
@@ -566,21 +566,6 @@
       },
       {
         "rank": 4,
-        "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
-        "authors": [
-          "Talor Abramovich",
-          "Maor Ashkenazi",
-          "Carl"
-        ],
-        "url": "https://huggingface.co/papers/2604.09557",
-        "categories": [],
-        "upvotes": 16,
-        "published": "2026-02-09",
-        "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-        "github_stars": 5080
-      },
-      {
-        "rank": 5,
         "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
         "authors": [
           "Linzhan Mou",
@@ -593,6 +578,21 @@
         "published": "2026-09-03",
         "github_repo": "https://github.com/Friedrich-M/UniMate",
         "github_stars": 634
+      },
+      {
+        "rank": 5,
+        "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
+        "authors": [
+          "Renping Zhou",
+          "Zanlin Ni",
+          "Zihao Fan"
+        ],
+        "url": "https://huggingface.co/papers/2609.34981",
+        "categories": [],
+        "upvotes": 62,
+        "published": "2026-09-28",
+        "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
+        "github_stars": 58
       }
     ],
     "arxiv_recent": [
@@ -683,63 +683,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 49906637,
-        "title": "Pi.dev: You Said No MCP",
-        "url": "https://earendil.com/posts/you-said-no-mcp/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49906637",
-        "site": "earendil.com",
-        "points": 297,
-        "comments": 150,
-        "author": "yarapavan",
-        "age": "4h ago"
+        "id": 49911995,
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "discussion_url": "https://news.ycombinator.com/item?id=49911995",
+        "site": "github.com",
+        "points": 71,
+        "comments": 37,
+        "author": "anerli",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 49890707,
-        "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-        "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-        "discussion_url": "https://news.ycombinator.com/item?id=49890707",
-        "site": "projecthub.arduino.cc",
-        "points": 66,
-        "comments": 13,
-        "author": "gvuksic",
-        "age": "1d ago"
+        "id": 49911757,
+        "title": "Commit description as a thinking tool",
+        "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49911757",
+        "site": "yedhu.me",
+        "points": 73,
+        "comments": 33,
+        "author": "yedhukrishnan",
+        "age": "2h ago"
       },
       {
         "rank": 3,
-        "id": 49901736,
-        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-        "url": "https://github.com/ninjahawk/livenerf",
-        "discussion_url": "https://news.ycombinator.com/item?id=49901736",
-        "site": "github.com",
-        "points": 752,
-        "comments": 309,
-        "author": "bryan0",
-        "age": "15h ago"
+        "id": 49913192,
+        "title": "EDG C++ front-end goes public",
+        "url": "https://edgcpp.org/#transition",
+        "discussion_url": "https://news.ycombinator.com/item?id=49913192",
+        "site": "edgcpp.org",
+        "points": 8,
+        "comments": 2,
+        "author": "iandinwoodie",
+        "age": "16m ago"
       },
       {
         "rank": 4,
-        "id": 49908962,
-        "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-        "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49908962",
-        "site": "alphapixeldev.com",
-        "points": 8,
-        "comments": 3,
-        "author": "ibobev",
-        "age": "31m ago"
+        "id": 49909583,
+        "title": "A brief history of the Bloomberg terminal",
+        "url": "https://spectrum.ieee.org/bloomberg-terminal",
+        "discussion_url": "https://news.ycombinator.com/item?id=49909583",
+        "site": "spectrum.ieee.org",
+        "points": 151,
+        "comments": 53,
+        "author": "rbanffy",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49889140,
-        "title": "Mathematical Origami",
-        "url": "https://mathigon.org/origami",
-        "discussion_url": "https://news.ycombinator.com/item?id=49889140",
-        "site": "mathigon.org",
-        "points": 37,
-        "comments": 9,
-        "author": "signa11",
-        "age": "1d ago"
+        "id": 49912955,
+        "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+        "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49912955",
+        "site": "quantamagazine.org",
+        "points": 8,
+        "comments": 0,
+        "author": "ibobev",
+        "age": "38m ago"
       }
     ],
     "ask": [
@@ -750,8 +750,8 @@
         "url": "https://news.ycombinator.com/item?id=49893157",
         "discussion_url": "https://news.ycombinator.com/item?id=49893157",
         "site": "news.ycombinator.com",
-        "points": 356,
-        "comments": 682,
+        "points": 404,
+        "comments": 810,
         "author": "dan-bailey",
         "age": "1d ago"
       },
@@ -762,46 +762,46 @@
         "url": "https://news.ycombinator.com/item?id=49907601",
         "discussion_url": "https://news.ycombinator.com/item?id=49907601",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 4,
+        "points": 24,
+        "comments": 10,
         "author": "zcalvin",
-        "age": "2h ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
+        "id": 49848955,
+        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+        "url": "https://news.ycombinator.com/item?id=49848955",
+        "discussion_url": "https://news.ycombinator.com/item?id=49848955",
+        "site": "news.ycombinator.com",
+        "points": 293,
+        "comments": 299,
+        "author": "mlaux",
+        "age": "5d ago"
+      },
+      {
+        "rank": 4,
         "id": 49906563,
         "title": "Ask HN: What are you reading to your kids?",
         "url": "https://news.ycombinator.com/item?id=49906563",
         "discussion_url": "https://news.ycombinator.com/item?id=49906563",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 3,
+        "comments": 6,
         "author": "jopizio",
-        "age": "4h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49906174,
         "title": "Ask HN: How will the AI endgame play out?",
         "url": "https://news.ycombinator.com/item?id=49906174",
         "discussion_url": "https://news.ycombinator.com/item?id=49906174",
         "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 12,
+        "points": 9,
+        "comments": 19,
         "author": "jackgavigan",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49848955,
-        "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-        "url": "https://news.ycombinator.com/item?id=49848955",
-        "discussion_url": "https://news.ycombinator.com/item?id=49848955",
-        "site": "news.ycombinator.com",
-        "points": 292,
-        "comments": 299,
-        "author": "mlaux",
-        "age": "4d ago"
+        "age": "10h ago"
       }
     ],
     "show": [
@@ -812,58 +812,58 @@
         "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
         "discussion_url": "https://news.ycombinator.com/item?id=49890707",
         "site": "projecthub.arduino.cc",
-        "points": 66,
-        "comments": 13,
+        "points": 113,
+        "comments": 25,
         "author": "gvuksic",
         "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 49898778,
-        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-        "url": "https://space.bl2.net/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49898778",
-        "site": "space.bl2.net",
-        "points": 308,
-        "comments": 78,
-        "author": "wanick",
-        "age": "19h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49879758,
-        "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-        "url": "https://github.com/ciromattia/kcc",
-        "discussion_url": "https://news.ycombinator.com/item?id=49879758",
+        "id": 49886422,
+        "title": "Show HN: Corral – Kill every command your agent starts",
+        "url": "https://github.com/Cardinal44/corral",
+        "discussion_url": "https://news.ycombinator.com/item?id=49886422",
         "site": "github.com",
-        "points": 45,
-        "comments": 8,
-        "author": "seam_carver",
+        "points": 15,
+        "comments": 4,
+        "author": "CG144",
         "age": "1d ago"
       },
       {
+        "rank": 3,
+        "id": 49902382,
+        "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+        "url": "https://ledge.sh",
+        "discussion_url": "https://news.ycombinator.com/item?id=49902382",
+        "site": "ledge.sh",
+        "points": 49,
+        "comments": 30,
+        "author": "dancablam",
+        "age": "20h ago"
+      },
+      {
         "rank": 4,
-        "id": 49894351,
-        "title": "Show HN: NSL – WSL for Linux",
-        "url": "https://frostyard.github.io/nsl/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49894351",
-        "site": "frostyard.github.io",
-        "points": 146,
-        "comments": 95,
-        "author": "bketelsen",
-        "age": "23h ago"
+        "id": 49909913,
+        "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+        "url": "https://strata.do/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49909913",
+        "site": "strata.do",
+        "points": 10,
+        "comments": 6,
+        "author": "ajoski9",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 49896757,
-        "title": "Show HN: A working 3D model of an Enigma machine",
-        "url": "https://enigma.design",
-        "discussion_url": "https://news.ycombinator.com/item?id=49896757",
-        "site": "enigma.design",
-        "points": 78,
-        "comments": 25,
-        "author": "primitivesuave",
-        "age": "21h ago"
+        "id": 49886535,
+        "title": "Show HN: Dental Scope – Interactive 3D dental anatomy",
+        "url": "https://dental-scope.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49886535",
+        "site": "dental-scope.com",
+        "points": 100,
+        "comments": 54,
+        "author": "Zeruxe",
+        "age": "1d ago"
       }
     ]
   }
