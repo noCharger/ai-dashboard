@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-30T23:17:48Z",
+  "generated": "2026-10-01T02:51:37Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Edge0/Audio8-ASR-Infinite",
         "org": "Edge0",
-        "trending_score": 1484,
+        "trending_score": 1498,
         "downloads": 26749,
-        "likes": 1827,
+        "likes": 1914,
         "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 1415,
+        "trending_score": 1371,
         "downloads": 0,
-        "likes": 4679,
+        "likes": 4691,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "org": "abenzerps",
-        "trending_score": 874,
-        "downloads": 1232685,
-        "likes": 2569,
-        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-        "tags": [
-          "gguf",
-          "qwen",
-          "image-generation",
-          "comfyui",
-          "comfyui-gguf"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "XingChen-AGI/TeleOCR",
         "org": "XingChen-AGI",
-        "trending_score": 873,
+        "trending_score": 876,
         "downloads": 30383,
-        "likes": 1094,
+        "likes": 1102,
         "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
         "tags": [
           "transformers",
@@ -71,19 +54,36 @@
         "rank_change": null
       },
       {
-        "rank": 5,
-        "name": "Qwen/Qwen-Image-2.1",
-        "org": "Qwen",
-        "trending_score": 563,
-        "downloads": 70687,
-        "likes": 2720,
-        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "rank": 4,
+        "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "org": "abenzerps",
+        "trending_score": 866,
+        "downloads": 1232685,
+        "likes": 2585,
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
-          "diffusers",
-          "safetensors",
+          "gguf",
           "qwen",
           "image-generation",
-          "image-editing"
+          "comfyui",
+          "comfyui-gguf"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Contrastive-LM/CLM-v0.1-8B",
+        "org": "Contrastive-LM",
+        "trending_score": 548,
+        "downloads": 2392,
+        "likes": 574,
+        "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+        "tags": [
+          "contrastive-lm",
+          "clm",
+          "contrastive-learning",
+          "verifier",
+          "reranker"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 79.509287267617,
+        "speed_tps": 78.5446549540035,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 55.9779549012591,
         "price_input": 2,
         "price_output": 10,
-        "speed_tps": 139.150604562872,
+        "speed_tps": 139.062620193635,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 74.7572292365586,
+        "speed_tps": 74.3972614063985,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 70.0560908450128,
+        "speed_tps": 69.2061618515879,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       }
@@ -311,8 +311,8 @@
         "name": "NVIDIA/OpenShell",
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "url": "https://github.com/NVIDIA/OpenShell",
-        "stars": 12561,
-        "stars_delta": 1280,
+        "stars": 12832,
+        "stars_delta": 1281,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -321,8 +321,8 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 50366,
-        "stars_delta": 3481,
+        "stars": 50558,
+        "stars_delta": 3483,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "mvschwarz/openrig",
         "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
         "url": "https://github.com/mvschwarz/openrig",
-        "stars": 2992,
-        "stars_delta": 622,
+        "stars": 3066,
+        "stars_delta": 624,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 24476,
-        "stars_delta": 88,
+        "stars": 24521,
+        "stars_delta": 90,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -351,8 +351,8 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 149137,
-        "stars_delta": 865,
+        "stars": 149260,
+        "stars_delta": 743,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -363,8 +363,8 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 95302,
-        "stars_delta": 12941,
+        "stars": 95365,
+        "stars_delta": 13855,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 43900,
-        "stars_delta": 17365,
+        "stars": 43961,
+        "stars_delta": 18389,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 38364,
-        "stars_delta": 2114,
+        "stars": 38378,
+        "stars_delta": 1637,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 50366,
-        "stars_delta": 12722,
+        "stars": 50558,
+        "stars_delta": 15186,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -403,8 +403,8 @@
         "name": "rohitg00/ai-engineering-from-scratch",
         "description": "Learn it. Build it. Ship it for others.",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 62121,
-        "stars_delta": 5830,
+        "stars": 62159,
+        "stars_delta": 6485,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,8 +415,8 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 45664,
-        "stars_delta": 33308,
+        "stars": 45738,
+        "stars_delta": 31402,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -425,8 +425,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 42914,
-        "stars_delta": 21236,
+        "stars": 42955,
+        "stars_delta": 21460,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -435,8 +435,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 270184,
-        "stars_delta": 26837,
+        "stars": 270243,
+        "stars_delta": 26563,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -445,8 +445,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 52385,
-        "stars_delta": 26845,
+        "stars": 52433,
+        "stars_delta": 26622,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -455,8 +455,8 @@
         "name": "tt-a1i/archify",
         "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
         "url": "https://github.com/tt-a1i/archify",
-        "stars": 75217,
-        "stars_delta": 45168,
+        "stars": 75295,
+        "stars_delta": 38190,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -529,10 +529,10 @@
         ],
         "url": "https://huggingface.co/papers/2609.33439",
         "categories": [],
-        "upvotes": 452,
+        "upvotes": 454,
         "published": "2026-09-26",
         "github_repo": "https://github.com/EverMind-AI/Raven",
-        "github_stars": 4937
+        "github_stars": 4987
       },
       {
         "rank": 2,
@@ -562,7 +562,7 @@
         "upvotes": 148,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 109322
+        "github_stars": 109380
       },
       {
         "rank": 4,
@@ -581,18 +581,18 @@
       },
       {
         "rank": 5,
-        "title": "What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling",
+        "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
         "authors": [
-          "Renping Zhou",
-          "Zanlin Ni",
-          "Zihao Fan"
+          "Talor Abramovich",
+          "Maor Ashkenazi",
+          "Carl"
         ],
-        "url": "https://huggingface.co/papers/2609.34981",
+        "url": "https://huggingface.co/papers/2604.09557",
         "categories": [],
-        "upvotes": 95,
-        "published": "2026-09-28",
-        "github_repo": "https://github.com/LeapLabTHU/Simple-WAM",
-        "github_stars": 58
+        "upvotes": 16,
+        "published": "2026-02-09",
+        "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
+        "github_stars": 5095
       }
     ],
     "arxiv_recent": [
@@ -688,10 +688,10 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
         "discussion_url": "https://news.ycombinator.com/item?id=49913571",
         "site": "blog.google",
-        "points": 802,
-        "comments": 534,
+        "points": 1050,
+        "comments": 701,
         "author": "bradleyg223",
-        "age": "3h ago"
+        "age": "6h ago"
       },
       {
         "rank": 2,
@@ -700,46 +700,46 @@
         "url": "https://www.thespacereview.com/article/4951/1",
         "discussion_url": "https://news.ycombinator.com/item?id=49915082",
         "site": "thespacereview.com",
-        "points": 70,
-        "comments": 9,
+        "points": 142,
+        "comments": 58,
         "author": "Bluestein",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
+        "id": 49915126,
+        "title": "56k.rip – the 1996 dial-up internet experience",
+        "url": "https://56k.rip/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49915126",
+        "site": "56k.rip",
+        "points": 79,
+        "comments": 47,
+        "author": "adunk",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
         "id": 49912955,
         "title": "Surprisingly complex waves reveal the brain's inner workings",
         "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
         "discussion_url": "https://news.ycombinator.com/item?id=49912955",
         "site": "quantamagazine.org",
-        "points": 99,
-        "comments": 35,
+        "points": 129,
+        "comments": 41,
         "author": "ibobev",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49913192,
-        "title": "EDG C++ front-end goes public",
-        "url": "https://edgcpp.org/#transition",
-        "discussion_url": "https://news.ycombinator.com/item?id=49913192",
-        "site": "edgcpp.org",
-        "points": 117,
-        "comments": 42,
-        "author": "iandinwoodie",
-        "age": "3h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 49911995,
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "url": "https://github.com/magnitudedev/magnitude",
-        "discussion_url": "https://news.ycombinator.com/item?id=49911995",
-        "site": "github.com",
-        "points": 115,
-        "comments": 49,
-        "author": "anerli",
-        "age": "5h ago"
+        "id": 49890732,
+        "title": "Why the Bronze Age Collapsed",
+        "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+        "discussion_url": "https://news.ycombinator.com/item?id=49890732",
+        "site": "worksinprogress.news",
+        "points": 101,
+        "comments": 56,
+        "author": "AnodicElegy",
+        "age": "1d ago"
       }
     ],
     "ask": [
@@ -750,37 +750,49 @@
         "url": "https://news.ycombinator.com/item?id=49893157",
         "discussion_url": "https://news.ycombinator.com/item?id=49893157",
         "site": "news.ycombinator.com",
-        "points": 424,
-        "comments": 829,
+        "points": 431,
+        "comments": 839,
         "author": "dan-bailey",
         "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 49914416,
-        "title": "Tell HN: Thanks for All the Fish",
-        "url": "https://news.ycombinator.com/item?id=49914416",
-        "discussion_url": "https://news.ycombinator.com/item?id=49914416",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 0,
-        "author": "neilv",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
         "id": 49906563,
         "title": "Ask HN: What are you reading to your kids?",
         "url": "https://news.ycombinator.com/item?id=49906563",
         "discussion_url": "https://news.ycombinator.com/item?id=49906563",
         "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 8,
+        "points": 9,
+        "comments": 10,
         "author": "jopizio",
-        "age": "13h ago"
+        "age": "17h ago"
+      },
+      {
+        "rank": 3,
+        "id": 49907601,
+        "title": "Muse.ai gets me kicked off fb marketplace",
+        "url": "https://news.ycombinator.com/item?id=49907601",
+        "discussion_url": "https://news.ycombinator.com/item?id=49907601",
+        "site": "news.ycombinator.com",
+        "points": 29,
+        "comments": 13,
+        "author": "zcalvin",
+        "age": "14h ago"
       },
       {
         "rank": 4,
+        "id": 49914416,
+        "title": "Tell HN: Thanks for All the Fish",
+        "url": "https://news.ycombinator.com/item?id=49914416",
+        "discussion_url": "https://news.ycombinator.com/item?id=49914416",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 0,
+        "author": "neilv",
+        "age": "5h ago"
+      },
+      {
+        "rank": 5,
         "id": 49913868,
         "title": "Factory AI vs. Cognition (Devin) board tussle",
         "url": "https://news.ycombinator.com/item?id=49913868",
@@ -789,80 +801,68 @@
         "points": 2,
         "comments": 1,
         "author": "pranshuchittora",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49907601,
-        "title": "Muse.ai gets me kicked off fb marketplace",
-        "url": "https://news.ycombinator.com/item?id=49907601",
-        "discussion_url": "https://news.ycombinator.com/item?id=49907601",
-        "site": "news.ycombinator.com",
-        "points": 28,
-        "comments": 12,
-        "author": "zcalvin",
-        "age": "11h ago"
+        "age": "6h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49916997,
+        "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+        "url": "https://github.com/TantrixAuto/yantra",
+        "discussion_url": "https://news.ycombinator.com/item?id=49916997",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "renjipanicker",
+        "age": "20m ago"
+      },
+      {
+        "rank": 2,
         "id": 49909648,
         "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
         "url": "https://lathoa.ai/en",
         "discussion_url": "https://news.ycombinator.com/item?id=49909648",
         "site": "lathoa.ai",
-        "points": 15,
-        "comments": 2,
+        "points": 33,
+        "comments": 15,
         "author": "thanouil1411",
-        "age": "8h ago"
+        "age": "12h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49902382,
         "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
         "url": "https://ledge.sh",
         "discussion_url": "https://news.ycombinator.com/item?id=49902382",
         "site": "ledge.sh",
-        "points": 73,
+        "points": 79,
         "comments": 40,
         "author": "dancablam",
-        "age": "23h ago"
+        "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "id": 49916539,
+        "title": "Show HN: Kanmaps – Product roadmaps like videogame skill trees",
+        "url": "https://kanmaps.com/show",
+        "discussion_url": "https://news.ycombinator.com/item?id=49916539",
+        "site": "kanmaps.com",
+        "points": 6,
+        "comments": 2,
+        "author": "pasharayan",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 49890707,
         "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
         "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
         "discussion_url": "https://news.ycombinator.com/item?id=49890707",
         "site": "projecthub.arduino.cc",
-        "points": 120,
-        "comments": 28,
+        "points": 123,
+        "comments": 29,
         "author": "gvuksic",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 49886535,
-        "title": "Show HN: Dental Scope – Interactive 3D dental anatomy",
-        "url": "https://dental-scope.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49886535",
-        "site": "dental-scope.com",
-        "points": 114,
-        "comments": 62,
-        "author": "Zeruxe",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49896757,
-        "title": "Show HN: A working 3D model of an Enigma machine",
-        "url": "https://enigma.design",
-        "discussion_url": "https://news.ycombinator.com/item?id=49896757",
-        "site": "enigma.design",
-        "points": 93,
-        "comments": 37,
-        "author": "primitivesuave",
         "age": "1d ago"
       }
     ]
