@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-03T08:40:09Z",
+  "generated": "2026-10-03T11:23:56Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 1007,
+        "trending_score": 983,
         "downloads": 0,
-        "likes": 5018,
+        "likes": 5026,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 817,
-        "downloads": 824,
-        "likes": 850,
+        "trending_score": 852,
+        "downloads": 2620,
+        "likes": 886,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 710,
-        "downloads": 1376248,
-        "likes": 2861,
+        "trending_score": 704,
+        "downloads": 1455921,
+        "likes": 2870,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -58,8 +58,8 @@
         "name": "Contrastive-LM/CLM-v0.1-8B",
         "org": "Contrastive-LM",
         "trending_score": 400,
-        "downloads": 2951,
-        "likes": 675,
+        "downloads": 3190,
+        "likes": 677,
         "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
         "tags": [
           "contrastive-lm",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 384,
-        "downloads": 1584129,
-        "likes": 6022,
+        "trending_score": 387,
+        "downloads": 1629984,
+        "likes": 6042,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "Panniantong/Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "url": "https://github.com/Panniantong/Agent-Reach",
-        "stars": 89150,
-        "stars_delta": 696,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
-        "name": "JuliusBrussee/caveman",
-        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-        "url": "https://github.com/JuliusBrussee/caveman",
-        "stars": 109240,
-        "stars_delta": 209,
-        "language": "Go",
-        "language_color": "#00ADD8"
-      },
-      {
-        "rank": 3,
-        "name": "obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers",
-        "stars": 294609,
-        "stars_delta": 556,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
-        "rank": 4,
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 152167,
-        "stars_delta": 1435,
+        "stars": 152320,
+        "stars_delta": 1289,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 5,
+        "rank": 2,
         "name": "pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 74539,
-        "stars_delta": 722,
+        "stars": 74624,
+        "stars_delta": 705,
         "language": "JavaScript",
         "language_color": "#f1e05a"
+      },
+      {
+        "rank": 3,
+        "name": "affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC",
+        "stars": 271731,
+        "stars_delta": 578,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
+      },
+      {
+        "rank": 4,
+        "name": "Effect-TS/effect",
+        "description": "Build production-ready applications in TypeScript",
+        "url": "https://github.com/Effect-TS/effect",
+        "stars": 16676,
+        "stars_delta": 302,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "JuliusBrussee/caveman",
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "stars": 109296,
+        "stars_delta": 505,
+        "language": "Go",
+        "language_color": "#00ADD8"
       }
     ],
     "weekly": [
@@ -363,7 +363,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 96443,
+        "stars": 96495,
         "stars_delta": 12825,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 44830,
+        "stars": 44868,
         "stars_delta": 16183,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,30 +383,30 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 52120,
+        "stars": 52196,
         "stars_delta": 16475,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "rohitg00/ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "stars": 62767,
-        "stars_delta": 5600,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "pbakaus/impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "url": "https://github.com/pbakaus/impeccable",
+        "stars": 74624,
+        "stars_delta": 3124,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       },
       {
         "rank": 5,
-        "name": "flutter/flutter",
-        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "url": "https://github.com/flutter/flutter",
-        "stars": 179273,
-        "stars_delta": 228,
-        "language": "Dart",
-        "language_color": "#00B4AB"
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "stars": 62820,
+        "stars_delta": 5600,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 46731,
+        "stars": 46782,
         "stars_delta": 31110,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 43416,
+        "stars": 43431,
         "stars_delta": 21821,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -435,7 +435,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 271617,
+        "stars": 271731,
         "stars_delta": 26490,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 53025,
+        "stars": 53050,
         "stars_delta": 26537,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 31816,
+        "stars": 31829,
         "stars_delta": 10794,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -566,6 +566,21 @@
       },
       {
         "rank": 4,
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "authors": [
+          "Yu Lin",
+          "Yiming Wang",
+          "Runyuan Cai"
+        ],
+        "url": "https://huggingface.co/papers/2609.18063",
+        "categories": [],
+        "upvotes": 19,
+        "published": "2026-09-15",
+        "github_repo": "https://github.com/Edge0-AI/edge0",
+        "github_stars": 2561
+      },
+      {
+        "rank": 5,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -577,22 +592,7 @@
         "upvotes": 148,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 109522
-      },
-      {
-        "rank": 5,
-        "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-        "authors": [
-          "Peng Xia",
-          "Rujun Han",
-          "Zifeng Wang"
-        ],
-        "url": "https://huggingface.co/papers/2609.24972",
-        "categories": [],
-        "upvotes": 220,
-        "published": "2026-09-20",
-        "github_repo": "https://github.com/google-research/rrsi",
-        "github_stars": 1202
+        "github_stars": 109573
       }
     ],
     "arxiv_recent": [
@@ -680,92 +680,80 @@
     "top": [
       {
         "rank": 1,
-        "id": 49941114,
-        "title": "Extra Big Ass Intelligence",
-        "url": "https://www.extrabigassintelligence.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49941114",
-        "site": "extrabigassintelligence.com",
-        "points": 263,
-        "comments": 56,
-        "author": "34679",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49942002,
-        "title": "Understanding Frontier Artificial Intelligence",
-        "url": "https://casp.ac/reports/intelligence-explosion",
-        "discussion_url": "https://news.ycombinator.com/item?id=49942002",
-        "site": "casp.ac",
-        "points": 19,
-        "comments": 8,
-        "author": "roversx",
+        "id": 49942818,
+        "title": "GitHub's new dashboard experience now the default",
+        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49942818",
+        "site": "github.blog",
+        "points": 13,
+        "comments": 11,
+        "author": "vanyauhalin",
         "age": "1h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 49940394,
         "title": "Newgrounds.com – A community of games, music, and art",
         "url": "https://www.newgrounds.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=49940394",
         "site": "newgrounds.com",
-        "points": 193,
-        "comments": 55,
+        "points": 244,
+        "comments": 65,
         "author": "azhenley",
-        "age": "7h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 49927754,
         "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
         "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
         "discussion_url": "https://news.ycombinator.com/item?id=49927754",
         "site": "eff.org",
-        "points": 614,
-        "comments": 273,
+        "points": 648,
+        "comments": 299,
         "author": "hn_acker",
         "age": "1d ago"
       },
       {
+        "rank": 4,
+        "id": 49937276,
+        "title": "Apple Pass Designer",
+        "url": "https://developer.apple.com/pass-designer/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49937276",
+        "site": "developer.apple.com",
+        "points": 442,
+        "comments": 274,
+        "author": "soheilpro",
+        "age": "16h ago"
+      },
+      {
         "rank": 5,
-        "id": 49925184,
-        "title": "Mike Tomlin spent 12 years building a Minecraft city",
-        "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49925184",
-        "site": "nytimes.com",
-        "points": 440,
-        "comments": 106,
-        "author": "CoryOndrejka",
-        "age": "1d ago"
+        "id": 49941447,
+        "title": "An Update on Orion for Linux and Windows",
+        "url": "https://blog.kagi.com/update-orion-linux-windows",
+        "discussion_url": "https://news.ycombinator.com/item?id=49941447",
+        "site": "blog.kagi.com",
+        "points": 67,
+        "comments": 34,
+        "author": "pentagrama",
+        "age": "6h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 49942208,
-        "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
-        "url": "https://news.ycombinator.com/item?id=49942208",
-        "discussion_url": "https://news.ycombinator.com/item?id=49942208",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "Dinuda",
-        "age": "52m ago"
-      },
-      {
-        "rank": 2,
         "id": 49922568,
         "title": "Ask HN: Who wants to be hired? (October 2026)",
         "url": "https://news.ycombinator.com/item?id=49922568",
         "discussion_url": "https://news.ycombinator.com/item?id=49922568",
         "site": "news.ycombinator.com",
         "points": 124,
-        "comments": 445,
+        "comments": 450,
         "author": "whoishiring",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 49922569,
         "title": "Ask HN: Who is hiring? (October 2026)",
         "url": "https://news.ycombinator.com/item?id=49922569",
@@ -777,41 +765,53 @@
         "age": "1d ago"
       },
       {
-        "rank": 4,
-        "id": 49940260,
-        "title": "GitHub mutuals on AI in life sciences or bioinformatics",
-        "url": "https://news.ycombinator.com/item?id=49940260",
-        "discussion_url": "https://news.ycombinator.com/item?id=49940260",
+        "rank": 3,
+        "id": 49942208,
+        "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
+        "url": "https://news.ycombinator.com/item?id=49942208",
+        "discussion_url": "https://news.ycombinator.com/item?id=49942208",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 2,
+        "comments": 2,
+        "author": "Dinuda",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49941501,
+        "title": "What did Google do to its Linux terminal on Pixel phones",
+        "url": "https://news.ycombinator.com/item?id=49941501",
+        "discussion_url": "https://news.ycombinator.com/item?id=49941501",
+        "site": "news.ycombinator.com",
+        "points": 3,
         "comments": 0,
-        "author": "arli_ap",
-        "age": "8h ago"
+        "author": "Steaglsz",
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 49940029,
-        "title": "We need to deobligate humans from reading generated content",
-        "url": "https://news.ycombinator.com/item?id=49940029",
-        "discussion_url": "https://news.ycombinator.com/item?id=49940029",
+        "id": 49893157,
+        "title": "Ask HN: What are you reading?",
+        "url": "https://news.ycombinator.com/item?id=49893157",
+        "discussion_url": "https://news.ycombinator.com/item?id=49893157",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "retetr",
-        "age": "8h ago"
+        "points": 463,
+        "comments": 879,
+        "author": "dan-bailey",
+        "age": "3d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49942264,
-        "title": "Show HN: Zebu tracking/invoicing for freelancers and small teams",
-        "url": "https://zebu.work/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49942264",
-        "site": "zebu.work",
-        "points": 2,
+        "id": 49943034,
+        "title": "Show HN: Germany's new sovereign AI model Kolibri",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "discussion_url": "https://news.ycombinator.com/item?id=49943034",
+        "site": "tej.as",
+        "points": 5,
         "comments": 0,
-        "author": "waffl",
+        "author": "tejaskumar__",
         "age": "40m ago"
       },
       {
@@ -821,45 +821,45 @@
         "url": "https://stillwet.art/",
         "discussion_url": "https://news.ycombinator.com/item?id=49928566",
         "site": "stillwet.art",
-        "points": 270,
-        "comments": 88,
+        "points": 286,
+        "comments": 90,
         "author": "alstonite",
         "age": "1d ago"
       },
       {
         "rank": 3,
+        "id": 49942434,
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "url": "https://offrun.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49942434",
+        "site": "offrun.dev",
+        "points": 4,
+        "comments": 0,
+        "author": "arunbhatia",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 49937916,
         "title": "Show HN: Made an open-source Lego AI generator",
         "url": "https://github.com/anteloc/ldraw-nova",
         "discussion_url": "https://news.ycombinator.com/item?id=49937916",
         "site": "github.com",
-        "points": 111,
-        "comments": 44,
+        "points": 116,
+        "comments": 46,
         "author": "antelocnova",
-        "age": "12h ago"
+        "age": "15h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49928215,
         "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
         "url": "https://github.com/kitao/pyxel",
         "discussion_url": "https://news.ycombinator.com/item?id=49928215",
         "site": "github.com",
-        "points": 83,
+        "points": 84,
         "comments": 8,
         "author": "kitao",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 49931031,
-        "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-        "url": "https://github.com/kvoltmer/Audionaut",
-        "discussion_url": "https://news.ycombinator.com/item?id=49931031",
-        "site": "github.com",
-        "points": 138,
-        "comments": 46,
-        "author": "vltmrkls",
         "age": "1d ago"
       }
     ]
