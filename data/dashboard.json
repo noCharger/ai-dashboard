@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-05T02:46:52Z",
+  "generated": "2026-10-05T09:44:18Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 1140,
+        "trending_score": 1202,
         "downloads": 4214,
-        "likes": 1225,
+        "likes": 1292,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 798,
+        "trending_score": 743,
         "downloads": 3752,
-        "likes": 5166,
+        "likes": 5189,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 713,
+        "trending_score": 704,
         "downloads": 1553744,
-        "likes": 3148,
+        "likes": 3180,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -55,11 +55,28 @@
       },
       {
         "rank": 4,
+        "name": "Aleph-Alpha/Kolibri-1",
+        "org": "Aleph-Alpha",
+        "trending_score": 476,
+        "downloads": 1135,
+        "likes": 487,
+        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "tags": [
+          "vllm",
+          "safetensors",
+          "kolibri1",
+          "reasoning",
+          "moe"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 441,
-        "downloads": 1626951,
-        "likes": 6321,
+        "trending_score": 456,
+        "downloads": 1645444,
+        "likes": 6370,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -69,78 +86,61 @@
           "image-text-to-video"
         ],
         "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "Cloudflare/clef-flash",
-        "org": "Cloudflare",
-        "trending_score": 412,
-        "downloads": 6372,
-        "likes": 431,
-        "url": "https://huggingface.co/Cloudflare/clef-flash",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "clef"
-        ],
-        "rank_change": null
       }
     ],
     "benchmark": [
       {
         "rank": 1,
-        "name": "Claude Opus 5.5 (Max, Default Fallback)",
+        "name": "Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 91.6244873445065,
+        "speed_tps": 93.0146317747311,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
       {
         "rank": 2,
-        "name": "Claude Sonnet 5.5 (Max, Default Fallback)",
+        "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 56.0001286580794,
         "price_input": 2,
         "price_output": 10,
-        "speed_tps": 128.652556112193,
+        "speed_tps": 139.150604562872,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
       },
       {
         "rank": 3,
-        "name": "Claude Opus 5.5 (Xhigh, Default Fallback)",
+        "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 75.2662633648534,
+        "speed_tps": 78.5446549540035,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
       {
         "rank": 4,
-        "name": "Claude Opus 5.5 (High, Default Fallback)",
+        "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 71.2406692798623,
+        "speed_tps": 74.3972614063985,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
       {
         "rank": 5,
-        "name": "Claude Fable 5.1 (Max, Default Fallback)",
+        "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
         "org": "Anthropic",
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 64.7826265212247,
+        "speed_tps": 68.2754473664919,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       }
@@ -311,7 +311,7 @@
         "name": "tester-army/e2e",
         "description": "Next generation e2e testing framework for web and mobile apps.",
         "url": "https://github.com/tester-army/e2e",
-        "stars": 3226,
+        "stars": 3671,
         "stars_delta": 345,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 76364,
+        "stars": 76670,
         "stars_delta": 1171,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "coreyhaines31/marketingskills",
         "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
         "url": "https://github.com/coreyhaines31/marketingskills",
-        "stars": 53126,
+        "stars": 53271,
         "stars_delta": 197,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 154968,
+        "stars": 155405,
         "stars_delta": 1894,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "earthtojake/text-to-cad",
         "description": "Give your agent CAD superpowers.",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 16902,
+        "stars": 17047,
         "stars_delta": 83,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 97231,
+        "stars": 97333,
         "stars_delta": 8732,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 45528,
+        "stars": 45666,
         "stars_delta": 10623,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 76364,
+        "stars": 76670,
         "stars_delta": 4242,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -393,7 +393,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 53206,
+        "stars": 53379,
         "stars_delta": 14689,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 56807,
+        "stars": 56968,
         "stars_delta": 3096,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 47554,
+        "stars": 47676,
         "stars_delta": 30324,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 43728,
+        "stars": 43783,
         "stars_delta": 22080,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -435,7 +435,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 273015,
+        "stars": 273219,
         "stars_delta": 26306,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 53627,
+        "stars": 53750,
         "stars_delta": 26627,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "Tencent/WeKnora",
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "url": "https://github.com/Tencent/WeKnora",
-        "stars": 32041,
+        "stars": 32094,
         "stars_delta": 10912,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -534,10 +534,25 @@
         "upvotes": 22,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 2868
+        "github_stars": 3015
       },
       {
         "rank": 2,
+        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+        "authors": [
+          "Linzhan Mou",
+          "Jiahui Lei",
+          "Zhiyang Dou"
+        ],
+        "url": "https://huggingface.co/papers/2609.05415",
+        "categories": [],
+        "upvotes": 22,
+        "published": "2026-09-03",
+        "github_repo": "https://github.com/Friedrich-M/UniMate",
+        "github_stars": 1394
+      },
+      {
+        "rank": 3,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -552,21 +567,6 @@
         "github_stars": 109772
       },
       {
-        "rank": 3,
-        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-        "authors": [
-          "Linzhan Mou",
-          "Jiahui Lei",
-          "Zhiyang Dou"
-        ],
-        "url": "https://huggingface.co/papers/2609.05415",
-        "categories": [],
-        "upvotes": 21,
-        "published": "2026-09-03",
-        "github_repo": "https://github.com/Friedrich-M/UniMate",
-        "github_stars": 1309
-      },
-      {
         "rank": 4,
         "title": "LongCat-Video Technical Report",
         "authors": [
@@ -579,7 +579,7 @@
         "upvotes": 43,
         "published": "2025-10-25",
         "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-        "github_stars": 8935
+        "github_stars": 8952
       },
       {
         "rank": 5,
@@ -589,7 +589,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.33439",
         "categories": [],
-        "upvotes": 561,
+        "upvotes": 563,
         "published": "2026-09-26",
         "github_repo": "https://github.com/EverMind-AI/Raven",
         "github_stars": 5160
@@ -678,63 +678,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 49959869,
-        "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-        "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49959869",
-        "site": "motorsport.com",
-        "points": 52,
-        "comments": 21,
-        "author": "llm_nerd",
-        "age": "52m ago"
+        "id": 49962012,
+        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+        "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+        "discussion_url": "https://news.ycombinator.com/item?id=49962012",
+        "site": "cpr.dk",
+        "points": 56,
+        "comments": 18,
+        "author": "clan",
+        "age": "1h ago"
       },
       {
         "rank": 2,
+        "id": 49961861,
+        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+        "discussion_url": "https://news.ycombinator.com/item?id=49961861",
+        "site": "huawei.com",
+        "points": 51,
+        "comments": 32,
+        "author": "0xedb",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 49953495,
         "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
         "url": "https://github.com/Niko1221/Strata",
         "discussion_url": "https://news.ycombinator.com/item?id=49953495",
         "site": "github.com",
-        "points": 631,
-        "comments": 296,
+        "points": 801,
+        "comments": 355,
         "author": "snehesht",
-        "age": "13h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49957812,
-        "title": "In the wake of closure, a digital archive of animated materials appears online",
-        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49957812",
-        "site": "filmstories.co.uk",
-        "points": 40,
-        "comments": 4,
-        "author": "rdmuser",
-        "age": "5h ago"
+        "age": "20h ago"
       },
       {
         "rank": 4,
-        "id": 49943637,
-        "title": "Infidel goes wild",
-        "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-        "discussion_url": "https://news.ycombinator.com/item?id=49943637",
-        "site": "blog.zarfhome.com",
-        "points": 85,
-        "comments": 13,
-        "author": "tobr",
-        "age": "1d ago"
+        "id": 49957812,
+        "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49957812",
+        "site": "filmstories.co.uk",
+        "points": 134,
+        "comments": 17,
+        "author": "rdmuser",
+        "age": "12h ago"
       },
       {
         "rank": 5,
-        "id": 49932236,
-        "title": "The Tao of Backup",
-        "url": "http://www.taobackup.com/index.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49932236",
-        "site": "taobackup.com",
-        "points": 38,
-        "comments": 8,
-        "author": "vntok",
-        "age": "2d ago"
+        "id": 49956681,
+        "title": "A browser-native classic Visual Basic VB6 IDE",
+        "url": "https://wieslawsoltes.github.io/VB6/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49956681",
+        "site": "wieslawsoltes.github.io",
+        "points": 236,
+        "comments": 72,
+        "author": "wiso",
+        "age": "14h ago"
       }
     ],
     "ask": [
@@ -745,8 +745,8 @@
         "url": "https://news.ycombinator.com/item?id=49949438",
         "discussion_url": "https://news.ycombinator.com/item?id=49949438",
         "site": "news.ycombinator.com",
-        "points": 824,
-        "comments": 179,
+        "points": 874,
+        "comments": 188,
         "author": "paveworld",
         "age": "1d ago"
       },
@@ -758,7 +758,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49922568",
         "site": "news.ycombinator.com",
         "points": 129,
-        "comments": 508,
+        "comments": 517,
         "author": "whoishiring",
         "age": "3d ago"
       },
@@ -769,8 +769,8 @@
         "url": "https://news.ycombinator.com/item?id=49922569",
         "discussion_url": "https://news.ycombinator.com/item?id=49922569",
         "site": "news.ycombinator.com",
-        "points": 265,
-        "comments": 286,
+        "points": 266,
+        "comments": 294,
         "author": "whoishiring",
         "age": "3d ago"
       },
@@ -784,57 +784,57 @@
         "points": 2,
         "comments": 1,
         "author": "LowLevelMahn",
-        "age": "9h ago"
+        "age": "16h ago"
       },
       {
         "rank": 5,
-        "id": 49893157,
-        "title": "Ask HN: What are you reading?",
-        "url": "https://news.ycombinator.com/item?id=49893157",
-        "discussion_url": "https://news.ycombinator.com/item?id=49893157",
+        "id": 49950772,
+        "title": "Pico CSS is no longer maintained (final release v2.1.1)",
+        "url": "https://news.ycombinator.com/item?id=49950772",
+        "discussion_url": "https://news.ycombinator.com/item?id=49950772",
         "site": "news.ycombinator.com",
-        "points": 467,
-        "comments": 882,
-        "author": "dan-bailey",
-        "age": "5d ago"
+        "points": 3,
+        "comments": 4,
+        "author": "anydigital",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 49961971,
+        "title": "Show HN: Gutsy, subsecond decision model inference on CPU (Jev Style), no API",
+        "url": "https://github.com/kouhxp/gutsy",
+        "discussion_url": "https://news.ycombinator.com/item?id=49961971",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "mrkn1",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 49930439,
         "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
         "url": "https://niklasroy.com/gtc/",
         "discussion_url": "https://news.ycombinator.com/item?id=49930439",
         "site": "niklasroy.com",
-        "points": 168,
-        "comments": 24,
+        "points": 199,
+        "comments": 29,
         "author": "r0r0",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 49952111,
         "title": "Show HN: AI search for every photo and every frame of video on macOS",
         "url": "https://github.com/allenv0/SCM",
         "discussion_url": "https://news.ycombinator.com/item?id=49952111",
         "site": "github.com",
-        "points": 142,
-        "comments": 66,
+        "points": 153,
+        "comments": 69,
         "author": "allenleee",
-        "age": "17h ago"
-      },
-      {
-        "rank": 3,
-        "id": 49959751,
-        "title": "Show HN: HyperCMD, write CLI applications using plain HTML",
-        "url": "https://github.com/fusor-rs/hypercmd",
-        "discussion_url": "https://news.ycombinator.com/item?id=49959751",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "andreespirela",
-        "age": "1h ago"
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -843,22 +843,22 @@
         "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
         "discussion_url": "https://news.ycombinator.com/item?id=49956771",
         "site": "scimigo.com",
-        "points": 27,
-        "comments": 10,
+        "points": 36,
+        "comments": 12,
         "author": "davidwshao",
-        "age": "7h ago"
+        "age": "14h ago"
       },
       {
         "rank": 5,
-        "id": 49958538,
-        "title": "Show HN: xxWikiJS knowledge base from your docs, answers with verified citations",
-        "url": "https://gmaterni.github.io/wikijs/wikijs.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=49958538",
-        "site": "gmaterni.github.io",
-        "points": 2,
-        "comments": 0,
-        "author": "gmaterni",
-        "age": "4h ago"
+        "id": 49942103,
+        "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+        "url": "https://thoreaubasic.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49942103",
+        "site": "thoreaubasic.com",
+        "points": 92,
+        "comments": 53,
+        "author": "Gorsefound",
+        "age": "2d ago"
       }
     ]
   }
