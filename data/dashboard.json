@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-06T13:54:09Z",
+  "generated": "2026-10-06T19:11:36Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 1467,
+        "trending_score": 1520,
         "downloads": 7255,
-        "likes": 1597,
+        "likes": 1652,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "autotrust/JEV-27B-VL",
         "org": "autotrust",
-        "trending_score": 710,
+        "trending_score": 772,
         "downloads": 1525286,
-        "likes": 884,
+        "likes": 957,
         "url": "https://huggingface.co/autotrust/JEV-27B-VL",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 679,
+        "trending_score": 689,
         "downloads": 1721760,
-        "likes": 3364,
+        "likes": 3403,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Aleph-Alpha/Kolibri-1",
         "org": "Aleph-Alpha",
-        "trending_score": 654,
+        "trending_score": 669,
         "downloads": 4138,
-        "likes": 682,
+        "likes": 699,
         "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
         "tags": [
           "vllm",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "convaiinnovations/laya",
-        "org": "convaiinnovations",
-        "trending_score": 584,
-        "downloads": 20386,
-        "likes": 5265,
-        "url": "https://huggingface.co/convaiinnovations/laya",
+        "name": "Cloudflare/clef-flash",
+        "org": "Cloudflare",
+        "trending_score": 554,
+        "downloads": 10638,
+        "likes": 580,
+        "url": "https://huggingface.co/Cloudflare/clef-flash",
         "tags": [
           "transformers",
           "safetensors",
-          "laya",
-          "system-one",
-          "calibrated-decisions"
+          "qwen3_5",
+          "image-text-to-text",
+          "clef"
         ],
         "rank_change": null
       }
@@ -107,7 +107,7 @@
         "intelligence_index": 56.0001286580794,
         "price_input": 2,
         "price_output": 10,
-        "speed_tps": 126.994858897575,
+        "speed_tps": 127.530709852333,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 79.7755153079919,
+        "speed_tps": 78.2431316378166,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 79.4758067403058,
+        "speed_tps": 78.0554763781356,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -311,7 +311,7 @@
         "name": "tester-army/e2e",
         "description": "Next generation e2e testing framework for web and mobile apps.",
         "url": "https://github.com/tester-army/e2e",
-        "stars": 5684,
+        "stars": 6049,
         "stars_delta": 1720,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,8 +321,8 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 277606,
-        "stars_delta": 1028,
+        "stars": 277921,
+        "stars_delta": 972,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,7 +331,7 @@
         "name": "earthtojake/text-to-cad",
         "description": "Give your agent CAD superpowers.",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 17745,
+        "stars": 17862,
         "stars_delta": 620,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 5487,
+        "stars": 6057,
         "stars_delta": 943,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -351,8 +351,8 @@
         "name": "pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 77418,
-        "stars_delta": 947,
+        "stars": 77561,
+        "stars_delta": 609,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -363,7 +363,7 @@
         "name": "mvschwarz/openrig",
         "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
         "url": "https://github.com/mvschwarz/openrig",
-        "stars": 5393,
+        "stars": 5455,
         "stars_delta": 3776,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 57667,
+        "stars": 57817,
         "stars_delta": 3342,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 10051,
+        "stars": 10079,
         "stars_delta": 1042,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "NVIDIA/OpenShell",
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "url": "https://github.com/NVIDIA/OpenShell",
-        "stars": 15066,
+        "stars": 15101,
         "stars_delta": 5915,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "VectifyAI/PageIndex",
         "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "url": "https://github.com/VectifyAI/PageIndex",
-        "stars": 38744,
+        "stars": 38763,
         "stars_delta": 2860,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 43980,
+        "stars": 44013,
         "stars_delta": 22242,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -425,7 +425,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 48202,
+        "stars": 48303,
         "stars_delta": 30235,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 274020,
+        "stars": 274167,
         "stars_delta": 25740,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 54161,
+        "stars": 54285,
         "stars_delta": 26953,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 38841,
+        "stars": 38851,
         "stars_delta": 4207,
         "language": "Python",
         "language_color": "#3572A5"
@@ -523,6 +523,21 @@
     "hf_trending": [
       {
         "rank": 1,
+        "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+        "authors": [
+          "Team Kandinsky",
+          "Julia Agafonova",
+          "Bulat Akhmatov"
+        ],
+        "url": "https://huggingface.co/papers/2610.05608",
+        "categories": [],
+        "upvotes": 113,
+        "published": "2026-10-03",
+        "github_repo": "https://github.com/kandinskylab/kandinsky-6",
+        "github_stars": 119
+      },
+      {
+        "rank": 2,
         "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
         "authors": [
           "Yu Lin",
@@ -535,21 +550,6 @@
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
         "github_stars": 3203
-      },
-      {
-        "rank": 2,
-        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-        "authors": [
-          "Linzhan Mou",
-          "Jiahui Lei",
-          "Zhiyang Dou"
-        ],
-        "url": "https://huggingface.co/papers/2609.05415",
-        "categories": [],
-        "upvotes": 22,
-        "published": "2026-09-03",
-        "github_repo": "https://github.com/Friedrich-M/UniMate",
-        "github_stars": 1495
       },
       {
         "rank": 3,
@@ -568,6 +568,21 @@
       },
       {
         "rank": 4,
+        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+        "authors": [
+          "Linzhan Mou",
+          "Jiahui Lei",
+          "Zhiyang Dou"
+        ],
+        "url": "https://huggingface.co/papers/2609.05415",
+        "categories": [],
+        "upvotes": 22,
+        "published": "2026-09-03",
+        "github_repo": "https://github.com/Friedrich-M/UniMate",
+        "github_stars": 1517
+      },
+      {
+        "rank": 5,
         "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
         "authors": [
           "Siran Peng",
@@ -580,21 +595,6 @@
         "published": "2026-09-26",
         "github_repo": "https://github.com/PSRben/VisionHOPE",
         "github_stars": 795
-      },
-      {
-        "rank": 5,
-        "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
-        "authors": [
-          "Woosuk Kwon",
-          "Zhuohan Li",
-          "Siyuan Zhuang"
-        ],
-        "url": "https://huggingface.co/papers/2309.06180",
-        "categories": [],
-        "upvotes": 76,
-        "published": "2023-09-12",
-        "github_repo": "https://github.com/vllm-project/vllm",
-        "github_stars": 86094
       }
     ],
     "arxiv_recent": [
@@ -681,25 +681,25 @@
         "rank": 1,
         "id": 49977979,
         "title": "Mistral Large 4",
-        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+        "url": "https://mistral.ai/news/mistral-large-4/\\",
         "discussion_url": "https://news.ycombinator.com/item?id=49977979",
-        "site": "docs.mistral.ai",
-        "points": 262,
-        "comments": 99,
+        "site": "mistral.ai",
+        "points": 1167,
+        "comments": 748,
         "author": "Philpax",
-        "age": "38m ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
-        "id": 49978116,
-        "title": "Mistral Large 4: \"Le Chonk\"",
-        "url": "https://mistral.ai/news/mistral-large-4/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49978116",
-        "site": "mistral.ai",
-        "points": 51,
-        "comments": 5,
-        "author": "j-bu",
-        "age": "28m ago"
+        "id": 49976265,
+        "title": "Nobel Prize in Physics 2026: Francis Halzen",
+        "url": "https://www.nobelprize.org/prizes/physics/2026/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49976265",
+        "site": "nobelprize.org",
+        "points": 417,
+        "comments": 130,
+        "author": "solarist",
+        "age": "9h ago"
       },
       {
         "rank": 3,
@@ -708,34 +708,34 @@
         "url": "https://pola.rs/posts/release-polars-2/",
         "discussion_url": "https://news.ycombinator.com/item?id=49977177",
         "site": "pola.rs",
-        "points": 101,
-        "comments": 15,
+        "points": 335,
+        "comments": 69,
         "author": "simicd",
-        "age": "1h ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 49976265,
-        "title": "Nobel Prize in Physics goes to Francis Halzen",
-        "url": "https://www.nobelprize.org/prizes/physics/2026/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49976265",
-        "site": "nobelprize.org",
-        "points": 242,
-        "comments": 75,
-        "author": "solarist",
-        "age": "4h ago"
+        "id": 49978563,
+        "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+        "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49978563",
+        "site": "mihai.dinculescu.dev",
+        "points": 100,
+        "comments": 36,
+        "author": "faithraven",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 49977072,
-        "title": "JetBrains reported a net financial loss first time in its tracked history",
-        "url": "https://www.helgilibrary.com/companies/jetbrains",
-        "discussion_url": "https://news.ycombinator.com/item?id=49977072",
-        "site": "helgilibrary.com",
-        "points": 201,
-        "comments": 217,
-        "author": "thw_9a83c",
-        "age": "2h ago"
+        "id": 49967427,
+        "title": "Benchmark in Milliseconds",
+        "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=49967427",
+        "site": "matklad.github.io",
+        "points": 86,
+        "comments": 20,
+        "author": "surprisetalk",
+        "age": "1d ago"
       }
     ],
     "ask": [
@@ -746,8 +746,8 @@
         "url": "https://news.ycombinator.com/item?id=49949438",
         "discussion_url": "https://news.ycombinator.com/item?id=49949438",
         "site": "news.ycombinator.com",
-        "points": 934,
-        "comments": 213,
+        "points": 935,
+        "comments": 214,
         "author": "paveworld",
         "age": "2d ago"
       },
@@ -759,9 +759,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=49922568",
         "site": "news.ycombinator.com",
         "points": 133,
-        "comments": 567,
+        "comments": 577,
         "author": "whoishiring",
-        "age": "4d ago"
+        "age": "5d ago"
       },
       {
         "rank": 3,
@@ -770,10 +770,10 @@
         "url": "https://news.ycombinator.com/item?id=49922569",
         "discussion_url": "https://news.ycombinator.com/item?id=49922569",
         "site": "news.ycombinator.com",
-        "points": 269,
-        "comments": 324,
+        "points": 270,
+        "comments": 334,
         "author": "whoishiring",
-        "age": "4d ago"
+        "age": "5d ago"
       },
       {
         "rank": 4,
@@ -785,7 +785,7 @@
         "points": 6,
         "comments": 5,
         "author": "iliashad",
-        "age": "17h ago"
+        "age": "22h ago"
       },
       {
         "rank": 5,
@@ -794,7 +794,7 @@
         "url": "https://news.ycombinator.com/item?id=49964045",
         "discussion_url": "https://news.ycombinator.com/item?id=49964045",
         "site": "news.ycombinator.com",
-        "points": 100,
+        "points": 101,
         "comments": 59,
         "author": "goldenmember",
         "age": "1d ago"
@@ -803,63 +803,63 @@
     "show": [
       {
         "rank": 1,
-        "id": 49978401,
-        "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
-        "url": "https://jotbus.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49978401",
-        "site": "jotbus.com",
-        "points": 3,
-        "comments": 0,
-        "author": "shake-n-fries",
-        "age": "9m ago"
+        "id": 49978595,
+        "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "url": "https://peterszentkiralyi.eu/darkplug/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49978595",
+        "site": "peterszentkiralyi.eu",
+        "points": 35,
+        "comments": 2,
+        "author": "pentakkusu",
+        "age": "5h ago"
       },
       {
         "rank": 2,
+        "id": 49982189,
+        "title": "Show HN: Pixel-exact HTML-to-PDF in the browser, no Puppeteer or server",
+        "url": "https://github.com/zztaeha/daepdf",
+        "discussion_url": "https://news.ycombinator.com/item?id=49982189",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "silly-tae",
+        "age": "46m ago"
+      },
+      {
+        "rank": 3,
         "id": 49978171,
         "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
         "url": "https://www.parseable.com",
         "discussion_url": "https://news.ycombinator.com/item?id=49978171",
         "site": "parseable.com",
-        "points": 2,
-        "comments": 0,
+        "points": 54,
+        "comments": 12,
         "author": "yashdotrv",
-        "age": "23m ago"
-      },
-      {
-        "rank": 3,
-        "id": 49977969,
-        "title": "Show HN: Connect-it, a browser node canvas with timers, logic gates, and music",
-        "url": "https://connect-it-app.pages.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49977969",
-        "site": "connect-it-app.pages.dev",
-        "points": 2,
-        "comments": 0,
-        "author": "zubink",
-        "age": "38m ago"
+        "age": "5h ago"
       },
       {
         "rank": 4,
-        "id": 49977893,
-        "title": "Show HN: A replacement motherboard for the iPod mini, 3G and 4G",
-        "url": "https://certainthings.studio/sprout/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49977893",
-        "site": "certainthings.studio",
+        "id": 49981964,
+        "title": "Show HN: Browser-Based F1 Game",
+        "url": "https://lift-and-coast.vercel.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49981964",
+        "site": "lift-and-coast.vercel.app",
         "points": 2,
         "comments": 0,
-        "author": "seanpod",
-        "age": "44m ago"
+        "author": "Hussain04",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 49977858,
-        "title": "Show HN: OpenScreen 2.0 – open-source Screen Studio alternative (Win/Mac/Linux)",
-        "url": "https://getopenscreen.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49977858",
-        "site": "getopenscreen.com",
-        "points": 3,
+        "id": 49980749,
+        "title": "Show HN: SPrav Job AI Client-side career tool with WebGPU and direct ATS queries",
+        "url": "https://sprav-jobai.vercel.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49980749",
+        "site": "sprav-jobai.vercel.app",
+        "points": 2,
         "comments": 0,
-        "author": "etienne_l",
-        "age": "46m ago"
+        "author": "SVSPraveen",
+        "age": "2h ago"
       }
     ]
   }
