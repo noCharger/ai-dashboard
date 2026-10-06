@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-05T18:55:54Z",
+  "generated": "2026-10-06T00:28:09Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 1308,
+        "trending_score": 1374,
         "downloads": 5416,
-        "likes": 1404,
+        "likes": 1486,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "convaiinnovations/laya",
         "org": "convaiinnovations",
-        "trending_score": 708,
+        "trending_score": 688,
         "downloads": 11733,
-        "likes": 5220,
+        "likes": 5238,
         "url": "https://huggingface.co/convaiinnovations/laya",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 688,
+        "trending_score": 685,
         "downloads": 1638838,
-        "likes": 3234,
+        "likes": 3262,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Aleph-Alpha/Kolibri-1",
         "org": "Aleph-Alpha",
-        "trending_score": 571,
+        "trending_score": 607,
         "downloads": 2453,
-        "likes": 589,
+        "likes": 628,
         "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
         "tags": [
           "vllm",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 481,
-        "downloads": 1645444,
-        "likes": 6450,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "name": "Cloudflare/clef-flash",
+        "org": "Cloudflare",
+        "trending_score": 505,
+        "downloads": 8075,
+        "likes": 528,
+        "url": "https://huggingface.co/Cloudflare/clef-flash",
         "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "clef"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "tester-army/e2e",
         "description": "Next generation e2e testing framework for web and mobile apps.",
         "url": "https://github.com/tester-army/e2e",
-        "stars": 4416,
-        "stars_delta": 1430,
+        "stars": 4773,
+        "stars_delta": 1398,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,40 +321,40 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 96533,
+        "stars": 96627,
         "stars_delta": 534,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "michael-denyer/pstack-claude",
-        "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-        "url": "https://github.com/michael-denyer/pstack-claude",
-        "stars": 1386,
-        "stars_delta": 222,
-        "language": "JavaScript",
-        "language_color": "#f1e05a"
-      },
-      {
-        "rank": 4,
         "name": "earthtojake/text-to-cad",
         "description": "Give your agent CAD superpowers.",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 17289,
-        "stars_delta": 456,
+        "stars": 17404,
+        "stars_delta": 437,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 25526,
-        "stars_delta": 487,
+        "stars": 25609,
+        "stars_delta": 485,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "boykopovar/AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "url": "https://github.com/boykopovar/AnyPS5",
+        "stars": 4954,
+        "stars_delta": 997,
+        "language": "C++",
+        "language_color": "#f34b7d"
       }
     ],
     "weekly": [
@@ -363,8 +363,8 @@
         "name": "pbakaus/impeccable",
         "description": "The design language that makes your AI harness better at design.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 76957,
-        "stars_delta": 4242,
+        "stars": 77067,
+        "stars_delta": 4936,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -373,8 +373,8 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 97566,
-        "stars_delta": 8732,
+        "stars": 97656,
+        "stars_delta": 6030,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -383,8 +383,8 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 45858,
-        "stars_delta": 10623,
+        "stars": 45936,
+        "stars_delta": 6565,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 57214,
-        "stars_delta": 3096,
+        "stars": 57313,
+        "stars_delta": 3342,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 53630,
-        "stars_delta": 14689,
+        "stars": 53764,
+        "stars_delta": 12036,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,8 +415,8 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 47856,
-        "stars_delta": 30324,
+        "stars": 47971,
+        "stars_delta": 30235,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -425,8 +425,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 43840,
-        "stars_delta": 22080,
+        "stars": 43866,
+        "stars_delta": 22242,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -435,8 +435,8 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 273501,
-        "stars_delta": 26306,
+        "stars": 273650,
+        "stars_delta": 25740,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -445,8 +445,8 @@
         "name": "ayghri/i-have-adhd",
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "stars": 53875,
-        "stars_delta": 26627,
+        "stars": 53933,
+        "stars_delta": 26953,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -455,8 +455,8 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 38784,
-        "stars_delta": 4143,
+        "stars": 38792,
+        "stars_delta": 4207,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -534,7 +534,7 @@
         "upvotes": 22,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 3015
+        "github_stars": 3085
       },
       {
         "rank": 2,
@@ -564,25 +564,10 @@
         "upvotes": 149,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 109817
+        "github_stars": 109870
       },
       {
         "rank": 4,
-        "title": "LongCat-Video Technical Report",
-        "authors": [
-          "Meituan LongCat Team",
-          "Xunliang Cai",
-          "Qilong Huang"
-        ],
-        "url": "https://huggingface.co/papers/2510.22200",
-        "categories": [],
-        "upvotes": 43,
-        "published": "2025-10-25",
-        "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
-        "github_stars": 8952
-      },
-      {
-        "rank": 5,
         "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
         "authors": [
           "Siran Peng",
@@ -594,7 +579,22 @@
         "upvotes": 322,
         "published": "2026-09-26",
         "github_repo": "https://github.com/PSRben/VisionHOPE",
-        "github_stars": 701
+        "github_stars": 741
+      },
+      {
+        "rank": 5,
+        "title": "LongCat-Video Technical Report",
+        "authors": [
+          "Meituan LongCat Team",
+          "Xunliang Cai",
+          "Qilong Huang"
+        ],
+        "url": "https://huggingface.co/papers/2510.22200",
+        "categories": [],
+        "upvotes": 43,
+        "published": "2025-10-25",
+        "github_repo": "https://github.com/meituan-longcat/LongCat-Video",
+        "github_stars": 8962
       }
     ],
     "arxiv_recent": [
@@ -680,63 +680,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 49966163,
-        "title": "The future of independence is interdependence",
-        "url": "https://onlys.ky/independence-is-interdependence/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49966163",
-        "site": "onlys.ky",
-        "points": 85,
-        "comments": 45,
-        "author": "eustoria",
-        "age": "3h ago"
+        "id": 49971846,
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49971846",
+        "site": "niemanlab.org",
+        "points": 131,
+        "comments": 36,
+        "author": "rdmuser",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 49963171,
-        "title": "Web Search API",
-        "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49963171",
-        "site": "developers.cloudflare.com",
-        "points": 352,
-        "comments": 175,
-        "author": "tosh",
-        "age": "8h ago"
+        "id": 49969183,
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "discussion_url": "https://news.ycombinator.com/item?id=49969183",
+        "site": "reflection.ai",
+        "points": 286,
+        "comments": 76,
+        "author": "Philpax",
+        "age": "5h ago"
       },
       {
         "rank": 3,
-        "id": 49965308,
-        "title": "Making a GTK application in Haskell, part 1",
-        "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49965308",
-        "site": "floreal.tech",
-        "points": 94,
-        "comments": 16,
-        "author": "Vosporos",
-        "age": "4h ago"
+        "id": 49971921,
+        "title": "Example.com Just Launched the Biggest Redesign in Decades",
+        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+        "discussion_url": "https://news.ycombinator.com/item?id=49971921",
+        "site": "debugbear.com",
+        "points": 50,
+        "comments": 28,
+        "author": "jgx0",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 49968105,
-        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49968105",
-        "site": "diff.wikimedia.org",
-        "points": 72,
-        "comments": 37,
-        "author": "brokensegue",
-        "age": "1h ago"
+        "id": 49971230,
+        "title": "Find the flattest route between any two points in SF",
+        "url": "https://flattensf.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49971230",
+        "site": "flattensf.com",
+        "points": 89,
+        "comments": 28,
+        "author": "ishan0102",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 49967444,
-        "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
-        "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
-        "discussion_url": "https://news.ycombinator.com/item?id=49967444",
-        "site": "theguardian.com",
-        "points": 129,
-        "comments": 98,
-        "author": "tosh",
-        "age": "1h ago"
+        "id": 49970871,
+        "title": "Dust: Pretraining Transformers Without Backpropagation",
+        "url": "https://qlabs.sh/research/dust",
+        "discussion_url": "https://news.ycombinator.com/item?id=49970871",
+        "site": "qlabs.sh",
+        "points": 81,
+        "comments": 9,
+        "author": "E-Reverance",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -747,22 +747,22 @@
         "url": "https://news.ycombinator.com/item?id=49949438",
         "discussion_url": "https://news.ycombinator.com/item?id=49949438",
         "site": "news.ycombinator.com",
-        "points": 923,
-        "comments": 202,
+        "points": 929,
+        "comments": 209,
         "author": "paveworld",
         "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 49964045,
-        "title": "Tell HN: Uceprotect is extorting website owners",
-        "url": "https://news.ycombinator.com/item?id=49964045",
-        "discussion_url": "https://news.ycombinator.com/item?id=49964045",
+        "id": 49970078,
+        "title": "Orcah Studio: A local-first video agent that can search your videos",
+        "url": "https://news.ycombinator.com/item?id=49970078",
+        "discussion_url": "https://news.ycombinator.com/item?id=49970078",
         "site": "news.ycombinator.com",
-        "points": 95,
-        "comments": 54,
-        "author": "goldenmember",
-        "age": "6h ago"
+        "points": 5,
+        "comments": 3,
+        "author": "iliashad",
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -771,8 +771,8 @@
         "url": "https://news.ycombinator.com/item?id=49922568",
         "discussion_url": "https://news.ycombinator.com/item?id=49922568",
         "site": "news.ycombinator.com",
-        "points": 130,
-        "comments": 534,
+        "points": 133,
+        "comments": 546,
         "author": "whoishiring",
         "age": "4d ago"
       },
@@ -783,22 +783,22 @@
         "url": "https://news.ycombinator.com/item?id=49922569",
         "discussion_url": "https://news.ycombinator.com/item?id=49922569",
         "site": "news.ycombinator.com",
-        "points": 266,
-        "comments": 313,
+        "points": 269,
+        "comments": 317,
         "author": "whoishiring",
         "age": "4d ago"
       },
       {
         "rank": 5,
-        "id": 49955812,
-        "title": "DOS Game Stunts Port to Linux,Windows,Browser,etc.",
-        "url": "https://news.ycombinator.com/item?id=49955812",
-        "discussion_url": "https://news.ycombinator.com/item?id=49955812",
+        "id": 49964045,
+        "title": "Tell HN: Uceprotect is extorting website owners",
+        "url": "https://news.ycombinator.com/item?id=49964045",
+        "discussion_url": "https://news.ycombinator.com/item?id=49964045",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "LowLevelMahn",
-        "age": "1d ago"
+        "points": 99,
+        "comments": 59,
+        "author": "goldenmember",
+        "age": "11h ago"
       }
     ],
     "show": [
@@ -809,58 +809,58 @@
         "url": "https://github.com/rsutcliffe/nightwatch",
         "discussion_url": "https://news.ycombinator.com/item?id=49952148",
         "site": "github.com",
-        "points": 22,
-        "comments": 1,
+        "points": 71,
+        "comments": 11,
         "author": "delphidolphin",
         "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 49963394,
-        "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
-        "url": "https://github.com/project-minigraf/minigraf",
-        "discussion_url": "https://news.ycombinator.com/item?id=49963394",
-        "site": "github.com",
-        "points": 25,
-        "comments": 21,
-        "author": "adityamukho",
-        "age": "7h ago"
+        "id": 49971841,
+        "title": "Show HN: A lightweight mapping editor for improving MTB trails on OpenStreetMap",
+        "url": "https://traileditor.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=49971841",
+        "site": "traileditor.app",
+        "points": 3,
+        "comments": 0,
+        "author": "kennethtransier",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 49966745,
-        "title": "Show HN: SoldStack – sold prices API for secondhand clothes",
-        "url": "https://soldstack.fly.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49966745",
-        "site": "soldstack.fly.dev",
-        "points": 5,
-        "comments": 5,
-        "author": "aarontian0",
-        "age": "2h ago"
+        "id": 49971832,
+        "title": "Show HN: DenizliHub – 40 client-side web tools running 100% in the browser",
+        "url": "https://denizlihub.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=49971832",
+        "site": "denizlihub.com",
+        "points": 3,
+        "comments": 0,
+        "author": "denizlihub",
+        "age": "1h ago"
       },
       {
         "rank": 4,
+        "id": 49971727,
+        "title": "Show HN: MCP v2 on bountyindex.in, 14 tool calls,happy bug hunting",
+        "url": "https://www.bountyindex.in/mcp",
+        "discussion_url": "https://news.ycombinator.com/item?id=49971727",
+        "site": "bountyindex.in",
+        "points": 3,
+        "comments": 0,
+        "author": "axolotl619",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 49965227,
         "title": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",
         "url": "https://pumpkins.sh/",
         "discussion_url": "https://news.ycombinator.com/item?id=49965227",
         "site": "pumpkins.sh",
-        "points": 7,
-        "comments": 2,
+        "points": 17,
+        "comments": 5,
         "author": "linesofcode",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
-        "id": 49930439,
-        "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-        "url": "https://niklasroy.com/gtc/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49930439",
-        "site": "niklasroy.com",
-        "points": 224,
-        "comments": 37,
-        "author": "r0r0",
-        "age": "3d ago"
+        "age": "10h ago"
       }
     ]
   }
