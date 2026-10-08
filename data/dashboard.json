@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-08T17:03:10Z",
+  "generated": "2026-10-08T22:35:36Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "autotrust/JEV-27B-VL",
         "org": "autotrust",
-        "trending_score": 2284,
+        "trending_score": 2340,
         "downloads": 1533034,
-        "likes": 2749,
+        "likes": 2825,
         "url": "https://huggingface.co/autotrust/JEV-27B-VL",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "Cloudflare/clef",
-        "org": "Cloudflare",
-        "trending_score": 1645,
-        "downloads": 10874,
-        "likes": 1869,
-        "url": "https://huggingface.co/Cloudflare/clef",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "clef"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "autotrust/GEV-26B-Decide",
         "org": "autotrust",
-        "trending_score": 1472,
+        "trending_score": 1551,
         "downloads": 903866,
-        "likes": 1727,
+        "likes": 1811,
         "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Cloudflare/clef",
+        "org": "Cloudflare",
+        "trending_score": 1421,
+        "downloads": 10874,
+        "likes": 1885,
+        "url": "https://huggingface.co/Cloudflare/clef",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "clef"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 1106,
+        "trending_score": 1144,
         "downloads": 21148,
-        "likes": 1138,
+        "likes": 1180,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Aleph-Alpha/Kolibri-1",
         "org": "Aleph-Alpha",
-        "trending_score": 741,
+        "trending_score": 751,
         "downloads": 6777,
-        "likes": 803,
+        "likes": 813,
         "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
         "tags": [
           "vllm",
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 95.2843756229738,
+        "speed_tps": 96.3821849096462,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 56.0001286580794,
         "price_input": 2,
         "price_output": 10,
-        "speed_tps": 129.118765484437,
+        "speed_tps": 140.856561053847,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 79.7471740939505,
+        "speed_tps": 80.3792898837583,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 76.4170015374703,
+        "speed_tps": 74.6962115294869,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 66.0642860658046,
+        "speed_tps": 69.9502552060596,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       }
@@ -311,7 +311,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 14196,
+        "stars": 15294,
         "stars_delta": 4640,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -321,7 +321,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 45921,
+        "stars": 46226,
         "stars_delta": 1163,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -331,7 +331,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 21003,
+        "stars": 25039,
         "stars_delta": 7744,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 280721,
+        "stars": 280989,
         "stars_delta": 1770,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 98230,
+        "stars": 98398,
         "stars_delta": 662,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 14196,
+        "stars": 15297,
         "stars_delta": 6075,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -373,7 +373,7 @@
         "name": "mvschwarz/openrig",
         "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
         "url": "https://github.com/mvschwarz/openrig",
-        "stars": 6052,
+        "stars": 6122,
         "stars_delta": 2912,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 59034,
+        "stars": 59146,
         "stars_delta": 3908,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "EpicGames/raddebugger",
         "description": "A native, user-mode, multi-process, graphical debugger.",
         "url": "https://github.com/EpicGames/raddebugger",
-        "stars": 8033,
+        "stars": 8089,
         "stars_delta": 257,
         "language": "C",
         "language_color": "#555555"
@@ -403,7 +403,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 10352,
+        "stars": 10385,
         "stars_delta": 1109,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 44539,
+        "stars": 44578,
         "stars_delta": 22512,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -425,7 +425,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 55104,
+        "stars": 55248,
         "stars_delta": 34563,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 49075,
+        "stars": 49153,
         "stars_delta": 30152,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 39024,
+        "stars": 39048,
         "stars_delta": 4318,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 98753,
+        "stars": 98823,
         "stars_delta": 18524,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.08699",
         "categories": [],
-        "upvotes": 80,
+        "upvotes": 82,
         "published": "2026-10-05",
         "github_repo": "https://github.com/nano-muse/nanoMuse",
         "github_stars": 324
@@ -549,7 +549,7 @@
         "upvotes": 25,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 3645
+        "github_stars": 3751
       },
       {
         "rank": 3,
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.05608",
         "categories": [],
-        "upvotes": 151,
+        "upvotes": 155,
         "published": "2026-10-03",
         "github_repo": "https://github.com/kandinskylab/kandinsky-6",
         "github_stars": 222
@@ -579,7 +579,7 @@
         "upvotes": 150,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 110191
+        "github_stars": 110269
       },
       {
         "rank": 5,
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.02054",
         "categories": [],
-        "upvotes": 45,
+        "upvotes": 47,
         "published": "2026-09-30",
         "github_repo": "https://github.com/UniWAM/UniWAM",
         "github_stars": 91
@@ -682,187 +682,187 @@
     "top": [
       {
         "rank": 1,
-        "id": 50006366,
-        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-        "url": "https://news.ycombinator.com/item?id=50006366",
-        "discussion_url": "https://news.ycombinator.com/item?id=50006366",
-        "site": "news.ycombinator.com",
-        "points": 359,
-        "comments": 78,
-        "author": "lukehandcool",
-        "age": "2h ago"
+        "id": 50008427,
+        "title": "Whistle: Speech to Text in 16.9 MB",
+        "url": "https://cactuscompute.com/blog/whistle",
+        "discussion_url": "https://news.ycombinator.com/item?id=50008427",
+        "site": "cactuscompute.com",
+        "points": 411,
+        "comments": 100,
+        "author": "gmays",
+        "age": "5h ago"
       },
       {
         "rank": 2,
-        "id": 50006832,
-        "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft",
-        "discussion_url": "https://news.ycombinator.com/item?id=50006832",
-        "site": "bloomberg.com",
-        "points": 291,
-        "comments": 378,
-        "author": "alephnerd",
-        "age": "1h ago"
+        "id": 50009295,
+        "title": "Theranos.world",
+        "url": "https://www.theranos.world/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50009295",
+        "site": "theranos.world",
+        "points": 174,
+        "comments": 89,
+        "author": "kbyatnal",
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 50005527,
-        "title": "Beauty in DVD Menus",
-        "url": "https://vale.rocks/posts/dvd-menus",
-        "discussion_url": "https://news.ycombinator.com/item?id=50005527",
-        "site": "vale.rocks",
-        "points": 144,
-        "comments": 95,
-        "author": "speckx",
-        "age": "3h ago"
+        "id": 50000488,
+        "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+        "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50000488",
+        "site": "dgt.is",
+        "points": 271,
+        "comments": 237,
+        "author": "jonotime",
+        "age": "22h ago"
       },
       {
         "rank": 4,
-        "id": 50002008,
-        "title": "“Math 2.0” will need to value mathematical progress more holistically",
-        "url": "https://mathstodon.xyz/@tao/117395269325940185",
-        "discussion_url": "https://news.ycombinator.com/item?id=50002008",
-        "site": "mathstodon.xyz",
-        "points": 531,
-        "comments": 534,
-        "author": "ent101",
-        "age": "11h ago"
+        "id": 50010470,
+        "title": "The value of not getting to the point (2015)",
+        "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50010470",
+        "site": "ken.arneson.name",
+        "points": 80,
+        "comments": 25,
+        "author": "NaOH",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 49980346,
-        "title": "The Slow Formation of Durable Software",
-        "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49980346",
-        "site": "newsletter.dancohen.org",
-        "points": 176,
-        "comments": 57,
-        "author": "benbreen",
-        "age": "2d ago"
+        "id": 50011999,
+        "title": "AI-ready biological data: $1.8B global commitment",
+        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50011999",
+        "site": "biohub.org",
+        "points": 33,
+        "comments": 1,
+        "author": "ray__",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 50006366,
-        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-        "url": "https://news.ycombinator.com/item?id=50006366",
-        "discussion_url": "https://news.ycombinator.com/item?id=50006366",
-        "site": "news.ycombinator.com",
-        "points": 359,
-        "comments": 78,
-        "author": "lukehandcool",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 49982498,
-        "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-        "url": "https://news.ycombinator.com/item?id=49982498",
-        "discussion_url": "https://news.ycombinator.com/item?id=49982498",
-        "site": "news.ycombinator.com",
-        "points": 553,
-        "comments": 339,
-        "author": "IvanK_net",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 49972125,
-        "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-        "url": "https://news.ycombinator.com/item?id=49972125",
-        "discussion_url": "https://news.ycombinator.com/item?id=49972125",
-        "site": "news.ycombinator.com",
-        "points": 34,
-        "comments": 17,
-        "author": "onemiketwelve",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
         "id": 49985548,
         "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
         "url": "https://news.ycombinator.com/item?id=49985548",
         "discussion_url": "https://news.ycombinator.com/item?id=49985548",
         "site": "news.ycombinator.com",
-        "points": 36,
-        "comments": 38,
+        "points": 65,
+        "comments": 63,
         "author": "mariocesar",
         "age": "1d ago"
       },
       {
-        "rank": 5,
-        "id": 49997864,
-        "title": "Tell HN: Amazon forgot how to write and test code",
-        "url": "https://news.ycombinator.com/item?id=49997864",
-        "discussion_url": "https://news.ycombinator.com/item?id=49997864",
+        "rank": 2,
+        "id": 50006366,
+        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+        "url": "https://news.ycombinator.com/item?id=50006366",
+        "discussion_url": "https://news.ycombinator.com/item?id=50006366",
         "site": "news.ycombinator.com",
-        "points": 11,
-        "comments": 4,
-        "author": "penskymaterial",
-        "age": "21h ago"
+        "points": 640,
+        "comments": 178,
+        "author": "lukehandcool",
+        "age": "7h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50010764,
+        "title": "Ask HN: Is the Steam Machine worth $1049?",
+        "url": "https://news.ycombinator.com/item?id=50010764",
+        "discussion_url": "https://news.ycombinator.com/item?id=50010764",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 7,
+        "author": "bigwheels",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 49982498,
+        "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+        "url": "https://news.ycombinator.com/item?id=49982498",
+        "discussion_url": "https://news.ycombinator.com/item?id=49982498",
+        "site": "news.ycombinator.com",
+        "points": 561,
+        "comments": 341,
+        "author": "IvanK_net",
+        "age": "2d ago"
+      },
+      {
+        "rank": 5,
+        "id": 50011265,
+        "title": "Arc AGI 1 400/400 No LLM running on my MacBook",
+        "url": "https://news.ycombinator.com/item?id=50011265",
+        "discussion_url": "https://news.ycombinator.com/item?id=50011265",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "5CEOs",
+        "age": "2h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 49994443,
-        "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-        "url": "https://bigwords.page/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49994443",
-        "site": "bigwords.page",
-        "points": 635,
-        "comments": 148,
-        "author": "SpeakingOfBrad",
-        "age": "1d ago"
-      },
-      {
-        "rank": 2,
-        "id": 50006760,
-        "title": "Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
-        "url": "https://pivotlake.io/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50006760",
-        "site": "pivotlake.io",
-        "points": 6,
-        "comments": 1,
-        "author": "dkgs",
+        "id": 50012199,
+        "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+        "url": "https://github.com/thesnarkitecht/rembrandt",
+        "discussion_url": "https://news.ycombinator.com/item?id=50012199",
+        "site": "github.com",
+        "points": 26,
+        "comments": 21,
+        "author": "thesnarkitecht",
         "age": "1h ago"
       },
       {
+        "rank": 2,
+        "id": 50008047,
+        "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+        "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50008047",
+        "site": "scottbezek.blogspot.com",
+        "points": 74,
+        "comments": 14,
+        "author": "scottbez1",
+        "age": "5h ago"
+      },
+      {
         "rank": 3,
+        "id": 49986740,
+        "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+        "url": "https://huggingface.co/joe-gibbs/terrainsr",
+        "discussion_url": "https://news.ycombinator.com/item?id=49986740",
+        "site": "huggingface.co",
+        "points": 18,
+        "comments": 3,
+        "author": "joegibbs",
+        "age": "1d ago"
+      },
+      {
+        "rank": 4,
+        "id": 49988516,
+        "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+        "url": "https://github.com/ymcrcat/rgpu",
+        "discussion_url": "https://news.ycombinator.com/item?id=49988516",
+        "site": "github.com",
+        "points": 21,
+        "comments": 1,
+        "author": "boxstream",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
         "id": 50006114,
         "title": "Show HN: I Put an AI Agent on a Nokia 110",
         "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
         "discussion_url": "https://news.ycombinator.com/item?id=50006114",
         "site": "github.com",
-        "points": 5,
-        "comments": 3,
+        "points": 24,
+        "comments": 7,
         "author": "anupray",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 49995539,
-        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-        "url": "https://agent.reviews/",
-        "discussion_url": "https://news.ycombinator.com/item?id=49995539",
-        "site": "agent.reviews",
-        "points": 64,
-        "comments": 47,
-        "author": "screm",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50005276,
-        "title": "Show HN: Wordminos – Crosswords Meet Dominos",
-        "url": "https://wordminos.com/play-en.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=50005276",
-        "site": "wordminos.com",
-        "points": 6,
-        "comments": 1,
-        "author": "dyarosla",
-        "age": "4h ago"
+        "age": "8h ago"
       }
     ]
   }
