@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-09T16:40:56Z",
+  "generated": "2026-10-09T21:23:12Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 1256,
+        "trending_score": 1287,
         "downloads": 29185,
-        "likes": 1297,
+        "likes": 1336,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 1077,
+        "trending_score": 1005,
         "downloads": 12066,
-        "likes": 1924,
+        "likes": 1936,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "autotrust/GEV-26B-Decide",
-        "org": "autotrust",
-        "trending_score": 917.5,
-        "downloads": 909755,
-        "likes": 2114,
-        "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "gemma4",
-          "image-text-to-text",
-          "system-one"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "Aleph-Alpha/Kolibri-1",
         "org": "Aleph-Alpha",
-        "trending_score": 768,
+        "trending_score": 776,
         "downloads": 8474,
-        "likes": 833,
+        "likes": 841,
         "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
         "tags": [
           "vllm",
@@ -71,12 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 671,
+        "trending_score": 688,
         "downloads": 29470,
-        "likes": 714,
+        "likes": 735,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -84,6 +67,23 @@
           "gemma4_unified",
           "image-text-to-text",
           "humanizer"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "org": "abenzerps",
+        "trending_score": 653,
+        "downloads": 2013268,
+        "likes": 3759,
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "tags": [
+          "gguf",
+          "qwen",
+          "image-generation",
+          "comfyui",
+          "comfyui-gguf"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 39325,
+        "stars": 43090,
         "stars_delta": 15335,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 20346,
+        "stars": 21664,
         "stars_delta": 5925,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -331,7 +331,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 282284,
+        "stars": 282493,
         "stars_delta": 1696,
         "language": "Shell",
         "language_color": "#89e051"
@@ -341,7 +341,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 47585,
+        "stars": 47757,
         "stars_delta": 1744,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -351,7 +351,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 44973,
+        "stars": 45113,
         "stars_delta": 323,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -363,7 +363,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 20346,
+        "stars": 21664,
         "stars_delta": 10243,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -373,7 +373,7 @@
         "name": "mvschwarz/openrig",
         "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
         "url": "https://github.com/mvschwarz/openrig",
-        "stars": 6346,
+        "stars": 6397,
         "stars_delta": 2693,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 282284,
+        "stars": 282493,
         "stars_delta": 7448,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 59621,
+        "stars": 59729,
         "stars_delta": 3996,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 10531,
+        "stars": 10557,
         "stars_delta": 1109,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 44973,
+        "stars": 45113,
         "stars_delta": 22779,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -425,7 +425,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 55988,
+        "stars": 56164,
         "stars_delta": 34334,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 39136,
+        "stars": 39159,
         "stars_delta": 4400,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 99124,
+        "stars": 99191,
         "stars_delta": 18863,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 275791,
+        "stars": 275905,
         "stars_delta": 23115,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -534,7 +534,7 @@
         "upvotes": 26,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 3860
+        "github_stars": 3969
       },
       {
         "rank": 2,
@@ -564,7 +564,7 @@
         "upvotes": 150,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 110330
+        "github_stars": 110373
       },
       {
         "rank": 4,
@@ -681,63 +681,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 50019911,
-        "title": "Deno Is Joining Cloudflare",
-        "url": "https://deno.com/blog/cloudflare",
-        "discussion_url": "https://news.ycombinator.com/item?id=50019911",
-        "site": "deno.com",
-        "points": 595,
-        "comments": 326,
-        "author": "ilreb",
-        "age": "3h ago"
+        "id": 50025935,
+        "title": "No Man Is an Island",
+        "url": "https://borretti.me/article/no-man-is-an-island",
+        "discussion_url": "https://news.ycombinator.com/item?id=50025935",
+        "site": "borretti.me",
+        "points": 126,
+        "comments": 45,
+        "author": "zetalyrae",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 50020014,
-        "title": "Our $445M Series D",
-        "url": "https://oxide.computer/blog/our-445m-series-d",
-        "discussion_url": "https://news.ycombinator.com/item?id=50020014",
-        "site": "oxide.computer",
-        "points": 323,
-        "comments": 123,
-        "author": "ahlCVA",
-        "age": "3h ago"
+        "id": 50019911,
+        "title": "Cloudflare acquires Deno",
+        "url": "https://deno.com/blog/cloudflare",
+        "discussion_url": "https://news.ycombinator.com/item?id=50019911",
+        "site": "deno.com",
+        "points": 931,
+        "comments": 492,
+        "author": "ilreb",
+        "age": "8h ago"
       },
       {
         "rank": 3,
-        "id": 50018817,
-        "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "discussion_url": "https://news.ycombinator.com/item?id=50018817",
-        "site": "github.com",
-        "points": 261,
-        "comments": 111,
-        "author": "franze",
-        "age": "5h ago"
+        "id": 50026555,
+        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+        "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+        "discussion_url": "https://news.ycombinator.com/item?id=50026555",
+        "site": "gizmodo.com",
+        "points": 23,
+        "comments": 0,
+        "author": "gumby",
+        "age": "16m ago"
       },
       {
         "rank": 4,
-        "id": 50018088,
-        "title": "I'm in a Meeting",
-        "url": "https://iminafleeting.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50018088",
-        "site": "iminafleeting.com",
-        "points": 385,
-        "comments": 150,
-        "author": "splintersio",
-        "age": "7h ago"
+        "id": 50022292,
+        "title": "Triple-A Minesweeper",
+        "url": "https://minesweeper.mikelacher.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50022292",
+        "site": "minesweeper.mikelacher.com",
+        "points": 354,
+        "comments": 78,
+        "author": "robin_reala",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 50018420,
-        "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-        "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50018420",
-        "site": "nobelprize.org",
-        "points": 292,
-        "comments": 155,
-        "author": "Anon84",
-        "age": "6h ago"
+        "id": 50024499,
+        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "url": "https://carrierexplode.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50024499",
+        "site": "carrierexplode.com",
+        "points": 127,
+        "comments": 13,
+        "author": "simplyalec",
+        "age": "3h ago"
       }
     ],
     "ask": [
@@ -748,8 +748,8 @@
         "url": "https://news.ycombinator.com/item?id=49985548",
         "discussion_url": "https://news.ycombinator.com/item?id=49985548",
         "site": "news.ycombinator.com",
-        "points": 337,
-        "comments": 534,
+        "points": 380,
+        "comments": 610,
         "author": "mariocesar",
         "age": "2d ago"
       },
@@ -760,8 +760,8 @@
         "url": "https://news.ycombinator.com/item?id=50006366",
         "discussion_url": "https://news.ycombinator.com/item?id=50006366",
         "site": "news.ycombinator.com",
-        "points": 730,
-        "comments": 226,
+        "points": 736,
+        "comments": 228,
         "author": "lukehandcool",
         "age": "1d ago"
       },
@@ -772,10 +772,10 @@
         "url": "https://news.ycombinator.com/item?id=49982498",
         "discussion_url": "https://news.ycombinator.com/item?id=49982498",
         "site": "news.ycombinator.com",
-        "points": 567,
+        "points": 568,
         "comments": 344,
         "author": "IvanK_net",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
         "rank": 4,
@@ -784,84 +784,84 @@
         "url": "https://news.ycombinator.com/item?id=50020096",
         "discussion_url": "https://news.ycombinator.com/item?id=50020096",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 12,
+        "points": 10,
+        "comments": 25,
         "author": "consumer451",
-        "age": "3h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 50016644,
-        "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
-        "url": "https://news.ycombinator.com/item?id=50016644",
-        "discussion_url": "https://news.ycombinator.com/item?id=50016644",
+        "id": 50025682,
+        "title": "Aaron Swartz's domain aaronsw.com has expired",
+        "url": "https://news.ycombinator.com/item?id=50025682",
+        "discussion_url": "https://news.ycombinator.com/item?id=50025682",
         "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 13,
-        "author": "hanstyle",
-        "age": "10h ago"
+        "points": 4,
+        "comments": 1,
+        "author": "karimelgazar",
+        "age": "1h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50022852,
-        "title": "Show HN: Fabrika, Opinionated Software Factory",
-        "url": "https://tatiyants.com/fabrika/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50022852",
-        "site": "tatiyants.com",
-        "points": 2,
-        "comments": 0,
-        "author": "atatiyan",
-        "age": "15m ago"
+        "id": 50024499,
+        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+        "url": "https://carrierexplode.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50024499",
+        "site": "carrierexplode.com",
+        "points": 127,
+        "comments": 13,
+        "author": "simplyalec",
+        "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 50022532,
-        "title": "Show HN: Coolphabets – Teaching kids to read and write in their mother tongue",
-        "url": "https://news.ycombinator.com/item?id=50022532",
-        "discussion_url": "https://news.ycombinator.com/item?id=50022532",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "samdung",
-        "age": "35m ago"
+        "id": 50018817,
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "discussion_url": "https://news.ycombinator.com/item?id=50018817",
+        "site": "github.com",
+        "points": 346,
+        "comments": 147,
+        "author": "franze",
+        "age": "10h ago"
       },
       {
         "rank": 3,
-        "id": 50022328,
-        "title": "Show HN: Senro – WebMCP Evals and Observability",
-        "url": "https://senro.ai",
-        "discussion_url": "https://news.ycombinator.com/item?id=50022328",
-        "site": "senro.ai",
-        "points": 2,
-        "comments": 0,
-        "author": "nartmadi",
-        "age": "47m ago"
+        "id": 50024055,
+        "title": "Show HN: The rarest tech books and docs you've probably never read",
+        "url": "https://readrare.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50024055",
+        "site": "readrare.com",
+        "points": 14,
+        "comments": 3,
+        "author": "miletus",
+        "age": "3h ago"
       },
       {
         "rank": 4,
-        "id": 50021521,
-        "title": "Show HN: RcloneView 1.6 – A desktop GUI for rclone with 40 cloud storages",
-        "url": "https://rcloneview.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50021521",
-        "site": "rcloneview.com",
-        "points": 3,
-        "comments": 0,
-        "author": "newclone",
-        "age": "1h ago"
+        "id": 50008047,
+        "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+        "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50008047",
+        "site": "scottbezek.blogspot.com",
+        "points": 215,
+        "comments": 37,
+        "author": "scottbez1",
+        "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 50021354,
-        "title": "Show HN: Liquid Inference – auto-routing to competitive LLM marketplace",
-        "url": "https://liquidinference.ai/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50021354",
-        "site": "liquidinference.ai",
-        "points": 3,
-        "comments": 0,
-        "author": "chairmanlee8",
-        "age": "1h ago"
+        "id": 50017301,
+        "title": "Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private",
+        "url": "https://github.com/darshi1337/apogee",
+        "discussion_url": "https://news.ycombinator.com/item?id=50017301",
+        "site": "github.com",
+        "points": 39,
+        "comments": 1,
+        "author": "zxdc7896",
+        "age": "13h ago"
       }
     ]
   }
