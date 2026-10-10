@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-10T07:51:05Z",
+  "generated": "2026-10-10T12:13:04Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 1342,
-        "downloads": 29185,
-        "likes": 1398,
+        "trending_score": 1358,
+        "downloads": 45605,
+        "likes": 1421,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 940,
-        "downloads": 12066,
-        "likes": 1957,
+        "trending_score": 896,
+        "downloads": 13579,
+        "likes": 1963,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Aleph-Alpha/Kolibri-1",
-        "org": "Aleph-Alpha",
-        "trending_score": 769,
-        "downloads": 8474,
-        "likes": 847,
-        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-        "tags": [
-          "vllm",
-          "safetensors",
-          "kolibri1",
-          "reasoning",
-          "moe"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 766,
-        "downloads": 29470,
-        "likes": 815,
+        "trending_score": 823,
+        "downloads": 33664,
+        "likes": 873,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "Aleph-Alpha/Kolibri-1",
+        "org": "Aleph-Alpha",
+        "trending_score": 732,
+        "downloads": 10496,
+        "likes": 851,
+        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "tags": [
+          "vllm",
+          "safetensors",
+          "kolibri1",
+          "reasoning",
+          "moe"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 665,
-        "downloads": 2013268,
-        "likes": 3797,
+        "trending_score": 668,
+        "downloads": 2096562,
+        "likes": 3816,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -311,8 +311,8 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 55357,
-        "stars_delta": 14927,
+        "stars": 60769,
+        "stars_delta": 25784,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -321,40 +321,40 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 23513,
-        "stars_delta": 5868,
+        "stars": 24499,
+        "stars_delta": 5831,
         "language": "C++",
         "language_color": "#f34b7d"
       },
       {
         "rank": 3,
-        "name": "mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 283282,
-        "stars_delta": 1687,
-        "language": "Shell",
-        "language_color": "#89e051"
+        "name": "storytold/artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "url": "https://github.com/storytold/artcraft",
+        "stars": 12933,
+        "stars_delta": 3217,
+        "language": "Rust",
+        "language_color": "#dea584"
       },
       {
         "rank": 4,
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 48256,
-        "stars_delta": 1739,
+        "stars": 48464,
+        "stars_delta": 1189,
         "language": "HTML",
         "language_color": "#e34c26"
       },
       {
         "rank": 5,
-        "name": "alibaba/open-code-review",
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-        "url": "https://github.com/alibaba/open-code-review",
-        "stars": 45565,
-        "stars_delta": 326,
-        "language": "Go",
-        "language_color": "#00ADD8"
+        "name": "mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "url": "https://github.com/mksglu/context-mode",
+        "stars": 26051,
+        "stars_delta": 178,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -363,48 +363,48 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 23513,
+        "stars": 24499,
         "stars_delta": 15539,
         "language": "C++",
         "language_color": "#f34b7d"
       },
       {
         "rank": 2,
-        "name": "mvschwarz/openrig",
-        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-        "url": "https://github.com/mvschwarz/openrig",
-        "stars": 6557,
-        "stars_delta": 2338,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 283282,
+        "stars": 283623,
         "stars_delta": 8156,
         "language": "Shell",
         "language_color": "#89e051"
       },
       {
+        "rank": 3,
+        "name": "EpicGames/raddebugger",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "url": "https://github.com/EpicGames/raddebugger",
+        "stars": 8304,
+        "stars_delta": 654,
+        "language": "C",
+        "language_color": "#555555"
+      },
+      {
         "rank": 4,
-        "name": "heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 59973,
-        "stars_delta": 4003,
+        "name": "thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 99106,
+        "stars_delta": 3850,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "cursor/plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "url": "https://github.com/cursor/plugins",
-        "stars": 10639,
-        "stars_delta": 1125,
+        "name": "heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "stars": 60095,
+        "stars_delta": 4003,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -415,7 +415,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 45565,
+        "stars": 45739,
         "stars_delta": 23028,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -425,7 +425,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 56629,
+        "stars": 56816,
         "stars_delta": 34560,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 39212,
+        "stars": 39229,
         "stars_delta": 4495,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 99377,
+        "stars": 99461,
         "stars_delta": 19137,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 276127,
+        "stars": 276231,
         "stars_delta": 22710,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.08699",
         "categories": [],
-        "upvotes": 100,
+        "upvotes": 101,
         "published": "2026-10-05",
         "github_repo": "https://github.com/nano-muse/nanoMuse",
         "github_stars": 539
@@ -681,104 +681,116 @@
     "top": [
       {
         "rank": 1,
+        "id": 50031269,
+        "title": "`123456' password used in Danish CPR data breach",
+        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50031269",
+        "site": "cphpost.dk",
+        "points": 138,
+        "comments": 86,
+        "author": "baal80spam",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50031614,
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "discussion_url": "https://news.ycombinator.com/item?id=50031614",
+        "site": "github.com",
+        "points": 33,
+        "comments": 11,
+        "author": "rociiu",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50031653,
+        "title": "Apple/macOS silently removed from official Unix registry",
+        "url": "https://www.opengroup.org//openbrand/register/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50031653",
+        "site": "opengroup.org",
+        "points": 22,
+        "comments": 8,
+        "author": "john_alan",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 50028275,
         "title": "REA Reverse – Engineer Anything",
         "url": "https://rea.tools/",
         "discussion_url": "https://news.ycombinator.com/item?id=50028275",
         "site": "rea.tools",
-        "points": 338,
-        "comments": 115,
+        "points": 474,
+        "comments": 191,
         "author": "modinfo",
-        "age": "7h ago"
+        "age": "11h ago"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "id": 50029123,
         "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
         "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
         "discussion_url": "https://news.ycombinator.com/item?id=50029123",
         "site": "beaksec.github.io",
-        "points": 103,
-        "comments": 44,
+        "points": 215,
+        "comments": 104,
         "author": "g-b-r",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50019911,
-        "title": "Cloudflare acquires Deno",
-        "url": "https://deno.com/blog/cloudflare",
-        "discussion_url": "https://news.ycombinator.com/item?id=50019911",
-        "site": "deno.com",
-        "points": 1183,
-        "comments": 606,
-        "author": "ilreb",
-        "age": "18h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50022292,
-        "title": "Triple-A Minesweeper",
-        "url": "https://minesweeper.mikelacher.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50022292",
-        "site": "minesweeper.mikelacher.com",
-        "points": 897,
-        "comments": 172,
-        "author": "robin_reala",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50029982,
-        "title": "Computers Cannot Make Decisions",
-        "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-        "discussion_url": "https://news.ycombinator.com/item?id=50029982",
-        "site": "wiki.cateat.fish",
-        "points": 20,
-        "comments": 8,
-        "author": "heavensteeth",
-        "age": "2h ago"
+        "age": "9h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50031461,
+        "title": "Does YC use AI agents to review your pitch?",
+        "url": "https://news.ycombinator.com/item?id=50031461",
+        "discussion_url": "https://news.ycombinator.com/item?id=50031461",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "AravPhi",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 50029896,
         "title": "If AI keeps evolving,would you worry about your next generation's survival",
         "url": "https://news.ycombinator.com/item?id=50029896",
         "discussion_url": "https://news.ycombinator.com/item?id=50029896",
         "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 5,
+        "points": 18,
+        "comments": 23,
         "author": "hanstyle",
-        "age": "2h ago"
+        "age": "6h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 50006366,
         "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
         "url": "https://news.ycombinator.com/item?id=50006366",
         "discussion_url": "https://news.ycombinator.com/item?id=50006366",
         "site": "news.ycombinator.com",
-        "points": 747,
-        "comments": 238,
+        "points": 750,
+        "comments": 239,
         "author": "lukehandcool",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 49985548,
         "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
         "url": "https://news.ycombinator.com/item?id=49985548",
         "discussion_url": "https://news.ycombinator.com/item?id=49985548",
         "site": "news.ycombinator.com",
-        "points": 394,
-        "comments": 633,
+        "points": 396,
+        "comments": 634,
         "author": "mariocesar",
         "age": "3d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 49982498,
         "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
         "url": "https://news.ycombinator.com/item?id=49982498",
@@ -788,18 +800,6 @@
         "comments": 344,
         "author": "IvanK_net",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50029056,
-        "title": "Ask HN: Are there things more important than 'humanity', such as empathy?",
-        "url": "https://news.ycombinator.com/item?id=50029056",
-        "discussion_url": "https://news.ycombinator.com/item?id=50029056",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 3,
-        "author": "dfps",
-        "age": "4h ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://carrierexplode.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50024499",
         "site": "carrierexplode.com",
-        "points": 297,
-        "comments": 39,
+        "points": 342,
+        "comments": 42,
         "author": "simplyalec",
-        "age": "13h ago"
+        "age": "18h ago"
       },
       {
         "rank": 2,
@@ -822,10 +822,10 @@
         "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
         "discussion_url": "https://news.ycombinator.com/item?id=50003545",
         "site": "oss.lsantos.dev",
-        "points": 69,
-        "comments": 25,
+        "points": 93,
+        "comments": 34,
         "author": "khaosdoctor",
-        "age": "1d ago"
+        "age": "2d ago"
       },
       {
         "rank": 3,
@@ -834,33 +834,33 @@
         "url": "https://readrare.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50024055",
         "site": "readrare.com",
-        "points": 115,
-        "comments": 43,
+        "points": 141,
+        "comments": 53,
         "author": "miletus",
-        "age": "14h ago"
+        "age": "18h ago"
       },
       {
         "rank": 4,
-        "id": 50030174,
-        "title": "Show HN: The safe-choice tax – what the vendor nobody gets fired for costs",
-        "url": "https://svpremium.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50030174",
-        "site": "svpremium.dev",
-        "points": 4,
-        "comments": 1,
-        "author": "PaywallBuster",
-        "age": "1h ago"
+        "id": 50018817,
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "discussion_url": "https://news.ycombinator.com/item?id=50018817",
+        "site": "github.com",
+        "points": 400,
+        "comments": 177,
+        "author": "franze",
+        "age": "1d ago"
       },
       {
         "rank": 5,
-        "id": 50029607,
-        "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-        "url": "https://ilia.page/writing/introducing-nagare",
-        "discussion_url": "https://news.ycombinator.com/item?id=50029607",
-        "site": "ilia.page",
-        "points": 11,
-        "comments": 8,
-        "author": "shmilia",
+        "id": 50030849,
+        "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
+        "url": "https://opencomponents.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50030849",
+        "site": "opencomponents.dev",
+        "points": 5,
+        "comments": 1,
+        "author": "alexgrozav",
         "age": "3h ago"
       }
     ]
