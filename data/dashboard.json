@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-11T12:27:17Z",
+  "generated": "2026-10-11T16:00:48Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 1474,
+        "trending_score": 1506,
         "downloads": 98829,
-        "likes": 1597,
+        "likes": 1632,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 881,
+        "trending_score": 893,
         "downloads": 37647,
-        "likes": 1006,
+        "likes": 1020,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 768,
+        "trending_score": 732,
         "downloads": 14351,
-        "likes": 2012,
+        "likes": 2016,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 649,
+        "trending_score": 631,
         "downloads": 2188658,
-        "likes": 3928,
+        "likes": 3946,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Aleph-Alpha/Kolibri-1",
-        "org": "Aleph-Alpha",
-        "trending_score": 490,
-        "downloads": 12550,
-        "likes": 879,
-        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "name": "Qwen/Qwen-Image-2.1-Turbo",
+        "org": "Qwen",
+        "trending_score": 503,
+        "downloads": 4702,
+        "likes": 512,
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
         "tags": [
-          "vllm",
+          "diffusers",
           "safetensors",
-          "kolibri1",
-          "reasoning",
-          "moe"
+          "qwen",
+          "image-generation",
+          "image-editing"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 86883,
+        "stars": 92952,
         "stars_delta": 25585,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 28362,
+        "stars": 28905,
         "stars_delta": 3977,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -331,7 +331,7 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 15926,
+        "stars": 16595,
         "stars_delta": 2956,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 49572,
+        "stars": 49855,
         "stars_delta": 1083,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -351,7 +351,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 50775,
+        "stars": 51037,
         "stars_delta": 872,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -363,7 +363,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 28362,
+        "stars": 28907,
         "stars_delta": 21365,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -373,7 +373,7 @@
         "name": "tester-army/e2e",
         "description": "Next generation e2e testing framework for web and mobile apps.",
         "url": "https://github.com/tester-army/e2e",
-        "stars": 8853,
+        "stars": 8908,
         "stars_delta": 6564,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 285379,
+        "stars": 285743,
         "stars_delta": 9179,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 99493,
+        "stars": 99589,
         "stars_delta": 4035,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "EpicGames/raddebugger",
         "description": "A native, user-mode, multi-process, graphical debugger.",
         "url": "https://github.com/EpicGames/raddebugger",
-        "stars": 8364,
+        "stars": 8371,
         "stars_delta": 740,
         "language": "C",
         "language_color": "#555555"
@@ -415,7 +415,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 46012,
+        "stars": 46077,
         "stars_delta": 23947,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -425,7 +425,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 57990,
+        "stars": 58256,
         "stars_delta": 35194,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 39335,
+        "stars": 39355,
         "stars_delta": 4607,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 100048,
+        "stars": 100166,
         "stars_delta": 19499,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 48259,
+        "stars": 48322,
         "stars_delta": 24928,
         "language": "Python",
         "language_color": "#3572A5"
@@ -681,14 +681,14 @@
     "top": [
       {
         "rank": 1,
-        "id": 50041619,
-        "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-        "discussion_url": "https://news.ycombinator.com/item?id=50041619",
-        "site": "radar.cloudflare.com",
-        "points": 196,
-        "comments": 66,
-        "author": "walrus01",
+        "id": 50043682,
+        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+        "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50043682",
+        "site": "insideclimatenews.org",
+        "points": 213,
+        "comments": 105,
+        "author": "gumby",
         "age": "1h ago"
       },
       {
@@ -698,22 +698,22 @@
         "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
         "discussion_url": "https://news.ycombinator.com/item?id=50042219",
         "site": "shkspr.mobi",
-        "points": 31,
-        "comments": 13,
+        "points": 203,
+        "comments": 106,
         "author": "edent",
-        "age": "39m ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 50041540,
-        "title": "IRCv3",
-        "url": "https://ircv3.net/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50041540",
-        "site": "ircv3.net",
-        "points": 121,
-        "comments": 94,
-        "author": "basilikum",
-        "age": "2h ago"
+        "id": 50042425,
+        "title": "The tilde in your PATH may not be your HOME",
+        "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50042425",
+        "site": "disconnect3d.pl",
+        "points": 91,
+        "comments": 54,
+        "author": "arusekk",
+        "age": "3h ago"
       },
       {
         "rank": 4,
@@ -722,36 +722,36 @@
         "url": "https://lineageos.org/Changelog-32/",
         "discussion_url": "https://news.ycombinator.com/item?id=50040276",
         "site": "lineageos.org",
-        "points": 167,
-        "comments": 42,
+        "points": 272,
+        "comments": 91,
         "author": "timschumi",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 5,
-        "id": 50041682,
-        "title": "Nitter: Update Oct 10th seeking funding and legal help",
-        "url": "https://nitter.net",
-        "discussion_url": "https://news.ycombinator.com/item?id=50041682",
-        "site": "nitter.net",
-        "points": 145,
-        "comments": 35,
-        "author": "ForHackernews",
-        "age": "1h ago"
+        "id": 50042362,
+        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+        "url": "https://verdagon.dev/blog/valen-group-borrowing",
+        "discussion_url": "https://news.ycombinator.com/item?id=50042362",
+        "site": "verdagon.dev",
+        "points": 57,
+        "comments": 25,
+        "author": "verdagon",
+        "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 50041008,
-        "title": "Ask HN: How would you go about domain change and getting a job in the domain?",
-        "url": "https://news.ycombinator.com/item?id=50041008",
-        "discussion_url": "https://news.ycombinator.com/item?id=50041008",
+        "id": 50043719,
+        "title": "Open source software is slowly turning into open slop software",
+        "url": "https://news.ycombinator.com/item?id=50043719",
+        "discussion_url": "https://news.ycombinator.com/item?id=50043719",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 4,
-        "author": "joddystreet",
-        "age": "3h ago"
+        "points": 3,
+        "comments": 2,
+        "author": "theonly1me",
+        "age": "1h ago"
       },
       {
         "rank": 2,
@@ -761,9 +761,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=50037859",
         "site": "news.ycombinator.com",
         "points": 20,
-        "comments": 30,
+        "comments": 32,
         "author": "lgregg",
-        "age": "13h ago"
+        "age": "17h ago"
       },
       {
         "rank": 3,
@@ -775,93 +775,93 @@
         "points": 764,
         "comments": 244,
         "author": "lukehandcool",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 49985548,
-        "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-        "url": "https://news.ycombinator.com/item?id=49985548",
-        "discussion_url": "https://news.ycombinator.com/item?id=49985548",
-        "site": "news.ycombinator.com",
-        "points": 411,
-        "comments": 646,
-        "author": "mariocesar",
-        "age": "4d ago"
-      },
-      {
-        "rank": 5,
         "id": 49982498,
         "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
         "url": "https://news.ycombinator.com/item?id=49982498",
         "discussion_url": "https://news.ycombinator.com/item?id=49982498",
         "site": "news.ycombinator.com",
-        "points": 569,
+        "points": 570,
         "comments": 343,
         "author": "IvanK_net",
+        "age": "4d ago"
+      },
+      {
+        "rank": 5,
+        "id": 49985548,
+        "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+        "url": "https://news.ycombinator.com/item?id=49985548",
+        "discussion_url": "https://news.ycombinator.com/item?id=49985548",
+        "site": "news.ycombinator.com",
+        "points": 414,
+        "comments": 649,
+        "author": "mariocesar",
         "age": "4d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50042240,
-        "title": "Show HN: I'm a 14-year-old building my first startup, Titan",
-        "url": "https://titan-ai.co/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50042240",
-        "site": "titan-ai.co",
-        "points": 4,
-        "comments": 0,
-        "author": "Vidigoat",
-        "age": "37m ago"
+        "id": 50042333,
+        "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+        "url": "https://betterwispr.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50042333",
+        "site": "betterwispr.com",
+        "points": 32,
+        "comments": 11,
+        "author": "kartik017",
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 50044460,
+        "title": "Show HN: Let's Encrypt on an HP LaserJet M553, Renewed from a Proxmox Container",
+        "url": "https://blog.ryjones.org/2026/10/09/hp-letsencrypt",
+        "discussion_url": "https://news.ycombinator.com/item?id=50044460",
+        "site": "blog.ryjones.org",
+        "points": 2,
+        "comments": 0,
+        "author": "RyJones",
+        "age": "20m ago"
+      },
+      {
+        "rank": 3,
         "id": 50015833,
         "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
         "url": "https://hangul.ink/blog/hangul-day",
         "discussion_url": "https://news.ycombinator.com/item?id=50015833",
         "site": "hangul.ink",
-        "points": 60,
-        "comments": 10,
+        "points": 81,
+        "comments": 16,
         "author": "jbaudanza",
         "age": "2d ago"
       },
       {
-        "rank": 3,
-        "id": 50006930,
-        "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-        "url": "https://github.com/moritzwilksch/diffle",
-        "discussion_url": "https://news.ycombinator.com/item?id=50006930",
-        "site": "github.com",
-        "points": 55,
-        "comments": 8,
-        "author": "mwil1000",
-        "age": "2d ago"
-      },
-      {
         "rank": 4,
-        "id": 50041068,
-        "title": "Show HN: Rezoom – one chat list for all your Claude Code sessions",
-        "url": "https://github.com/BEX-Robotics/rezoom",
-        "discussion_url": "https://news.ycombinator.com/item?id=50041068",
+        "id": 50043311,
+        "title": "Show HN: Quaesito: a self-hosted app for quiz nights with friends",
+        "url": "https://github.com/ggirelli/quaesito",
+        "discussion_url": "https://news.ycombinator.com/item?id=50043311",
         "site": "github.com",
         "points": 2,
-        "comments": 1,
-        "author": "bugpower",
-        "age": "3h ago"
+        "comments": 0,
+        "author": "ggirelli",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 50041060,
-        "title": "Show HN: Krashout, multiplayer car soccer in the browser",
-        "url": "https://ball.krashout.io",
-        "discussion_url": "https://news.ycombinator.com/item?id=50041060",
-        "site": "ball.krashout.io",
-        "points": 3,
-        "comments": 3,
-        "author": "wfme",
-        "age": "3h ago"
+        "id": 50043195,
+        "title": "Show HN: GrogLog, a Free Drink Tracker",
+        "url": "https://groglog.io",
+        "discussion_url": "https://news.ycombinator.com/item?id=50043195",
+        "site": "groglog.io",
+        "points": 2,
+        "comments": 0,
+        "author": "antihero",
+        "age": "2h ago"
       }
     ]
   }
