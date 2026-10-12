@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-12T00:03:31Z",
+  "generated": "2026-10-12T06:41:43Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 1563,
+        "trending_score": 1626,
         "downloads": 98829,
-        "likes": 1694,
+        "likes": 1762,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 942,
+        "trending_score": 979,
         "downloads": 37647,
-        "likes": 1075,
+        "likes": 1144,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Cloudflare/clef",
         "org": "Cloudflare",
-        "trending_score": 688,
+        "trending_score": 645,
         "downloads": 14351,
-        "likes": 2026,
+        "likes": 2033,
         "url": "https://huggingface.co/Cloudflare/clef",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "org": "abenzerps",
-        "trending_score": 600,
+        "trending_score": 602,
         "downloads": 2188658,
-        "likes": 3979,
+        "likes": 4010,
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "Qwen/Qwen-Image-2.1-Turbo",
         "org": "Qwen",
-        "trending_score": 524,
+        "trending_score": 542,
         "downloads": 4702,
-        "likes": 538,
+        "likes": 558,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
         "tags": [
           "diffusers",
@@ -96,7 +96,7 @@
         "intelligence_index": 57.6223698102963,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 96.3821849096462,
+        "speed_tps": 96.0961929735672,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5"
       },
@@ -107,7 +107,7 @@
         "intelligence_index": 56.0001286580794,
         "price_input": 2,
         "price_output": 10,
-        "speed_tps": 141.24371636068,
+        "speed_tps": 137.422977966457,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5"
       },
@@ -118,7 +118,7 @@
         "intelligence_index": 55.9873505840139,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 80.786126188418,
+        "speed_tps": 81.4739072610647,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-xhigh"
       },
@@ -129,7 +129,7 @@
         "intelligence_index": 53.5831959822067,
         "price_input": 4,
         "price_output": 20,
-        "speed_tps": 76.5118153679939,
+        "speed_tps": 82.1890404006758,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5-high"
       },
@@ -140,7 +140,7 @@
         "intelligence_index": 53.3549259623252,
         "price_input": 10,
         "price_output": 50,
-        "speed_tps": 69.9502552060596,
+        "speed_tps": 65.9419455893577,
         "context_window": 1000000,
         "url": "https://artificialanalysis.ai/models/claude-fable-5-1"
       }
@@ -150,6 +150,15 @@
     "general": [
       {
         "rank": 1,
+        "name": "Shadow Harness V8.01",
+        "org": "Shadow",
+        "score": 94.02,
+        "score_unit": "%",
+        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "verified": true
+      },
+      {
+        "rank": 2,
         "name": "Ops-Agentic-Search-2.0",
         "org": "",
         "score": 93.69,
@@ -158,7 +167,7 @@
         "verified": true
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "CustomGPT.ai Research Lab v44",
         "org": "CustomGPT.ai",
         "score": 93.36,
@@ -167,7 +176,7 @@
         "verified": true
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Co-Sight Pro v1.0.1",
         "org": "ZTE-AICloud",
         "score": 93.02,
@@ -176,21 +185,12 @@
         "verified": true
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Shadow Harness  V2.01",
         "org": "Shadow",
         "score": 93.02,
         "score_unit": "%",
         "url": "https://rysx.com.cn/",
-        "verified": true
-      },
-      {
-        "rank": 5,
-        "name": "Shadow Harness  V3.01",
-        "org": "Shadow ",
-        "score": 93.02,
-        "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       }
     ],
@@ -311,7 +311,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 103435,
+        "stars": 118722,
         "stars_delta": 25599,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 30053,
+        "stars": 30889,
         "stars_delta": 3952,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -331,7 +331,7 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 17817,
+        "stars": 18945,
         "stars_delta": 2957,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 50303,
+        "stars": 50964,
         "stars_delta": 1083,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -351,7 +351,7 @@
         "name": "bilawalsidhu/gods-eye-view",
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "url": "https://github.com/bilawalsidhu/gods-eye-view",
-        "stars": 51637,
+        "stars": 52171,
         "stars_delta": 886,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -363,7 +363,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 30053,
+        "stars": 30889,
         "stars_delta": 25151,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -373,7 +373,7 @@
         "name": "tester-army/e2e",
         "description": "Next generation e2e testing framework for web and mobile apps.",
         "url": "https://github.com/tester-army/e2e",
-        "stars": 9035,
+        "stars": 9196,
         "stars_delta": 6440,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 286181,
+        "stars": 286698,
         "stars_delta": 10330,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 99731,
+        "stars": 99829,
         "stars_delta": 3803,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "EpicGames/raddebugger",
         "description": "A native, user-mode, multi-process, graphical debugger.",
         "url": "https://github.com/EpicGames/raddebugger",
-        "stars": 8393,
+        "stars": 8415,
         "stars_delta": 794,
         "language": "C",
         "language_color": "#555555"
@@ -415,7 +415,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 46176,
+        "stars": 46305,
         "stars_delta": 24146,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -425,7 +425,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 58709,
+        "stars": 59188,
         "stars_delta": 36012,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 39390,
+        "stars": 39433,
         "stars_delta": 4698,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 100358,
+        "stars": 100511,
         "stars_delta": 19987,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 48417,
+        "stars": 48546,
         "stars_delta": 25187,
         "language": "Python",
         "language_color": "#3572A5"
@@ -534,25 +534,10 @@
         "upvotes": 26,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 4392
+        "github_stars": 4486
       },
       {
         "rank": 2,
-        "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
-        "authors": [
-          "Guangyi Liu",
-          "Yong Liu",
-          "Jiangning Zhang"
-        ],
-        "url": "https://huggingface.co/papers/2610.08699",
-        "categories": [],
-        "upvotes": 101,
-        "published": "2026-10-05",
-        "github_repo": "https://github.com/nano-muse/nanoMuse",
-        "github_stars": 833
-      },
-      {
-        "rank": 3,
         "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
         "authors": [
           "Ruibin Yuan",
@@ -565,6 +550,21 @@
         "published": "2026-09-26",
         "github_repo": "https://github.com/multimodal-art-projection/YuE",
         "github_stars": 11603
+      },
+      {
+        "rank": 3,
+        "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+        "authors": [
+          "Guangyi Liu",
+          "Yong Liu",
+          "Jiangning Zhang"
+        ],
+        "url": "https://huggingface.co/papers/2610.08699",
+        "categories": [],
+        "upvotes": 104,
+        "published": "2026-10-05",
+        "github_repo": "https://github.com/nano-muse/nanoMuse",
+        "github_stars": 867
       },
       {
         "rank": 4,
@@ -594,86 +594,87 @@
         "upvotes": 34,
         "published": "2019-10-08",
         "github_repo": "https://github.com/huggingface/transformers",
-        "github_stars": 167516
+        "github_stars": 167538
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+        "title": "Can Language Models Play the Wikipedia Game?",
         "authors": [
-          "Drew T. Nguyen",
-          "William Fithian"
+          "Alexander Hickey",
+          "Joanna Knight",
+          "James Bishop"
         ],
-        "url": "https://arxiv.org/abs/2610.12466",
+        "url": "https://arxiv.org/abs/2610.13948",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.IR"
         ],
         "upvotes": null,
-        "published": "2026-10-09"
+        "published": "2026-10-12"
       },
       {
         "rank": 2,
-        "title": "BrickBench: Evaluating Agentic Brick Design",
+        "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
         "authors": [
-          "Peter Kulits",
-          "Yiqing Xu",
-          "R. Kenny Jones"
+          "Weiliang Chen",
+          "Song Liao"
         ],
-        "url": "https://arxiv.org/abs/2610.12452",
+        "url": "https://arxiv.org/abs/2610.13889",
         "categories": [
           "cs.AI",
-          "cs.CV",
-          "cs.GR"
+          "cs.IR"
         ],
         "upvotes": null,
-        "published": "2026-10-09"
+        "published": "2026-10-12"
       },
       {
         "rank": 3,
-        "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+        "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
         "authors": [
-          "Erin Crawley",
-          "Hidenori Tanaka"
+          "Yeonsung Jung",
+          "Zhiyuan Wang",
+          "Zifan Wang"
         ],
-        "url": "https://arxiv.org/abs/2610.12436",
-        "categories": [
-          "cs.AI",
-          "cs.MA"
-        ],
-        "upvotes": null,
-        "published": "2026-10-09"
-      },
-      {
-        "rank": 4,
-        "title": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
-        "authors": [
-          "Christopher M. Stewart",
-          "Preston Botter",
-          "Natalie Sarabosing"
-        ],
-        "url": "https://arxiv.org/abs/2610.12409",
+        "url": "https://arxiv.org/abs/2610.13886",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-10-09"
+        "published": "2026-10-12"
+      },
+      {
+        "rank": 4,
+        "title": "Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga",
+        "authors": [
+          "Emilio Ferrara"
+        ],
+        "url": "https://arxiv.org/abs/2610.13840",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.CY"
+        ],
+        "upvotes": null,
+        "published": "2026-10-12"
       },
       {
         "rank": 5,
-        "title": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
+        "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
         "authors": [
-          "Qun Dai",
-          "Liangjian Wen",
-          "Jiang Duan"
+          "Nazar Andrushko",
+          "Vera Schmitt",
+          "Veronika Solopova"
         ],
-        "url": "https://arxiv.org/abs/2610.12393",
+        "url": "https://arxiv.org/abs/2610.13783",
         "categories": [
           "cs.AI",
-          "cs.LG"
+          "cs.CL",
+          "cs.CV"
         ],
         "upvotes": null,
-        "published": "2026-10-09"
+        "published": "2026-10-12"
       }
     ]
   },
@@ -681,63 +682,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50051530,
+        "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50051530",
+        "site": "amosbbatto.wordpress.com",
+        "points": 48,
+        "comments": 29,
+        "author": "amosbatto",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50051573,
+        "title": "Type-safe HTML templating in Zig",
+        "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50051573",
+        "site": "lalinsky.com",
+        "points": 42,
+        "comments": 17,
+        "author": "lukaslalinsky",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50048642,
+        "title": "Fingerprints are the new cookies",
+        "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+        "discussion_url": "https://news.ycombinator.com/item?id=50048642",
+        "site": "royfish.dev",
+        "points": 262,
+        "comments": 128,
+        "author": "royfish",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
         "id": 50045984,
         "title": "Total Annihilation, rebuilt for modern computers",
         "url": "https://nanolathe.gg",
         "discussion_url": "https://news.ycombinator.com/item?id=50045984",
         "site": "nanolathe.gg",
-        "points": 320,
-        "comments": 137,
+        "points": 449,
+        "comments": 187,
         "author": "jttnr",
-        "age": "5h ago"
+        "age": "12h ago"
       },
       {
-        "rank": 2,
-        "id": 50047091,
-        "title": "Cartographers of North Korea",
-        "url": "https://cartographers-nk.wonyoung.so/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50047091",
-        "site": "cartographers-nk.wonyoung.so",
-        "points": 159,
-        "comments": 27,
-        "author": "edent",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
+        "rank": 5,
         "id": 50049411,
         "title": "Whatever became of holography? (2011)",
         "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
         "discussion_url": "https://news.ycombinator.com/item?id=50049411",
         "site": "americanscientist.org",
-        "points": 6,
-        "comments": 0,
+        "points": 106,
+        "comments": 51,
         "author": "cainxinth",
-        "age": "12m ago"
-      },
-      {
-        "rank": 4,
-        "id": 50048522,
-        "title": "Recursive self-improvement through collective intelligence",
-        "url": "https://pub.sakana.ai/mass/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50048522",
-        "site": "pub.sakana.ai",
-        "points": 31,
-        "comments": 6,
-        "author": "hardmaru",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50047422,
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "discussion_url": "https://news.ycombinator.com/item?id=50047422",
-        "site": "twitter.com",
-        "points": 185,
-        "comments": 282,
-        "author": "albertzeyer",
-        "age": "3h ago"
+        "age": "6h ago"
       }
     ],
     "ask": [
@@ -748,37 +749,13 @@
         "url": "https://news.ycombinator.com/item?id=50039291",
         "discussion_url": "https://news.ycombinator.com/item?id=50039291",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 3,
+        "points": 48,
+        "comments": 50,
         "author": "Ixander",
-        "age": "21h ago"
+        "age": "1d ago"
       },
       {
         "rank": 2,
-        "id": 50047180,
-        "title": "Ask HN: How do swarms of AI agents work?",
-        "url": "https://news.ycombinator.com/item?id=50047180",
-        "discussion_url": "https://news.ycombinator.com/item?id=50047180",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 4,
-        "author": "dsrtslnd23",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50006366,
-        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-        "url": "https://news.ycombinator.com/item?id=50006366",
-        "discussion_url": "https://news.ycombinator.com/item?id=50006366",
-        "site": "news.ycombinator.com",
-        "points": 769,
-        "comments": 244,
-        "author": "lukehandcool",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
         "id": 49982498,
         "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
         "url": "https://news.ycombinator.com/item?id=49982498",
@@ -790,14 +767,38 @@
         "age": "5d ago"
       },
       {
+        "rank": 3,
+        "id": 50006366,
+        "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+        "url": "https://news.ycombinator.com/item?id=50006366",
+        "discussion_url": "https://news.ycombinator.com/item?id=50006366",
+        "site": "news.ycombinator.com",
+        "points": 771,
+        "comments": 244,
+        "author": "lukehandcool",
+        "age": "3d ago"
+      },
+      {
+        "rank": 4,
+        "id": 50049047,
+        "title": "Ask HN: What to Build in the AI Era?",
+        "url": "https://news.ycombinator.com/item?id=50049047",
+        "discussion_url": "https://news.ycombinator.com/item?id=50049047",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 10,
+        "author": "le_curious",
+        "age": "7h ago"
+      },
+      {
         "rank": 5,
         "id": 49985548,
         "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
         "url": "https://news.ycombinator.com/item?id=49985548",
         "discussion_url": "https://news.ycombinator.com/item?id=49985548",
         "site": "news.ycombinator.com",
-        "points": 414,
-        "comments": 651,
+        "points": 417,
+        "comments": 656,
         "author": "mariocesar",
         "age": "5d ago"
       }
@@ -805,63 +806,63 @@
     "show": [
       {
         "rank": 1,
+        "id": 50051791,
+        "title": "Show HN: WriteNative – correct, natural English in any Mac app",
+        "url": "https://writenative.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50051791",
+        "site": "writenative.app",
+        "points": 3,
+        "comments": 0,
+        "author": "dengzhaofun",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50049388,
+        "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+        "url": "https://github.com/plimsollmark/plimsoll",
+        "discussion_url": "https://news.ycombinator.com/item?id=50049388",
+        "site": "github.com",
+        "points": 15,
+        "comments": 2,
+        "author": "cagster",
+        "age": "6h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50049132,
+        "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+        "url": "https://github.com/swimmingbrain/brainotes",
+        "discussion_url": "https://news.ycombinator.com/item?id=50049132",
+        "site": "github.com",
+        "points": 25,
+        "comments": 2,
+        "author": "swimmingbrain",
+        "age": "7h ago"
+      },
+      {
+        "rank": 4,
         "id": 50042333,
         "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
         "url": "https://betterwispr.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50042333",
         "site": "betterwispr.com",
-        "points": 140,
-        "comments": 90,
+        "points": 188,
+        "comments": 108,
         "author": "kartik017",
-        "age": "12h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50048892,
-        "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
-        "url": "https://www.seodata.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50048892",
-        "site": "seodata.dev",
-        "points": 2,
-        "comments": 0,
-        "author": "alentodorov",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50048731,
-        "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-        "url": "https://www.shpyrd.io",
-        "discussion_url": "https://news.ycombinator.com/item?id=50048731",
-        "site": "shpyrd.io",
-        "points": 5,
-        "comments": 17,
-        "author": "patricknegri",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50048129,
-        "title": "Show HN: Cachety – Watermark ID documents in the browser, nothing is uploaded",
-        "url": "https://cachety.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=50048129",
-        "site": "cachety.com",
-        "points": 2,
-        "comments": 0,
-        "author": "aminmoradi",
-        "age": "2h ago"
+        "age": "18h ago"
       },
       {
         "rank": 5,
-        "id": 50048034,
-        "title": "Show HN: One link, one message – replace it by paying $1 more than the last",
-        "url": "https://onelinkwins.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50048034",
-        "site": "onelinkwins.com",
-        "points": 2,
-        "comments": 2,
-        "author": "colors__",
-        "age": "2h ago"
+        "id": 50050732,
+        "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+        "url": "https://github.com/qufei1993/skills-hub",
+        "discussion_url": "https://news.ycombinator.com/item?id=50050732",
+        "site": "github.com",
+        "points": 9,
+        "comments": 1,
+        "author": "qufei1993",
+        "age": "3h ago"
       }
     ]
   }
