@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-16T06:47:33Z",
+  "generated": "2026-10-16T11:04:41Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 992,
-        "downloads": 144280,
-        "likes": 2430,
+        "trending_score": 976,
+        "downloads": 151258,
+        "likes": 2448,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 865,
-        "downloads": 75253,
-        "likes": 1765,
+        "trending_score": 859,
+        "downloads": 85612,
+        "likes": 1782,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen-Image-2.1-Turbo",
         "org": "Qwen",
-        "trending_score": 769,
-        "downloads": 15315,
-        "likes": 896,
+        "trending_score": 774,
+        "downloads": 17421,
+        "likes": 905,
         "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
         "tags": [
           "diffusers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "org": "openbmb",
-        "trending_score": 658,
-        "downloads": 9278,
-        "likes": 804,
+        "trending_score": 663,
+        "downloads": 17553,
+        "likes": 812,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-        "org": "abenzerps",
-        "trending_score": 489,
-        "downloads": 2415278,
-        "likes": 4399,
-        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "name": "fishaudio/drama-3",
+        "org": "fishaudio",
+        "trending_score": 494,
+        "downloads": 6158,
+        "likes": 510,
+        "url": "https://huggingface.co/fishaudio/drama-3",
         "tags": [
-          "gguf",
-          "qwen",
-          "image-generation",
-          "comfyui",
-          "comfyui-gguf"
+          "safetensors",
+          "fish_omni",
+          "fish-audio",
+          "text-to-speech",
+          "multi-speaker"
         ],
         "rank_change": null
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea",
-        "stars": 277276,
-        "stars_delta": 32314,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 2,
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 39458,
+        "stars": 39746,
         "stars_delta": 307,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 50793,
+        "stars": 51025,
         "stars_delta": 1091,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
+        "rank": 3,
+        "name": "affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC",
+        "stars": 280832,
+        "stars_delta": 1013,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
+      },
+      {
         "rank": 4,
-        "name": "JuliusBrussee/caveman",
-        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-        "url": "https://github.com/JuliusBrussee/caveman",
-        "stars": 112784,
-        "stars_delta": 433,
-        "language": "Go",
-        "language_color": "#00ADD8"
+        "name": "HKUDS/CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "stars": 53175,
+        "stars_delta": 716,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "debpalash/VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 69622,
-        "stars_delta": 3024,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "url": "https://github.com/mksglu/context-mode",
+        "stars": 29981,
+        "stars_delta": 904,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -363,102 +363,102 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 277277,
+        "stars": 281988,
         "stars_delta": 239477,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
+        "name": "storytold/artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "url": "https://github.com/storytold/artcraft",
+        "stars": 29853,
+        "stars_delta": 22319,
+        "language": "Rust",
+        "language_color": "#dea584"
+      },
+      {
+        "rank": 3,
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 39004,
+        "stars": 39249,
         "stars_delta": 25174,
         "language": "C++",
         "language_color": "#f34b7d"
       },
       {
-        "rank": 3,
-        "name": "mattpocock/skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "url": "https://github.com/mattpocock/skills",
-        "stars": 293195,
-        "stars_delta": 12147,
-        "language": "Shell",
-        "language_color": "#89e051"
-      },
-      {
         "rank": 4,
-        "name": "heygen-com/hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 64772,
-        "stars_delta": 5318,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 56076,
+        "stars": 56172,
         "stars_delta": 10237,
         "language": "HTML",
         "language_color": "#e34c26"
+      },
+      {
+        "rank": 5,
+        "name": "heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "stars": 64927,
+        "stars_delta": 5318,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "monthly": [
       {
         "rank": 1,
+        "name": "cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "stars": 30015,
+        "stars_delta": 25242,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
+      },
+      {
+        "rank": 2,
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 102863,
+        "stars": 102961,
         "stars_delta": 22181,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 40028,
+        "stars": 40045,
         "stars_delta": 5252,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 3,
-        "name": "vectorize-io/hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 50170,
-        "stars_delta": 26652,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
         "rank": 4,
-        "name": "debpalash/VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 69622,
-        "stars_delta": 38181,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 64770,
+        "stars": 64927,
         "stars_delta": 14246,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "vectorize-io/hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "stars": 50276,
+        "stars_delta": 26652,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "frameworks": [
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.20571",
         "categories": [],
-        "upvotes": 334,
+        "upvotes": 337,
         "published": "2026-10-13",
         "github_repo": "https://github.com/ziplab/ATAS",
         "github_stars": 208
@@ -684,15 +684,15 @@
     "top": [
       {
         "rank": 1,
-        "id": 50107379,
-        "title": "Muse Spark Open",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "discussion_url": "https://news.ycombinator.com/item?id=50107379",
-        "site": "research.meta.ai",
-        "points": 753,
-        "comments": 388,
-        "author": "bigwheels",
-        "age": "12h ago"
+        "id": 50077225,
+        "title": "Yet another way to invoke functions without parentheses",
+        "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50077225",
+        "site": "blog.ikaes.de",
+        "points": 36,
+        "comments": 10,
+        "author": "aragonite",
+        "age": "2d ago"
       },
       {
         "rank": 2,
@@ -701,87 +701,99 @@
         "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
         "discussion_url": "https://news.ycombinator.com/item?id=50111852",
         "site": "niemanlab.org",
-        "points": 183,
-        "comments": 71,
+        "points": 319,
+        "comments": 114,
         "author": "0in",
-        "age": "7h ago"
+        "age": "11h ago"
       },
       {
         "rank": 3,
-        "id": 50072119,
-        "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-        "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50072119",
-        "site": "polygon.com",
-        "points": 90,
-        "comments": 42,
-        "author": "cvoss",
-        "age": "2d ago"
+        "id": 50065859,
+        "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+        "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+        "discussion_url": "https://news.ycombinator.com/item?id=50065859",
+        "site": "youtube.com",
+        "points": 361,
+        "comments": 122,
+        "author": "johnnyApplePRNG",
+        "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 50112330,
-        "title": "RPKI now protects 70% of internet routes",
-        "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-        "discussion_url": "https://news.ycombinator.com/item?id=50112330",
-        "site": "ipinfo.io",
-        "points": 109,
-        "comments": 34,
-        "author": "emot",
-        "age": "5h ago"
+        "id": 50084790,
+        "title": "The Economic Complexity of the Western Roman Empire",
+        "url": "https://www.michelecoscia.com/?p=2613",
+        "discussion_url": "https://news.ycombinator.com/item?id=50084790",
+        "site": "michelecoscia.com",
+        "points": 28,
+        "comments": 7,
+        "author": "mikk14",
+        "age": "2d ago"
       },
       {
         "rank": 5,
-        "id": 50059094,
-        "title": "Casio F-91W using Statecharts",
-        "url": "https://github.com/dundalek/casio-f91w-fsm",
-        "discussion_url": "https://news.ycombinator.com/item?id=50059094",
-        "site": "github.com",
-        "points": 15,
-        "comments": 2,
-        "author": "austinallegro",
-        "age": "3d ago"
+        "id": 50107379,
+        "title": "Muse Spark Open",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "discussion_url": "https://news.ycombinator.com/item?id=50107379",
+        "site": "research.meta.ai",
+        "points": 828,
+        "comments": 415,
+        "author": "bigwheels",
+        "age": "17h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50067325,
+        "title": "Ask HN: CAD for wood working with LLM support?",
+        "url": "https://news.ycombinator.com/item?id=50067325",
+        "discussion_url": "https://news.ycombinator.com/item?id=50067325",
+        "site": "news.ycombinator.com",
+        "points": 121,
+        "comments": 124,
+        "author": "reacharavindh",
+        "age": "3d ago"
+      },
+      {
+        "rank": 2,
+        "id": 50115119,
+        "title": "Ask HN: Has anyone decompiled Claude Code yet?",
+        "url": "https://news.ycombinator.com/item?id=50115119",
+        "discussion_url": "https://news.ycombinator.com/item?id=50115119",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 9,
+        "author": "matt3210",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
         "id": 50114521,
         "title": "How to make my business survives it's first 5 years?",
         "url": "https://news.ycombinator.com/item?id=50114521",
         "discussion_url": "https://news.ycombinator.com/item?id=50114521",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 0,
+        "comments": 4,
         "author": "SSDIE",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 2,
-        "id": 50067325,
-        "title": "Ask HN: CAD for wood working with LLM support?",
-        "url": "https://news.ycombinator.com/item?id=50067325",
-        "discussion_url": "https://news.ycombinator.com/item?id=50067325",
-        "site": "news.ycombinator.com",
-        "points": 119,
-        "comments": 123,
-        "author": "reacharavindh",
-        "age": "3d ago"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "id": 50112559,
         "title": "Tell HN: Google Argon on a Pro subscription is worthless",
         "url": "https://news.ycombinator.com/item?id=50112559",
         "discussion_url": "https://news.ycombinator.com/item?id=50112559",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 6,
+        "points": 8,
+        "comments": 7,
         "author": "bb88",
-        "age": "5h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 50039291,
         "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
         "url": "https://news.ycombinator.com/item?id=50039291",
@@ -791,68 +803,56 @@
         "comments": 150,
         "author": "Ixander",
         "age": "5d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50103464,
-        "title": "Ask HN: Apple HomeView. What problem is Apple Home solving?",
-        "url": "https://news.ycombinator.com/item?id=50103464",
-        "discussion_url": "https://news.ycombinator.com/item?id=50103464",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 8,
-        "author": "NarcisMirandes",
-        "age": "17h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50102247,
-        "title": "Show HN: Unfenced – Land for sale that borders public land",
-        "url": "https://unfenced.land/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50102247",
-        "site": "unfenced.land",
-        "points": 292,
-        "comments": 191,
-        "author": "otherwatersflow",
-        "age": "19h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50114512,
-        "title": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
-        "url": "https://gitsu.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50114512",
-        "site": "gitsu.app",
+        "id": 50116347,
+        "title": "Show HN: A Music-Reading Trainer",
+        "url": "https://parkscomputing.com/page/sight-reader",
+        "discussion_url": "https://news.ycombinator.com/item?id=50116347",
+        "site": "parkscomputing.com",
         "points": 2,
         "comments": 0,
-        "author": "indhuja",
+        "author": "paulmooreparks",
         "age": "1h ago"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "id": 50099136,
         "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
         "url": "https://github.com/andunieee/flipflop",
         "discussion_url": "https://news.ycombinator.com/item?id=50099136",
         "site": "github.com",
-        "points": 122,
-        "comments": 62,
+        "points": 129,
+        "comments": 63,
         "author": "andunie",
         "age": "1d ago"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "id": 50105467,
         "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
         "url": "https://proa.so/",
         "discussion_url": "https://news.ycombinator.com/item?id=50105467",
         "site": "proa.so",
-        "points": 99,
+        "points": 102,
         "comments": 28,
         "author": "burnrate",
-        "age": "14h ago"
+        "age": "19h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50102247,
+        "title": "Show HN: Unfenced – Land for sale that borders public land",
+        "url": "https://unfenced.land/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50102247",
+        "site": "unfenced.land",
+        "points": 296,
+        "comments": 191,
+        "author": "otherwatersflow",
+        "age": "23h ago"
       },
       {
         "rank": 5,
@@ -861,8 +861,8 @@
         "url": "https://indigene.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=50064470",
         "site": "indigene.app",
-        "points": 110,
-        "comments": 39,
+        "points": 112,
+        "comments": 41,
         "author": "olivierlacan",
         "age": "3d ago"
       }
