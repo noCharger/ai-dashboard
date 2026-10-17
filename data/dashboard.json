@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-17T09:50:28Z",
+  "generated": "2026-10-17T10:24:55Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 918,
+        "trending_score": 917,
         "downloads": 158490,
-        "likes": 2539,
+        "likes": 2542,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 816,
+        "trending_score": 813,
         "downloads": 95870,
-        "likes": 1852,
+        "likes": 1853,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "org": "openbmb",
-        "trending_score": 698,
+        "trending_score": 700,
         "downloads": 36252,
-        "likes": 864,
+        "likes": 866,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 453,
-        "downloads": 1993003,
-        "likes": 8129,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "name": "black-forest-labs/flux-3-image-klein-comfy",
+        "org": "black-forest-labs",
+        "trending_score": 456,
+        "downloads": 224108,
+        "likes": 532,
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "tags": [
           "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
+          "comfyui",
+          "image-generation",
+          "image-editing",
+          "flux"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 41040,
+        "stars": 41067,
         "stars_delta": 1552,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 51836,
+        "stars": 51860,
         "stars_delta": 1158,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 281850,
+        "stars": 281869,
         "stars_delta": 1057,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 53708,
+        "stars": 53723,
         "stars_delta": 281,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 30374,
+        "stars": 30379,
         "stars_delta": 449,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 297235,
+        "stars": 297656,
         "stars_delta": 248962,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 31059,
+        "stars": 31094,
         "stars_delta": 20267,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 40250,
+        "stars": 40283,
         "stars_delta": 20518,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -393,7 +393,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 56628,
+        "stars": 56648,
         "stars_delta": 9024,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -403,7 +403,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 65543,
+        "stars": 65566,
         "stars_delta": 5601,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 30385,
+        "stars": 30398,
         "stars_delta": 24844,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 103326,
+        "stars": 103332,
         "stars_delta": 22617,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 40132,
+        "stars": 40135,
         "stars_delta": 5343,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 65543,
+        "stars": 65566,
         "stars_delta": 14754,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 50633,
+        "stars": 50640,
         "stars_delta": 26912,
         "language": "Python",
         "language_color": "#3572A5"
@@ -689,58 +689,58 @@
         "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
         "discussion_url": "https://news.ycombinator.com/item?id=50129121",
         "site": "openrouter.ai",
-        "points": 93,
-        "comments": 6,
+        "points": 131,
+        "comments": 13,
         "author": "theanonymousone",
         "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 50106747,
-        "title": "Ultramarine 1 Flash",
-        "url": "https://www.paperinstruments.com/ultramarine",
-        "discussion_url": "https://news.ycombinator.com/item?id=50106747",
-        "site": "paperinstruments.com",
-        "points": 245,
-        "comments": 71,
-        "author": "i_rush_carriers",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
         "id": 50129274,
         "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
         "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
         "discussion_url": "https://news.ycombinator.com/item?id=50129274",
         "site": "nos.nl",
-        "points": 12,
-        "comments": 4,
+        "points": 22,
+        "comments": 27,
         "author": "felipevb",
-        "age": "42m ago"
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50106747,
+        "title": "Ultramarine 1 Flash",
+        "url": "https://www.paperinstruments.com/ultramarine",
+        "discussion_url": "https://news.ycombinator.com/item?id=50106747",
+        "site": "paperinstruments.com",
+        "points": 251,
+        "comments": 71,
+        "author": "i_rush_carriers",
+        "age": "1d ago"
       },
       {
         "rank": 4,
+        "id": 50129235,
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+        "discussion_url": "https://news.ycombinator.com/item?id=50129235",
+        "site": "contextetech.com",
+        "points": 11,
+        "comments": 5,
+        "author": "contextetech",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 50112657,
         "title": "Tesla Roadster",
         "url": "https://www.tesla.com/roadster",
         "discussion_url": "https://news.ycombinator.com/item?id=50112657",
         "site": "tesla.com",
-        "points": 1427,
-        "comments": 2503,
+        "points": 1440,
+        "comments": 2520,
         "author": "shekhar101",
         "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50127979,
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "url": "https://llmspeed.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50127979",
-        "site": "llmspeed.dev",
-        "points": 71,
-        "comments": 27,
-        "author": "albinstman",
-        "age": "5h ago"
       }
     ],
     "ask": [
@@ -751,8 +751,8 @@
         "url": "https://news.ycombinator.com/item?id=50089577",
         "discussion_url": "https://news.ycombinator.com/item?id=50089577",
         "site": "news.ycombinator.com",
-        "points": 34,
-        "comments": 11,
+        "points": 42,
+        "comments": 22,
         "author": "nikanj",
         "age": "2d ago"
       },
@@ -778,7 +778,7 @@
         "points": 9,
         "comments": 0,
         "author": "robotnikman",
-        "age": "10h ago"
+        "age": "11h ago"
       },
       {
         "rank": 4,
@@ -802,7 +802,7 @@
         "points": 5,
         "comments": 7,
         "author": "NarcisMirandes",
-        "age": "19h ago"
+        "age": "20h ago"
       }
     ],
     "show": [
@@ -813,22 +813,22 @@
         "url": "https://llmspeed.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=50127979",
         "site": "llmspeed.dev",
-        "points": 71,
-        "comments": 27,
+        "points": 77,
+        "comments": 28,
         "author": "albinstman",
         "age": "5h ago"
       },
       {
         "rank": 2,
-        "id": 50118688,
-        "title": "Show HN: Gemini 4 Argon plays StarCraft",
-        "url": "https://starskirmish.com/bench/v0-2/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50118688",
-        "site": "starskirmish.com",
-        "points": 222,
-        "comments": 100,
-        "author": "__cayenne__",
-        "age": "19h ago"
+        "id": 50129489,
+        "title": "Show HN: Club Pigeon – A multiplayer pigeon park with SNES-style minigames",
+        "url": "https://clubpigeon.lol",
+        "discussion_url": "https://news.ycombinator.com/item?id=50129489",
+        "site": "clubpigeon.lol",
+        "points": 2,
+        "comments": 0,
+        "author": "nilsio",
+        "age": "41m ago"
       },
       {
         "rank": 3,
@@ -837,34 +837,34 @@
         "url": "https://github.com/CLoaKY233/siltop",
         "discussion_url": "https://news.ycombinator.com/item?id=50128654",
         "site": "github.com",
-        "points": 3,
-        "comments": 0,
+        "points": 5,
+        "comments": 2,
         "author": "cloaky233",
-        "age": "2h ago"
+        "age": "3h ago"
       },
       {
         "rank": 4,
+        "id": 50118688,
+        "title": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50118688",
+        "site": "starskirmish.com",
+        "points": 224,
+        "comments": 101,
+        "author": "__cayenne__",
+        "age": "20h ago"
+      },
+      {
+        "rank": 5,
         "id": 50080246,
         "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
         "url": "https://wonderhop.io/en/",
         "discussion_url": "https://news.ycombinator.com/item?id=50080246",
         "site": "wonderhop.io",
-        "points": 94,
-        "comments": 76,
+        "points": 97,
+        "comments": 77,
         "author": "mtlduo",
         "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50128830,
-        "title": "Show HN: Biblio Times, your RSS feeds, typeset as a morning newspaper (Mac/iOS)",
-        "url": "https://biblio.ink/times",
-        "discussion_url": "https://news.ycombinator.com/item?id=50128830",
-        "site": "biblio.ink",
-        "points": 3,
-        "comments": 0,
-        "author": "perthz",
-        "age": "2h ago"
       }
     ]
   }
