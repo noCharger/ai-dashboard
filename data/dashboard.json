@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-17T13:20:06Z",
+  "generated": "2026-10-17T16:43:41Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "google/embeddinggemma-2",
         "org": "google",
-        "trending_score": 921,
+        "trending_score": 912,
         "downloads": 158490,
-        "likes": 2559,
+        "likes": 2572,
         "url": "https://huggingface.co/google/embeddinggemma-2",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "jialinyyzz/humanizer",
         "org": "jialinyyzz",
-        "trending_score": 801,
+        "trending_score": 794,
         "downloads": 95870,
-        "likes": 1867,
+        "likes": 1877,
         "url": "https://huggingface.co/jialinyyzz/humanizer",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "org": "openbmb",
-        "trending_score": 706,
+        "trending_score": 712,
         "downloads": 36252,
-        "likes": 876,
+        "likes": 886,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "fishaudio/drama-3",
-        "org": "fishaudio",
-        "trending_score": 562,
-        "downloads": 8193,
-        "likes": 584,
-        "url": "https://huggingface.co/fishaudio/drama-3",
-        "tags": [
-          "safetensors",
-          "fish_omni",
-          "fish-audio",
-          "text-to-speech",
-          "multi-speaker"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 532,
+        "trending_score": 711,
         "downloads": 0,
-        "likes": 538,
+        "likes": 753,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "deepseek_v41",
           "text-generation",
           "image-text-to-text"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "fishaudio/drama-3",
+        "org": "fishaudio",
+        "trending_score": 578,
+        "downloads": 8193,
+        "likes": 602,
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "tags": [
+          "safetensors",
+          "fish_omni",
+          "fish-audio",
+          "text-to-speech",
+          "multi-speaker"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 41202,
+        "stars": 41392,
         "stars_delta": 1383,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 49342,
+        "stars": 49739,
         "stars_delta": 1397,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "affaan-m/ECC",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 281990,
+        "stars": 282130,
         "stars_delta": 1145,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -341,7 +341,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 53800,
+        "stars": 53891,
         "stars_delta": 580,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 51967,
+        "stars": 52080,
         "stars_delta": 879,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 300153,
+        "stars": 303195,
         "stars_delta": 248962,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 31244,
+        "stars": 31471,
         "stars_delta": 20267,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 40578,
+        "stars": 41021,
         "stars_delta": 20518,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -393,7 +393,7 @@
         "name": "cathrynlavery/diagram-design",
         "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "url": "https://github.com/cathrynlavery/diagram-design",
-        "stars": 56727,
+        "stars": 56844,
         "stars_delta": 9024,
         "language": "HTML",
         "language_color": "#e34c26"
@@ -403,7 +403,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 41202,
+        "stars": 41392,
         "stars_delta": 2328,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 30452,
+        "stars": 30531,
         "stars_delta": 24844,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 103390,
+        "stars": 103485,
         "stars_delta": 22617,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 40144,
+        "stars": 40160,
         "stars_delta": 5343,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 65651,
+        "stars": 65775,
         "stars_delta": 14754,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 72305,
+        "stars": 72695,
         "stars_delta": 38923,
         "language": "Python",
         "language_color": "#3572A5"
@@ -538,21 +538,6 @@
       },
       {
         "rank": 2,
-        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-        "authors": [
-          "Yu Lin",
-          "Yiming Wang",
-          "Runyuan Cai"
-        ],
-        "url": "https://huggingface.co/papers/2609.18063",
-        "categories": [],
-        "upvotes": 27,
-        "published": "2026-09-15",
-        "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 5357
-      },
-      {
-        "rank": 3,
         "title": "Harness^2: Recursive Agent Harnessing for an Open World",
         "authors": [
           "Ruiyao Xu",
@@ -564,25 +549,25 @@
         "upvotes": 105,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 660
+        "github_stars": 864
+      },
+      {
+        "rank": 3,
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "authors": [
+          "Yu Lin",
+          "Yiming Wang",
+          "Runyuan Cai"
+        ],
+        "url": "https://huggingface.co/papers/2609.18063",
+        "categories": [],
+        "upvotes": 28,
+        "published": "2026-09-15",
+        "github_repo": "https://github.com/Edge0-AI/edge0",
+        "github_stars": 5497
       },
       {
         "rank": 4,
-        "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-        "authors": [
-          "Weijie Wang",
-          "Haomin Zhang",
-          "Ye Li"
-        ],
-        "url": "https://huggingface.co/papers/2610.20571",
-        "categories": [],
-        "upvotes": 343,
-        "published": "2026-10-13",
-        "github_repo": "https://github.com/ziplab/ATAS",
-        "github_stars": 237
-      },
-      {
-        "rank": 5,
         "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
         "authors": [
           "Taoyong Cui",
@@ -595,6 +580,21 @@
         "published": "2026-10-08",
         "github_repo": "https://github.com/Gen-Verse/RSI-Anything",
         "github_stars": 774
+      },
+      {
+        "rank": 5,
+        "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+        "authors": [
+          "Weijie Wang",
+          "Haomin Zhang",
+          "Ye Li"
+        ],
+        "url": "https://huggingface.co/papers/2610.20571",
+        "categories": [],
+        "upvotes": 343,
+        "published": "2026-10-13",
+        "github_repo": "https://github.com/ziplab/ATAS",
+        "github_stars": 244
       }
     ],
     "arxiv_recent": [
@@ -684,104 +684,116 @@
     "top": [
       {
         "rank": 1,
-        "id": 50129121,
-        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "discussion_url": "https://news.ycombinator.com/item?id=50129121",
-        "site": "openrouter.ai",
-        "points": 312,
-        "comments": 124,
-        "author": "theanonymousone",
-        "age": "4h ago"
+        "id": 50131213,
+        "title": "Making Chicken Transparent Using Dorito Dust",
+        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+        "discussion_url": "https://news.ycombinator.com/item?id=50131213",
+        "site": "chillphysicsenjoyer.substack.com",
+        "points": 101,
+        "comments": 38,
+        "author": "crescit_eundo",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 50106747,
-        "title": "Ultramarine 1 Flash",
-        "url": "https://www.paperinstruments.com/ultramarine",
-        "discussion_url": "https://news.ycombinator.com/item?id=50106747",
-        "site": "paperinstruments.com",
-        "points": 285,
-        "comments": 90,
-        "author": "i_rush_carriers",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50112657,
-        "title": "Tesla Roadster",
-        "url": "https://www.tesla.com/roadster",
-        "discussion_url": "https://news.ycombinator.com/item?id=50112657",
-        "site": "tesla.com",
-        "points": 1493,
-        "comments": 2683,
-        "author": "shekhar101",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50127979,
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "url": "https://llmspeed.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50127979",
-        "site": "llmspeed.dev",
-        "points": 128,
-        "comments": 46,
-        "author": "albinstman",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
         "id": 50129045,
         "title": "DeepSeek-v4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "discussion_url": "https://news.ycombinator.com/item?id=50129045",
         "site": "huggingface.co",
-        "points": 256,
-        "comments": 100,
+        "points": 375,
+        "comments": 404,
         "author": "theykk",
+        "age": "8h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50131256,
+        "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50131256",
+        "site": "pv-magazine.com",
+        "points": 200,
+        "comments": 108,
+        "author": "xbmcuser",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50130570,
+        "title": "Super Intelligence",
+        "url": "https://www.si.gov/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50130570",
+        "site": "si.gov",
+        "points": 73,
+        "comments": 128,
+        "author": "wiradikusuma",
         "age": "4h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50119315,
+        "title": "Rendering pretty sky in Around The World game",
+        "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50119315",
+        "site": "frozenfractal.com",
+        "points": 58,
+        "comments": 6,
+        "author": "ibobev",
+        "age": "1d ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 50130833,
-        "title": "Talk like Paul Dirac – less words is better",
-        "url": "https://news.ycombinator.com/item?id=50130833",
-        "discussion_url": "https://news.ycombinator.com/item?id=50130833",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "asen",
-        "age": "12m ago"
-      },
-      {
-        "rank": 2,
         "id": 50089577,
         "title": "Tell HN: Remember to migrate away from .name domain",
         "url": "https://news.ycombinator.com/item?id=50089577",
         "discussion_url": "https://news.ycombinator.com/item?id=50089577",
         "site": "news.ycombinator.com",
-        "points": 71,
-        "comments": 46,
+        "points": 86,
+        "comments": 56,
         "author": "nikanj",
-        "age": "2d ago"
+        "age": "3d ago"
+      },
+      {
+        "rank": 2,
+        "id": 50131248,
+        "title": "Ask HN: How do I stop Gemini Live from asking.\"Would like to know more about..?\"",
+        "url": "https://news.ycombinator.com/item?id=50131248",
+        "discussion_url": "https://news.ycombinator.com/item?id=50131248",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 2,
+        "author": "orsenthil",
+        "age": "2h ago"
       },
       {
         "rank": 3,
+        "id": 50130833,
+        "title": "Talk like Paul Dirac – fewer words is better",
+        "url": "https://news.ycombinator.com/item?id=50130833",
+        "discussion_url": "https://news.ycombinator.com/item?id=50130833",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 8,
+        "author": "asen",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 50067325,
         "title": "Ask HN: CAD for wood working with LLM support?",
         "url": "https://news.ycombinator.com/item?id=50067325",
         "discussion_url": "https://news.ycombinator.com/item?id=50067325",
         "site": "news.ycombinator.com",
         "points": 126,
-        "comments": 126,
+        "comments": 127,
         "author": "reacharavindh",
         "age": "4d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 50126004,
         "title": "Ask HN: Is anyone still running Token Ring or FDDI networks?",
         "url": "https://news.ycombinator.com/item?id=50126004",
@@ -790,45 +802,33 @@
         "points": 10,
         "comments": 0,
         "author": "robotnikman",
-        "age": "14h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50129647,
-        "title": "Survey: How do you create the video demo for your project or product?",
-        "url": "https://news.ycombinator.com/item?id=50129647",
-        "discussion_url": "https://news.ycombinator.com/item?id=50129647",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "loveTech",
-        "age": "3h ago"
+        "age": "17h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50131189,
+        "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+        "url": "https://github.com/mikroverk/esp32sim",
+        "discussion_url": "https://news.ycombinator.com/item?id=50131189",
+        "site": "github.com",
+        "points": 31,
+        "comments": 5,
+        "author": "joakimeriksson",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 50127979,
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=50127979",
         "site": "llmspeed.dev",
-        "points": 128,
-        "comments": 46,
+        "points": 189,
+        "comments": 62,
         "author": "albinstman",
-        "age": "8h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50130442,
-        "title": "Show HN: Which Mac runs which LLM, and how fast",
-        "url": "https://macyou.co/mac-llm-calculator",
-        "discussion_url": "https://news.ycombinator.com/item?id=50130442",
-        "site": "macyou.co",
-        "points": 9,
-        "comments": 3,
-        "author": "bagdaerdev",
-        "age": "1h ago"
+        "age": "12h ago"
       },
       {
         "rank": 3,
@@ -837,10 +837,10 @@
         "url": "https://starskirmish.com/bench/v0-2/",
         "discussion_url": "https://news.ycombinator.com/item?id=50118688",
         "site": "starskirmish.com",
-        "points": 228,
-        "comments": 103,
+        "points": 234,
+        "comments": 104,
         "author": "__cayenne__",
-        "age": "23h ago"
+        "age": "1d ago"
       },
       {
         "rank": 4,
@@ -849,22 +849,22 @@
         "url": "https://wonderhop.io/en/",
         "discussion_url": "https://news.ycombinator.com/item?id=50080246",
         "site": "wonderhop.io",
-        "points": 102,
-        "comments": 80,
+        "points": 104,
+        "comments": 81,
         "author": "mtlduo",
         "age": "3d ago"
       },
       {
         "rank": 5,
-        "id": 50130290,
-        "title": "Show HN: Right-click any log line to see its call stack in VS Code",
-        "url": "https://marketplace.visualstudio.com/items?itemName=Suwapat.logcallstack",
-        "discussion_url": "https://news.ycombinator.com/item?id=50130290",
-        "site": "marketplace.visualstudio.com",
-        "points": 6,
+        "id": 50131006,
+        "title": "Show HN: High-quality duck audio synthesizer",
+        "url": "https://celphase.github.io/duck-pond/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50131006",
+        "site": "celphase.github.io",
+        "points": 2,
         "comments": 0,
-        "author": "suwapat",
-        "age": "1h ago"
+        "author": "celphase",
+        "age": "3h ago"
       }
     ]
   }
