@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-19T12:42:17Z",
+  "generated": "2026-10-19T15:58:02Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 1425,
+        "trending_score": 1466,
         "downloads": 17924,
-        "likes": 1552,
+        "likes": 1601,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "openbmb/MiniCPM-V-4.7-35B-A3B",
         "org": "openbmb",
-        "trending_score": 847,
+        "trending_score": 852,
         "downloads": 76410,
-        "likes": 1033,
+        "likes": 1040,
         "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "fishaudio/drama-3",
         "org": "fishaudio",
-        "trending_score": 704,
+        "trending_score": 715,
         "downloads": 11795,
-        "likes": 731,
+        "likes": 742,
         "url": "https://huggingface.co/fishaudio/drama-3",
         "tags": [
           "safetensors",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "google/embeddinggemma-2",
-        "org": "google",
-        "trending_score": 686,
-        "downloads": 167750,
-        "likes": 2692,
-        "url": "https://huggingface.co/google/embeddinggemma-2",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "embedding_gemma2",
-          "feature-extraction",
-          "embedding"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "black-forest-labs/flux-3-image-klein-comfy",
         "org": "black-forest-labs",
-        "trending_score": 684,
+        "trending_score": 707,
         "downloads": 393062,
-        "likes": 873,
+        "likes": 905,
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "tags": [
           "diffusion-single-file",
@@ -84,6 +67,23 @@
           "image-generation",
           "image-editing",
           "flux"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "google/embeddinggemma-2",
+        "org": "google",
+        "trending_score": 661,
+        "downloads": 167750,
+        "likes": 2700,
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "embedding_gemma2",
+          "feature-extraction",
+          "embedding"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 55390,
+        "stars": 56068,
         "stars_delta": 3860,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 217217,
+        "stars": 217431,
         "stars_delta": 1310,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "akitaonrails/ai-memory",
         "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "url": "https://github.com/akitaonrails/ai-memory",
-        "stars": 10878,
+        "stars": 11032,
         "stars_delta": 666,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "url": "https://github.com/Comfy-Org/ComfyUI",
-        "stars": 139191,
+        "stars": 139375,
         "stars_delta": 1011,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 76863,
+        "stars": 76971,
         "stars_delta": 564,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 330878,
+        "stars": 333184,
         "stars_delta": 229268,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 43051,
+        "stars": 43098,
         "stars_delta": 4774,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 33301,
+        "stars": 33456,
         "stars_delta": 16379,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 55390,
+        "stars": 56068,
         "stars_delta": 5742,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 43862,
+        "stars": 44054,
         "stars_delta": 14224,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -415,7 +415,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 104445,
+        "stars": 104547,
         "stars_delta": 23340,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 76707,
+        "stars": 76988,
         "stars_delta": 42036,
         "language": "Python",
         "language_color": "#3572A5"
@@ -435,7 +435,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 67248,
+        "stars": 67394,
         "stars_delta": 15429,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 51491,
+        "stars": 51563,
         "stars_delta": 27550,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 40356,
+        "stars": 40377,
         "stars_delta": 5498,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,13 +531,26 @@
         ],
         "url": "https://huggingface.co/papers/2610.14224",
         "categories": [],
-        "upvotes": 119,
+        "upvotes": 108,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 6479
+        "github_stars": 9746
       },
       {
         "rank": 2,
+        "title": "MOSS-Image Technical Report",
+        "authors": [
+          "MOSI. AI"
+        ],
+        "url": "https://huggingface.co/papers/2610.23374",
+        "categories": [],
+        "upvotes": 14,
+        "published": "2026-10-15",
+        "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
+        "github_stars": 905
+      },
+      {
+        "rank": 3,
         "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
         "authors": [
           "Yu Lin",
@@ -549,10 +562,10 @@
         "upvotes": 28,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 5791
+        "github_stars": 5970
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -567,7 +580,7 @@
         "github_stars": 111947
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Kronos: A Foundation Model for the Language of Financial Markets",
         "authors": [
           "Yu Shi",
@@ -579,22 +592,7 @@
         "upvotes": 60,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 41147
-      },
-      {
-        "rank": 5,
-        "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-        "authors": [
-          "Weijie Wang",
-          "Haomin Zhang",
-          "Ye Li"
-        ],
-        "url": "https://huggingface.co/papers/2610.20571",
-        "categories": [],
-        "upvotes": 347,
-        "published": "2026-10-13",
-        "github_repo": "https://github.com/ziplab/ATAS",
-        "github_stars": 280
+        "github_stars": 41348
       }
     ],
     "arxiv_recent": [
@@ -680,51 +678,51 @@
     "top": [
       {
         "rank": 1,
-        "id": 50150750,
-        "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-        "discussion_url": "https://news.ycombinator.com/item?id=50150750",
-        "site": "wjcl.com",
-        "points": 167,
-        "comments": 81,
-        "author": "DeepLogin",
-        "age": "1h ago"
+        "id": 50152307,
+        "title": "Wine Ported to OpenBSD",
+        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "discussion_url": "https://news.ycombinator.com/item?id=50152307",
+        "site": "marc.info",
+        "points": 178,
+        "comments": 40,
+        "author": "iamnothere",
+        "age": "2h ago"
       },
       {
         "rank": 2,
-        "id": 50149392,
-        "title": "Linux 7.3 Released",
-        "url": "https://lwn.net/Articles/1101143/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50149392",
-        "site": "lwn.net",
-        "points": 320,
-        "comments": 139,
-        "author": "cjd8",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
         "id": 50150434,
         "title": "Timestral: Mistral release time-series foundation models",
         "url": "https://mistral.ai/news/timestral/",
         "discussion_url": "https://news.ycombinator.com/item?id=50150434",
         "site": "mistral.ai",
-        "points": 114,
-        "comments": 21,
+        "points": 309,
+        "comments": 50,
         "author": "groar",
-        "age": "2h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50149392,
+        "title": "Linux 7.3",
+        "url": "https://lwn.net/Articles/1101143/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50149392",
+        "site": "lwn.net",
+        "points": 481,
+        "comments": 205,
+        "author": "cjd8",
+        "age": "8h ago"
       },
       {
         "rank": 4,
-        "id": 50151390,
-        "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-        "discussion_url": "https://news.ycombinator.com/item?id=50151390",
-        "site": "github.com",
-        "points": 25,
-        "comments": 5,
-        "author": "isuruwijesiri",
-        "age": "34m ago"
+        "id": 50150927,
+        "title": "Alternatives to Animal Testing Are Finally Taking Off",
+        "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+        "discussion_url": "https://news.ycombinator.com/item?id=50150927",
+        "site": "spectrum.ieee.org",
+        "points": 140,
+        "comments": 40,
+        "author": "rbanffy",
+        "age": "4h ago"
       },
       {
         "rank": 5,
@@ -733,10 +731,10 @@
         "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
         "discussion_url": "https://news.ycombinator.com/item?id=50150809",
         "site": "community.letsencrypt.org",
-        "points": 47,
-        "comments": 10,
+        "points": 142,
+        "comments": 42,
         "author": "gslin",
-        "age": "1h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -747,10 +745,10 @@
         "url": "https://news.ycombinator.com/item?id=50151036",
         "discussion_url": "https://news.ycombinator.com/item?id=50151036",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 9,
+        "points": 11,
+        "comments": 19,
         "author": "rzk",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
         "rank": 2,
@@ -762,7 +760,7 @@
         "points": 165,
         "comments": 114,
         "author": "nikanj",
-        "age": "4d ago"
+        "age": "5d ago"
       },
       {
         "rank": 3,
@@ -772,7 +770,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=50135854",
         "site": "news.ycombinator.com",
         "points": 15,
-        "comments": 12,
+        "comments": 13,
         "author": "okr",
         "age": "1d ago"
       },
@@ -784,9 +782,9 @@
         "discussion_url": "https://news.ycombinator.com/item?id=50148226",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 3,
+        "comments": 4,
         "author": "NicoJuicy",
-        "age": "8h ago"
+        "age": "11h ago"
       },
       {
         "rank": 5,
@@ -795,71 +793,71 @@
         "url": "https://news.ycombinator.com/item?id=50142714",
         "discussion_url": "https://news.ycombinator.com/item?id=50142714",
         "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 2,
+        "points": 10,
+        "comments": 3,
         "author": "0xmattf",
-        "age": "19h ago"
+        "age": "23h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50152541,
+        "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+        "url": "https://github.com/kividbio/kividb",
+        "discussion_url": "https://news.ycombinator.com/item?id=50152541",
+        "site": "github.com",
+        "points": 31,
+        "comments": 10,
+        "author": "murtazayusuf",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50151928,
+        "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "url": "https://100toolkit.com/blog/deslop-model/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50151928",
+        "site": "100toolkit.com",
+        "points": 98,
+        "comments": 77,
+        "author": "erikkannike",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 50145715,
         "title": "Show HN: WhatsApp MCP running free on Cloudflare",
         "url": "https://github.com/finereli/whatsapp-mcp",
         "discussion_url": "https://news.ycombinator.com/item?id=50145715",
         "site": "github.com",
-        "points": 120,
-        "comments": 66,
+        "points": 143,
+        "comments": 73,
         "author": "zoozla",
-        "age": "15h ago"
+        "age": "18h ago"
       },
       {
-        "rank": 2,
-        "id": 50141436,
-        "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-        "url": "https://ranet3.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50141436",
-        "site": "ranet3.com",
-        "points": 33,
-        "comments": 7,
-        "author": "StepBroBD",
-        "age": "22h ago"
+        "rank": 4,
+        "id": 50152241,
+        "title": "Show HN: Semantics to SQL in Rust, ~70µs per query",
+        "url": "https://github.com/stratasite/0sql",
+        "discussion_url": "https://news.ycombinator.com/item?id=50152241",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "allenjiji",
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 50140769,
         "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
         "url": "https://legendofhyrule.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50140769",
         "site": "legendofhyrule.com",
-        "points": 197,
-        "comments": 116,
+        "points": 207,
+        "comments": 122,
         "author": "jsomau",
-        "age": "23h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50131006,
-        "title": "Show HN: High-quality duck audio synthesizer",
-        "url": "https://celphase.github.io/duck-pond/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50131006",
-        "site": "celphase.github.io",
-        "points": 172,
-        "comments": 44,
-        "author": "celphase",
-        "age": "1d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50137950,
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "url": "https://sphinx-six-theta.vercel.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50137950",
-        "site": "sphinx-six-theta.vercel.app",
-        "points": 248,
-        "comments": 87,
-        "author": "critiquebrowser",
         "age": "1d ago"
       }
     ]
