@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-21T01:04:47Z",
+  "generated": "2026-10-21T06:42:47Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 1751,
+        "trending_score": 1803,
         "downloads": 27737,
-        "likes": 1955,
+        "likes": 2015,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "black-forest-labs/flux-3-image-klein-comfy",
         "org": "black-forest-labs",
-        "trending_score": 827,
+        "trending_score": 837,
         "downloads": 439528,
-        "likes": 1095,
+        "likes": 1108,
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "tags": [
           "diffusion-single-file",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "fishaudio/drama-3",
         "org": "fishaudio",
-        "trending_score": 699,
+        "trending_score": 651,
         "downloads": 13495,
-        "likes": 836,
+        "likes": 847,
         "url": "https://huggingface.co/fishaudio/drama-3",
         "tags": [
           "safetensors",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "meta-models/Muse-Spark-Open-816B-A42B",
         "org": "meta-models",
-        "trending_score": 552,
+        "trending_score": 556,
         "downloads": 2592,
-        "likes": 609,
+        "likes": 613,
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "google/embeddinggemma-2",
-        "org": "google",
+        "name": "black-forest-labs/flux-3-image-klein",
+        "org": "black-forest-labs",
         "trending_score": 511,
-        "downloads": 172474,
-        "likes": 2769,
-        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "downloads": 78897,
+        "likes": 573,
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
         "tags": [
-          "transformers",
+          "diffusers",
           "safetensors",
-          "embedding_gemma2",
-          "feature-extraction",
-          "embedding"
+          "image-generation",
+          "image-editing",
+          "flux"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 60610,
+        "stars": 61377,
         "stars_delta": 3861,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 34245,
+        "stars": 34700,
         "stars_delta": 1712,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 99754,
+        "stars": 100136,
         "stars_delta": 1565,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 169683,
+        "stars": 170236,
         "stars_delta": 1208,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -351,7 +351,7 @@
         "name": "Comfy-Org/ComfyUI",
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
         "url": "https://github.com/Comfy-Org/ComfyUI",
-        "stars": 140776,
+        "stars": 141004,
         "stars_delta": 1206,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 348114,
+        "stars": 350758,
         "stars_delta": 157631,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "MadsLorentzen/ai-job-search",
         "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
         "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "stars": 60610,
+        "stars": 61377,
         "stars_delta": 12848,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 43419,
+        "stars": 43467,
         "stars_delta": 5650,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "mksglu/context-mode",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "url": "https://github.com/mksglu/context-mode",
-        "stars": 31365,
+        "stars": 31454,
         "stars_delta": 3556,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "NationalSecurityAgency/ghidra",
         "description": "Ghidra is a software reverse engineering (SRE) framework",
         "url": "https://github.com/NationalSecurityAgency/ghidra",
-        "stars": 92158,
+        "stars": 92300,
         "stars_delta": 6184,
         "language": "Java",
         "language_color": "#b07219"
@@ -415,7 +415,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 78990,
+        "stars": 79341,
         "stars_delta": 45470,
         "language": "Python",
         "language_color": "#3572A5"
@@ -425,7 +425,7 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 105252,
+        "stars": 105342,
         "stars_delta": 24372,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 52033,
+        "stars": 52107,
         "stars_delta": 28261,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 68512,
+        "stars": 68680,
         "stars_delta": 16644,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "anthropics/financial-services",
         "description": "",
         "url": "https://github.com/anthropics/financial-services",
-        "stars": 40557,
+        "stars": 40582,
         "stars_delta": 5457,
         "language": "Python",
         "language_color": "#3572A5"
@@ -534,7 +534,7 @@
         "upvotes": 115,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 13969
+        "github_stars": 15448
       },
       {
         "rank": 2,
@@ -559,28 +559,13 @@
         ],
         "url": "https://huggingface.co/papers/2610.23374",
         "categories": [],
-        "upvotes": 74,
+        "upvotes": 77,
         "published": "2026-10-15",
         "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
-        "github_stars": 1127
+        "github_stars": 1179
       },
       {
         "rank": 4,
-        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-        "authors": [
-          "Yu Lin",
-          "Yiming Wang",
-          "Runyuan Cai"
-        ],
-        "url": "https://huggingface.co/papers/2609.18063",
-        "categories": [],
-        "upvotes": 29,
-        "published": "2026-09-15",
-        "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 6211
-      },
-      {
-        "rank": 5,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -592,87 +577,100 @@
         "upvotes": 153,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 112281
+        "github_stars": 112393
+      },
+      {
+        "rank": 5,
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "authors": [
+          "Yu Lin",
+          "Yiming Wang",
+          "Runyuan Cai"
+        ],
+        "url": "https://huggingface.co/papers/2609.18063",
+        "categories": [],
+        "upvotes": 29,
+        "published": "2026-09-15",
+        "github_repo": "https://github.com/Edge0-AI/edge0",
+        "github_stars": 5942
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Train An Imaginative Agent",
+        "title": "Adaptive Multi-Token Prediction: How far should we go?",
         "authors": [
-          "Jiaxin Ge",
-          "Junyi Zhang",
-          "Tianning Chai"
+          "Emile Anand",
+          "Mohammed Rehan Parwani",
+          "Xinyuan Cao"
         ],
-        "url": "https://arxiv.org/abs/2610.26845",
+        "url": "https://arxiv.org/abs/2610.28619",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.LG",
+          "eess.SY"
         ],
         "upvotes": null,
-        "published": "2026-10-20"
+        "published": "2026-10-21"
       },
       {
         "rank": 2,
-        "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+        "title": "Semantic Observability for Autonomous Systems Diagnostics",
         "authors": [
-          "Heejeong Nam",
-          "Divyat Mahajan",
-          "Quentin Le Lidec"
+          "Jitendra Solanki",
+          "Anand Todkar",
+          "Ziran Min"
         ],
-        "url": "https://arxiv.org/abs/2610.26844",
+        "url": "https://arxiv.org/abs/2610.28611",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-10-20"
+        "published": "2026-10-21"
       },
       {
         "rank": 3,
-        "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+        "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
         "authors": [
-          "Ke Zhang",
-          "Sahchit Chundur",
-          "Jerry Peprah Owusu"
+          "Maoyuan Li",
+          "Haoyuan Li",
+          "Zhongsheng Wang"
         ],
-        "url": "https://arxiv.org/abs/2610.26836",
+        "url": "https://arxiv.org/abs/2610.28604",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-10-20"
+        "published": "2026-10-21"
       },
       {
         "rank": 4,
-        "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+        "title": "Evolving Agent Interfaces",
         "authors": [
-          "Matt Turk",
-          "Brandon L. Neel",
-          "Diana M. Lopez"
+          "Saaket Agashe",
+          "Yuzhe Yang",
+          "Gonzalo Gonzalez-Pumariega"
         ],
-        "url": "https://arxiv.org/abs/2610.26829",
+        "url": "https://arxiv.org/abs/2610.28601",
         "categories": [
-          "cs.AI",
-          "cs.LG"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-10-20"
+        "published": "2026-10-21"
       },
       {
         "rank": 5,
-        "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+        "title": "What Do RTL Repair Benchmarks Actually Measure?",
         "authors": [
-          "Zhaoyang Wang",
-          "Qianhui Wu",
-          "Haorui Wang"
+          "Yeyin Eva Zhu",
+          "Rishabh Ranawat"
         ],
-        "url": "https://arxiv.org/abs/2610.26828",
+        "url": "https://arxiv.org/abs/2610.28595",
         "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-10-20"
+        "published": "2026-10-21"
       }
     ]
   },
@@ -680,92 +678,104 @@
     "top": [
       {
         "rank": 1,
-        "id": 50170593,
-        "title": "SimCity, but with Permits",
-        "url": "https://permit.petercai.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50170593",
-        "site": "permit.petercai.com",
-        "points": 531,
-        "comments": 279,
-        "author": "pcai",
-        "age": "6h ago"
+        "id": 50175070,
+        "title": "The Future of CSS",
+        "url": "https://www.joshwcomeau.com/css/interop-2027/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50175070",
+        "site": "joshwcomeau.com",
+        "points": 212,
+        "comments": 79,
+        "author": "soheilpro",
+        "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 50173487,
-        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50173487",
-        "site": "krebsonsecurity.com",
-        "points": 80,
-        "comments": 19,
-        "author": "Bender",
-        "age": "2h ago"
+        "id": 50170593,
+        "title": "Show HN: SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50170593",
+        "site": "permit.petercai.com",
+        "points": 706,
+        "comments": 355,
+        "author": "pcai",
+        "age": "12h ago"
       },
       {
         "rank": 3,
-        "id": 50163277,
-        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "discussion_url": "https://news.ycombinator.com/item?id=50163277",
-        "site": "github.com",
-        "points": 2121,
-        "comments": 828,
-        "author": "ggcr",
-        "age": "15h ago"
+        "id": 50176077,
+        "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+        "url": "https://jackalsyn.com/posts/php-up-2026.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50176077",
+        "site": "jackalsyn.com",
+        "points": 151,
+        "comments": 43,
+        "author": "rfarley04",
+        "age": "2h ago"
       },
       {
         "rank": 4,
-        "id": 50168396,
-        "title": "Voxtral 3",
-        "url": "https://mistral.ai/news/voxtral-3/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50168396",
-        "site": "mistral.ai",
-        "points": 515,
-        "comments": 140,
-        "author": "ilreb",
-        "age": "9h ago"
+        "id": 50176298,
+        "title": "Battlezone Online: BZFlag in the Browser",
+        "url": "https://github.com/timriker/bzo",
+        "discussion_url": "https://news.ycombinator.com/item?id=50176298",
+        "site": "github.com",
+        "points": 18,
+        "comments": 10,
+        "author": "indigodaddy",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 50173891,
-        "title": "The Other Epidemic: Trying to get off benzodiazepines",
-        "url": "https://www.thebeliever.net/the-other-epidemic/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50173891",
-        "site": "thebeliever.net",
-        "points": 46,
-        "comments": 25,
-        "author": "gaplong",
-        "age": "2h ago"
+        "id": 50175185,
+        "title": "In Hilbert space, all things are quantumly possible",
+        "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50175185",
+        "site": "quantamagazine.org",
+        "points": 63,
+        "comments": 29,
+        "author": "unprovable",
+        "age": "4h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50176420,
+        "title": "What should I use instead of Firefox on Android?",
+        "url": "https://news.ycombinator.com/item?id=50176420",
+        "discussion_url": "https://news.ycombinator.com/item?id=50176420",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 3,
+        "author": "trystrawberries",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 50151036,
         "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
         "url": "https://news.ycombinator.com/item?id=50151036",
         "discussion_url": "https://news.ycombinator.com/item?id=50151036",
         "site": "news.ycombinator.com",
-        "points": 586,
-        "comments": 691,
+        "points": 590,
+        "comments": 704,
         "author": "rzk",
         "age": "1d ago"
       },
       {
-        "rank": 2,
-        "id": 50174174,
-        "title": "AGI-S – an AI platform I'm building",
-        "url": "https://news.ycombinator.com/item?id=50174174",
-        "discussion_url": "https://news.ycombinator.com/item?id=50174174",
+        "rank": 3,
+        "id": 50175857,
+        "title": "Ask HN: Is Wikipedia going to be obsolete soon?",
+        "url": "https://news.ycombinator.com/item?id=50175857",
+        "discussion_url": "https://news.ycombinator.com/item?id=50175857",
         "site": "news.ycombinator.com",
         "points": 2,
-        "comments": 1,
-        "author": "smitsjoshi",
-        "age": "1h ago"
+        "comments": 2,
+        "author": "piratesAndSons",
+        "age": "2h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 50168795,
         "title": "Ask HN: My Gemini bill shot up suddenly to 2500 USD in one day",
         "url": "https://news.ycombinator.com/item?id=50168795",
@@ -774,19 +784,7 @@
         "points": 8,
         "comments": 3,
         "author": "kinj28",
-        "age": "8h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50170094,
-        "title": "Ask HN: Time to read those programming books?",
-        "url": "https://news.ycombinator.com/item?id=50170094",
-        "discussion_url": "https://news.ycombinator.com/item?id=50170094",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 8,
-        "author": "blinkbat",
-        "age": "7h ago"
+        "age": "14h ago"
       },
       {
         "rank": 5,
@@ -798,69 +796,69 @@
         "points": 22,
         "comments": 11,
         "author": "Stitch4223",
-        "age": "23h ago"
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50170593,
+        "title": "Show HN: SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50170593",
+        "site": "permit.petercai.com",
+        "points": 706,
+        "comments": 355,
+        "author": "pcai",
+        "age": "12h ago"
+      },
+      {
+        "rank": 2,
         "id": 50156779,
         "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
         "url": "https://dovepass.com",
         "discussion_url": "https://news.ycombinator.com/item?id=50156779",
         "site": "dovepass.com",
-        "points": 10,
-        "comments": 2,
+        "points": 17,
+        "comments": 4,
         "author": "nimitmehra",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 50176178,
+        "title": "Show HN: Inca – a free, open-source 3D app that works like Maya 2020",
+        "url": "https://incacad.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50176178",
+        "site": "incacad.com",
+        "points": 2,
+        "comments": 0,
+        "author": "v3ai",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 50161144,
         "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
         "url": "https://rouler.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=50161144",
         "site": "rouler.io",
-        "points": 20,
+        "points": 23,
         "comments": 6,
         "author": "brndnbuilds",
-        "age": "21h ago"
+        "age": "1d ago"
       },
       {
-        "rank": 3,
-        "id": 50174260,
-        "title": "Show HN: Wellbody [Body Health Tamagotchi]",
-        "url": "https://wellbody.me",
-        "discussion_url": "https://news.ycombinator.com/item?id=50174260",
-        "site": "wellbody.me",
-        "points": 2,
-        "comments": 1,
-        "author": "RAGcontent",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "id": 50167604,
         "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
         "url": "https://github.com/AbdullahAlhariri/penmentor",
         "discussion_url": "https://news.ycombinator.com/item?id=50167604",
         "site": "github.com",
-        "points": 54,
-        "comments": 6,
+        "points": 60,
+        "comments": 7,
         "author": "abdullahalharir",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50173734,
-        "title": "Show HN: Visual cdecl – edit a C declaration as English, code, or a graph",
-        "url": "https://github.avestura.dev/visual-cdecl/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50173734",
-        "site": "github.avestura.dev",
-        "points": 2,
-        "comments": 0,
-        "author": "avestura",
-        "age": "2h ago"
+        "age": "15h ago"
       }
     ]
   }
