@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-21T23:53:06Z",
+  "generated": "2026-10-22T02:14:01Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 1906,
+        "trending_score": 1919,
         "downloads": 42122,
-        "likes": 2160,
+        "likes": 2174,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "black-forest-labs/flux-3-image-klein-comfy",
         "org": "black-forest-labs",
-        "trending_score": 888,
+        "trending_score": 893,
         "downloads": 490447,
-        "likes": 1186,
+        "likes": 1194,
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
         "tags": [
           "diffusion-single-file",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "meta-models/Muse-Spark-Open-816B-A42B",
         "org": "meta-models",
-        "trending_score": 576,
+        "trending_score": 578,
         "downloads": 2891,
-        "likes": 636,
+        "likes": 638,
         "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
         "tags": [
           "transformers",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "fishaudio/drama-3",
-        "org": "fishaudio",
-        "trending_score": 542,
-        "downloads": 15274,
-        "likes": 887,
-        "url": "https://huggingface.co/fishaudio/drama-3",
-        "tags": [
-          "safetensors",
-          "fish_omni",
-          "fish-audio",
-          "text-to-speech",
-          "multi-speaker"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "black-forest-labs/flux-3-image-klein",
         "org": "black-forest-labs",
-        "trending_score": 532,
+        "trending_score": 533,
         "downloads": 92604,
-        "likes": 599,
+        "likes": 602,
         "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
         "tags": [
           "diffusers",
@@ -84,6 +67,23 @@
           "image-generation",
           "image-editing",
           "flux"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "fishaudio/drama-3",
+        "org": "fishaudio",
+        "trending_score": 532,
+        "downloads": 15274,
+        "likes": 889,
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "tags": [
+          "safetensors",
+          "fish_omni",
+          "fish-audio",
+          "text-to-speech",
+          "multi-speaker"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 36391,
-        "stars_delta": 1997,
+        "stars": 36653,
+        "stars_delta": 2012,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -321,8 +321,8 @@
         "name": "vllm-project/vllm",
         "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "url": "https://github.com/vllm-project/vllm",
-        "stars": 94853,
-        "stars_delta": 439,
+        "stars": 94909,
+        "stars_delta": 441,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,8 +331,8 @@
         "name": "stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 101204,
-        "stars_delta": 1543,
+        "stars": 101389,
+        "stars_delta": 1541,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "headroomlabs-ai/headroom",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/headroomlabs-ai/headroom",
-        "stars": 77239,
-        "stars_delta": 477,
+        "stars": 77292,
+        "stars_delta": 474,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "DietrichGebert/ponytail",
         "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "stars": 171575,
-        "stars_delta": 2051,
+        "stars": 171764,
+        "stars_delta": 2079,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       }
@@ -363,8 +363,8 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 357583,
-        "stars_delta": 157631,
+        "stars": 358334,
+        "stars_delta": 129417,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "anthropics/claude-plugins-official",
         "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
         "url": "https://github.com/anthropics/claude-plugins-official",
-        "stars": 43632,
-        "stars_delta": 5650,
+        "stars": 43660,
+        "stars_delta": 5703,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -383,8 +383,8 @@
         "name": "K-Dense-AI/scientific-agent-skills",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 53576,
-        "stars_delta": 4549,
+        "stars": 53600,
+        "stars_delta": 4719,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -393,8 +393,8 @@
         "name": "ruvnet/ruflo",
         "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
         "url": "https://github.com/ruvnet/ruflo",
-        "stars": 78210,
-        "stars_delta": 3143,
+        "stars": 78227,
+        "stars_delta": 3590,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "android/skills",
         "description": "",
         "url": "https://github.com/android/skills",
-        "stars": 9147,
-        "stars_delta": 1255,
+        "stars": 9156,
+        "stars_delta": 1332,
         "language": "Kotlin",
         "language_color": "#A97BFF"
       }
@@ -415,8 +415,8 @@
         "name": "paperclipai/paperclip",
         "description": "The open-source app everyone uses to manage agents at work",
         "url": "https://github.com/paperclipai/paperclip",
-        "stars": 105670,
-        "stars_delta": 24372,
+        "stars": 105718,
+        "stars_delta": 24756,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -425,8 +425,8 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 80372,
-        "stars_delta": 45470,
+        "stars": 80517,
+        "stars_delta": 46590,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -435,8 +435,8 @@
         "name": "vectorize-io/hindsight",
         "description": "Hindsight: Agent Memory That Learns",
         "url": "https://github.com/vectorize-io/hindsight",
-        "stars": 52361,
-        "stars_delta": 28261,
+        "stars": 52397,
+        "stars_delta": 28488,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -445,8 +445,8 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 69195,
-        "stars_delta": 16644,
+        "stars": 69259,
+        "stars_delta": 17177,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "NVIDIA/OpenShell",
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "url": "https://github.com/NVIDIA/OpenShell",
-        "stars": 17009,
-        "stars_delta": 8173,
+        "stars": 17024,
+        "stars_delta": 8303,
         "language": "Rust",
         "language_color": "#dea584"
       }
@@ -534,7 +534,7 @@
         "upvotes": 117,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 16707
+        "github_stars": 17240
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 62,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 42592
+        "github_stars": 42816
       },
       {
         "rank": 3,
@@ -559,7 +559,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.23374",
         "categories": [],
-        "upvotes": 88,
+        "upvotes": 89,
         "published": "2026-10-15",
         "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
         "github_stars": 1246
@@ -678,68 +678,80 @@
     "top": [
       {
         "rank": 1,
+        "id": 50189232,
+        "title": "mitmproxy adds --emudhra option",
+        "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "discussion_url": "https://news.ycombinator.com/item?id=50189232",
+        "site": "github.com",
+        "points": 208,
+        "comments": 52,
+        "author": "ahlCVA",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 50188228,
         "title": "Railway Security Disclosure",
         "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
         "discussion_url": "https://news.ycombinator.com/item?id=50188228",
         "site": "blog.railway.com",
-        "points": 221,
-        "comments": 99,
+        "points": 320,
+        "comments": 158,
         "author": "passenger",
-        "age": "1h ago"
+        "age": "4h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "id": 50188948,
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "url": "https://eliastaylor.com/noexploit/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50188948",
+        "site": "eliastaylor.com",
+        "points": 166,
+        "comments": 79,
+        "author": "zkldi",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 50182987,
         "title": "Today's PHP security release, and how we're strengthening security",
         "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
         "discussion_url": "https://news.ycombinator.com/item?id=50182987",
         "site": "thephp.foundation",
-        "points": 637,
-        "comments": 315,
+        "points": 685,
+        "comments": 336,
         "author": "ejohnso49",
-        "age": "8h ago"
+        "age": "10h ago"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "id": 50185869,
         "title": "GitLab Critical Patch Release",
         "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
         "discussion_url": "https://news.ycombinator.com/item?id=50185869",
         "site": "docs.gitlab.com",
-        "points": 214,
-        "comments": 51,
+        "points": 254,
+        "comments": 63,
         "author": "artooro",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50181114,
-        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50181114",
-        "site": "safedep.io",
-        "points": 410,
-        "comments": 129,
-        "author": "abhisek",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50186010,
-        "title": "Google's Rust Style Guide",
-        "url": "https://google.github.io/styleguide/rustguide.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=50186010",
-        "site": "google.github.io",
-        "points": 160,
-        "comments": 101,
-        "author": "kaycebasques",
-        "age": "4h ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50187813,
+        "title": "Toyota Releases Video of Wheelchair-Alternative Mobility Concepts in Action",
+        "url": "https://news.ycombinator.com/item?id=50187813",
+        "discussion_url": "https://news.ycombinator.com/item?id=50187813",
+        "site": "news.ycombinator.com",
+        "points": 10,
+        "comments": 2,
+        "author": "Mobius01",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
         "id": 50188338,
         "title": "Ask HN: How does your help desk verify someone before resetting MFA?",
         "url": "https://news.ycombinator.com/item?id=50188338",
@@ -748,105 +760,93 @@
         "points": 4,
         "comments": 0,
         "author": "ovudus",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50187813,
-        "title": "Toyota Releases Video of Wheelchair-Alternative Mobility Concepts in Action",
-        "url": "https://news.ycombinator.com/item?id=50187813",
-        "discussion_url": "https://news.ycombinator.com/item?id=50187813",
-        "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 1,
-        "author": "Mobius01",
-        "age": "2h ago"
+        "age": "4h ago"
       },
       {
         "rank": 3,
+        "id": 50188900,
+        "title": "Firefox Auto-Run on Windows",
+        "url": "https://news.ycombinator.com/item?id=50188900",
+        "discussion_url": "https://news.ycombinator.com/item?id=50188900",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 3,
+        "author": "BubbleRings",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
         "id": 50188865,
         "title": "Ask HN: Are we giving away our civilization?",
         "url": "https://news.ycombinator.com/item?id=50188865",
         "discussion_url": "https://news.ycombinator.com/item?id=50188865",
         "site": "news.ycombinator.com",
-        "points": 6,
+        "points": 8,
         "comments": 4,
         "author": "bigwheels",
-        "age": "52m ago"
-      },
-      {
-        "rank": 4,
-        "id": 50187389,
-        "title": "AMA – \"Final Fantasy: The Spirits Within\", milestone in CGI, is 25 years old",
-        "url": "https://news.ycombinator.com/item?id=50187389",
-        "discussion_url": "https://news.ycombinator.com/item?id=50187389",
-        "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 3,
-        "author": "kaveh808",
         "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50183597,
-        "title": "Ask HN: How can you retrain in a field requiring expensive equipment?",
-        "url": "https://news.ycombinator.com/item?id=50183597",
-        "discussion_url": "https://news.ycombinator.com/item?id=50183597",
+        "id": 50167754,
+        "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
+        "url": "https://news.ycombinator.com/item?id=50167754",
+        "discussion_url": "https://news.ycombinator.com/item?id=50167754",
         "site": "news.ycombinator.com",
-        "points": 11,
-        "comments": 8,
-        "author": "masterchief166",
-        "age": "7h ago"
+        "points": 270,
+        "comments": 60,
+        "author": "petecooper",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50189175,
+        "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+        "url": "https://bloffy.co/en",
+        "discussion_url": "https://news.ycombinator.com/item?id=50189175",
+        "site": "bloffy.co",
+        "points": 13,
+        "comments": 1,
+        "author": "textlanes33",
+        "age": "2h ago"
+      },
+      {
+        "rank": 2,
         "id": 50183892,
         "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
         "url": "https://github.com/omnara-ai/omnara",
         "discussion_url": "https://news.ycombinator.com/item?id=50183892",
         "site": "github.com",
-        "points": 16,
-        "comments": 6,
+        "points": 23,
+        "comments": 9,
         "author": "kmansm27",
-        "age": "7h ago"
+        "age": "9h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 50180039,
         "title": "Show HN: Sumi.css – CSS Framework",
         "url": "https://github.com/vladocar/Sumi.css",
         "discussion_url": "https://news.ycombinator.com/item?id=50180039",
         "site": "github.com",
-        "points": 71,
+        "points": 74,
         "comments": 18,
         "author": "bepero",
-        "age": "11h ago"
+        "age": "13h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 50155099,
         "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
         "url": "https://demo.ulda.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=50155099",
         "site": "demo.ulda.io",
-        "points": 18,
+        "points": 19,
         "comments": 4,
         "author": "nonsence",
         "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50187380,
-        "title": "Show HN: Overdesigned Simple Solitaire",
-        "url": "https://defaultsolitaire.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50187380",
-        "site": "defaultsolitaire.app",
-        "points": 4,
-        "comments": 0,
-        "author": "fsloth",
-        "age": "3h ago"
       },
       {
         "rank": 5,
@@ -855,8 +855,8 @@
         "url": "https://permit.petercai.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50170593",
         "site": "permit.petercai.com",
-        "points": 906,
-        "comments": 408,
+        "points": 907,
+        "comments": 409,
         "author": "pcai",
         "age": "1d ago"
       }
