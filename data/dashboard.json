@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-26T05:32:05Z",
+  "generated": "2026-10-26T11:44:56Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 1172,
-        "downloads": 85275,
-        "likes": 3021,
+        "trending_score": 1101,
+        "downloads": 95889,
+        "likes": 3079,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "RecursiveSI/flint",
         "org": "RecursiveSI",
-        "trending_score": 834,
-        "downloads": 6444,
-        "likes": 866,
+        "trending_score": 851,
+        "downloads": 8470,
+        "likes": 884,
         "url": "https://huggingface.co/RecursiveSI/flint",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "black-forest-labs/flux-3-image-klein-comfy",
-        "org": "black-forest-labs",
-        "trending_score": 496,
-        "downloads": 660874,
-        "likes": 1614,
-        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-        "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "image-generation",
-          "image-editing",
-          "flux"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "XHToken/Spark-X2.6-4B",
         "org": "XHToken",
-        "trending_score": 469,
-        "downloads": 3488,
-        "likes": 536,
+        "trending_score": 514,
+        "downloads": 4726,
+        "likes": 595,
         "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
         "tags": [
           "transformers",
@@ -71,12 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "Nanbeige/Nanbeige4.3-33B",
         "org": "Nanbeige",
-        "trending_score": 428,
-        "downloads": 0,
-        "likes": 430,
+        "trending_score": 512,
+        "downloads": 2787,
+        "likes": 514,
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
         "tags": [
           "transformers",
@@ -84,6 +67,23 @@
           "llama",
           "text-generation",
           "llm"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "black-forest-labs/flux-3-image-klein-comfy",
+        "org": "black-forest-labs",
+        "trending_score": 479,
+        "downloads": 700652,
+        "likes": 1643,
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "image-generation",
+          "image-editing",
+          "flux"
         ],
         "rank_change": null
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "makecindy/cindy",
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "url": "https://github.com/makecindy/cindy",
-        "stars": 5198,
-        "stars_delta": 675,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 2,
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 34315,
-        "stars_delta": 1317,
+        "stars": 35036,
+        "stars_delta": 2235,
         "language": "CSS",
         "language_color": "#663399"
       },
       {
-        "rank": 3,
-        "name": "debpalash/VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 87252,
-        "stars_delta": 1592,
+        "rank": 2,
+        "name": "TauricResearch/TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "stars": 115255,
+        "stars_delta": 1376,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
+        "rank": 3,
+        "name": "JetBrains/thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "stars": 2281,
+        "stars_delta": 1156,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 4,
-        "name": "pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "url": "https://github.com/pbakaus/impeccable",
-        "stars": 87989,
-        "stars_delta": 1092,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "makecindy/cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "url": "https://github.com/makecindy/cindy",
+        "stars": 5674,
+        "stars_delta": 1268,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "pollen-robotics/microduck",
-        "description": "A Tiny biped duck robot 🦆",
-        "url": "https://github.com/pollen-robotics/microduck",
-        "stars": 11853,
-        "stars_delta": 647,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "url": "https://github.com/affaan-m/ECC",
+        "stars": 289218,
+        "stars_delta": 853,
+        "language": "JavaScript",
+        "language_color": "#f1e05a"
       }
     ],
     "weekly": [
@@ -363,37 +363,37 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 47270,
+        "stars": 47794,
         "stars_delta": 15072,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 2,
-        "name": "ruvnet/ruflo",
-        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
-        "url": "https://github.com/ruvnet/ruflo",
-        "stars": 79326,
-        "stars_delta": 2987,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 33039,
+        "stars": 33107,
         "stars_delta": 2790,
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "ruvnet/ruflo",
+        "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
+        "url": "https://github.com/ruvnet/ruflo",
+        "stars": 79393,
+        "stars_delta": 2987,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 4,
         "name": "anomalyco/opencode",
         "description": "The open source coding agent.",
         "url": "https://github.com/anomalyco/opencode",
-        "stars": 221619,
+        "stars": 221733,
         "stars_delta": 5921,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "stablyai/orca",
         "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
         "url": "https://github.com/stablyai/orca",
-        "stars": 106094,
+        "stars": 106489,
         "stars_delta": 9622,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,48 +415,48 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 72335,
+        "stars": 72611,
         "stars_delta": 19211,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "debpalash/VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 87252,
-        "stars_delta": 50977,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 47270,
+        "stars": 47794,
         "stars_delta": 24611,
         "language": "JavaScript",
         "language_color": "#f1e05a"
+      },
+      {
+        "rank": 3,
+        "name": "debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "stars": 87894,
+        "stars_delta": 50977,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 4,
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 33039,
+        "stars": 33107,
         "stars_delta": 7387,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 5,
-        "name": "paperclipai/paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "url": "https://github.com/paperclipai/paperclip",
-        "stars": 107370,
-        "stars_delta": 24081,
+        "name": "mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "url": "https://github.com/mksglu/context-mode",
+        "stars": 32356,
+        "stars_delta": 8324,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -589,7 +589,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.23374",
         "categories": [],
-        "upvotes": 103,
+        "upvotes": 104,
         "published": "2026-10-15",
         "github_repo": "https://github.com/OpenMOSS/MOSS-Image",
         "github_stars": 1855
@@ -681,51 +681,51 @@
     "top": [
       {
         "rank": 1,
-        "id": 50238884,
-        "title": "US Wages Share of GDI at 75 Year Low",
-        "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
-        "discussion_url": "https://news.ycombinator.com/item?id=50238884",
-        "site": "fred.stlouisfed.org",
-        "points": 93,
-        "comments": 35,
-        "author": "omgwtfbyobbq",
-        "age": "1h ago"
+        "id": 50240922,
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "url": "https://blocks.manifold3d.ch/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50240922",
+        "site": "blocks.manifold3d.ch",
+        "points": 182,
+        "comments": 68,
+        "author": "theanonymousone",
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 50215997,
+        "title": "Birdwatching rewires the brain and slows cognitive decline",
+        "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+        "discussion_url": "https://news.ycombinator.com/item?id=50215997",
+        "site": "bbc.com",
+        "points": 81,
+        "comments": 30,
+        "author": "cisc",
+        "age": "2d ago"
+      },
+      {
+        "rank": 3,
         "id": 50238708,
         "title": "Show HN: TitleArt – Make text like it's 1997",
         "url": "https://titleart.dvy.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=50238708",
         "site": "titleart.dvy.io",
-        "points": 61,
-        "comments": 11,
+        "points": 267,
+        "comments": 42,
         "author": "davidbarker",
-        "age": "2h ago"
+        "age": "8h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 50238739,
         "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
         "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
         "discussion_url": "https://news.ycombinator.com/item?id=50238739",
         "site": "github.com",
-        "points": 34,
-        "comments": 5,
+        "points": 159,
+        "comments": 49,
         "author": "vardhan1237",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50234474,
-        "title": "Dolly Parton's Imagination Library",
-        "url": "https://imaginationlibrary.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50234474",
-        "site": "imaginationlibrary.com",
-        "points": 472,
-        "comments": 87,
-        "author": "jumploops",
-        "age": "11h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
@@ -734,10 +734,10 @@
         "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
         "discussion_url": "https://news.ycombinator.com/item?id=50238763",
         "site": "exhibits.stanford.edu",
-        "points": 33,
-        "comments": 16,
+        "points": 144,
+        "comments": 72,
         "author": "Austin_Conlon",
-        "age": "2h ago"
+        "age": "8h ago"
       }
     ],
     "ask": [
@@ -748,10 +748,10 @@
         "url": "https://news.ycombinator.com/item?id=50237680",
         "discussion_url": "https://news.ycombinator.com/item?id=50237680",
         "site": "news.ycombinator.com",
-        "points": 17,
-        "comments": 3,
+        "points": 24,
+        "comments": 8,
         "author": "olalonde",
-        "age": "4h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
@@ -760,8 +760,8 @@
         "url": "https://news.ycombinator.com/item?id=50200997",
         "discussion_url": "https://news.ycombinator.com/item?id=50200997",
         "site": "news.ycombinator.com",
-        "points": 671,
-        "comments": 743,
+        "points": 674,
+        "comments": 745,
         "author": "ex-aws-dude",
         "age": "3d ago"
       },
@@ -772,10 +772,10 @@
         "url": "https://news.ycombinator.com/item?id=50193416",
         "discussion_url": "https://news.ycombinator.com/item?id=50193416",
         "site": "news.ycombinator.com",
-        "points": 743,
+        "points": 747,
         "comments": 268,
         "author": "petecooper",
-        "age": "3d ago"
+        "age": "4d ago"
       },
       {
         "rank": 4,
@@ -784,10 +784,10 @@
         "url": "https://news.ycombinator.com/item?id=50235794",
         "discussion_url": "https://news.ycombinator.com/item?id=50235794",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 5,
         "comments": 4,
         "author": "easterncalculus",
-        "age": "8h ago"
+        "age": "15h ago"
       },
       {
         "rank": 5,
@@ -796,10 +796,10 @@
         "url": "https://news.ycombinator.com/item?id=50234035",
         "discussion_url": "https://news.ycombinator.com/item?id=50234035",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 2,
         "author": "realaccfromPL",
-        "age": "11h ago"
+        "age": "18h ago"
       }
     ],
     "show": [
@@ -810,10 +810,10 @@
         "url": "https://titleart.dvy.io/",
         "discussion_url": "https://news.ycombinator.com/item?id=50238708",
         "site": "titleart.dvy.io",
-        "points": 63,
-        "comments": 11,
+        "points": 267,
+        "comments": 42,
         "author": "davidbarker",
-        "age": "2h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -822,46 +822,46 @@
         "url": "https://github.com/notaroomba/keybytes",
         "discussion_url": "https://news.ycombinator.com/item?id=50228115",
         "site": "github.com",
-        "points": 56,
-        "comments": 16,
+        "points": 180,
+        "comments": 60,
         "author": "NotARoomba",
         "age": "1d ago"
       },
       {
         "rank": 3,
-        "id": 50239041,
-        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-        "url": "https://proc-cli.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50239041",
-        "site": "proc-cli.com",
-        "points": 3,
-        "comments": 0,
-        "author": "yazeedaloyoun",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
         "id": 50227041,
         "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
         "url": "https://adrs.systems",
         "discussion_url": "https://news.ycombinator.com/item?id=50227041",
         "site": "adrs.systems",
-        "points": 20,
-        "comments": 14,
+        "points": 49,
+        "comments": 30,
         "author": "lumbroso",
         "age": "1d ago"
       },
       {
+        "rank": 4,
+        "id": 50239041,
+        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+        "url": "https://proc-cli.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50239041",
+        "site": "proc-cli.com",
+        "points": 14,
+        "comments": 2,
+        "author": "yazeedaloyoun",
+        "age": "7h ago"
+      },
+      {
         "rank": 5,
-        "id": 50239004,
-        "title": "Show HN: How religions evolved? Charts, Maps, Citations",
-        "url": "https://howitevolved.com/chart/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50239004",
-        "site": "howitevolved.com",
-        "points": 2,
-        "comments": 0,
-        "author": "silly073",
-        "age": "1h ago"
+        "id": 50237813,
+        "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+        "url": "https://freehire.me/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50237813",
+        "site": "freehire.me",
+        "points": 21,
+        "comments": 1,
+        "author": "i_strelov",
+        "age": "10h ago"
       }
     ]
   }
