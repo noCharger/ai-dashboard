@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-29T17:10:34Z",
+  "generated": "2026-10-29T22:08:38Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 870,
+        "trending_score": 878,
         "downloads": 131062,
-        "likes": 3721,
+        "likes": 3756,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Nanbeige/Nanbeige4.3-33B",
         "org": "Nanbeige",
-        "trending_score": 747,
+        "trending_score": 754,
         "downloads": 9655,
-        "likes": 759,
+        "likes": 769,
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "RecursiveSI/flint",
         "org": "RecursiveSI",
-        "trending_score": 559,
+        "trending_score": 514,
         "downloads": 16598,
-        "likes": 1232,
+        "likes": 1237,
         "url": "https://huggingface.co/RecursiveSI/flint",
         "tags": [
           "transformers",
@@ -55,11 +55,28 @@
       },
       {
         "rank": 4,
+        "name": "LiquidAI/LFM3-1.7B",
+        "org": "LiquidAI",
+        "trending_score": 463,
+        "downloads": 15885,
+        "likes": 472,
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "lfm3",
+          "text-generation",
+          "liquid"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "XHToken/Spark-X2.6-4B",
         "org": "XHToken",
-        "trending_score": 466,
+        "trending_score": 459,
         "downloads": 10163,
-        "likes": 896,
+        "likes": 901,
         "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
         "tags": [
           "transformers",
@@ -67,23 +84,6 @@
           "spark2_5",
           "text-generation",
           "llm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "tencent/Hy-SimulMT-30B-A3B-FP8",
-        "org": "tencent",
-        "trending_score": 448,
-        "downloads": 396,
-        "likes": 457,
-        "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hy_v3",
-          "text-generation",
-          "translation"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 49549,
+        "stars": 49880,
         "stars_delta": 1926,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 308210,
+        "stars": 308459,
         "stars_delta": 1037,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 94814,
+        "stars": 95168,
         "stars_delta": 2881,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "JetBrains/thinkrail",
         "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
         "url": "https://github.com/JetBrains/thinkrail",
-        "stars": 5834,
+        "stars": 5951,
         "stars_delta": 1116,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 7260,
+        "stars": 7391,
         "stars_delta": 1190,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 52544,
+        "stars": 52769,
         "stars_delta": 16002,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "php/php-src",
         "description": "The PHP Interpreter",
         "url": "https://github.com/php/php-src",
-        "stars": 41715,
+        "stars": 41718,
         "stars_delta": 1201,
         "language": "C",
         "language_color": "#555555"
@@ -383,7 +383,7 @@
         "name": "AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
         "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 23860,
+        "stars": 23949,
         "stars_delta": 3516,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 94814,
+        "stars": 95168,
         "stars_delta": 7283,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 226308,
+        "stars": 226394,
         "stars_delta": 4293,
         "language": "",
         "language_color": "#586069"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 52544,
+        "stars": 52769,
         "stars_delta": 28617,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 75309,
+        "stars": 75420,
         "stars_delta": 21015,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 33796,
+        "stars": 33836,
         "stars_delta": 7899,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "earthtojake/text-to-cad",
         "description": "Design physical products with AI",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 24088,
+        "stars": 24122,
         "stars_delta": 7453,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 94814,
+        "stars": 95168,
         "stars_delta": 19821,
         "language": "Rust",
         "language_color": "#dea584"
@@ -583,18 +583,18 @@
       },
       {
         "rank": 5,
-        "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+        "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
         "authors": [
+          "Xuchen Pan",
           "Dawei Gao",
-          "Zitao Li",
           "Yuexiang Xie"
         ],
-        "url": "https://huggingface.co/papers/2508.16279",
+        "url": "https://huggingface.co/papers/2407.17789",
         "categories": [],
-        "upvotes": 71,
-        "published": "2025-08-22",
-        "github_repo": "https://github.com/agentscope-ai/agentscope",
-        "github_stars": 34691
+        "upvotes": 48,
+        "published": "2024-07-25",
+        "github_repo": "https://github.com/modelscope/agentscope",
+        "github_stars": 34796
       }
     ],
     "arxiv_recent": [
@@ -682,187 +682,187 @@
     "top": [
       {
         "rank": 1,
+        "id": 50296470,
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+        "discussion_url": "https://news.ycombinator.com/item?id=50296470",
+        "site": "arkm.com",
+        "points": 133,
+        "comments": 58,
+        "author": "Tiberium",
+        "age": "29m ago"
+      },
+      {
+        "rank": 2,
         "id": 50289418,
         "title": "We're releasing the weights of Mistral Large 4",
         "url": "https://mistral.ai/news/mistral-large-4-oss/",
         "discussion_url": "https://news.ycombinator.com/item?id=50289418",
         "site": "mistral.ai",
-        "points": 599,
-        "comments": 154,
+        "points": 1048,
+        "comments": 305,
         "author": "kuberwastaken",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50291945,
-        "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
-        "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-        "discussion_url": "https://news.ycombinator.com/item?id=50291945",
-        "site": "kadoa.com",
-        "points": 81,
-        "comments": 36,
-        "author": "hubraumhugo",
-        "age": "28m ago"
+        "age": "7h ago"
       },
       {
         "rank": 3,
-        "id": 50291054,
-        "title": "H.264 Is Magic (2016)",
-        "url": "https://sidbala.com/h-264-is-magic/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50291054",
-        "site": "sidbala.com",
-        "points": 95,
-        "comments": 35,
-        "author": "ea016",
-        "age": "1h ago"
+        "id": 50293047,
+        "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+        "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50293047",
+        "site": "nypost.com",
+        "points": 219,
+        "comments": 146,
+        "author": "mgh2",
+        "age": "4h ago"
       },
       {
         "rank": 4,
-        "id": 50290912,
-        "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-        "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-        "discussion_url": "https://news.ycombinator.com/item?id=50290912",
-        "site": "skypilot.ai",
-        "points": 46,
-        "comments": 2,
-        "author": "wondersky",
-        "age": "1h ago"
+        "id": 50296486,
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50296486",
+        "site": "labs.ycombinator.com",
+        "points": 21,
+        "comments": 8,
+        "author": "sandslash",
+        "age": "28m ago"
       },
       {
         "rank": 5,
-        "id": 50290283,
-        "title": "Zombie stats: Where the numbers AI quotes come from",
-        "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-        "discussion_url": "https://news.ycombinator.com/item?id=50290283",
-        "site": "trakkr.ai",
-        "points": 72,
-        "comments": 34,
-        "author": "mektrik",
+        "id": 50294702,
+        "title": "Patrick Stewart has died",
+        "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50294702",
+        "site": "nytimes.com",
+        "points": 1684,
+        "comments": 330,
+        "author": "j4mie",
         "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50296367,
+        "title": "Ask HN: Opus 5.5 suddenly dumb as rocks?",
+        "url": "https://news.ycombinator.com/item?id=50296367",
+        "discussion_url": "https://news.ycombinator.com/item?id=50296367",
+        "site": "news.ycombinator.com",
+        "points": 9,
+        "comments": 5,
+        "author": "jahala",
+        "age": "37m ago"
+      },
+      {
+        "rank": 2,
+        "id": 50294929,
+        "title": "Ask HN: Are Knuth's Stanford Pages Down?",
+        "url": "https://news.ycombinator.com/item?id=50294929",
+        "discussion_url": "https://news.ycombinator.com/item?id=50294929",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 3,
+        "author": "weinzierl",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50293459,
+        "title": "Ask HN: Do you have side-projects that generate >$500 revenue/month?",
+        "url": "https://news.ycombinator.com/item?id=50293459",
+        "discussion_url": "https://news.ycombinator.com/item?id=50293459",
+        "site": "news.ycombinator.com",
+        "points": 14,
+        "comments": 3,
+        "author": "learner_yearner",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50286306,
+        "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+        "url": "https://news.ycombinator.com/item?id=50286306",
+        "discussion_url": "https://news.ycombinator.com/item?id=50286306",
+        "site": "news.ycombinator.com",
+        "points": 24,
+        "comments": 3,
+        "author": "TekMol",
+        "age": "13h ago"
+      },
+      {
+        "rank": 5,
         "id": 50291687,
         "title": "Ask HN: Sitting on unused OpenAI / Anthropic / AWS credits that will expire?",
         "url": "https://news.ycombinator.com/item?id=50291687",
         "discussion_url": "https://news.ycombinator.com/item?id=50291687",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 1,
-        "author": "xiaomaijj",
-        "age": "42m ago"
-      },
-      {
-        "rank": 2,
-        "id": 50291678,
-        "title": "Ask HN: Is your leadership pushing you to skip dev review?",
-        "url": "https://news.ycombinator.com/item?id=50291678",
-        "discussion_url": "https://news.ycombinator.com/item?id=50291678",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "arm32",
-        "age": "42m ago"
-      },
-      {
-        "rank": 3,
-        "id": 50286306,
-        "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
-        "url": "https://news.ycombinator.com/item?id=50286306",
-        "discussion_url": "https://news.ycombinator.com/item?id=50286306",
-        "site": "news.ycombinator.com",
-        "points": 17,
         "comments": 2,
-        "author": "TekMol",
-        "age": "8h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50288662,
-        "title": "Ask HN: Why are there not more terminal apps?",
-        "url": "https://news.ycombinator.com/item?id=50288662",
-        "discussion_url": "https://news.ycombinator.com/item?id=50288662",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 9,
-        "author": "lucasov",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50285134,
-        "title": "Ask HN: I Need Advice",
-        "url": "https://news.ycombinator.com/item?id=50285134",
-        "discussion_url": "https://news.ycombinator.com/item?id=50285134",
-        "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 29,
-        "author": "TuxedoBuddy",
-        "age": "10h ago"
+        "author": "xiaomaijj",
+        "age": "5h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50291932,
-        "title": "Show HN: Wanim – Manim in the browser, but 1/20 smaller",
-        "url": "https://github.com/Acfboy/Wanim",
-        "discussion_url": "https://news.ycombinator.com/item?id=50291932",
+        "id": 50294506,
+        "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+        "url": "https://github.com/johncassil/dontallow",
+        "discussion_url": "https://news.ycombinator.com/item?id=50294506",
         "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "Acfboy",
-        "age": "29m ago"
-      },
-      {
-        "rank": 2,
-        "id": 50291911,
-        "title": "Show HN: Witnessory – a signed record of the web's move to post-quantum crypto",
-        "url": "https://witnessory.org",
-        "discussion_url": "https://news.ycombinator.com/item?id=50291911",
-        "site": "witnessory.org",
-        "points": 3,
-        "comments": 0,
-        "author": "parthod0x",
-        "age": "30m ago"
-      },
-      {
-        "rank": 3,
-        "id": 50290078,
-        "title": "Show HN: Dead APIs – a graveyard for the integrations that left us",
-        "url": "https://deadapis.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50290078",
-        "site": "deadapis.dev",
-        "points": 2,
-        "comments": 0,
-        "author": "gertjandewilde",
+        "points": 60,
+        "comments": 52,
+        "author": "johncassil",
         "age": "2h ago"
       },
       {
-        "rank": 4,
-        "id": 50290018,
-        "title": "Show HN: Howler, a macOS menu bar AI that burns the chat after reading",
-        "url": "https://github.com/HiAriesZhou/Howler",
-        "discussion_url": "https://news.ycombinator.com/item?id=50290018",
+        "rank": 2,
+        "id": 50278678,
+        "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+        "url": "https://github.com/emmilco/us-tax-model",
+        "discussion_url": "https://news.ycombinator.com/item?id=50278678",
         "site": "github.com",
-        "points": 2,
-        "comments": 1,
-        "author": "AriesIMio",
+        "points": 44,
+        "comments": 8,
+        "author": "RGS1811",
+        "age": "1d ago"
+      },
+      {
+        "rank": 3,
+        "id": 50293115,
+        "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+        "url": "https://github.com/lonthq/overtone-captions",
+        "discussion_url": "https://news.ycombinator.com/item?id=50293115",
+        "site": "github.com",
+        "points": 19,
+        "comments": 2,
+        "author": "rvanderlinden",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50294473,
+        "title": "Show HN: Typebook.lol read books by typing the letters only",
+        "url": "https://typebook.lol/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50294473",
+        "site": "typebook.lol",
+        "points": 6,
+        "comments": 8,
+        "author": "vegnus",
         "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 50276883,
-        "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-        "url": "https://slidebyside.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50276883",
-        "site": "slidebyside.com",
-        "points": 75,
-        "comments": 32,
-        "author": "denismenace",
-        "age": "1d ago"
+        "id": 50295662,
+        "title": "Show HN: OpenArcanum – An End-to-End Encrypted Alternative to Discord",
+        "url": "https://github.com/hyperkubeorg/openarcanum/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50295662",
+        "site": "github.com",
+        "points": 3,
+        "comments": 0,
+        "author": "SamInTheShell",
+        "age": "1h ago"
       }
     ]
   }
