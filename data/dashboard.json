@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-29T03:14:46Z",
+  "generated": "2026-10-29T10:30:46Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 894,
+        "trending_score": 889,
         "downloads": 116770,
-        "likes": 3578,
+        "likes": 3672,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Nanbeige/Nanbeige4.3-33B",
         "org": "Nanbeige",
-        "trending_score": 724,
+        "trending_score": 738,
         "downloads": 7412,
-        "likes": 734,
+        "likes": 748,
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "RecursiveSI/flint",
         "org": "RecursiveSI",
-        "trending_score": 717,
+        "trending_score": 642,
         "downloads": 14047,
-        "likes": 1168,
+        "likes": 1218,
         "url": "https://huggingface.co/RecursiveSI/flint",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "XHToken/Spark-X2.6-4B",
         "org": "XHToken",
-        "trending_score": 502,
+        "trending_score": 481,
         "downloads": 8222,
-        "likes": 870,
+        "likes": 884,
         "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "MiniMaxAI/MiniMax-M3.1-Flash",
-        "org": "MiniMaxAI",
-        "trending_score": 411,
-        "downloads": 13247,
-        "likes": 466,
-        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+        "name": "tencent/Hy-SimulMT-30B-A3B-FP8",
+        "org": "tencent",
+        "trending_score": 444,
+        "downloads": 165,
+        "likes": 452,
+        "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
         "tags": [
           "transformers",
           "safetensors",
-          "minimax_m3_vl",
-          "image-text-to-text",
-          "multimodal"
+          "hy_v3",
+          "text-generation",
+          "translation"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "JetBrains/thinkrail",
         "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
         "url": "https://github.com/JetBrains/thinkrail",
-        "stars": 5203,
+        "stars": 5592,
         "stars_delta": 1068,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "elayadesign/ai-design-skills",
         "description": "",
         "url": "https://github.com/elayadesign/ai-design-skills",
-        "stars": 11272,
+        "stars": 11650,
         "stars_delta": 2139,
         "language": "",
         "language_color": "#586069"
@@ -331,7 +331,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 307541,
+        "stars": 307845,
         "stars_delta": 1095,
         "language": "Shell",
         "language_color": "#89e051"
@@ -341,7 +341,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 48231,
+        "stars": 48923,
         "stars_delta": 2371,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "macro-inc/macro",
         "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
         "url": "https://github.com/macro-inc/macro",
-        "stars": 5476,
+        "stars": 5619,
         "stars_delta": 117,
         "language": "Rust",
         "language_color": "#dea584"
@@ -363,7 +363,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 51795,
+        "stars": 52183,
         "stars_delta": 16002,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
         "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 23447,
+        "stars": 23652,
         "stars_delta": 3516,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 226022,
+        "stars": 226180,
         "stars_delta": 4293,
         "language": "",
         "language_color": "#586069"
@@ -393,7 +393,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 33671,
+        "stars": 33740,
         "stars_delta": 2612,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 117949,
+        "stars": 118096,
         "stars_delta": 5322,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 74829,
+        "stars": 75088,
         "stars_delta": 21015,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 51795,
+        "stars": 52183,
         "stars_delta": 28617,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 33671,
+        "stars": 33740,
         "stars_delta": 7899,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "earthtojake/text-to-cad",
         "description": "Design physical products with AI",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 23918,
+        "stars": 24009,
         "stars_delta": 7453,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 93010,
+        "stars": 94004,
         "stars_delta": 19821,
         "language": "Rust",
         "language_color": "#dea584"
@@ -534,7 +534,7 @@
         "upvotes": 157,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 117722
+        "github_stars": 117967
       },
       {
         "rank": 2,
@@ -568,21 +568,6 @@
       },
       {
         "rank": 4,
-        "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
-        "authors": [
-          "Xuchen Pan",
-          "Dawei Gao",
-          "Yuexiang Xie"
-        ],
-        "url": "https://huggingface.co/papers/2407.17789",
-        "categories": [],
-        "upvotes": 48,
-        "published": "2024-07-25",
-        "github_repo": "https://github.com/modelscope/agentscope",
-        "github_stars": 34625
-      },
-      {
-        "rank": 5,
         "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
         "authors": [
           "Dawei Gao",
@@ -594,7 +579,22 @@
         "upvotes": 71,
         "published": "2025-08-22",
         "github_repo": "https://github.com/agentscope-ai/agentscope",
-        "github_stars": 34627
+        "github_stars": 34691
+      },
+      {
+        "rank": 5,
+        "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+        "authors": [
+          "Xuchen Pan",
+          "Dawei Gao",
+          "Yuexiang Xie"
+        ],
+        "url": "https://huggingface.co/papers/2407.17789",
+        "categories": [],
+        "upvotes": 48,
+        "published": "2024-07-25",
+        "github_repo": "https://github.com/modelscope/agentscope",
+        "github_stars": 34683
       }
     ],
     "arxiv_recent": [
@@ -687,120 +687,120 @@
         "url": "https://divagr.com/blog/qwenputer",
         "discussion_url": "https://news.ycombinator.com/item?id=50282838",
         "site": "divagr.com",
-        "points": 146,
-        "comments": 34,
+        "points": 482,
+        "comments": 100,
         "author": "csmantle",
-        "age": "2h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
+        "id": 50285452,
+        "title": "Zero click, silent, remote Android DoS",
+        "url": "https://smsofdeath.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50285452",
+        "site": "smsofdeath.com",
+        "points": 79,
+        "comments": 38,
+        "author": "MarkBlah",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
         "id": 50276998,
         "title": "Why is this fingerprinting script creating bioweapons?",
         "url": "https://nullpt.rs/fingerprinting-bioweapons",
         "discussion_url": "https://news.ycombinator.com/item?id=50276998",
         "site": "nullpt.rs",
-        "points": 919,
-        "comments": 192,
+        "points": 1256,
+        "comments": 236,
         "author": "hazebooth",
-        "age": "10h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50282544,
-        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=50282544",
-        "site": "alpinelinux.org",
-        "points": 103,
-        "comments": 38,
-        "author": "sashk",
-        "age": "3h ago"
+        "age": "17h ago"
       },
       {
         "rank": 4,
-        "id": 50280974,
-        "title": "A Health Update",
-        "url": "https://furbo.org/2026/10/28/a-health-update/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50280974",
-        "site": "furbo.org",
-        "points": 134,
-        "comments": 16,
-        "author": "frizlab",
-        "age": "6h ago"
+        "id": 50243757,
+        "title": "Getting debug access on a Brother printer over Telnet",
+        "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50243757",
+        "site": "inventor7777.github.io",
+        "points": 53,
+        "comments": 13,
+        "author": "inventor7777",
+        "age": "2d ago"
       },
       {
         "rank": 5,
-        "id": 50274409,
-        "title": "CNC Stone Carving",
-        "url": "https://carmelitegothic.com/cnc-stone-carving/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50274409",
-        "site": "carmelitegothic.com",
-        "points": 421,
-        "comments": 122,
-        "author": "bschne",
-        "age": "12h ago"
+        "id": 50285319,
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50285319",
+        "site": "blog.orange.tw",
+        "points": 60,
+        "comments": 14,
+        "author": "austinallegro",
+        "age": "3h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50286306,
+        "title": "Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites",
+        "url": "https://news.ycombinator.com/item?id=50286306",
+        "discussion_url": "https://news.ycombinator.com/item?id=50286306",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "TekMol",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50285134,
+        "title": "Ask HN: I Need Advice",
+        "url": "https://news.ycombinator.com/item?id=50285134",
+        "discussion_url": "https://news.ycombinator.com/item?id=50285134",
+        "site": "news.ycombinator.com",
+        "points": 5,
+        "comments": 13,
+        "author": "TuxedoBuddy",
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50284849,
+        "title": "Ask HN: Why big LLMs use \"it's not A, it is B\" pattern? Shared dataset supplier?",
+        "url": "https://news.ycombinator.com/item?id=50284849",
+        "discussion_url": "https://news.ycombinator.com/item?id=50284849",
+        "site": "news.ycombinator.com",
+        "points": 6,
+        "comments": 3,
+        "author": "jumasheff",
+        "age": "5h ago"
+      },
+      {
+        "rank": 4,
         "id": 50271004,
         "title": "Ask HN: What do you believe or not believe about AI?",
         "url": "https://news.ycombinator.com/item?id=50271004",
         "discussion_url": "https://news.ycombinator.com/item?id=50271004",
         "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 32,
+        "points": 20,
+        "comments": 38,
         "author": "maniac_2000",
-        "age": "17h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50280719,
-        "title": "Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?",
-        "url": "https://news.ycombinator.com/item?id=50280719",
-        "discussion_url": "https://news.ycombinator.com/item?id=50280719",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 3,
-        "author": "bigwheels",
-        "age": "6h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50259191,
-        "title": "Expericencing an issue in Gmail where emails do not delete in Firefox",
-        "url": "https://news.ycombinator.com/item?id=50259191",
-        "discussion_url": "https://news.ycombinator.com/item?id=50259191",
-        "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 4,
-        "author": "rc_kas",
         "age": "1d ago"
       },
       {
-        "rank": 4,
-        "id": 50275640,
-        "title": "Old.reddit.com Gone",
-        "url": "https://news.ycombinator.com/item?id=50275640",
-        "discussion_url": "https://news.ycombinator.com/item?id=50275640",
-        "site": "news.ycombinator.com",
-        "points": 20,
-        "comments": 16,
-        "author": "Balgair",
-        "age": "11h ago"
-      },
-      {
         "rank": 5,
-        "id": 50248168,
-        "title": "Ask HN: Do you still read clean code and software architecture books?",
-        "url": "https://news.ycombinator.com/item?id=50248168",
-        "discussion_url": "https://news.ycombinator.com/item?id=50248168",
+        "id": 50276099,
+        "title": "Tell HN: I know Firefox has update when it starts to glitch",
+        "url": "https://news.ycombinator.com/item?id=50276099",
+        "discussion_url": "https://news.ycombinator.com/item?id=50276099",
         "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 8,
-        "author": "pelcg",
-        "age": "2d ago"
+        "points": 2,
+        "comments": 3,
+        "author": "majkinetor",
+        "age": "18h ago"
       }
     ],
     "show": [
@@ -811,58 +811,58 @@
         "url": "https://slidebyside.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50276883",
         "site": "slidebyside.com",
-        "points": 62,
-        "comments": 26,
+        "points": 71,
+        "comments": 31,
         "author": "denismenace",
-        "age": "10h ago"
+        "age": "17h ago"
       },
       {
         "rank": 2,
+        "id": 50285372,
+        "title": "Show HN: Pure Particles, an open source art particle toy built with Three.js",
+        "url": "https://pureart-xyz.vercel.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50285372",
+        "site": "pureart-xyz.vercel.app",
+        "points": 2,
+        "comments": 2,
+        "author": "exos-xyz",
+        "age": "3h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50284944,
+        "title": "Show HN: A Cursor-like workspace for your LaTeX papers",
+        "url": "https://github.com/cu1ch3n/papilot",
+        "discussion_url": "https://news.ycombinator.com/item?id=50284944",
+        "site": "github.com",
+        "points": 2,
+        "comments": 1,
+        "author": "cuichen",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50284856,
+        "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+        "url": "https://www.fabivo.app/en",
+        "discussion_url": "https://news.ycombinator.com/item?id=50284856",
+        "site": "fabivo.app",
+        "points": 3,
+        "comments": 0,
+        "author": "superpapotas",
+        "age": "5h ago"
+      },
+      {
+        "rank": 5,
         "id": 50274300,
         "title": "Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days",
         "url": "https://yavashark.dev/blog/announcing-yavashark/",
         "discussion_url": "https://news.ycombinator.com/item?id=50274300",
         "site": "yavashark.dev",
-        "points": 22,
-        "comments": 2,
+        "points": 30,
+        "comments": 3,
         "author": "sharktheone",
-        "age": "12h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50271968,
-        "title": "Show HN: Squishy 3D helpers powered by Three.js",
-        "url": "https://prathje.github.io/plushies/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50271968",
-        "site": "prathje.github.io",
-        "points": 12,
-        "comments": 4,
-        "author": "prathje",
-        "age": "15h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50281226,
-        "title": "Show HN: Full Python 3.15 Implemented in 25k LoC C11",
-        "url": "https://news.ycombinator.com/item?id=50281226",
-        "discussion_url": "https://news.ycombinator.com/item?id=50281226",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "soasme",
-        "age": "5h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50218975,
-        "title": "Show HN: Encarta 95 Web",
-        "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
-        "discussion_url": "https://news.ycombinator.com/item?id=50218975",
-        "site": "benwinding.github.io",
-        "points": 148,
-        "comments": 63,
-        "author": "gitgud",
-        "age": "4d ago"
+        "age": "19h ago"
       }
     ]
   }
