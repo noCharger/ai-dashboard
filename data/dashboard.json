@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-30T02:14:00Z",
+  "generated": "2026-10-30T09:12:04Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 881,
+        "trending_score": 856,
         "downloads": 131062,
-        "likes": 3786,
+        "likes": 3912,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Nanbeige/Nanbeige4.3-33B",
         "org": "Nanbeige",
-        "trending_score": 763,
+        "trending_score": 768,
         "downloads": 9655,
-        "likes": 778,
+        "likes": 783,
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "RecursiveSI/flint",
-        "org": "RecursiveSI",
-        "trending_score": 491,
-        "downloads": 16598,
-        "likes": 1244,
-        "url": "https://huggingface.co/RecursiveSI/flint",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "flint",
-          "text-generation",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "LiquidAI/LFM3-1.7B",
         "org": "LiquidAI",
-        "trending_score": 475,
+        "trending_score": 499,
         "downloads": 15885,
-        "likes": 485,
+        "likes": 509,
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "tags": [
           "transformers",
@@ -71,19 +54,36 @@
         "rank_change": null
       },
       {
-        "rank": 5,
-        "name": "XHToken/Spark-X2.6-4B",
-        "org": "XHToken",
-        "trending_score": 457,
-        "downloads": 10163,
-        "likes": 910,
-        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "rank": 4,
+        "name": "RecursiveSI/flint",
+        "org": "RecursiveSI",
+        "trending_score": 448,
+        "downloads": 16598,
+        "likes": 1249,
+        "url": "https://huggingface.co/RecursiveSI/flint",
         "tags": [
           "transformers",
           "safetensors",
-          "spark2_5",
+          "flint",
           "text-generation",
-          "llm"
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "org": "ISTA-DASLab",
+        "trending_score": 433,
+        "downloads": 1578937,
+        "likes": 487,
+        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "tags": [
+          "gguf",
+          "gsq",
+          "rco",
+          "quantization",
+          "mixed-precision"
         ],
         "rank_change": null
       }
@@ -186,11 +186,11 @@
       },
       {
         "rank": 5,
-        "name": "Co-Sight Pro v1.0.1",
-        "org": "ZTE-AICloud",
-        "score": 93.02,
+        "name": "OmniSeek_Preview_v1.1",
+        "org": "Alibaba Enterprise Intelligence & HKUST(GZ)",
+        "score": 93.36,
         "score_unit": "%",
-        "url": "https://github.com/ZTE-AICloud/Co-Sight",
+        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       }
     ],
@@ -311,7 +311,7 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 50233,
+        "stars": 51064,
         "stars_delta": 1930,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 308623,
+        "stars": 308980,
         "stars_delta": 1034,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 95474,
+        "stars": 96154,
         "stars_delta": 2870,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "JetBrains/thinkrail",
         "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
         "url": "https://github.com/JetBrains/thinkrail",
-        "stars": 6056,
+        "stars": 6265,
         "stars_delta": 1117,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 7535,
+        "stars": 7815,
         "stars_delta": 1199,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 52918,
+        "stars": 53262,
         "stars_delta": 14320,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "php/php-src",
         "description": "The PHP Interpreter",
         "url": "https://github.com/php/php-src",
-        "stars": 41724,
+        "stars": 41731,
         "stars_delta": 960,
         "language": "C",
         "language_color": "#555555"
@@ -383,7 +383,7 @@
         "name": "AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
         "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 24026,
+        "stars": 24176,
         "stars_delta": 4110,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 95474,
+        "stars": 96154,
         "stars_delta": 9713,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "multica-ai/andrej-karpathy-skills",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 226471,
+        "stars": 226593,
         "stars_delta": 4250,
         "language": "",
         "language_color": "#586069"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 52918,
+        "stars": 53262,
         "stars_delta": 29622,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 75498,
+        "stars": 75685,
         "stars_delta": 21520,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 33863,
+        "stars": 33917,
         "stars_delta": 8086,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "earthtojake/text-to-cad",
         "description": "Design physical products with AI",
         "url": "https://github.com/earthtojake/text-to-cad",
-        "stars": 24155,
+        "stars": 24243,
         "stars_delta": 7732,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 95474,
+        "stars": 96155,
         "stars_delta": 22473,
         "language": "Rust",
         "language_color": "#dea584"
@@ -534,7 +534,7 @@
         "upvotes": 158,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 118199
+        "github_stars": 118394
       },
       {
         "rank": 2,
@@ -564,7 +564,7 @@
         "upvotes": 31,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 8683
+        "github_stars": 8735
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 105,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 29686
+        "github_stars": 29774
       },
       {
         "rank": 5,
@@ -594,87 +594,87 @@
         "upvotes": 48,
         "published": "2024-07-25",
         "github_repo": "https://github.com/modelscope/agentscope",
-        "github_stars": 34796
+        "github_stars": 34880
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+        "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
         "authors": [
-          "Wenqing Peng",
-          "Michael Boy",
-          "Zhi-Song Liu"
+          "El Mustapha Mansouri",
+          "Eikichi Kimura",
+          "Masato Koga"
         ],
-        "url": "https://arxiv.org/abs/2610.37655",
+        "url": "https://arxiv.org/abs/2610.40589",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.MA"
         ],
         "upvotes": null,
-        "published": "2026-10-28"
+        "published": "2026-10-30"
       },
       {
         "rank": 2,
-        "title": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+        "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
         "authors": [
-          "Chang Su",
-          "Bin Wu",
-          "Emine Yilmaz"
+          "Leonidas Raghav"
         ],
-        "url": "https://arxiv.org/abs/2610.37631",
+        "url": "https://arxiv.org/abs/2610.40588",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-10-28"
+        "published": "2026-10-30"
       },
       {
         "rank": 3,
-        "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+        "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
         "authors": [
-          "Anouar Imel",
-          "Imad Charradi",
-          "Abderrahman Sghir"
+          "Qiushi Sun",
+          "Da Yu",
+          "Alexander Knop"
         ],
-        "url": "https://arxiv.org/abs/2610.37624",
+        "url": "https://arxiv.org/abs/2610.40578",
         "categories": [
           "cs.AI",
           "cs.CL",
-          "cs.MA",
-          "cs.SI"
+          "cs.CV"
         ],
         "upvotes": null,
-        "published": "2026-10-28"
+        "published": "2026-10-30"
       },
       {
         "rank": 4,
-        "title": "Timestral",
+        "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
         "authors": [
-          "Adrien Petralia",
-          "Alexandre Gavaudan",
-          "Artjom Joosen"
+          "Eric Rudolph",
+          "Philipp Steigerwald",
+          "Jens Albrecht"
         ],
-        "url": "https://arxiv.org/abs/2610.37585",
+        "url": "https://arxiv.org/abs/2610.40563",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-10-28"
+        "published": "2026-10-30"
       },
       {
         "rank": 5,
-        "title": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+        "title": "FARMS: A Verifiable Foundation for Automated Computational Science",
         "authors": [
-          "Chanwoo Park",
-          "Jaywoong Jeong",
-          "Zachary Wojtowicz"
+          "Di Wu",
+          "Ling Liang",
+          "Haizhao Yang"
         ],
-        "url": "https://arxiv.org/abs/2610.37571",
+        "url": "https://arxiv.org/abs/2610.40560",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.LO"
         ],
         "upvotes": null,
-        "published": "2026-10-28"
+        "published": "2026-10-30"
       }
     ]
   },
@@ -687,10 +687,10 @@
         "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
         "discussion_url": "https://news.ycombinator.com/item?id=50296470",
         "site": "arkm.com",
-        "points": 756,
-        "comments": 446,
+        "points": 1294,
+        "comments": 795,
         "author": "Tiberium",
-        "age": "4h ago"
+        "age": "11h ago"
       },
       {
         "rank": 2,
@@ -699,46 +699,46 @@
         "url": "https://mistral.ai/news/mistral-large-4-oss/",
         "discussion_url": "https://news.ycombinator.com/item?id=50289418",
         "site": "mistral.ai",
-        "points": 1217,
-        "comments": 340,
+        "points": 1443,
+        "comments": 388,
         "author": "kuberwastaken",
-        "age": "12h ago"
+        "age": "18h ago"
       },
       {
         "rank": 3,
-        "id": 50296486,
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=50296486",
-        "site": "labs.ycombinator.com",
-        "points": 167,
-        "comments": 62,
-        "author": "sandslash",
-        "age": "4h ago"
+        "id": 50255343,
+        "title": "Cuis: The Modern Smalltalk-80",
+        "url": "https://cuis.st/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50255343",
+        "site": "cuis.st",
+        "points": 99,
+        "comments": 15,
+        "author": "theanonymousone",
+        "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 50295450,
-        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-        "url": "https://github.com/SheepSeb/tinyworldformer",
-        "discussion_url": "https://news.ycombinator.com/item?id=50295450",
+        "id": 50270651,
+        "title": "Astroterm: A Planetarium for Your Terminal",
+        "url": "https://github.com/da-luce/astroterm",
+        "discussion_url": "https://news.ycombinator.com/item?id=50270651",
         "site": "github.com",
-        "points": 137,
-        "comments": 8,
-        "author": "airinei",
-        "age": "5h ago"
+        "points": 127,
+        "comments": 11,
+        "author": "nvmdbljstm",
+        "age": "2d ago"
       },
       {
         "rank": 5,
-        "id": 50296585,
-        "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-        "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-        "discussion_url": "https://news.ycombinator.com/item?id=50296585",
-        "site": "gizmodo.com",
-        "points": 97,
-        "comments": 30,
-        "author": "gumby",
-        "age": "4h ago"
+        "id": 50273104,
+        "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+        "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+        "discussion_url": "https://news.ycombinator.com/item?id=50273104",
+        "site": "youtube.com",
+        "points": 120,
+        "comments": 10,
+        "author": "surprisetalk",
+        "age": "1d ago"
       }
     ],
     "ask": [
@@ -749,10 +749,10 @@
         "url": "https://news.ycombinator.com/item?id=50296367",
         "discussion_url": "https://news.ycombinator.com/item?id=50296367",
         "site": "news.ycombinator.com",
-        "points": 20,
-        "comments": 19,
+        "points": 26,
+        "comments": 22,
         "author": "jahala",
-        "age": "4h ago"
+        "age": "11h ago"
       },
       {
         "rank": 2,
@@ -761,10 +761,10 @@
         "url": "https://news.ycombinator.com/item?id=50293459",
         "discussion_url": "https://news.ycombinator.com/item?id=50293459",
         "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 3,
+        "points": 26,
+        "comments": 8,
         "author": "learner_yearner",
-        "age": "8h ago"
+        "age": "14h ago"
       },
       {
         "rank": 3,
@@ -773,10 +773,10 @@
         "url": "https://news.ycombinator.com/item?id=50294929",
         "discussion_url": "https://news.ycombinator.com/item?id=50294929",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 6,
         "comments": 3,
         "author": "weinzierl",
-        "age": "6h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
@@ -785,10 +785,10 @@
         "url": "https://news.ycombinator.com/item?id=50286306",
         "discussion_url": "https://news.ycombinator.com/item?id=50286306",
         "site": "news.ycombinator.com",
-        "points": 26,
+        "points": 29,
         "comments": 3,
         "author": "TekMol",
-        "age": "17h ago"
+        "age": "1d ago"
       },
       {
         "rank": 5,
@@ -800,7 +800,7 @@
         "points": 3,
         "comments": 2,
         "author": "xiaomaijj",
-        "age": "9h ago"
+        "age": "16h ago"
       }
     ],
     "show": [
@@ -811,10 +811,10 @@
         "url": "https://github.com/mottopanikeiku/doomformer",
         "discussion_url": "https://news.ycombinator.com/item?id=50297697",
         "site": "github.com",
-        "points": 40,
-        "comments": 9,
+        "points": 86,
+        "comments": 27,
         "author": "falperc",
-        "age": "2h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
@@ -823,46 +823,46 @@
         "url": "https://github.com/johncassil/dontallow",
         "discussion_url": "https://news.ycombinator.com/item?id=50294506",
         "site": "github.com",
-        "points": 101,
-        "comments": 77,
+        "points": 134,
+        "comments": 99,
         "author": "johncassil",
-        "age": "6h ago"
+        "age": "13h ago"
       },
       {
         "rank": 3,
+        "id": 50299004,
+        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+        "url": "https://github.com/Millillion/lasm",
+        "discussion_url": "https://news.ycombinator.com/item?id=50299004",
+        "site": "github.com",
+        "points": 28,
+        "comments": 6,
+        "author": "lastmjs",
+        "age": "7h ago"
+      },
+      {
+        "rank": 4,
         "id": 50278678,
         "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
         "url": "https://github.com/emmilco/us-tax-model",
         "discussion_url": "https://news.ycombinator.com/item?id=50278678",
         "site": "github.com",
-        "points": 63,
-        "comments": 12,
+        "points": 72,
+        "comments": 13,
         "author": "RGS1811",
         "age": "1d ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 50293115,
         "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
         "url": "https://github.com/lonthq/overtone-captions",
         "discussion_url": "https://news.ycombinator.com/item?id=50293115",
         "site": "github.com",
-        "points": 37,
-        "comments": 2,
+        "points": 40,
+        "comments": 3,
         "author": "rvanderlinden",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50298738,
-        "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
-        "url": "https://github.com/zacharybenson/arken-protocol",
-        "discussion_url": "https://news.ycombinator.com/item?id=50298738",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "zachbenson817",
-        "age": "51m ago"
+        "age": "15h ago"
       }
     ]
   }
