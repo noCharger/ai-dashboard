@@ -1,31 +1,14 @@
 {
-  "generated": "2026-10-31T07:39:35Z",
+  "generated": "2026-10-31T11:58:01Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "org": "deepseek-ai",
-        "trending_score": 803,
-        "downloads": 145869,
-        "likes": 4036,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "deepseek_v41",
-          "text-generation",
-          "image-text-to-text"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "Nanbeige/Nanbeige4.3-33B",
         "org": "Nanbeige",
-        "trending_score": 787,
-        "downloads": 12178,
-        "likes": 805,
+        "trending_score": 798,
+        "downloads": 13832,
+        "likes": 822,
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
         "tags": [
           "transformers",
@@ -37,12 +20,29 @@
         "rank_change": null
       },
       {
+        "rank": 2,
+        "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "org": "deepseek-ai",
+        "trending_score": 779,
+        "downloads": 156373,
+        "likes": 4056,
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "deepseek_v41",
+          "text-generation",
+          "image-text-to-text"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 3,
         "name": "LiquidAI/LFM3-1.7B",
         "org": "LiquidAI",
-        "trending_score": 563,
-        "downloads": 23694,
-        "likes": 584,
+        "trending_score": 573,
+        "downloads": 32933,
+        "likes": 597,
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "org": "nvidia",
-        "trending_score": 481,
-        "downloads": 15980,
-        "likes": 511,
+        "trending_score": 485,
+        "downloads": 24357,
+        "likes": 518,
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "tags": [
           "nemo",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "baidu/Unlimited-OCR-2",
-        "org": "baidu",
-        "trending_score": 416,
-        "downloads": 24276,
-        "likes": 460,
-        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+        "name": "mistralai/Mistral-Large-4-1T-A52B",
+        "org": "mistralai",
+        "trending_score": 423,
+        "downloads": 2945,
+        "likes": 1374,
+        "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
         "tags": [
           "transformers",
-          "safetensors",
-          "unlimited-ocr",
-          "feature-extraction",
-          "baidu"
+          "mistral_large4",
+          "image-text-to-text",
+          "vLLM",
+          "SGLang"
         ],
         "rank_change": null
       }
@@ -311,38 +311,38 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 106728,
-        "stars_delta": 1140,
+        "stars": 107006,
+        "stars_delta": 1723,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "milind-soni/OpenMausBot",
-        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 8983,
-        "stars_delta": 895,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 307854,
+        "stars_delta": 882,
+        "language": "Shell",
+        "language_color": "#89e051"
       },
       {
         "rank": 3,
-        "name": "pbakaus/impeccable",
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97436,
-        "stars_delta": 2300,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "Donchitos/Claude-Code-Game-Studios",
+        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "stars": 30664,
+        "stars_delta": 1347,
+        "language": "Shell",
+        "language_color": "#89e051"
       },
       {
         "rank": 4,
-        "name": "CopilotKit/OpenBot",
-        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-        "url": "https://github.com/CopilotKit/OpenBot",
-        "stars": 8952,
-        "stars_delta": 706,
+        "name": "pingdotgg/t3code",
+        "description": "",
+        "url": "https://github.com/pingdotgg/t3code",
+        "stars": 33506,
+        "stars_delta": 1148,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -351,8 +351,8 @@
         "name": "Renhuai123/ziwei-doushu",
         "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
         "url": "https://github.com/Renhuai123/ziwei-doushu",
-        "stars": 11618,
-        "stars_delta": 1126,
+        "stars": 11836,
+        "stars_delta": 1093,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -360,53 +360,53 @@
     "weekly": [
       {
         "rank": 1,
+        "name": "Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "url": "https://github.com/Nutlope/hallmark",
+        "stars": 43400,
+        "stars_delta": 11766,
+        "language": "CSS",
+        "language_color": "#663399"
+      },
+      {
+        "rank": 2,
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 54436,
+        "stars": 54706,
         "stars_delta": 12838,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
         "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 24655,
+        "stars": 24762,
         "stars_delta": 4478,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97436,
+        "stars": 97659,
         "stars_delta": 11323,
         "language": "Rust",
         "language_color": "#dea584"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 309596,
+        "stars": 309710,
         "stars_delta": 5474,
         "language": "Shell",
         "language_color": "#89e051"
-      },
-      {
-        "rank": 5,
-        "name": "TauricResearch/TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 118788,
-        "stars_delta": 5490,
-        "language": "Python",
-        "language_color": "#3572A5"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 54436,
+        "stars": 54706,
         "stars_delta": 30721,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,37 +425,37 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 76189,
+        "stars": 76288,
         "stars_delta": 22149,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "anthropics/knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 34088,
-        "stars_delta": 8279,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "url": "https://github.com/Nutlope/hallmark",
+        "stars": 43400,
+        "stars_delta": 13397,
+        "language": "CSS",
+        "language_color": "#663399"
       },
       {
         "rank": 4,
-        "name": "pbakaus/impeccable",
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97436,
-        "stars_delta": 24624,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "stars": 34115,
+        "stars_delta": 8279,
+        "language": "Python",
+        "language_color": "#3572A5"
       },
       {
         "rank": 5,
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 96047,
+        "stars": 96262,
         "stars_delta": 49116,
         "language": "Python",
         "language_color": "#3572A5"
@@ -531,7 +531,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 159,
+        "upvotes": 160,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 118757
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.14224",
         "categories": [],
-        "upvotes": 126,
+        "upvotes": 127,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
         "github_stars": 21511
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.18063",
         "categories": [],
-        "upvotes": 31,
+        "upvotes": 32,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
         "github_stars": 8851
@@ -682,63 +682,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 50307190,
-        "title": "My favourite PowerMac is a Nintendo Wii",
-        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50307190",
-        "site": "virtuallyfun.com",
-        "points": 289,
-        "comments": 79,
-        "author": "DHowett",
-        "age": "14h ago"
+        "id": 50314654,
+        "title": "Serbia just elected the world's brainiest parliament",
+        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "discussion_url": "https://news.ycombinator.com/item?id=50314654",
+        "site": "science.org",
+        "points": 202,
+        "comments": 132,
+        "author": "input_sh",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 50312756,
-        "title": "Tell HN: Scribd Breached",
-        "url": "https://news.ycombinator.com/item?id=50312756",
-        "discussion_url": "https://news.ycombinator.com/item?id=50312756",
-        "site": "news.ycombinator.com",
-        "points": 160,
-        "comments": 64,
-        "author": "x______________",
-        "age": "4h ago"
+        "id": 50315047,
+        "title": "French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic",
+        "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026",
+        "discussion_url": "https://news.ycombinator.com/item?id=50315047",
+        "site": "assemblee-nationale.fr",
+        "points": 28,
+        "comments": 10,
+        "author": "helloplanets",
+        "age": "29m ago"
       },
       {
         "rank": 3,
-        "id": 50277379,
-        "title": "Cloudflare Turnstile solver library (no headless browser required)",
-        "url": "https://github.com/chris124567/cfsolve",
-        "discussion_url": "https://news.ycombinator.com/item?id=50277379",
-        "site": "github.com",
-        "points": 171,
-        "comments": 49,
-        "author": "costco",
-        "age": "2d ago"
+        "id": 50314666,
+        "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+        "url": "https://piefed.world/post/1503394",
+        "discussion_url": "https://news.ycombinator.com/item?id=50314666",
+        "site": "piefed.world",
+        "points": 27,
+        "comments": 4,
+        "author": "DeepLogin",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50303172,
-        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50303172",
-        "site": "wired.com",
-        "points": 422,
-        "comments": 286,
-        "author": "domhudson",
-        "age": "18h ago"
+        "id": 50314085,
+        "title": "Switch Lowering in GCC",
+        "url": "https://xoranth.net/gcc-switch/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50314085",
+        "site": "xoranth.net",
+        "points": 84,
+        "comments": 13,
+        "author": "signa11",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50305025,
-        "title": "Northflank Breached",
-        "url": "https://status.northflank.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=50305025",
-        "site": "status.northflank.com",
-        "points": 416,
-        "comments": 306,
-        "author": "js4ever",
-        "age": "16h ago"
+        "id": 50260753,
+        "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+        "url": "https://zebra.rodeo/en/blog/marelleo/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50260753",
+        "site": "zebra.rodeo",
+        "points": 82,
+        "comments": 27,
+        "author": "foOg",
+        "age": "3d ago"
       }
     ],
     "ask": [
@@ -749,10 +749,10 @@
         "url": "https://news.ycombinator.com/item?id=50312756",
         "discussion_url": "https://news.ycombinator.com/item?id=50312756",
         "site": "news.ycombinator.com",
-        "points": 160,
-        "comments": 64,
+        "points": 243,
+        "comments": 97,
         "author": "x______________",
-        "age": "4h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
@@ -761,25 +761,13 @@
         "url": "https://news.ycombinator.com/item?id=50312174",
         "discussion_url": "https://news.ycombinator.com/item?id=50312174",
         "site": "news.ycombinator.com",
-        "points": 26,
-        "comments": 1,
+        "points": 33,
+        "comments": 2,
         "author": "stillatit",
-        "age": "6h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
-        "id": 50313705,
-        "title": "Ask HN: Is the Microsoft buyout just a long overdue correction?",
-        "url": "https://news.ycombinator.com/item?id=50313705",
-        "discussion_url": "https://news.ycombinator.com/item?id=50313705",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "sky2224",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
         "id": 50306776,
         "title": "Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",
         "url": "https://news.ycombinator.com/item?id=50306776",
@@ -788,7 +776,19 @@
         "points": 39,
         "comments": 26,
         "author": "karakoram",
-        "age": "14h ago"
+        "age": "18h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50313705,
+        "title": "Ask HN: Is the Microsoft buyout just a long overdue correction?",
+        "url": "https://news.ycombinator.com/item?id=50313705",
+        "discussion_url": "https://news.ycombinator.com/item?id=50313705",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 7,
+        "author": "sky2224",
+        "age": "5h ago"
       },
       {
         "rank": 5,
@@ -797,48 +797,48 @@
         "url": "https://news.ycombinator.com/item?id=50308286",
         "discussion_url": "https://news.ycombinator.com/item?id=50308286",
         "site": "news.ycombinator.com",
-        "points": 15,
+        "points": 16,
         "comments": 10,
         "author": "all2",
-        "age": "13h ago"
+        "age": "17h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50260753,
+        "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+        "url": "https://zebra.rodeo/en/blog/marelleo/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50260753",
+        "site": "zebra.rodeo",
+        "points": 82,
+        "comments": 27,
+        "author": "foOg",
+        "age": "3d ago"
+      },
+      {
+        "rank": 2,
         "id": 50306442,
         "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
         "url": "https://github.com/dbreunig/nesformer",
         "discussion_url": "https://news.ycombinator.com/item?id=50306442",
         "site": "github.com",
-        "points": 237,
-        "comments": 119,
+        "points": 256,
+        "comments": 122,
         "author": "dbreunig",
-        "age": "14h ago"
+        "age": "19h ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 50311686,
         "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
         "url": "https://tng.episodle.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50311686",
         "site": "tng.episodle.com",
-        "points": 175,
-        "comments": 48,
+        "points": 199,
+        "comments": 55,
         "author": "francisofascii",
-        "age": "7h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50258605,
-        "title": "Show HN: Samosa – Linter for Math Derivations",
-        "url": "https://samosa-math.vercel.app",
-        "discussion_url": "https://news.ycombinator.com/item?id=50258605",
-        "site": "samosa-math.vercel.app",
-        "points": 5,
-        "comments": 0,
-        "author": "Hussain04",
-        "age": "3d ago"
+        "age": "12h ago"
       },
       {
         "rank": 4,
@@ -847,8 +847,8 @@
         "url": "https://github.com/arterialist/kube32",
         "discussion_url": "https://news.ycombinator.com/item?id=50291812",
         "site": "github.com",
-        "points": 38,
-        "comments": 9,
+        "points": 44,
+        "comments": 12,
         "author": "Arterialist",
         "age": "1d ago"
       },
@@ -859,10 +859,10 @@
         "url": "https://sketch.wakeshift.ai/games/q5ucru",
         "discussion_url": "https://news.ycombinator.com/item?id=50305218",
         "site": "sketch.wakeshift.ai",
-        "points": 31,
-        "comments": 9,
+        "points": 33,
+        "comments": 10,
         "author": "ericlevine",
-        "age": "16h ago"
+        "age": "20h ago"
       }
     ]
   }
