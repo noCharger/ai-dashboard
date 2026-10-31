@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-31T01:10:50Z",
+  "generated": "2026-10-31T07:39:35Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 815,
+        "trending_score": 803,
         "downloads": 145869,
-        "likes": 4008,
+        "likes": 4036,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Nanbeige/Nanbeige4.3-33B",
         "org": "Nanbeige",
-        "trending_score": 781,
+        "trending_score": 787,
         "downloads": 12178,
-        "likes": 798,
+        "likes": 805,
         "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "LiquidAI/LFM3-1.7B",
         "org": "LiquidAI",
-        "trending_score": 545,
+        "trending_score": 563,
         "downloads": 23694,
-        "likes": 565,
+        "likes": 584,
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "org": "nvidia",
-        "trending_score": 472,
+        "trending_score": 481,
         "downloads": 15980,
-        "likes": 500,
+        "likes": 511,
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "tags": [
           "nemo",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-        "org": "ISTA-DASLab",
+        "name": "baidu/Unlimited-OCR-2",
+        "org": "baidu",
         "trending_score": 416,
-        "downloads": 1747945,
-        "likes": 507,
-        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "downloads": 24276,
+        "likes": 460,
+        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
         "tags": [
-          "gguf",
-          "gsq",
-          "rco",
-          "quantization",
-          "mixed-precision"
+          "transformers",
+          "safetensors",
+          "unlimited-ocr",
+          "feature-extraction",
+          "baidu"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 106270,
+        "stars": 106728,
         "stars_delta": 1140,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 8660,
+        "stars": 8983,
         "stars_delta": 895,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -331,7 +331,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97082,
+        "stars": 97436,
         "stars_delta": 2300,
         "language": "Rust",
         "language_color": "#dea584"
@@ -341,7 +341,7 @@
         "name": "CopilotKit/OpenBot",
         "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
         "url": "https://github.com/CopilotKit/OpenBot",
-        "stars": 8797,
+        "stars": 8952,
         "stars_delta": 706,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "Renhuai123/ziwei-doushu",
         "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
         "url": "https://github.com/Renhuai123/ziwei-doushu",
-        "stars": 11214,
+        "stars": 11618,
         "stars_delta": 1126,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 54151,
+        "stars": 54436,
         "stars_delta": 12838,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -373,7 +373,7 @@
         "name": "AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
         "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 24530,
+        "stars": 24655,
         "stars_delta": 4478,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97082,
+        "stars": 97436,
         "stars_delta": 11323,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 309440,
+        "stars": 309596,
         "stars_delta": 5474,
         "language": "Shell",
         "language_color": "#89e051"
@@ -403,7 +403,7 @@
         "name": "TauricResearch/TradingAgents",
         "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "stars": 118721,
+        "stars": 118788,
         "stars_delta": 5490,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 54151,
+        "stars": 54436,
         "stars_delta": 30721,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 76054,
+        "stars": 76189,
         "stars_delta": 22149,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 34039,
+        "stars": 34088,
         "stars_delta": 8279,
         "language": "Python",
         "language_color": "#3572A5"
@@ -445,7 +445,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 97082,
+        "stars": 97436,
         "stars_delta": 24624,
         "language": "Rust",
         "language_color": "#dea584"
@@ -455,7 +455,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 95762,
+        "stars": 96047,
         "stars_delta": 49116,
         "language": "Python",
         "language_color": "#3572A5"
@@ -534,7 +534,7 @@
         "upvotes": 159,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 118601
+        "github_stars": 118757
       },
       {
         "rank": 2,
@@ -549,40 +549,10 @@
         "upvotes": 126,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 21433
+        "github_stars": 21511
       },
       {
         "rank": 3,
-        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-        "authors": [
-          "Yu Lin",
-          "Yiming Wang",
-          "Runyuan Cai"
-        ],
-        "url": "https://huggingface.co/papers/2609.18063",
-        "categories": [],
-        "upvotes": 31,
-        "published": "2026-09-15",
-        "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 8801
-      },
-      {
-        "rank": 4,
-        "title": "Unlimited OCR Works",
-        "authors": [
-          "Youyang Yin",
-          "Huanhuan Liu",
-          "YY"
-        ],
-        "url": "https://huggingface.co/papers/2606.23050",
-        "categories": [],
-        "upvotes": 105,
-        "published": "2026-06-21",
-        "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 29876
-      },
-      {
-        "rank": 5,
         "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
         "authors": [
           "Aaron J. Li",
@@ -594,7 +564,37 @@
         "upvotes": 6,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 1134
+        "github_stars": 2019
+      },
+      {
+        "rank": 4,
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "authors": [
+          "Yu Lin",
+          "Yiming Wang",
+          "Runyuan Cai"
+        ],
+        "url": "https://huggingface.co/papers/2609.18063",
+        "categories": [],
+        "upvotes": 31,
+        "published": "2026-09-15",
+        "github_repo": "https://github.com/Edge0-AI/edge0",
+        "github_stars": 8851
+      },
+      {
+        "rank": 5,
+        "title": "Unlimited OCR Works",
+        "authors": [
+          "Youyang Yin",
+          "Huanhuan Liu",
+          "YY"
+        ],
+        "url": "https://huggingface.co/papers/2606.23050",
+        "categories": [],
+        "upvotes": 105,
+        "published": "2026-06-21",
+        "github_repo": "https://github.com/baidu/Unlimited-OCR",
+        "github_stars": 29989
       }
     ],
     "arxiv_recent": [
@@ -687,46 +687,46 @@
         "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
         "discussion_url": "https://news.ycombinator.com/item?id=50307190",
         "site": "virtuallyfun.com",
-        "points": 236,
-        "comments": 61,
+        "points": 289,
+        "comments": 79,
         "author": "DHowett",
-        "age": "7h ago"
+        "age": "14h ago"
       },
       {
         "rank": 2,
+        "id": 50312756,
+        "title": "Tell HN: Scribd Breached",
+        "url": "https://news.ycombinator.com/item?id=50312756",
+        "discussion_url": "https://news.ycombinator.com/item?id=50312756",
+        "site": "news.ycombinator.com",
+        "points": 160,
+        "comments": 64,
+        "author": "x______________",
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
         "id": 50277379,
         "title": "Cloudflare Turnstile solver library (no headless browser required)",
         "url": "https://github.com/chris124567/cfsolve",
         "discussion_url": "https://news.ycombinator.com/item?id=50277379",
         "site": "github.com",
-        "points": 63,
-        "comments": 22,
+        "points": 171,
+        "comments": 49,
         "author": "costco",
         "age": "2d ago"
       },
       {
-        "rank": 3,
-        "id": 50300683,
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50300683",
-        "site": "phorion.io",
-        "points": 766,
-        "comments": 481,
-        "author": "_chall",
-        "age": "18h ago"
-      },
-      {
         "rank": 4,
-        "id": 50311686,
-        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-        "url": "https://tng.episodle.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50311686",
-        "site": "tng.episodle.com",
-        "points": 31,
-        "comments": 9,
-        "author": "francisofascii",
-        "age": "1h ago"
+        "id": 50303172,
+        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50303172",
+        "site": "wired.com",
+        "points": 422,
+        "comments": 286,
+        "author": "domhudson",
+        "age": "18h ago"
       },
       {
         "rank": 5,
@@ -735,134 +735,134 @@
         "url": "https://status.northflank.com",
         "discussion_url": "https://news.ycombinator.com/item?id=50305025",
         "site": "status.northflank.com",
-        "points": 355,
-        "comments": 272,
+        "points": 416,
+        "comments": 306,
         "author": "js4ever",
-        "age": "10h ago"
+        "age": "16h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50312756,
+        "title": "Tell HN: Scribd Breached",
+        "url": "https://news.ycombinator.com/item?id=50312756",
+        "discussion_url": "https://news.ycombinator.com/item?id=50312756",
+        "site": "news.ycombinator.com",
+        "points": 160,
+        "comments": 64,
+        "author": "x______________",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50312174,
+        "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+        "url": "https://news.ycombinator.com/item?id=50312174",
+        "discussion_url": "https://news.ycombinator.com/item?id=50312174",
+        "site": "news.ycombinator.com",
+        "points": 26,
+        "comments": 1,
+        "author": "stillatit",
+        "age": "6h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50313705,
+        "title": "Ask HN: Is the Microsoft buyout just a long overdue correction?",
+        "url": "https://news.ycombinator.com/item?id=50313705",
+        "discussion_url": "https://news.ycombinator.com/item?id=50313705",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 2,
+        "author": "sky2224",
+        "age": "1h ago"
+      },
+      {
+        "rank": 4,
         "id": 50306776,
         "title": "Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",
         "url": "https://news.ycombinator.com/item?id=50306776",
         "discussion_url": "https://news.ycombinator.com/item?id=50306776",
         "site": "news.ycombinator.com",
-        "points": 35,
-        "comments": 25,
+        "points": 39,
+        "comments": 26,
         "author": "karakoram",
-        "age": "8h ago"
+        "age": "14h ago"
       },
       {
-        "rank": 2,
-        "id": 50311495,
-        "title": "Ask HN: Are most of you using HN Replies? Or what else do you use?",
-        "url": "https://news.ycombinator.com/item?id=50311495",
-        "discussion_url": "https://news.ycombinator.com/item?id=50311495",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 5,
-        "author": "Gooblebrai",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
+        "rank": 5,
         "id": 50308286,
         "title": "Ask HN: Is applying to Y Combinator worth it if you aren't an insider?",
         "url": "https://news.ycombinator.com/item?id=50308286",
         "discussion_url": "https://news.ycombinator.com/item?id=50308286",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 8,
+        "points": 15,
+        "comments": 10,
         "author": "all2",
-        "age": "6h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50307092,
-        "title": "\"Wrong\" Email",
-        "url": "https://news.ycombinator.com/item?id=50307092",
-        "discussion_url": "https://news.ycombinator.com/item?id=50307092",
-        "site": "news.ycombinator.com",
-        "points": 22,
-        "comments": 4,
-        "author": "rbmm",
-        "age": "7h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50307060,
-        "title": "Ask HN: Are you putting off hardware upgrades because of AI coding tools?",
-        "url": "https://news.ycombinator.com/item?id=50307060",
-        "discussion_url": "https://news.ycombinator.com/item?id=50307060",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 0,
-        "author": "winrid",
-        "age": "7h ago"
+        "age": "13h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50311686,
-        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-        "url": "https://tng.episodle.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50311686",
-        "site": "tng.episodle.com",
-        "points": 31,
-        "comments": 9,
-        "author": "francisofascii",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
         "id": 50306442,
         "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
         "url": "https://github.com/dbreunig/nesformer",
         "discussion_url": "https://news.ycombinator.com/item?id=50306442",
         "site": "github.com",
-        "points": 188,
-        "comments": 110,
+        "points": 237,
+        "comments": 119,
         "author": "dbreunig",
-        "age": "8h ago"
+        "age": "14h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50311686,
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50311686",
+        "site": "tng.episodle.com",
+        "points": 175,
+        "comments": 48,
+        "author": "francisofascii",
+        "age": "7h ago"
       },
       {
         "rank": 3,
+        "id": 50258605,
+        "title": "Show HN: Samosa – Linter for Math Derivations",
+        "url": "https://samosa-math.vercel.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=50258605",
+        "site": "samosa-math.vercel.app",
+        "points": 5,
+        "comments": 0,
+        "author": "Hussain04",
+        "age": "3d ago"
+      },
+      {
+        "rank": 4,
+        "id": 50291812,
+        "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+        "url": "https://github.com/arterialist/kube32",
+        "discussion_url": "https://news.ycombinator.com/item?id=50291812",
+        "site": "github.com",
+        "points": 38,
+        "comments": 9,
+        "author": "Arterialist",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
         "id": 50305218,
         "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
         "url": "https://sketch.wakeshift.ai/games/q5ucru",
         "discussion_url": "https://news.ycombinator.com/item?id=50305218",
         "site": "sketch.wakeshift.ai",
-        "points": 23,
-        "comments": 8,
+        "points": 31,
+        "comments": 9,
         "author": "ericlevine",
-        "age": "9h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50305320,
-        "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-        "url": "https://catcopter.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=50305320",
-        "site": "catcopter.com",
-        "points": 79,
-        "comments": 39,
-        "author": "pawelwentpawel",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50306815,
-        "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-        "url": "https://github.com/spinfinc/spinf-serve",
-        "discussion_url": "https://news.ycombinator.com/item?id=50306815",
-        "site": "github.com",
-        "points": 18,
-        "comments": 4,
-        "author": "giarec",
-        "age": "8h ago"
+        "age": "16h ago"
       }
     ]
   }
