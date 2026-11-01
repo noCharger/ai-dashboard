@@ -1,31 +1,14 @@
 {
-  "generated": "2026-11-01T14:00:06Z",
+  "generated": "2026-11-01T18:46:12Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "Nanbeige/Nanbeige4.3-33B",
-        "org": "Nanbeige",
-        "trending_score": 719,
-        "downloads": 15795,
-        "likes": 959,
-        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "llama",
-          "text-generation",
-          "llm"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 710,
+        "trending_score": 703,
         "downloads": 170353,
-        "likes": 4169,
+        "likes": 4223,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -37,12 +20,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "LiquidAI/LFM3-1.7B",
         "org": "LiquidAI",
-        "trending_score": 613,
+        "trending_score": 623,
         "downloads": 37568,
-        "likes": 658,
+        "likes": 671,
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Nanbeige/Nanbeige4.3-33B",
+        "org": "Nanbeige",
+        "trending_score": 561,
+        "downloads": 15795,
+        "likes": 964,
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "llama",
+          "text-generation",
+          "llm"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "org": "nvidia",
         "trending_score": 531,
         "downloads": 29364,
-        "likes": 573,
+        "likes": 581,
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "tags": [
           "nemo",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "mistralai/Mistral-Large-4-1T-A52B",
         "org": "mistralai",
-        "trending_score": 460,
+        "trending_score": 467,
         "downloads": 4576,
-        "likes": 1421,
+        "likes": 1436,
         "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
         "tags": [
           "transformers",
@@ -311,7 +311,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 108603,
+        "stars": 108935,
         "stars_delta": 1527,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "lightpanda-io/browser",
         "description": "Lightpanda: the headless browser designed for AI and automation",
         "url": "https://github.com/lightpanda-io/browser",
-        "stars": 39704,
+        "stars": 39926,
         "stars_delta": 827,
         "language": "Zig",
         "language_color": "#ec915c"
@@ -331,7 +331,7 @@
         "name": "shiyu-coder/Kronos",
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "url": "https://github.com/shiyu-coder/Kronos",
-        "stars": 45011,
+        "stars": 45203,
         "stars_delta": 611,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 36784,
+        "stars": 37341,
         "stars_delta": 3100,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -351,7 +351,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 10184,
+        "stars": 10384,
         "stars_delta": 919,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 44439,
+        "stars": 44652,
         "stars_delta": 12062,
         "language": "CSS",
         "language_color": "#663399"
@@ -373,7 +373,7 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 98908,
+        "stars": 99141,
         "stars_delta": 12031,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "AgriciDaniel/claude-seo",
         "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
         "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 25312,
+        "stars": 25409,
         "stars_delta": 4814,
         "language": "Python",
         "language_color": "#3572A5"
@@ -393,7 +393,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 108603,
+        "stars": 108935,
         "stars_delta": 4575,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 55962,
+        "stars": 56166,
         "stars_delta": 11908,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -415,7 +415,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 55962,
+        "stars": 56166,
         "stars_delta": 31731,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -425,7 +425,7 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 76865,
+        "stars": 76999,
         "stars_delta": 22303,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -435,7 +435,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 44439,
+        "stars": 44652,
         "stars_delta": 14378,
         "language": "CSS",
         "language_color": "#663399"
@@ -445,7 +445,7 @@
         "name": "debpalash/VoiceStudio",
         "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
         "url": "https://github.com/debpalash/VoiceStudio",
-        "stars": 97434,
+        "stars": 97688,
         "stars_delta": 47234,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "anthropics/knowledge-work-plugins",
         "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "stars": 34301,
+        "stars": 34330,
         "stars_delta": 8375,
         "language": "Python",
         "language_color": "#3572A5"
@@ -549,7 +549,7 @@
         "upvotes": 161,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 119103
+        "github_stars": 119380
       },
       {
         "rank": 3,
@@ -594,7 +594,7 @@
         "upvotes": 31,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 8862
+        "github_stars": 8904
       }
     ],
     "arxiv_recent": [
@@ -682,15 +682,15 @@
     "top": [
       {
         "rank": 1,
-        "id": 50324388,
-        "title": "Norway makes shithouses great again",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50324388",
-        "site": "visitnorway.com",
-        "points": 414,
-        "comments": 198,
-        "author": "giuliomagnifico",
-        "age": "3h ago"
+        "id": 50326821,
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "discussion_url": "https://news.ycombinator.com/item?id=50326821",
+        "site": "hackerbooks.org",
+        "points": 344,
+        "comments": 103,
+        "author": "roansh",
+        "age": "2h ago"
       },
       {
         "rank": 2,
@@ -699,96 +699,96 @@
         "url": "https://karpathy.bearblog.dev/hacker-tube/",
         "discussion_url": "https://news.ycombinator.com/item?id=50319510",
         "site": "karpathy.bearblog.dev",
-        "points": 1554,
-        "comments": 418,
+        "points": 1904,
+        "comments": 485,
         "author": "karpathy",
-        "age": "18h ago"
+        "age": "22h ago"
       },
       {
         "rank": 3,
-        "id": 50325454,
-        "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-        "url": "https://arxiv.org/abs/2610.39302",
-        "discussion_url": "https://news.ycombinator.com/item?id=50325454",
-        "site": "arxiv.org",
-        "points": 16,
-        "comments": 1,
-        "author": "Anon84",
-        "age": "35m ago"
+        "id": 50327650,
+        "title": "Patrick Stewart taught us what good men do with power",
+        "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+        "discussion_url": "https://news.ycombinator.com/item?id=50327650",
+        "site": "vox.com",
+        "points": 121,
+        "comments": 67,
+        "author": "rhaynes",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50320963,
-        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50320963",
-        "site": "smithsonianmag.com",
-        "points": 553,
-        "comments": 166,
-        "author": "ecares",
-        "age": "15h ago"
+        "id": 50326118,
+        "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+        "discussion_url": "https://news.ycombinator.com/item?id=50326118",
+        "site": "tomshardware.com",
+        "points": 282,
+        "comments": 91,
+        "author": "entryleveljobsc",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 50280131,
-        "title": "Radiation Map of the World",
-        "url": "https://radiaverse.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50280131",
-        "site": "radiaverse.com",
-        "points": 20,
-        "comments": 7,
-        "author": "slater",
-        "age": "3d ago"
+        "id": 50327058,
+        "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+        "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+        "discussion_url": "https://news.ycombinator.com/item?id=50327058",
+        "site": "semiconductor-today.com",
+        "points": 81,
+        "comments": 12,
+        "author": "gmays",
+        "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50328340,
+        "title": "Ask HN: What are you working on? (November 2026)",
+        "url": "https://news.ycombinator.com/item?id=50328340",
+        "discussion_url": "https://news.ycombinator.com/item?id=50328340",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 1,
+        "author": "jesse__",
+        "age": "8m ago"
+      },
+      {
+        "rank": 2,
         "id": 50312756,
         "title": "Tell HN: Scribd Breached",
         "url": "https://news.ycombinator.com/item?id=50312756",
         "discussion_url": "https://news.ycombinator.com/item?id=50312756",
         "site": "news.ycombinator.com",
-        "points": 345,
-        "comments": 121,
+        "points": 346,
+        "comments": 122,
         "author": "x______________",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 50322477,
         "title": "Ask HN: Anyone here still writing code for reasons other than fun or learning?",
         "url": "https://news.ycombinator.com/item?id=50322477",
         "discussion_url": "https://news.ycombinator.com/item?id=50322477",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 12,
+        "points": 10,
+        "comments": 15,
         "author": "czhu12",
-        "age": "10h ago"
+        "age": "15h ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 50312174,
         "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
         "url": "https://news.ycombinator.com/item?id=50312174",
         "discussion_url": "https://news.ycombinator.com/item?id=50312174",
         "site": "news.ycombinator.com",
-        "points": 39,
+        "points": 40,
         "comments": 3,
         "author": "stillatit",
         "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50321871,
-        "title": "Ask HN: Old experimental website that made photos sing?",
-        "url": "https://news.ycombinator.com/item?id=50321871",
-        "discussion_url": "https://news.ycombinator.com/item?id=50321871",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "jesuisdieu",
-        "age": "12h ago"
       },
       {
         "rank": 5,
@@ -800,69 +800,69 @@
         "points": 44,
         "comments": 27,
         "author": "karakoram",
-        "age": "1d ago"
+        "age": "2d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50290533,
-        "title": "Show HN: Point your camera at a landscape to learn about its geology",
-        "url": "https://outcrop.rocks/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50290533",
-        "site": "outcrop.rocks",
-        "points": 42,
-        "comments": 6,
-        "author": "headsupernova",
-        "age": "2d ago"
+        "id": 50326821,
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "discussion_url": "https://news.ycombinator.com/item?id=50326821",
+        "site": "hackerbooks.org",
+        "points": 344,
+        "comments": 103,
+        "author": "roansh",
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 50314508,
+        "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+        "url": "https://kevs3d.co.uk/phoria2/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50314508",
+        "site": "kevs3d.co.uk",
+        "points": 45,
+        "comments": 5,
+        "author": "kevs3d",
+        "age": "1d ago"
+      },
+      {
+        "rank": 3,
         "id": 50325253,
         "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
         "url": "https://github.com/ivankovic/omnidiff",
         "discussion_url": "https://news.ycombinator.com/item?id=50325253",
         "site": "github.com",
-        "points": 2,
-        "comments": 2,
+        "points": 48,
+        "comments": 22,
         "author": "FabCH",
-        "age": "57m ago"
-      },
-      {
-        "rank": 3,
-        "id": 50321522,
-        "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-        "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-        "discussion_url": "https://news.ycombinator.com/item?id=50321522",
-        "site": "bbrouter.com",
-        "points": 41,
-        "comments": 8,
-        "author": "creack",
-        "age": "13h ago"
+        "age": "5h ago"
       },
       {
         "rank": 4,
-        "id": 50315782,
-        "title": "Show HN: A language model that lives in a boot sector",
-        "url": "https://github.com/kerlenton/bootgpt",
-        "discussion_url": "https://news.ycombinator.com/item?id=50315782",
-        "site": "github.com",
-        "points": 87,
-        "comments": 5,
-        "author": "kerlenton",
-        "age": "1d ago"
+        "id": 50290533,
+        "title": "Show HN: Point your camera at a landscape to learn about its geology",
+        "url": "https://outcrop.rocks/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50290533",
+        "site": "outcrop.rocks",
+        "points": 97,
+        "comments": 27,
+        "author": "headsupernova",
+        "age": "3d ago"
       },
       {
         "rank": 5,
-        "id": 50260753,
-        "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-        "url": "https://zebra.rodeo/en/blog/marelleo/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50260753",
-        "site": "zebra.rodeo",
-        "points": 190,
-        "comments": 51,
-        "author": "foOg",
-        "age": "4d ago"
+        "id": 50327937,
+        "title": "Show HN: Offline project memory for coding agents – no API key, no vector DB",
+        "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research",
+        "discussion_url": "https://news.ycombinator.com/item?id=50327937",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "krapcys",
+        "age": "48m ago"
       }
     ]
   }
