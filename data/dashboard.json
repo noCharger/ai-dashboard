@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-03T08:46:00Z",
+  "generated": "2026-11-03T13:54:53Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "LiquidAI/LFM3-1.7B",
         "org": "LiquidAI",
-        "trending_score": 800,
-        "downloads": 42384,
-        "likes": 1255,
+        "trending_score": 827,
+        "downloads": 47817,
+        "likes": 1341,
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 653,
-        "downloads": 177009,
-        "likes": 4759,
+        "trending_score": 642,
+        "downloads": 187260,
+        "likes": 4798,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "org": "nvidia",
-        "trending_score": 621,
-        "downloads": 32439,
-        "likes": 700,
+        "trending_score": 627,
+        "downloads": 38942,
+        "likes": 708,
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "tags": [
           "nemo",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "mistralai/Mistral-Large-4-1T-A52B",
         "org": "mistralai",
-        "trending_score": 515,
-        "downloads": 5500,
-        "likes": 1515,
+        "trending_score": 519,
+        "downloads": 6556,
+        "likes": 1525,
         "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
         "tags": [
           "transformers",
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "speridlabs/idol",
         "org": "speridlabs",
-        "trending_score": 426,
-        "downloads": 7787,
-        "likes": 448,
+        "trending_score": 446,
+        "downloads": 10742,
+        "likes": 468,
         "url": "https://huggingface.co/speridlabs/idol",
         "tags": [
           "idol",
@@ -150,6 +150,15 @@
     "general": [
       {
         "rank": 1,
+        "name": "Keen AgenticOS V1.1",
+        "org": "KeenData",
+        "score": 94.35,
+        "score_unit": "%",
+        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "verified": true
+      },
+      {
+        "rank": 2,
         "name": "Shadow Harness V8.01",
         "org": "Shadow",
         "score": 94.02,
@@ -158,7 +167,7 @@
         "verified": true
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "Keen AgenticOS  V1.0",
         "org": "KeenData",
         "score": 94.02,
@@ -167,7 +176,7 @@
         "verified": true
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "Ops-Agentic-Search-2.0",
         "org": "",
         "score": 93.69,
@@ -176,21 +185,12 @@
         "verified": true
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "CustomGPT.ai Research Lab v44",
         "org": "CustomGPT.ai",
         "score": 93.36,
         "score_unit": "%",
         "url": "https://github.com/adorosario/customgpt-agent",
-        "verified": true
-      },
-      {
-        "rank": 5,
-        "name": "OmniSeek_Preview_v1.1",
-        "org": "Alibaba Enterprise Intelligence & HKUST(GZ)",
-        "score": 93.36,
-        "score_unit": "%",
-        "url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
         "verified": true
       }
     ],
@@ -308,51 +308,51 @@
     "daily": [
       {
         "rank": 1,
-        "name": "vercel-labs/agent-desktop",
-        "description": "Computer use CLI for AI agents",
-        "url": "https://github.com/vercel-labs/agent-desktop",
-        "stars": 11117,
-        "stars_delta": 2275,
-        "language": "Rust",
-        "language_color": "#dea584"
-      },
-      {
-        "rank": 2,
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 111143,
-        "stars_delta": 1803,
+        "stars": 111393,
+        "stars_delta": 1138,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
+        "rank": 2,
+        "name": "vercel-labs/agent-desktop",
+        "description": "Computer use CLI for AI agents",
+        "url": "https://github.com/vercel-labs/agent-desktop",
+        "stars": 11743,
+        "stars_delta": 3792,
+        "language": "Rust",
+        "language_color": "#dea584"
+      },
+      {
         "rank": 3,
-        "name": "D4Vinci/Scrapling",
-        "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:h",
-        "url": "https://github.com/D4Vinci/Scrapling",
-        "stars": 93515,
-        "stars_delta": 706,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "stars": 10289,
+        "stars_delta": 437,
+        "language": "Rust",
+        "language_color": "#dea584"
       },
       {
         "rank": 4,
-        "name": "hyprwm/Hyprland",
-        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-        "url": "https://github.com/hyprwm/Hyprland",
-        "stars": 40121,
-        "stars_delta": 509,
-        "language": "C++",
-        "language_color": "#f34b7d"
+        "name": "JustVugg/colibri",
+        "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+        "url": "https://github.com/JustVugg/colibri",
+        "stars": 46980,
+        "stars_delta": 803,
+        "language": "C",
+        "language_color": "#555555"
       },
       {
         "rank": 5,
-        "name": "Donchitos/Claude-Code-Game-Studios",
-        "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 33989,
-        "stars_delta": 1379,
+        "name": "mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "url": "https://github.com/mattpocock/skills",
+        "stars": 310921,
+        "stars_delta": 1164,
         "language": "Shell",
         "language_color": "#89e051"
       }
@@ -363,7 +363,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 46324,
+        "stars": 46574,
         "stars_delta": 10517,
         "language": "CSS",
         "language_color": "#663399"
@@ -373,40 +373,40 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 111142,
+        "stars": 111393,
         "stars_delta": 7255,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "pbakaus/impeccable",
-        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-        "url": "https://github.com/pbakaus/impeccable",
-        "stars": 100887,
-        "stars_delta": 11754,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "pingdotgg/t3code",
+        "description": "",
+        "url": "https://github.com/pingdotgg/t3code",
+        "stars": 43338,
+        "stars_delta": 9770,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "AgriciDaniel/claude-seo",
-        "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
-        "url": "https://github.com/AgriciDaniel/claude-seo",
-        "stars": 26111,
-        "stars_delta": 4091,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 311434,
+        "stars": 311605,
         "stars_delta": 5956,
         "language": "Shell",
         "language_color": "#89e051"
+      },
+      {
+        "rank": 5,
+        "name": "pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "url": "https://github.com/pbakaus/impeccable",
+        "stars": 101141,
+        "stars_delta": 11754,
+        "language": "Rust",
+        "language_color": "#dea584"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 424427,
+        "stars": 425492,
         "stars_delta": 422104,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,40 +425,40 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 57681,
+        "stars": 57874,
         "stars_delta": 33474,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 3,
-        "name": "tester-army/e2e",
-        "description": "Next generation e2e testing framework for web and mobile apps.",
-        "url": "https://github.com/tester-army/e2e",
-        "stars": 12711,
-        "stars_delta": 11344,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
+        "name": "Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "url": "https://github.com/Nutlope/hallmark",
+        "stars": 46574,
+        "stars_delta": 16306,
+        "language": "CSS",
+        "language_color": "#663399"
       },
       {
         "rank": 4,
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 77958,
+        "stars": 78098,
         "stars_delta": 22290,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "Nutlope/hallmark",
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "url": "https://github.com/Nutlope/hallmark",
-        "stars": 46324,
-        "stars_delta": 16306,
-        "language": "CSS",
-        "language_color": "#663399"
+        "name": "debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "stars": 99698,
+        "stars_delta": 47605,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "frameworks": [
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2412.20138",
         "categories": [],
-        "upvotes": 162,
+        "upvotes": 161,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
         "github_stars": 120025
@@ -564,7 +564,7 @@
         "upvotes": 63,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 46020
+        "github_stars": 46250
       },
       {
         "rank": 4,
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.16157",
         "categories": [],
-        "upvotes": 112,
+        "upvotes": 111,
         "published": "2026-08-16",
         "github_repo": "https://github.com/FlashML-org/FreeToken",
         "github_stars": 16154
@@ -591,89 +591,92 @@
         ],
         "url": "https://huggingface.co/papers/2610.14224",
         "categories": [],
-        "upvotes": 86,
+        "upvotes": 68,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 22110
+        "github_stars": 22280
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+        "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
         "authors": [
-          "Ales Kubicek",
-          "Andrea Caciolai",
-          "Liangzu Peng"
+          "Paulius Skaisgiris",
+          "Thomas Pammer",
+          "Veronika Semmelrock"
         ],
-        "url": "https://arxiv.org/abs/2610.42147",
+        "url": "https://arxiv.org/abs/2611.03641",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-02"
+        "published": "2026-11-03"
       },
       {
         "rank": 2,
-        "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+        "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
         "authors": [
-          "Yuzhe Liu",
-          "Haolin Tian",
-          "Tonghan Wang"
+          "Zhaoyang Wang",
+          "Qianhui Wu",
+          "Boyu Gou"
         ],
-        "url": "https://arxiv.org/abs/2610.42116",
+        "url": "https://arxiv.org/abs/2611.03634",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-11-02"
+        "published": "2026-11-03"
       },
       {
         "rank": 3,
-        "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+        "title": "Strategist: Evolving Reasoning with Agents",
         "authors": [
-          "Juntao Cheng",
-          "Jinzhou Tang",
-          "Fan Feng"
+          "Taiming Lu",
+          "Qi Xu",
+          "Zhigang Hua"
         ],
-        "url": "https://arxiv.org/abs/2610.42096",
-        "categories": [
-          "cs.AI",
-          "cs.RO",
-          "stat.ML"
-        ],
-        "upvotes": null,
-        "published": "2026-11-02"
-      },
-      {
-        "rank": 4,
-        "title": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
-        "authors": [
-          "Omer Asim Ozturk",
-          "Cihan Aydiner"
-        ],
-        "url": "https://arxiv.org/abs/2610.42066",
+        "url": "https://arxiv.org/abs/2611.03618",
         "categories": [
           "cs.AI",
           "cs.CL"
         ],
         "upvotes": null,
-        "published": "2026-11-02"
+        "published": "2026-11-03"
+      },
+      {
+        "rank": 4,
+        "title": "DiabAgent: Toward Agentic Physiological Control",
+        "authors": [
+          "Chengxi Li",
+          "Shaoxuan Li",
+          "Deyao Hong"
+        ],
+        "url": "https://arxiv.org/abs/2611.03601",
+        "categories": [
+          "cs.AI",
+          "cs.CL"
+        ],
+        "upvotes": null,
+        "published": "2026-11-03"
       },
       {
         "rank": 5,
-        "title": "Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice",
+        "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
         "authors": [
-          "Artin Yousefi",
-          "Aizierjiang Aiersilan",
-          "Lorien C Abroms"
+          "Raphael Casey",
+          "Michael Simeone",
+          "Alberto Tosato"
         ],
-        "url": "https://arxiv.org/abs/2610.42039",
+        "url": "https://arxiv.org/abs/2611.03600",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.MA"
         ],
         "upvotes": null,
-        "published": "2026-11-02"
+        "published": "2026-11-03"
       }
     ]
   },
@@ -681,63 +684,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50351111,
+        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+        "discussion_url": "https://news.ycombinator.com/item?id=50351111",
+        "site": "honnibal.dev",
+        "points": 207,
+        "comments": 37,
+        "author": "syllogism",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
         "id": 50341174,
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
         "discussion_url": "https://news.ycombinator.com/item?id=50341174",
         "site": "rikiyat.github.io",
-        "points": 2512,
-        "comments": 780,
+        "points": 2844,
+        "comments": 860,
         "author": "dbreunig",
-        "age": "14h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50346849,
-        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-        "discussion_url": "https://news.ycombinator.com/item?id=50346849",
-        "site": "github.com",
-        "points": 175,
-        "comments": 43,
-        "author": "bpierre",
-        "age": "7h ago"
+        "age": "19h ago"
       },
       {
         "rank": 3,
-        "id": 50346981,
-        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-        "url": "https://hackertimes.ca/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50346981",
-        "site": "hackertimes.ca",
-        "points": 227,
-        "comments": 71,
-        "author": "polpenn",
-        "age": "6h ago"
+        "id": 50327088,
+        "title": "Life with Down Syndrome",
+        "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50327088",
+        "site": "esquire.com",
+        "points": 54,
+        "comments": 14,
+        "author": "NaOH",
+        "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 50348962,
-        "title": "Nvidia – open-source auto-ontology",
-        "url": "https://github.com/NVIDIA/auto-ontology",
-        "discussion_url": "https://news.ycombinator.com/item?id=50348962",
-        "site": "github.com",
-        "points": 27,
-        "comments": 3,
-        "author": "campervans",
+        "id": 50351319,
+        "title": "Charles Tandy, the mastermind behind Radio Shack",
+        "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50351319",
+        "site": "dfarq.homeip.net",
+        "points": 9,
+        "comments": 1,
+        "author": "ibobev",
         "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 50334523,
-        "title": "European RISC-V Industrial Computing Initiative",
-        "url": "https://erici.eu",
-        "discussion_url": "https://news.ycombinator.com/item?id=50334523",
-        "site": "erici.eu",
-        "points": 86,
-        "comments": 35,
-        "author": "ymz5",
-        "age": "23h ago"
+        "id": 50349276,
+        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+        "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50349276",
+        "site": "nicholas.carlini.com",
+        "points": 134,
+        "comments": 62,
+        "author": "markusw",
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -748,10 +751,10 @@
         "url": "https://news.ycombinator.com/item?id=50338728",
         "discussion_url": "https://news.ycombinator.com/item?id=50338728",
         "site": "news.ycombinator.com",
-        "points": 215,
-        "comments": 169,
+        "points": 229,
+        "comments": 194,
         "author": "whoishiring",
-        "age": "16h ago"
+        "age": "21h ago"
       },
       {
         "rank": 2,
@@ -760,46 +763,46 @@
         "url": "https://news.ycombinator.com/item?id=50346164",
         "discussion_url": "https://news.ycombinator.com/item?id=50346164",
         "site": "news.ycombinator.com",
-        "points": 135,
-        "comments": 21,
+        "points": 153,
+        "comments": 23,
         "author": "stockresearcher",
-        "age": "8h ago"
+        "age": "13h ago"
       },
       {
         "rank": 3,
-        "id": 50345712,
-        "title": "WorkOS reports security breach",
-        "url": "https://news.ycombinator.com/item?id=50345712",
-        "discussion_url": "https://news.ycombinator.com/item?id=50345712",
-        "site": "news.ycombinator.com",
-        "points": 68,
-        "comments": 7,
-        "author": "werrett",
-        "age": "9h ago"
-      },
-      {
-        "rank": 4,
         "id": 50328896,
         "title": "Ask HN: Which TV do you recommend for privacy?",
         "url": "https://news.ycombinator.com/item?id=50328896",
         "discussion_url": "https://news.ycombinator.com/item?id=50328896",
         "site": "news.ycombinator.com",
-        "points": 705,
-        "comments": 845,
+        "points": 713,
+        "comments": 853,
         "author": "LecroJS",
         "age": "1d ago"
       },
       {
-        "rank": 5,
-        "id": 50344065,
-        "title": "Ask HN: Does anyone enjoy work anymore?",
-        "url": "https://news.ycombinator.com/item?id=50344065",
-        "discussion_url": "https://news.ycombinator.com/item?id=50344065",
+        "rank": 4,
+        "id": 50345712,
+        "title": "WorkOS reports security breach",
+        "url": "https://news.ycombinator.com/item?id=50345712",
+        "discussion_url": "https://news.ycombinator.com/item?id=50345712",
         "site": "news.ycombinator.com",
-        "points": 15,
-        "comments": 13,
-        "author": "jackmalpo",
-        "age": "11h ago"
+        "points": 73,
+        "comments": 9,
+        "author": "werrett",
+        "age": "14h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50312756,
+        "title": "Tell HN: Scribd Breached",
+        "url": "https://news.ycombinator.com/item?id=50312756",
+        "discussion_url": "https://news.ycombinator.com/item?id=50312756",
+        "site": "news.ycombinator.com",
+        "points": 358,
+        "comments": 123,
+        "author": "x______________",
+        "age": "3d ago"
       }
     ],
     "show": [
@@ -810,10 +813,10 @@
         "url": "https://hackertimes.ca/",
         "discussion_url": "https://news.ycombinator.com/item?id=50346981",
         "site": "hackertimes.ca",
-        "points": 227,
-        "comments": 71,
+        "points": 355,
+        "comments": 110,
         "author": "polpenn",
-        "age": "6h ago"
+        "age": "12h ago"
       },
       {
         "rank": 2,
@@ -822,46 +825,46 @@
         "url": "https://news.ycombinator.com/item?id=50340088",
         "discussion_url": "https://news.ycombinator.com/item?id=50340088",
         "site": "news.ycombinator.com",
-        "points": 675,
-        "comments": 336,
+        "points": 754,
+        "comments": 354,
         "author": "aarushyadav",
-        "age": "15h ago"
+        "age": "20h ago"
       },
       {
         "rank": 3,
-        "id": 50348740,
-        "title": "Show HN: ReBirth 338 in Browser",
-        "url": "https://margeux.com/rb338.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=50348740",
-        "site": "margeux.com",
-        "points": 17,
-        "comments": 7,
-        "author": "vegnus",
-        "age": "2h ago"
+        "id": 50351427,
+        "title": "Show HN: Kvittas, an Expense Splitting App",
+        "url": "https://kvittas.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=50351427",
+        "site": "kvittas.app",
+        "points": 5,
+        "comments": 1,
+        "author": "primalscreamer",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50339221,
-        "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-        "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50339221",
-        "site": "p.migdal.pl",
-        "points": 263,
-        "comments": 41,
-        "author": "stared",
-        "age": "16h ago"
+        "id": 50351404,
+        "title": "Show HN: Bema: Work messaging built for humans",
+        "url": "https://getbema.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50351404",
+        "site": "getbema.app",
+        "points": 5,
+        "comments": 1,
+        "author": "ben_d",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 50347552,
-        "title": "Show HN: I built a little browser game to practice Vim commands",
-        "url": "https://hjkl.duy.run",
-        "discussion_url": "https://news.ycombinator.com/item?id=50347552",
-        "site": "hjkl.duy.run",
-        "points": 26,
-        "comments": 19,
-        "author": "dh1011",
-        "age": "5h ago"
+        "id": 50351781,
+        "title": "Show HN: Rigorix, Execution governance for AI agents, open-source engine",
+        "url": "https://rigorix.eu/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50351781",
+        "site": "rigorix.eu",
+        "points": 3,
+        "comments": 0,
+        "author": "arman-w-jalili",
+        "age": "21m ago"
       }
     ]
   }
