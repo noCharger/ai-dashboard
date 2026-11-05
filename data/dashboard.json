@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-04T18:18:52Z",
+  "generated": "2026-11-05T00:01:25Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "org": "nvidia",
-        "trending_score": 759,
+        "trending_score": 691,
         "downloads": 44939,
-        "likes": 1458,
+        "likes": 1484,
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "tags": [
           "nemo",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "org": "deepseek-ai",
-        "trending_score": 618,
+        "trending_score": 606,
         "downloads": 221621,
-        "likes": 5249,
+        "likes": 5266,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "tags": [
           "transformers",
@@ -38,11 +38,28 @@
       },
       {
         "rank": 3,
+        "name": "speridlabs/idol",
+        "org": "speridlabs",
+        "trending_score": 580,
+        "downloads": 14613,
+        "likes": 617,
+        "url": "https://huggingface.co/speridlabs/idol",
+        "tags": [
+          "idol",
+          "gaussian-splatting",
+          "3d",
+          "image-to-3d",
+          "license:apache-2.0"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 4,
         "name": "LiquidAI/LFM3-1.7B",
         "org": "LiquidAI",
-        "trending_score": 592,
+        "trending_score": 571,
         "downloads": 54959,
-        "likes": 1470,
+        "likes": 1485,
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "tags": [
           "transformers",
@@ -54,12 +71,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "mistralai/Mistral-Large-4-1T-A52B",
         "org": "mistralai",
-        "trending_score": 553,
+        "trending_score": 557,
         "downloads": 8200,
-        "likes": 1583,
+        "likes": 1589,
         "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
         "tags": [
           "transformers",
@@ -67,23 +84,6 @@
           "image-text-to-text",
           "vLLM",
           "SGLang"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "speridlabs/idol",
-        "org": "speridlabs",
-        "trending_score": 551,
-        "downloads": 14613,
-        "likes": 587,
-        "url": "https://huggingface.co/speridlabs/idol",
-        "tags": [
-          "idol",
-          "gaussian-splatting",
-          "3d",
-          "image-to-3d",
-          "license:apache-2.0"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "NVIDIA/auto-ontology",
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
         "url": "https://github.com/NVIDIA/auto-ontology",
-        "stars": 4458,
-        "stars_delta": 2053,
+        "stars": 4902,
+        "stars_delta": 2050,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "max-sixty/worktrunk",
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "url": "https://github.com/max-sixty/worktrunk",
-        "stars": 10912,
-        "stars_delta": 524,
+        "stars": 11009,
+        "stars_delta": 531,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -331,8 +331,8 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 312861,
-        "stars_delta": 1376,
+        "stars": 313277,
+        "stars_delta": 1379,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -341,8 +341,8 @@
         "name": "floci-io/floci",
         "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
         "url": "https://github.com/floci-io/floci",
-        "stars": 29449,
-        "stars_delta": 1082,
+        "stars": 29584,
+        "stars_delta": 1090,
         "language": "Java",
         "language_color": "#b07219"
       },
@@ -351,8 +351,8 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 112637,
-        "stars_delta": 1165,
+        "stars": 112821,
+        "stars_delta": 1172,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 112637,
-        "stars_delta": 7995,
+        "stars": 112821,
+        "stars_delta": 8822,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 47728,
-        "stars_delta": 8765,
+        "stars": 47900,
+        "stars_delta": 7622,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -383,8 +383,8 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 46094,
-        "stars_delta": 12542,
+        "stars": 46562,
+        "stars_delta": 14580,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "pbakaus/impeccable",
         "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
         "url": "https://github.com/pbakaus/impeccable",
-        "stars": 102527,
-        "stars_delta": 11405,
+        "stars": 102789,
+        "stars_delta": 10921,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -403,8 +403,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 312323,
-        "stars_delta": 5994,
+        "stars": 312431,
+        "stars_delta": 5565,
         "language": "Shell",
         "language_color": "#89e051"
       }
@@ -415,8 +415,8 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 430143,
-        "stars_delta": 426427,
+        "stars": 430796,
+        "stars_delta": 430285,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -425,8 +425,8 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 51112,
-        "stars_delta": 47969,
+        "stars": 51177,
+        "stars_delta": 47878,
         "language": "C++",
         "language_color": "#f34b7d"
       },
@@ -435,8 +435,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 58831,
-        "stars_delta": 34248,
+        "stars": 59328,
+        "stars_delta": 34859,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -445,8 +445,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 47728,
-        "stars_delta": 17314,
+        "stars": 47900,
+        "stars_delta": 18210,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -455,8 +455,8 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 78817,
-        "stars_delta": 22387,
+        "stars": 78927,
+        "stars_delta": 22621,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.14224",
         "categories": [],
-        "upvotes": 68,
+        "upvotes": 67,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
         "github_stars": 22583
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2608.16157",
         "categories": [],
-        "upvotes": 111,
+        "upvotes": 110,
         "published": "2026-08-16",
         "github_repo": "https://github.com/FlashML-org/FreeToken",
         "github_stars": 16573
@@ -677,187 +677,187 @@
     "top": [
       {
         "rank": 1,
+        "id": 50371246,
+        "title": "Residential proxies detected on White House network",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "discussion_url": "https://news.ycombinator.com/item?id=50371246",
+        "site": "layer3intel.com",
+        "points": 507,
+        "comments": 148,
+        "author": "Rasbora",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50369925,
+        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "url": "https://www.ricursive.com/ripple",
+        "discussion_url": "https://news.ycombinator.com/item?id=50369925",
+        "site": "ricursive.com",
+        "points": 199,
+        "comments": 67,
+        "author": "Philpax",
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
         "id": 50364336,
         "title": "AI is forcing us to pay off 40 years of technical debt",
         "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
         "discussion_url": "https://news.ycombinator.com/item?id=50364336",
         "site": "spectrum.ieee.org",
-        "points": 722,
-        "comments": 448,
+        "points": 1015,
+        "comments": 612,
         "author": "pseudolus",
-        "age": "6h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50368626,
-        "title": "Progress on provable inference for large language models",
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "discussion_url": "https://news.ycombinator.com/item?id=50368626",
-        "site": "anthropic.com",
-        "points": 59,
-        "comments": 18,
-        "author": "ltononro",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50366522,
-        "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-        "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366522",
-        "site": "99percentinvisible.org",
-        "points": 143,
-        "comments": 77,
-        "author": "zenincognito",
-        "age": "3h ago"
+        "age": "12h ago"
       },
       {
         "rank": 4,
-        "id": 50368804,
-        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-        "url": "https://news.ycombinator.com/item?id=50368804",
-        "discussion_url": "https://news.ycombinator.com/item?id=50368804",
-        "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 6,
-        "author": "lukeigel",
-        "age": "46m ago"
+        "id": 50370610,
+        "title": "Insects don't swarm at LED lights",
+        "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50370610",
+        "site": "birdsoutsidemywindow.org",
+        "points": 144,
+        "comments": 86,
+        "author": "speckx",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 50362905,
-        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-        "discussion_url": "https://news.ycombinator.com/item?id=50362905",
-        "site": "mindstudio.ai",
-        "points": 465,
-        "comments": 200,
-        "author": "novaRom",
-        "age": "9h ago"
+        "id": 50372164,
+        "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+        "url": "https://icode4.coffee/?p=1746",
+        "discussion_url": "https://news.ycombinator.com/item?id=50372164",
+        "site": "icode4.coffee",
+        "points": 39,
+        "comments": 2,
+        "author": "muricula",
+        "age": "1h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50366117,
+        "title": "Ask HN: What's your current AI agentic setup?",
+        "url": "https://news.ycombinator.com/item?id=50366117",
+        "discussion_url": "https://news.ycombinator.com/item?id=50366117",
+        "site": "news.ycombinator.com",
+        "points": 77,
+        "comments": 83,
+        "author": "eggbrain",
+        "age": "9h ago"
+      },
+      {
+        "rank": 2,
         "id": 50363461,
         "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
         "url": "https://news.ycombinator.com/item?id=50363461",
         "discussion_url": "https://news.ycombinator.com/item?id=50363461",
         "site": "news.ycombinator.com",
-        "points": 478,
-        "comments": 125,
+        "points": 618,
+        "comments": 159,
         "author": "jameslk",
-        "age": "8h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50360947,
-        "title": "Tell HN: Don't use Postman, they proxy your info without your permission",
-        "url": "https://news.ycombinator.com/item?id=50360947",
-        "discussion_url": "https://news.ycombinator.com/item?id=50360947",
-        "site": "news.ycombinator.com",
-        "points": 85,
-        "comments": 3,
-        "author": "neya",
-        "age": "15h ago"
+        "age": "13h ago"
       },
       {
         "rank": 3,
-        "id": 50352757,
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-        "url": "https://news.ycombinator.com/item?id=50352757",
-        "discussion_url": "https://news.ycombinator.com/item?id=50352757",
+        "id": 50372294,
+        "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+        "url": "https://news.ycombinator.com/item?id=50372294",
+        "discussion_url": "https://news.ycombinator.com/item?id=50372294",
         "site": "news.ycombinator.com",
-        "points": 510,
-        "comments": 151,
-        "author": "user052919",
-        "age": "1d ago"
+        "points": 44,
+        "comments": 36,
+        "author": "newswangerd",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50354336,
-        "title": "Gitbook Breached",
-        "url": "https://news.ycombinator.com/item?id=50354336",
-        "discussion_url": "https://news.ycombinator.com/item?id=50354336",
+        "id": 50372381,
+        "title": "Canva lays off 22% of its workforce; 1,270 people",
+        "url": "https://news.ycombinator.com/item?id=50372381",
+        "discussion_url": "https://news.ycombinator.com/item?id=50372381",
         "site": "news.ycombinator.com",
-        "points": 162,
-        "comments": 38,
-        "author": "punchmesan",
-        "age": "1d ago"
+        "points": 11,
+        "comments": 0,
+        "author": "princevegeta89",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 50366661,
-        "title": "Ask HN: What's on Your Learning List?",
-        "url": "https://news.ycombinator.com/item?id=50366661",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366661",
+        "id": 50347425,
+        "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
+        "url": "https://news.ycombinator.com/item?id=50347425",
+        "discussion_url": "https://news.ycombinator.com/item?id=50347425",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "carlos-menezes",
-        "age": "3h ago"
+        "points": 36,
+        "comments": 43,
+        "author": "mike_richards",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50366929,
-        "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-        "url": "https://pcdealcheck.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366929",
-        "site": "pcdealcheck.com",
-        "points": 35,
-        "comments": 17,
-        "author": "adlep",
-        "age": "2h ago"
+        "id": 50369895,
+        "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+        "url": "https://fireflyk64.github.io/wcmulti/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50369895",
+        "site": "fireflyk64.github.io",
+        "points": 91,
+        "comments": 11,
+        "author": "daniel_rh",
+        "age": "5h ago"
       },
       {
         "rank": 2,
-        "id": 50346755,
-        "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-        "url": "https://hackertv.org",
-        "discussion_url": "https://news.ycombinator.com/item?id=50346755",
-        "site": "hackertv.org",
-        "points": 429,
-        "comments": 79,
-        "author": "dsalzman",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50358352,
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "url": "https://uncracked.city",
-        "discussion_url": "https://news.ycombinator.com/item?id=50358352",
-        "site": "uncracked.city",
-        "points": 117,
-        "comments": 57,
-        "author": "passkey1510",
-        "age": "20h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50366811,
-        "title": "Show HN: Codemap – one-page interactive map of any Go repository",
-        "url": "https://github.com/peterretief/codemap",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366811",
+        "id": 50371090,
+        "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "url": "https://github.com/gauge-sh/gauge-cli",
+        "discussion_url": "https://news.ycombinator.com/item?id=50371090",
         "site": "github.com",
-        "points": 28,
-        "comments": 13,
-        "author": "peter_retief",
+        "points": 8,
+        "comments": 1,
+        "author": "0x63_Problems",
         "age": "3h ago"
       },
       {
+        "rank": 3,
+        "id": 50366929,
+        "title": "Show HN: I built a tool that prices a pre-built PC part by part",
+        "url": "https://pcdealcheck.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50366929",
+        "site": "pcdealcheck.com",
+        "points": 88,
+        "comments": 60,
+        "author": "adlep",
+        "age": "8h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50339183,
+        "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+        "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50339183",
+        "site": "squid-protocol.github.io",
+        "points": 9,
+        "comments": 10,
+        "author": "joe-esquibel",
+        "age": "2d ago"
+      },
+      {
         "rank": 5,
-        "id": 50366976,
-        "title": "Show HN: Decipher saves you from specs and docs you rubber stamp",
-        "url": "https://github.com/amirimi/decipher",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366976",
+        "id": 50372207,
+        "title": "Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
+        "url": "https://github.com/akustikrausch/amigent",
+        "discussion_url": "https://news.ycombinator.com/item?id=50372207",
         "site": "github.com",
         "points": 2,
-        "comments": 1,
-        "author": "amk9978",
-        "age": "2h ago"
+        "comments": 0,
+        "author": "akustikrausch",
+        "age": "1h ago"
       }
     ]
   }
