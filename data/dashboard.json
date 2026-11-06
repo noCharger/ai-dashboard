@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-05T21:38:55Z",
+  "generated": "2026-11-06T01:52:29Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "moonshotai/Kimi-K3.1-Pro",
         "org": "moonshotai",
-        "trending_score": 843,
+        "trending_score": 875,
         "downloads": 11658,
-        "likes": 891,
+        "likes": 933,
         "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "speridlabs/idol",
         "org": "speridlabs",
-        "trending_score": 695,
+        "trending_score": 690,
         "downloads": 17180,
-        "likes": 753,
+        "likes": 778,
         "url": "https://huggingface.co/speridlabs/idol",
         "tags": [
           "idol",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Pika-Labs/Pika-H3-Flex",
-        "org": "Pika-Labs",
-        "trending_score": 382,
-        "downloads": 863,
-        "likes": 466,
-        "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
-        "tags": [
-          "diffusers",
-          "safetensors",
-          "video-generation",
-          "audio-video-generation",
-          "lora"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 377,
+        "trending_score": 375,
         "downloads": 2561845,
-        "likes": 10717,
+        "likes": 10734,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -71,19 +54,36 @@
         "rank_change": null
       },
       {
-        "rank": 5,
-        "name": "mistralai/Mistral-Large-4-1T-A52B",
-        "org": "mistralai",
-        "trending_score": 365,
-        "downloads": 9592,
-        "likes": 1611,
-        "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+        "rank": 4,
+        "name": "ccore/Qwen3.5-4B-3D-Coder",
+        "org": "ccore",
+        "trending_score": 368,
+        "downloads": 157157,
+        "likes": 705,
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
         "tags": [
-          "transformers",
-          "mistral_large4",
-          "image-text-to-text",
-          "vLLM",
-          "SGLang"
+          "safetensors",
+          "gguf",
+          "qwen3_5",
+          "code",
+          "threejs"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Pika-Labs/Pika-H3-Flex",
+        "org": "Pika-Labs",
+        "trending_score": 350,
+        "downloads": 863,
+        "likes": 474,
+        "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+        "tags": [
+          "diffusers",
+          "safetensors",
+          "video-generation",
+          "audio-video-generation",
+          "lora"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "NVIDIA/auto-ontology",
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
         "url": "https://github.com/NVIDIA/auto-ontology",
-        "stars": 7154,
-        "stars_delta": 2707,
+        "stars": 7428,
+        "stars_delta": 2679,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 315052,
-        "stars_delta": 2053,
+        "stars": 315304,
+        "stars_delta": 2071,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,8 +331,8 @@
         "name": "garrytan/gstack",
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
         "url": "https://github.com/garrytan/gstack",
-        "stars": 139892,
-        "stars_delta": 608,
+        "stars": 139970,
+        "stars_delta": 612,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -341,8 +341,8 @@
         "name": "Usagi-org/ai-goofish-monitor",
         "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
         "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-        "stars": 17485,
-        "stars_delta": 242,
+        "stars": 17599,
+        "stars_delta": 240,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "D4Vinci/Scrapling",
         "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:h",
         "url": "https://github.com/D4Vinci/Scrapling",
-        "stars": 97854,
-        "stars_delta": 1661,
+        "stars": 98030,
+        "stars_delta": 1655,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,8 +363,8 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 113494,
-        "stars_delta": 8822,
+        "stars": 113571,
+        "stars_delta": 9318,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 48678,
-        "stars_delta": 7622,
+        "stars": 48804,
+        "stars_delta": 6994,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -383,8 +383,8 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 48159,
-        "stars_delta": 14580,
+        "stars": 48390,
+        "stars_delta": 16235,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 187727,
-        "stars_delta": 3003,
+        "stars": 187774,
+        "stars_delta": 3072,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -403,8 +403,8 @@
         "name": "HKUDS/DeepTutor",
         "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
         "url": "https://github.com/HKUDS/DeepTutor",
-        "stars": 55416,
-        "stars_delta": 7512,
+        "stars": 55481,
+        "stars_delta": 6229,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,8 +415,8 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 434048,
-        "stars_delta": 430285,
+        "stars": 434534,
+        "stars_delta": 430792,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -425,8 +425,8 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 51456,
-        "stars_delta": 47878,
+        "stars": 51494,
+        "stars_delta": 47184,
         "language": "C++",
         "language_color": "#f34b7d"
       },
@@ -435,8 +435,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 61259,
-        "stars_delta": 34859,
+        "stars": 61594,
+        "stars_delta": 35956,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -445,8 +445,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 48678,
-        "stars_delta": 18210,
+        "stars": 48804,
+        "stars_delta": 19070,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -455,8 +455,8 @@
         "name": "heygen-com/hyperframes",
         "description": "Write HTML. Render video. Built for agents.",
         "url": "https://github.com/heygen-com/hyperframes",
-        "stars": 79496,
-        "stars_delta": 22621,
+        "stars": 79582,
+        "stars_delta": 22694,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -523,21 +523,6 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "authors": [
-          "Yu Shi",
-          "Zongliang Fu",
-          "Shuo Chen"
-        ],
-        "url": "https://huggingface.co/papers/2508.02739",
-        "categories": [],
-        "upvotes": 63,
-        "published": "2025-08-02",
-        "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 46916
-      },
-      {
-        "rank": 2,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -552,7 +537,7 @@
         "github_stars": 120780
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
         "authors": [
           "Aaron J. Li",
@@ -565,6 +550,21 @@
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
         "github_stars": 4820
+      },
+      {
+        "rank": 3,
+        "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "authors": [
+          "Yu Shi",
+          "Zongliang Fu",
+          "Shuo Chen"
+        ],
+        "url": "https://huggingface.co/papers/2508.02739",
+        "categories": [],
+        "upvotes": 63,
+        "published": "2025-08-02",
+        "github_repo": "https://github.com/shiyu-coder/Kronos",
+        "github_stars": 46957
       },
       {
         "rank": 4,
@@ -677,63 +677,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50385272,
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "discussion_url": "https://news.ycombinator.com/item?id=50385272",
+        "site": "github.com",
+        "points": 504,
+        "comments": 171,
+        "author": "motoroco",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50383740,
+        "title": "Search for everyone",
+        "url": "https://kagi.com/changelog#11820",
+        "discussion_url": "https://news.ycombinator.com/item?id=50383740",
+        "site": "kagi.com",
+        "points": 514,
+        "comments": 255,
+        "author": "elashri",
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
         "id": 50378228,
         "title": "sshole",
         "url": "https://sshhole.com",
         "discussion_url": "https://news.ycombinator.com/item?id=50378228",
         "site": "sshhole.com",
-        "points": 2079,
-        "comments": 522,
+        "points": 2331,
+        "comments": 572,
         "author": "josemrb",
-        "age": "9h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50383740,
-        "title": "Kagi Search for Everyone",
-        "url": "https://kagi.com/changelog",
-        "discussion_url": "https://news.ycombinator.com/item?id=50383740",
-        "site": "kagi.com",
-        "points": 115,
-        "comments": 55,
-        "author": "elashri",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50383057,
-        "title": "The Hackintosh Reborn",
-        "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50383057",
-        "site": "naut.ca",
-        "points": 110,
-        "comments": 34,
-        "author": "rubatuga",
-        "age": "2h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
-        "id": 50379704,
-        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50379704",
-        "site": "alpinelinux.org",
-        "points": 500,
-        "comments": 99,
-        "author": "pantalaimon",
-        "age": "6h ago"
-      },
-      {
-        "rank": 5,
         "id": 50384233,
         "title": "MS Paint Remote Code Execution Vulnerability",
         "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
         "discussion_url": "https://news.ycombinator.com/item?id=50384233",
         "site": "cve.org",
-        "points": 38,
-        "comments": 15,
+        "points": 321,
+        "comments": 105,
         "author": "kuberwastaken",
-        "age": "55m ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50386338,
+        "title": "Inkling 2 Small",
+        "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50386338",
+        "site": "thinkingmachines.ai",
+        "points": 54,
+        "comments": 22,
+        "author": "Philpax",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -744,7 +744,7 @@
         "url": "https://news.ycombinator.com/item?id=50363461",
         "discussion_url": "https://news.ycombinator.com/item?id=50363461",
         "site": "news.ycombinator.com",
-        "points": 699,
+        "points": 709,
         "comments": 182,
         "author": "jameslk",
         "age": "1d ago"
@@ -756,8 +756,8 @@
         "url": "https://news.ycombinator.com/item?id=50366117",
         "discussion_url": "https://news.ycombinator.com/item?id=50366117",
         "site": "news.ycombinator.com",
-        "points": 495,
-        "comments": 610,
+        "points": 505,
+        "comments": 631,
         "author": "eggbrain",
         "age": "1d ago"
       },
@@ -769,94 +769,94 @@
         "discussion_url": "https://news.ycombinator.com/item?id=50347425",
         "site": "news.ycombinator.com",
         "points": 83,
-        "comments": 79,
+        "comments": 80,
         "author": "mike_richards",
         "age": "2d ago"
       },
       {
         "rank": 4,
-        "id": 50382039,
-        "title": "Ask HN: How to verify response generated by AI in API response quickly",
-        "url": "https://news.ycombinator.com/item?id=50382039",
-        "discussion_url": "https://news.ycombinator.com/item?id=50382039",
+        "id": 50385157,
+        "title": "Ask HN: How do AI agents help you in your daily life?",
+        "url": "https://news.ycombinator.com/item?id=50385157",
+        "discussion_url": "https://news.ycombinator.com/item?id=50385157",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "mehtahet619",
+        "points": 5,
+        "comments": 3,
+        "author": "gonzar79",
         "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50381045,
-        "title": "Ask HN: Local AI Models for Coding and General Tasks?",
-        "url": "https://news.ycombinator.com/item?id=50381045",
-        "discussion_url": "https://news.ycombinator.com/item?id=50381045",
+        "id": 50352757,
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+        "url": "https://news.ycombinator.com/item?id=50352757",
+        "discussion_url": "https://news.ycombinator.com/item?id=50352757",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "giantg2",
-        "age": "5h ago"
+        "points": 524,
+        "comments": 161,
+        "author": "user052919",
+        "age": "2d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50378643,
+        "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+        "url": "https://firenook.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50378643",
+        "site": "firenook.dev",
+        "points": 21,
+        "comments": 3,
+        "author": "sanjevirau",
+        "age": "12h ago"
+      },
+      {
+        "rank": 2,
         "id": 50368208,
         "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
         "url": "https://www.linum.ai/field-notes/pjit-21k",
         "discussion_url": "https://news.ycombinator.com/item?id=50368208",
         "site": "linum.ai",
-        "points": 102,
-        "comments": 11,
+        "points": 153,
+        "comments": 14,
         "author": "schopra909",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 50380704,
         "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
         "url": "https://github.com/AGGIB/Stroq",
         "discussion_url": "https://news.ycombinator.com/item?id=50380704",
         "site": "github.com",
-        "points": 46,
-        "comments": 10,
+        "points": 71,
+        "comments": 14,
         "author": "agybay_07",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50384357,
-        "title": "Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board",
-        "url": "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
-        "discussion_url": "https://news.ycombinator.com/item?id=50384357",
-        "site": "blog.etherpk.com",
-        "points": 3,
-        "comments": 0,
-        "author": "gb2d_hn",
-        "age": "42m ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
-        "id": 50383438,
-        "title": "Show HN: Lo-fi layered over air traffic control (recorded myself)",
-        "url": "https://finalapproach.fm/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50383438",
-        "site": "finalapproach.fm",
+        "id": 50386457,
+        "title": "Show HN: 3-minute desk breaks based on Radio Taiso and Wordle",
+        "url": "https://www.audioround.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50386457",
+        "site": "audioround.com",
         "points": 2,
-        "comments": 1,
-        "author": "kkoppenhaver",
+        "comments": 0,
+        "author": "riscii68",
         "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 50383006,
-        "title": "Show HN: Sshole-audit – Find, prove and fix *sshole: the OpenSSH password bypass",
-        "url": "https://github.com/schappim/sshole-audit",
-        "discussion_url": "https://news.ycombinator.com/item?id=50383006",
-        "site": "github.com",
+        "id": 50386089,
+        "title": "Show HN: Lab Canary – Rating AI labs on whether their staff can speak up",
+        "url": "https://labcanary.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50386089",
+        "site": "labcanary.com",
         "points": 2,
         "comments": 0,
-        "author": "schappim",
+        "author": "ap11071",
         "age": "2h ago"
       }
     ]
