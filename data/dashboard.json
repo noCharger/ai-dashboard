@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-07T19:08:51Z",
+  "generated": "2026-11-07T23:11:17Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "speridlabs/idol",
         "org": "speridlabs",
-        "trending_score": 734,
+        "trending_score": 745,
         "downloads": 20689,
-        "likes": 1077,
+        "likes": 1106,
         "url": "https://huggingface.co/speridlabs/idol",
         "tags": [
           "idol",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K3.1-Pro",
         "org": "moonshotai",
-        "trending_score": 524,
+        "trending_score": 527.5,
         "downloads": 22571,
-        "likes": 1617,
+        "likes": 1628,
         "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "ccore/Qwen3.5-4B-3D-Coder",
         "org": "ccore",
-        "trending_score": 426,
+        "trending_score": 428,
         "downloads": 221506,
-        "likes": 857,
+        "likes": 871,
         "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
         "tags": [
           "safetensors",
@@ -55,11 +55,28 @@
       },
       {
         "rank": 4,
+        "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "org": "xtools-at",
+        "trending_score": 397,
+        "downloads": 1369,
+        "likes": 467,
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "text-generation-inference"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 376,
+        "trending_score": 380,
         "downloads": 2643778,
-        "likes": 10953,
+        "likes": 10984,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -67,23 +84,6 @@
           "text-to-video",
           "video-to-video",
           "image-text-to-video"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "ricursiveAI/Ripple-65B-Preview",
-        "org": "ricursiveAI",
-        "trending_score": 355,
-        "downloads": 3803,
-        "likes": 365,
-        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
-        "tags": [
-          "safetensors",
-          "ricursive",
-          "custom_code",
-          "license:apache-2.0",
-          "region:us"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "vercel-labs/agent-browser",
         "description": "Browser automation CLI for AI agents",
         "url": "https://github.com/vercel-labs/agent-browser",
-        "stars": 46667,
+        "stars": 46785,
         "stars_delta": 180,
         "language": "Rust",
         "language_color": "#dea584"
@@ -321,7 +321,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 65367,
+        "stars": 65634,
         "stars_delta": 2088,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -331,7 +331,7 @@
         "name": "google/skills",
         "description": "Agent Skills for Google products and technologies",
         "url": "https://github.com/google/skills",
-        "stars": 23249,
+        "stars": 23362,
         "stars_delta": 449,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 317507,
+        "stars": 317657,
         "stars_delta": 1111,
         "language": "Shell",
         "language_color": "#89e051"
@@ -351,7 +351,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 188593,
+        "stars": 188749,
         "stars_delta": 386,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 114373,
+        "stars": 114444,
         "stars_delta": 8726,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "max-sixty/worktrunk",
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "url": "https://github.com/max-sixty/worktrunk",
-        "stars": 11924,
+        "stars": 11944,
         "stars_delta": 2184,
         "language": "Rust",
         "language_color": "#dea584"
@@ -383,7 +383,7 @@
         "name": "Donchitos/Claude-Code-Game-Studios",
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 36469,
+        "stars": 36551,
         "stars_delta": 6018,
         "language": "Shell",
         "language_color": "#89e051"
@@ -393,7 +393,7 @@
         "name": "Renhuai123/ziwei-doushu",
         "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
         "url": "https://github.com/Renhuai123/ziwei-doushu",
-        "stars": 16703,
+        "stars": 16716,
         "stars_delta": 5476,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 50949,
+        "stars": 51189,
         "stars_delta": 16782,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -415,7 +415,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 440483,
+        "stars": 440914,
         "stars_delta": 431436,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 50131,
+        "stars": 50237,
         "stars_delta": 19792,
         "language": "CSS",
         "language_color": "#663399"
@@ -435,7 +435,7 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 39501,
+        "stars": 39539,
         "stars_delta": 36600,
         "language": "Rust",
         "language_color": "#dea584"
@@ -445,7 +445,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 65367,
+        "stars": 65634,
         "stars_delta": 38004,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -455,7 +455,7 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 51995,
+        "stars": 52040,
         "stars_delta": 46561,
         "language": "C++",
         "language_color": "#f34b7d"
@@ -681,38 +681,38 @@
       {
         "rank": 1,
         "id": 50406563,
-        "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-        "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "url": "https://hunch.net/?p=13764006",
         "discussion_url": "https://news.ycombinator.com/item?id=50406563",
-        "site": "businessexaminer.ca",
-        "points": 73,
-        "comments": 18,
+        "site": "hunch.net",
+        "points": 302,
+        "comments": 171,
         "author": "srean",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
-        "id": 50406589,
-        "title": "The End of AI Frontiers",
-        "url": "https://hunch.net/?p=13764006",
-        "discussion_url": "https://news.ycombinator.com/item?id=50406589",
-        "site": "hunch.net",
-        "points": 50,
-        "comments": 17,
-        "author": "andsoitis",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
         "id": 50406670,
-        "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+        "title": "What I run on my $10 USD OpenStick homelab",
         "url": "https://blog.bosscher.ch/posts/openstick/",
         "discussion_url": "https://news.ycombinator.com/item?id=50406670",
         "site": "blog.bosscher.ch",
-        "points": 44,
-        "comments": 8,
+        "points": 253,
+        "comments": 61,
         "author": "LaurensBER",
-        "age": "56m ago"
+        "age": "4h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50406111,
+        "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "discussion_url": "https://news.ycombinator.com/item?id=50406111",
+        "site": "theguardian.com",
+        "points": 283,
+        "comments": 195,
+        "author": "user_7832",
+        "age": "6h ago"
       },
       {
         "rank": 4,
@@ -721,10 +721,10 @@
         "url": "https://github.com/hedgerow-dev/coldframe",
         "discussion_url": "https://news.ycombinator.com/item?id=50406292",
         "site": "github.com",
-        "points": 82,
-        "comments": 21,
+        "points": 169,
+        "comments": 37,
         "author": "hedgerow-dev",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 5,
@@ -733,10 +733,10 @@
         "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
         "discussion_url": "https://news.ycombinator.com/item?id=50406222",
         "site": "maxxbench.unlap.ai",
-        "points": 50,
-        "comments": 7,
+        "points": 152,
+        "comments": 42,
         "author": "antiuniverse",
-        "age": "1h ago"
+        "age": "5h ago"
       }
     ],
     "ask": [
@@ -747,10 +747,10 @@
         "url": "https://news.ycombinator.com/item?id=50405250",
         "discussion_url": "https://news.ycombinator.com/item?id=50405250",
         "site": "news.ycombinator.com",
-        "points": 58,
-        "comments": 47,
+        "points": 71,
+        "comments": 66,
         "author": "mtlynch",
-        "age": "3h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -759,22 +759,22 @@
         "url": "https://news.ycombinator.com/item?id=50393105",
         "discussion_url": "https://news.ycombinator.com/item?id=50393105",
         "site": "news.ycombinator.com",
-        "points": 213,
-        "comments": 136,
+        "points": 214,
+        "comments": 138,
         "author": "linsomniac",
         "age": "1d ago"
       },
       {
         "rank": 3,
-        "id": 50403882,
-        "title": "I turned an ESP32-S3 into a Tailscale gateway with recovery functions",
-        "url": "https://news.ycombinator.com/item?id=50403882",
-        "discussion_url": "https://news.ycombinator.com/item?id=50403882",
+        "id": 50407115,
+        "title": "We're bringing back the HN meeting in Mexico City",
+        "url": "https://news.ycombinator.com/item?id=50407115",
+        "discussion_url": "https://news.ycombinator.com/item?id=50407115",
         "site": "news.ycombinator.com",
-        "points": 5,
+        "points": 4,
         "comments": 1,
-        "author": "Mattboxx",
-        "age": "6h ago"
+        "author": "ysangkok",
+        "age": "4h ago"
       },
       {
         "rank": 4,
@@ -795,8 +795,8 @@
         "url": "https://news.ycombinator.com/item?id=50366117",
         "discussion_url": "https://news.ycombinator.com/item?id=50366117",
         "site": "news.ycombinator.com",
-        "points": 551,
-        "comments": 680,
+        "points": 553,
+        "comments": 682,
         "author": "eggbrain",
         "age": "3d ago"
       }
@@ -809,58 +809,58 @@
         "url": "https://github.com/hedgerow-dev/coldframe",
         "discussion_url": "https://news.ycombinator.com/item?id=50406292",
         "site": "github.com",
-        "points": 82,
-        "comments": 21,
+        "points": 169,
+        "comments": 37,
         "author": "hedgerow-dev",
-        "age": "1h ago"
+        "age": "5h ago"
       },
       {
         "rank": 2,
+        "id": 50408350,
+        "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+        "url": "https://eyesrhythm.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50408350",
+        "site": "eyesrhythm.com",
+        "points": 11,
+        "comments": 3,
+        "author": "prnysoni",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50408082,
+        "title": "Show HN: Where Were We",
+        "url": "https://wherewerewe.app/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50408082",
+        "site": "wherewerewe.app",
+        "points": 21,
+        "comments": 8,
+        "author": "zkiihne",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 50405263,
         "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
         "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
         "discussion_url": "https://news.ycombinator.com/item?id=50405263",
         "site": "github.com",
-        "points": 16,
-        "comments": 7,
+        "points": 52,
+        "comments": 11,
         "author": "jiant",
-        "age": "3h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50377613,
-        "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
-        "url": "https://github.com/hyphatech/spindle",
-        "discussion_url": "https://news.ycombinator.com/item?id=50377613",
-        "site": "github.com",
-        "points": 49,
-        "comments": 8,
-        "author": "zaiev",
-        "age": "2d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50406700,
-        "title": "Show HN: We made a new theme to increase engagement on our website",
-        "url": "https://zenmemes.com/threads/thread-20261107173646-27caa60f/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50406700",
-        "site": "zenmemes.com",
-        "points": 2,
-        "comments": 1,
-        "author": "forgotmypw17",
-        "age": "51m ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 50406146,
-        "title": "Show HN: FoilGateway–Linux firewall gateway with telemetry blocking (2×Ethernet)",
-        "url": "https://github.com/iBgeek/FoilGateway-Network",
-        "discussion_url": "https://news.ycombinator.com/item?id=50406146",
-        "site": "github.com",
-        "points": 2,
+        "id": 50380134,
+        "title": "Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
+        "url": "https://unfix.dev/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50380134",
+        "site": "unfix.dev",
+        "points": 10,
         "comments": 0,
-        "author": "Codemonkey2k5",
-        "age": "1h ago"
+        "author": "u-pump",
+        "age": "2d ago"
       }
     ]
   }
