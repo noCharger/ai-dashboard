@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-07T23:11:17Z",
+  "generated": "2026-11-08T03:01:53Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "speridlabs/idol",
         "org": "speridlabs",
-        "trending_score": 745,
+        "trending_score": 751,
         "downloads": 20689,
-        "likes": 1106,
+        "likes": 1135,
         "url": "https://huggingface.co/speridlabs/idol",
         "tags": [
           "idol",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "moonshotai/Kimi-K3.1-Pro",
         "org": "moonshotai",
-        "trending_score": 527.5,
+        "trending_score": 531.5,
         "downloads": 22571,
-        "likes": 1628,
+        "likes": 1641,
         "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "ccore/Qwen3.5-4B-3D-Coder",
-        "org": "ccore",
-        "trending_score": 428,
-        "downloads": 221506,
-        "likes": 871,
-        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-        "tags": [
-          "safetensors",
-          "gguf",
-          "qwen3_5",
-          "code",
-          "threejs"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "org": "xtools-at",
-        "trending_score": 397,
+        "trending_score": 443,
         "downloads": 1369,
-        "likes": 467,
+        "likes": 524,
         "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "tags": [
           "transformers",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "ccore/Qwen3.5-4B-3D-Coder",
+        "org": "ccore",
+        "trending_score": 424,
+        "downloads": 221506,
+        "likes": 877,
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "tags": [
+          "safetensors",
+          "gguf",
+          "qwen3_5",
+          "code",
+          "threejs"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 380,
+        "trending_score": 379,
         "downloads": 2643778,
-        "likes": 10984,
+        "likes": 11003,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -311,8 +311,8 @@
         "name": "vercel-labs/agent-browser",
         "description": "Browser automation CLI for AI agents",
         "url": "https://github.com/vercel-labs/agent-browser",
-        "stars": 46785,
-        "stars_delta": 180,
+        "stars": 46905,
+        "stars_delta": 190,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -321,8 +321,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 65634,
-        "stars_delta": 2088,
+        "stars": 65846,
+        "stars_delta": 2085,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -331,8 +331,8 @@
         "name": "google/skills",
         "description": "Agent Skills for Google products and technologies",
         "url": "https://github.com/google/skills",
-        "stars": 23362,
-        "stars_delta": 449,
+        "stars": 23457,
+        "stars_delta": 443,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,8 +341,8 @@
         "name": "mattpocock/skills",
         "description": "Skills for Real Engineers. Straight from my .agents directory.",
         "url": "https://github.com/mattpocock/skills",
-        "stars": 317657,
-        "stars_delta": 1111,
+        "stars": 317794,
+        "stars_delta": 1100,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -351,8 +351,8 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 188749,
-        "stars_delta": 386,
+        "stars": 188857,
+        "stars_delta": 390,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -363,8 +363,8 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 114444,
-        "stars_delta": 8726,
+        "stars": 114535,
+        "stars_delta": 7482,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "max-sixty/worktrunk",
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "url": "https://github.com/max-sixty/worktrunk",
-        "stars": 11944,
-        "stars_delta": 2184,
+        "stars": 11962,
+        "stars_delta": 2292,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -383,8 +383,8 @@
         "name": "Donchitos/Claude-Code-Game-Studios",
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 36551,
-        "stars_delta": 6018,
+        "stars": 36626,
+        "stars_delta": 5719,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -393,8 +393,8 @@
         "name": "Renhuai123/ziwei-doushu",
         "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
         "url": "https://github.com/Renhuai123/ziwei-doushu",
-        "stars": 16716,
-        "stars_delta": 5476,
+        "stars": 16740,
+        "stars_delta": 4906,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 51189,
-        "stars_delta": 16782,
+        "stars": 51368,
+        "stars_delta": 17100,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -415,8 +415,8 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 440914,
-        "stars_delta": 431436,
+        "stars": 441266,
+        "stars_delta": 429845,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -425,8 +425,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 50237,
-        "stars_delta": 19792,
+        "stars": 50340,
+        "stars_delta": 20523,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -435,8 +435,8 @@
         "name": "storytold/artcraft",
         "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "url": "https://github.com/storytold/artcraft",
-        "stars": 39539,
-        "stars_delta": 36600,
+        "stars": 39586,
+        "stars_delta": 35633,
         "language": "Rust",
         "language_color": "#dea584"
       },
@@ -445,8 +445,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 65634,
-        "stars_delta": 38004,
+        "stars": 65846,
+        "stars_delta": 39571,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -455,8 +455,8 @@
         "name": "boykopovar/AnyPS5",
         "description": "Tool for automatic PS5 executables porting to Linux and Windows",
         "url": "https://github.com/boykopovar/AnyPS5",
-        "stars": 52040,
-        "stars_delta": 46561,
+        "stars": 52087,
+        "stars_delta": 43690,
         "language": "C++",
         "language_color": "#f34b7d"
       }
@@ -523,21 +523,6 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "VibeVoice Technical Report",
-        "authors": [
-          "Zhiliang Peng",
-          "Jianwei Yu",
-          "Wenhui Wang"
-        ],
-        "url": "https://huggingface.co/papers/2508.19205",
-        "categories": [],
-        "upvotes": 184,
-        "published": "2025-08-26",
-        "github_repo": "https://github.com/microsoft/VibeVoice",
-        "github_stars": 56619
-      },
-      {
-        "rank": 2,
         "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "authors": [
           "Yijia Xiao",
@@ -552,6 +537,21 @@
         "github_stars": 121139
       },
       {
+        "rank": 2,
+        "title": "VibeVoice Technical Report",
+        "authors": [
+          "Zhiliang Peng",
+          "Jianwei Yu",
+          "Wenhui Wang"
+        ],
+        "url": "https://huggingface.co/papers/2508.19205",
+        "categories": [],
+        "upvotes": 184,
+        "published": "2025-08-26",
+        "github_repo": "https://github.com/microsoft/VibeVoice",
+        "github_stars": 56706
+      },
+      {
         "rank": 3,
         "title": "Kronos: A Foundation Model for the Language of Financial Markets",
         "authors": [
@@ -564,7 +564,7 @@
         "upvotes": 63,
         "published": "2025-08-02",
         "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 47149
+        "github_stars": 47250
       },
       {
         "rank": 4,
@@ -576,10 +576,10 @@
         ],
         "url": "https://huggingface.co/papers/2610.22732",
         "categories": [],
-        "upvotes": 13,
+        "upvotes": 14,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 4930
+        "github_stars": 4955
       },
       {
         "rank": 5,
@@ -594,7 +594,7 @@
         "upvotes": 67,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 23009
+        "github_stars": 23053
       }
     ],
     "arxiv_recent": [
@@ -685,10 +685,10 @@
         "url": "https://hunch.net/?p=13764006",
         "discussion_url": "https://news.ycombinator.com/item?id=50406563",
         "site": "hunch.net",
-        "points": 302,
-        "comments": 171,
+        "points": 406,
+        "comments": 238,
         "author": "srean",
-        "age": "5h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
@@ -697,10 +697,10 @@
         "url": "https://blog.bosscher.ch/posts/openstick/",
         "discussion_url": "https://news.ycombinator.com/item?id=50406670",
         "site": "blog.bosscher.ch",
-        "points": 253,
-        "comments": 61,
+        "points": 376,
+        "comments": 89,
         "author": "LaurensBER",
-        "age": "4h ago"
+        "age": "8h ago"
       },
       {
         "rank": 3,
@@ -709,34 +709,34 @@
         "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
         "discussion_url": "https://news.ycombinator.com/item?id=50406111",
         "site": "theguardian.com",
-        "points": 283,
-        "comments": 195,
+        "points": 387,
+        "comments": 255,
         "author": "user_7832",
-        "age": "6h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
-        "id": 50406292,
-        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-        "url": "https://github.com/hedgerow-dev/coldframe",
-        "discussion_url": "https://news.ycombinator.com/item?id=50406292",
-        "site": "github.com",
-        "points": 169,
-        "comments": 37,
-        "author": "hedgerow-dev",
-        "age": "5h ago"
+        "id": 50408713,
+        "title": "Making any integer with four 2s (2025)",
+        "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50408713",
+        "site": "eli.thegreenplace.net",
+        "points": 70,
+        "comments": 15,
+        "author": "germanrabbit",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 50406222,
-        "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-        "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50406222",
-        "site": "maxxbench.unlap.ai",
-        "points": 152,
-        "comments": 42,
-        "author": "antiuniverse",
-        "age": "5h ago"
+        "id": 50407882,
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "discussion_url": "https://news.ycombinator.com/item?id=50407882",
+        "site": "apiiro.com",
+        "points": 203,
+        "comments": 142,
+        "author": "shmulc",
+        "age": "6h ago"
       }
     ],
     "ask": [
@@ -747,57 +747,57 @@
         "url": "https://news.ycombinator.com/item?id=50405250",
         "discussion_url": "https://news.ycombinator.com/item?id=50405250",
         "site": "news.ycombinator.com",
-        "points": 71,
-        "comments": 66,
+        "points": 78,
+        "comments": 71,
         "author": "mtlynch",
-        "age": "7h ago"
+        "age": "11h ago"
       },
       {
         "rank": 2,
+        "id": 50409438,
+        "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+        "url": "https://news.ycombinator.com/item?id=50409438",
+        "discussion_url": "https://news.ycombinator.com/item?id=50409438",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 7,
+        "author": "apatheticonion",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50409244,
+        "title": "Is YouTube starting to protect channel RSS feeds?",
+        "url": "https://news.ycombinator.com/item?id=50409244",
+        "discussion_url": "https://news.ycombinator.com/item?id=50409244",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 1,
+        "author": "kradeelav",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 50393105,
         "title": "Ask HN: What in the world is taking Ubuntu so long?",
         "url": "https://news.ycombinator.com/item?id=50393105",
         "discussion_url": "https://news.ycombinator.com/item?id=50393105",
         "site": "news.ycombinator.com",
-        "points": 214,
+        "points": 215,
         "comments": 138,
         "author": "linsomniac",
         "age": "1d ago"
       },
       {
-        "rank": 3,
-        "id": 50407115,
-        "title": "We're bringing back the HN meeting in Mexico City",
-        "url": "https://news.ycombinator.com/item?id=50407115",
-        "discussion_url": "https://news.ycombinator.com/item?id=50407115",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 1,
-        "author": "ysangkok",
-        "age": "4h ago"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "id": 50363461,
         "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
         "url": "https://news.ycombinator.com/item?id=50363461",
         "discussion_url": "https://news.ycombinator.com/item?id=50363461",
         "site": "news.ycombinator.com",
-        "points": 728,
+        "points": 730,
         "comments": 200,
         "author": "jameslk",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50366117,
-        "title": "Ask HN: What's your current AI agentic setup?",
-        "url": "https://news.ycombinator.com/item?id=50366117",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366117",
-        "site": "news.ycombinator.com",
-        "points": 553,
-        "comments": 682,
-        "author": "eggbrain",
         "age": "3d ago"
       }
     ],
@@ -809,34 +809,34 @@
         "url": "https://github.com/hedgerow-dev/coldframe",
         "discussion_url": "https://news.ycombinator.com/item?id=50406292",
         "site": "github.com",
-        "points": 169,
-        "comments": 37,
+        "points": 196,
+        "comments": 42,
         "author": "hedgerow-dev",
-        "age": "5h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
-        "id": 50408350,
-        "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-        "url": "https://eyesrhythm.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50408350",
-        "site": "eyesrhythm.com",
-        "points": 11,
-        "comments": 3,
-        "author": "prnysoni",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
         "id": 50408082,
         "title": "Show HN: Where Were We",
         "url": "https://wherewerewe.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=50408082",
         "site": "wherewerewe.app",
-        "points": 21,
-        "comments": 8,
+        "points": 28,
+        "comments": 11,
         "author": "zkiihne",
-        "age": "2h ago"
+        "age": "5h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50408350,
+        "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+        "url": "https://eyesrhythm.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50408350",
+        "site": "eyesrhythm.com",
+        "points": 28,
+        "comments": 13,
+        "author": "prnysoni",
+        "age": "5h ago"
       },
       {
         "rank": 4,
@@ -845,10 +845,10 @@
         "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
         "discussion_url": "https://news.ycombinator.com/item?id=50405263",
         "site": "github.com",
-        "points": 52,
-        "comments": 11,
+        "points": 58,
+        "comments": 12,
         "author": "jiant",
-        "age": "7h ago"
+        "age": "11h ago"
       },
       {
         "rank": 5,
@@ -857,8 +857,8 @@
         "url": "https://unfix.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=50380134",
         "site": "unfix.dev",
-        "points": 10,
-        "comments": 0,
+        "points": 13,
+        "comments": 1,
         "author": "u-pump",
         "age": "2d ago"
       }
