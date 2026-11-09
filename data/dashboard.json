@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-09T00:13:21Z",
+  "generated": "2026-11-09T07:21:48Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "speridlabs/idol",
         "org": "speridlabs",
-        "trending_score": 791,
+        "trending_score": 808,
         "downloads": 22854,
-        "likes": 1379,
+        "likes": 1441,
         "url": "https://huggingface.co/speridlabs/idol",
         "tags": [
           "idol",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "org": "xtools-at",
-        "trending_score": 674,
+        "trending_score": 743,
         "downloads": 7088,
-        "likes": 832,
+        "likes": 921,
         "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "moonshotai/Kimi-K3.1-Pro",
         "org": "moonshotai",
-        "trending_score": 561,
+        "trending_score": 567,
         "downloads": 25569,
-        "likes": 1726,
+        "likes": 1742,
         "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "ricursiveAI/Ripple-65B-Preview",
         "org": "ricursiveAI",
-        "trending_score": 391,
+        "trending_score": 408,
         "downloads": 5087,
-        "likes": 401,
+        "likes": 418,
         "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
         "tags": [
           "safetensors",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "ccore/Qwen3.5-4B-3D-Coder",
-        "org": "ccore",
-        "trending_score": 388,
-        "downloads": 254053,
-        "likes": 917,
-        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
+        "trending_score": 394,
+        "downloads": 2661026,
+        "likes": 11156,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
-          "safetensors",
-          "gguf",
-          "qwen3_5",
-          "code",
-          "threejs"
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video"
         ],
         "rank_change": null
       }
@@ -363,7 +363,7 @@
         "name": "NVIDIA/auto-ontology",
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
         "url": "https://github.com/NVIDIA/auto-ontology",
-        "stars": 10370,
+        "stars": 10625,
         "stars_delta": 9327,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 114893,
+        "stars": 115051,
         "stars_delta": 6443,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "max-sixty/worktrunk",
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "url": "https://github.com/max-sixty/worktrunk",
-        "stars": 12116,
+        "stars": 12175,
         "stars_delta": 2313,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 189614,
+        "stars": 189944,
         "stars_delta": 3169,
         "language": "Python",
         "language_color": "#3572A5"
@@ -403,7 +403,7 @@
         "name": "Donchitos/Claude-Code-Game-Studios",
         "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "stars": 36998,
+        "stars": 37147,
         "stars_delta": 5235,
         "language": "Shell",
         "language_color": "#89e051"
@@ -534,7 +534,7 @@
         "upvotes": 163,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 121326
+        "github_stars": 121414
       },
       {
         "rank": 2,
@@ -549,25 +549,10 @@
         "upvotes": 184,
         "published": "2025-08-26",
         "github_repo": "https://github.com/microsoft/VibeVoice",
-        "github_stars": 56749
+        "github_stars": 56806
       },
       {
         "rank": 3,
-        "title": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "authors": [
-          "Yu Shi",
-          "Zongliang Fu",
-          "Shuo Chen"
-        ],
-        "url": "https://huggingface.co/papers/2508.02739",
-        "categories": [],
-        "upvotes": 64,
-        "published": "2025-08-02",
-        "github_repo": "https://github.com/shiyu-coder/Kronos",
-        "github_stars": 47311
-      },
-      {
-        "rank": 4,
         "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
         "authors": [
           "Aaron J. Li",
@@ -579,7 +564,22 @@
         "upvotes": 14,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 5065
+        "github_stars": 5298
+      },
+      {
+        "rank": 4,
+        "title": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "authors": [
+          "Yu Shi",
+          "Zongliang Fu",
+          "Shuo Chen"
+        ],
+        "url": "https://huggingface.co/papers/2508.02739",
+        "categories": [],
+        "upvotes": 64,
+        "published": "2025-08-02",
+        "github_repo": "https://github.com/shiyu-coder/Kronos",
+        "github_stars": 47355
       },
       {
         "rank": 5,
@@ -594,85 +594,88 @@
         "upvotes": 67,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 23102
+        "github_stars": 23151
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
         "authors": [
-          "Qile Jiang",
-          "George Em Karniadakis"
+          "Peter Belcak",
+          "Greg Heinrich",
+          "Saurav Muralidharan"
         ],
-        "url": "https://arxiv.org/abs/2611.08483",
+        "url": "https://arxiv.org/abs/2611.09891",
         "categories": [
-          "cs.AI",
-          "cs.NE"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-06"
+        "published": "2026-11-09"
       },
       {
         "rank": 2,
-        "title": "Scientist World: Grow a Research World for AI-Scientists",
+        "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
         "authors": [
-          "Taiming Lu",
-          "Sachin Konan",
-          "Zhuang Liu"
+          "Haoyu Wang",
+          "Ru Wang",
+          "Yuanyuan Wang"
         ],
-        "url": "https://arxiv.org/abs/2611.08478",
+        "url": "https://arxiv.org/abs/2611.09872",
         "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-06"
+        "published": "2026-11-09"
       },
       {
         "rank": 3,
-        "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+        "title": "Flow-Guided Target-Space Alignment via Path Consistency",
         "authors": [
-          "Yubo Wang",
-          "Rui Meng",
-          "Jaehyun Nam"
+          "Ruizhi Yuan",
+          "Zeqiu Yu",
+          "Wei Gao"
         ],
-        "url": "https://arxiv.org/abs/2611.08452",
+        "url": "https://arxiv.org/abs/2611.09863",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.CV",
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-11-06"
+        "published": "2026-11-09"
       },
       {
         "rank": 4,
-        "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+        "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
         "authors": [
-          "Julian Kunkel",
-          "Ali Doosthosseini"
+          "Marco Colombo",
+          "Balaji A Jayaram",
+          "Sowmyakumari Selvaraj"
         ],
-        "url": "https://arxiv.org/abs/2611.08428",
+        "url": "https://arxiv.org/abs/2611.09846",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.PL"
         ],
         "upvotes": null,
-        "published": "2026-11-06"
+        "published": "2026-11-09"
       },
       {
         "rank": 5,
-        "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+        "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
         "authors": [
-          "E. Kelly Buchanan",
-          "Crystal Zhou",
-          "Scott W. Linderman"
+          "Aubin Charley",
+          "Julien Khlaut",
+          "Charles Corbière"
         ],
-        "url": "https://arxiv.org/abs/2611.08417",
+        "url": "https://arxiv.org/abs/2611.09836",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-11-06"
+        "published": "2026-11-09"
       }
     ]
   },
@@ -685,58 +688,58 @@
         "url": "https://ketchup3d.github.io/app/",
         "discussion_url": "https://news.ycombinator.com/item?id=50418176",
         "site": "ketchup3d.github.io",
-        "points": 84,
-        "comments": 12,
+        "points": 393,
+        "comments": 104,
         "author": "dcoulmbe",
-        "age": "1h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
+        "id": 50419215,
+        "title": "Unlocking any car from X brand in most of the world",
+        "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50419215",
+        "site": "shubs.io",
+        "points": 234,
+        "comments": 84,
+        "author": "infosecau",
+        "age": "7h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50418975,
+        "title": "I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "discussion_url": "https://news.ycombinator.com/item?id=50418975",
+        "site": "matteoraso.github.io",
+        "points": 188,
+        "comments": 243,
+        "author": "matteoraso",
+        "age": "7h ago"
+      },
+      {
+        "rank": 4,
         "id": 50418182,
         "title": "Chimera Vocal Synth",
         "url": "https://chimera-vocal-synth.vercel.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=50418182",
         "site": "chimera-vocal-synth.vercel.app",
-        "points": 42,
-        "comments": 8,
+        "points": 173,
+        "comments": 24,
         "author": "nmstoker",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50417407,
-        "title": "Ask HN: What are you working on? (November 2026)",
-        "url": "https://news.ycombinator.com/item?id=50417407",
-        "discussion_url": "https://news.ycombinator.com/item?id=50417407",
-        "site": "news.ycombinator.com",
-        "points": 93,
-        "comments": 361,
-        "author": "david927",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50416053,
-        "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-        "url": "https://duxlabs.dev/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50416053",
-        "site": "duxlabs.dev",
-        "points": 169,
-        "comments": 54,
-        "author": "indigodaddy",
-        "age": "5h ago"
+        "age": "8h ago"
       },
       {
         "rank": 5,
-        "id": 50418818,
-        "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-        "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-        "discussion_url": "https://news.ycombinator.com/item?id=50418818",
-        "site": "isocpp.org",
-        "points": 14,
-        "comments": 0,
-        "author": "acossta",
-        "age": "45m ago"
+        "id": 50368481,
+        "title": "Declarative Dragging",
+        "url": "https://declarative-dragging.github.io/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50368481",
+        "site": "declarative-dragging.github.io",
+        "points": 480,
+        "comments": 63,
+        "author": "smusamashah",
+        "age": "4d ago"
       }
     ],
     "ask": [
@@ -747,120 +750,120 @@
         "url": "https://news.ycombinator.com/item?id=50417407",
         "discussion_url": "https://news.ycombinator.com/item?id=50417407",
         "site": "news.ycombinator.com",
-        "points": 93,
-        "comments": 361,
+        "points": 191,
+        "comments": 645,
         "author": "david927",
-        "age": "2h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
+        "id": 50403153,
+        "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+        "url": "https://news.ycombinator.com/item?id=50403153",
+        "discussion_url": "https://news.ycombinator.com/item?id=50403153",
+        "site": "news.ycombinator.com",
+        "points": 51,
+        "comments": 38,
+        "author": "Michel_Aventin",
+        "age": "1d ago"
+      },
+      {
+        "rank": 3,
+        "id": 50420252,
+        "title": "Ask HN: Is it normal to not write code for a years as software engineer?",
+        "url": "https://news.ycombinator.com/item?id=50420252",
+        "discussion_url": "https://news.ycombinator.com/item?id=50420252",
+        "site": "news.ycombinator.com",
+        "points": 3,
+        "comments": 3,
+        "author": "khalidahmad",
+        "age": "4h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50419019,
+        "title": "Tell HN: A flood of reports of Opus 5.5 being nerfed",
+        "url": "https://news.ycombinator.com/item?id=50419019",
+        "discussion_url": "https://news.ycombinator.com/item?id=50419019",
+        "site": "news.ycombinator.com",
+        "points": 16,
+        "comments": 9,
+        "author": "b--l",
+        "age": "7h ago"
+      },
+      {
+        "rank": 5,
         "id": 50405250,
         "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
         "url": "https://news.ycombinator.com/item?id=50405250",
         "discussion_url": "https://news.ycombinator.com/item?id=50405250",
         "site": "news.ycombinator.com",
-        "points": 97,
-        "comments": 89,
+        "points": 98,
+        "comments": 91,
         "author": "mtlynch",
         "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50363461,
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "url": "https://news.ycombinator.com/item?id=50363461",
-        "discussion_url": "https://news.ycombinator.com/item?id=50363461",
-        "site": "news.ycombinator.com",
-        "points": 734,
-        "comments": 201,
-        "author": "jameslk",
-        "age": "4d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50393105,
-        "title": "Ask HN: What in the world is taking Ubuntu so long?",
-        "url": "https://news.ycombinator.com/item?id=50393105",
-        "discussion_url": "https://news.ycombinator.com/item?id=50393105",
-        "site": "news.ycombinator.com",
-        "points": 217,
-        "comments": 139,
-        "author": "linsomniac",
-        "age": "2d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50366117,
-        "title": "Ask HN: What's your current AI agentic setup?",
-        "url": "https://news.ycombinator.com/item?id=50366117",
-        "discussion_url": "https://news.ycombinator.com/item?id=50366117",
-        "site": "news.ycombinator.com",
-        "points": 561,
-        "comments": 694,
-        "author": "eggbrain",
-        "age": "4d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50401844,
+        "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+        "url": "https://github.com/rkaehn/uniform",
+        "discussion_url": "https://news.ycombinator.com/item?id=50401844",
+        "site": "github.com",
+        "points": 22,
+        "comments": 9,
+        "author": "rkaehn",
+        "age": "2d ago"
+      },
+      {
+        "rank": 2,
+        "id": 50371886,
+        "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+        "url": "https://github.com/RenderBear/haci",
+        "discussion_url": "https://news.ycombinator.com/item?id=50371886",
+        "site": "github.com",
+        "points": 9,
+        "comments": 0,
+        "author": "RenderBear",
+        "age": "4d ago"
+      },
+      {
+        "rank": 3,
+        "id": 50421155,
+        "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+        "url": "https://github.com/OmniJev/Flide",
+        "discussion_url": "https://news.ycombinator.com/item?id=50421155",
+        "site": "github.com",
+        "points": 6,
+        "comments": 1,
+        "author": "unikcc",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 50362963,
         "title": "Show HN: Vegetable Gardening for Engineers",
         "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
         "discussion_url": "https://news.ycombinator.com/item?id=50362963",
         "site": "jrcpl.us",
-        "points": 152,
-        "comments": 31,
+        "points": 191,
+        "comments": 39,
         "author": "jrcplus",
         "age": "4d ago"
       },
       {
-        "rank": 2,
-        "id": 50417478,
-        "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
-        "url": "https://github.com/SafeScript/safescript",
-        "discussion_url": "https://news.ycombinator.com/item?id=50417478",
-        "site": "github.com",
-        "points": 7,
-        "comments": 1,
-        "author": "EGreg",
-        "age": "2h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50418253,
-        "title": "Show HN:Free Web Tools",
-        "url": "https://nyneon.net/tools/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50418253",
-        "site": "nyneon.net",
-        "points": 3,
-        "comments": 3,
-        "author": "Munayem",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50418158,
-        "title": "Show HN: My first project, an AI-powered financial news analyzer",
-        "url": "https://github.com/lamarcol/NotBot",
-        "discussion_url": "https://news.ycombinator.com/item?id=50418158",
+        "rank": 5,
+        "id": 50421168,
+        "title": "Show HN: clap.cpp – Audio embedding inference in C++ (GGML)",
+        "url": "https://github.com/gorse-io/clap.cpp",
+        "discussion_url": "https://news.ycombinator.com/item?id=50421168",
         "site": "github.com",
         "points": 2,
         "comments": 0,
-        "author": "lamarcol",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50406292,
-        "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-        "url": "https://github.com/hedgerow-dev/coldframe",
-        "discussion_url": "https://news.ycombinator.com/item?id=50406292",
-        "site": "github.com",
-        "points": 276,
-        "comments": 64,
-        "author": "hedgerow-dev",
-        "age": "1d ago"
+        "author": "lutun",
+        "age": "2h ago"
       }
     ]
   }
