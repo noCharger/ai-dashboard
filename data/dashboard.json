@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-11T16:43:44Z",
+  "generated": "2026-11-11T23:11:30Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "org": "xtools-at",
-        "trending_score": 1206,
+        "trending_score": 1849,
         "downloads": 16693,
-        "likes": 1861,
+        "likes": 2861,
         "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "speridlabs/idol",
-        "org": "speridlabs",
-        "trending_score": 940,
-        "downloads": 28250,
-        "likes": 1951,
-        "url": "https://huggingface.co/speridlabs/idol",
-        "tags": [
-          "idol",
-          "gaussian-splatting",
-          "3d",
-          "image-to-3d",
-          "license:apache-2.0"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 631,
+        "trending_score": 673,
         "downloads": 142989,
-        "likes": 645,
+        "likes": 691,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "speridlabs/idol",
+        "org": "speridlabs",
+        "trending_score": 491,
+        "downloads": 28250,
+        "likes": 2143,
+        "url": "https://huggingface.co/speridlabs/idol",
+        "tags": [
+          "idol",
+          "gaussian-splatting",
+          "3d",
+          "image-to-3d",
+          "license:apache-2.0"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "moonshotai/Kimi-K3.1-Pro",
         "org": "moonshotai",
-        "trending_score": 548.5,
+        "trending_score": 414,
         "downloads": 33617,
-        "likes": 1910,
+        "likes": 1934,
         "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
         "tags": [
           "transformers",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "ricursiveAI/Ripple-65B-Preview",
-        "org": "ricursiveAI",
-        "trending_score": 478,
-        "downloads": 7112,
-        "likes": 505,
-        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+        "name": "NousResearch/Arete-27B",
+        "org": "NousResearch",
+        "trending_score": 413,
+        "downloads": 4023,
+        "likes": 433,
+        "url": "https://huggingface.co/NousResearch/Arete-27B",
         "tags": [
           "safetensors",
-          "ricursive",
-          "custom_code",
-          "license:apache-2.0",
-          "region:us"
+          "qwen3_5",
+          "nous-research",
+          "arete",
+          "supervised-fine-tuning"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/meta/astryx",
-        "stars": 24514,
+        "stars": 24873,
         "stars_delta": 2842,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "ZhuLinsen/daily_stock_analysis",
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "stars": 69983,
+        "stars": 70165,
         "stars_delta": 429,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 1558,
+        "stars": 1707,
         "stars_delta": 133,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -341,7 +341,7 @@
         "name": "shadcn/improve",
         "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
         "url": "https://github.com/shadcn/improve",
-        "stars": 10607,
+        "stars": 10814,
         "stars_delta": 333,
         "language": "",
         "language_color": "#586069"
@@ -351,7 +351,7 @@
         "name": "addyosmani/agent-skills",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 115700,
+        "stars": 115895,
         "stars_delta": 788,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -363,7 +363,7 @@
         "name": "NVIDIA/auto-ontology",
         "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
         "url": "https://github.com/NVIDIA/auto-ontology",
-        "stars": 11739,
+        "stars": 11816,
         "stars_delta": 9621,
         "language": "Python",
         "language_color": "#3572A5"
@@ -373,7 +373,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 192932,
+        "stars": 193100,
         "stars_delta": 5014,
         "language": "Python",
         "language_color": "#3572A5"
@@ -383,7 +383,7 @@
         "name": "vercel-labs/agent-desktop",
         "description": "Computer use CLI for AI agents",
         "url": "https://github.com/vercel-labs/agent-desktop",
-        "stars": 21901,
+        "stars": 22031,
         "stars_delta": 9502,
         "language": "Rust",
         "language_color": "#dea584"
@@ -393,7 +393,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 21122,
+        "stars": 21207,
         "stars_delta": 8951,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -403,7 +403,7 @@
         "name": "vercel-labs/agent-browser",
         "description": "Browser automation CLI for AI agents",
         "url": "https://github.com/vercel-labs/agent-browser",
-        "stars": 49711,
+        "stars": 49830,
         "stars_delta": 3606,
         "language": "Rust",
         "language_color": "#dea584"
@@ -415,7 +415,7 @@
         "name": "morluto/rea",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 452032,
+        "stars": 452621,
         "stars_delta": 389832,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -425,7 +425,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 53201,
+        "stars": 53373,
         "stars_delta": 22624,
         "language": "CSS",
         "language_color": "#663399"
@@ -435,7 +435,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 70035,
+        "stars": 70323,
         "stars_delta": 41811,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -445,7 +445,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 116110,
+        "stars": 116215,
         "stars_delta": 17223,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "pingdotgg/t3code",
         "description": "",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 56621,
+        "stars": 56950,
         "stars_delta": 28609,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -534,7 +534,7 @@
         "upvotes": 164,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 121911
+        "github_stars": 122057
       },
       {
         "rank": 2,
@@ -686,89 +686,89 @@
     "top": [
       {
         "rank": 1,
-        "id": 50452455,
-        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-        "url": "https://pietromiotti.com/latest/maya-site/?maya",
-        "discussion_url": "https://news.ycombinator.com/item?id=50452455",
-        "site": "pietromiotti.com",
-        "points": 650,
-        "comments": 249,
-        "author": "eyvindn",
+        "id": 50456631,
+        "title": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "discussion_url": "https://news.ycombinator.com/item?id=50456631",
+        "site": "github.com",
+        "points": 551,
+        "comments": 188,
+        "author": "super_linear",
         "age": "4h ago"
       },
       {
         "rank": 2,
-        "id": 50453763,
-        "title": "Pharo in the Browser with WebAssembly",
-        "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-        "discussion_url": "https://news.ycombinator.com/item?id=50453763",
-        "site": "massimo-nocentini.github.io",
-        "points": 71,
-        "comments": 16,
-        "author": "xkriva11",
-        "age": "2h ago"
+        "id": 50450488,
+        "title": "Tim Peters has died",
+        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "discussion_url": "https://news.ycombinator.com/item?id=50450488",
+        "site": "discuss.python.org",
+        "points": 740,
+        "comments": 75,
+        "author": "ayhanfuat",
+        "age": "16h ago"
       },
       {
         "rank": 3,
-        "id": 50453637,
-        "title": "Atuin Threads: All your agent sessions on every machine",
-        "url": "https://blog.atuin.sh/threads-agent-sessions/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50453637",
-        "site": "blog.atuin.sh",
-        "points": 73,
-        "comments": 29,
-        "author": "linsomniac",
-        "age": "2h ago"
+        "id": 50458900,
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50458900",
+        "site": "cbsnews.com",
+        "points": 203,
+        "comments": 206,
+        "author": "herpderperator",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50452655,
-        "title": "Can a Linear Program Do Weight-Space Programming?",
-        "url": "https://nathan.rs/posts/weight-space-lp/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50452655",
-        "site": "nathan.rs",
-        "points": 144,
-        "comments": 23,
-        "author": "emschwartz",
-        "age": "4h ago"
+        "id": 50455394,
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50455394",
+        "site": "michael.bacarella.com",
+        "points": 368,
+        "comments": 181,
+        "author": "mbac32768",
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 50453288,
-        "title": "Hyper-Realistic Sand with WebGL2",
-        "url": "https://av.github.io/safe-sand/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50453288",
-        "site": "av.github.io",
-        "points": 84,
-        "comments": 16,
-        "author": "everlier",
-        "age": "3h ago"
+        "id": 50459485,
+        "title": "Lock Your GitHub Actions",
+        "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50459485",
+        "site": "hugovk.dev",
+        "points": 36,
+        "comments": 7,
+        "author": "gslin",
+        "age": "54m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 50453369,
-        "title": "Ask HN: Is lack of human imagination now the bottleneck instead of intelligence?",
-        "url": "https://news.ycombinator.com/item?id=50453369",
-        "discussion_url": "https://news.ycombinator.com/item?id=50453369",
+        "id": 50458894,
+        "title": "Ask HN: Personal \"Tears in the Rain\" Moments",
+        "url": "https://news.ycombinator.com/item?id=50458894",
+        "discussion_url": "https://news.ycombinator.com/item?id=50458894",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 7,
-        "author": "amichail",
-        "age": "2h ago"
+        "points": 8,
+        "comments": 6,
+        "author": "HoldOnAMinute",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 50452986,
-        "title": "Ask HN: \"No AI\" apps/companies/resources?",
-        "url": "https://news.ycombinator.com/item?id=50452986",
-        "discussion_url": "https://news.ycombinator.com/item?id=50452986",
+        "id": 50454875,
+        "title": "Any good ways on how to get into kernel dev?",
+        "url": "https://news.ycombinator.com/item?id=50454875",
+        "discussion_url": "https://news.ycombinator.com/item?id=50454875",
         "site": "news.ycombinator.com",
         "points": 6,
-        "comments": 7,
-        "author": "BrunoBernardino",
-        "age": "3h ago"
+        "comments": 2,
+        "author": "ihms",
+        "age": "7h ago"
       },
       {
         "rank": 3,
@@ -777,96 +777,96 @@
         "url": "https://news.ycombinator.com/item?id=50417407",
         "discussion_url": "https://news.ycombinator.com/item?id=50417407",
         "site": "news.ycombinator.com",
-        "points": 294,
-        "comments": 1042,
+        "points": 296,
+        "comments": 1052,
         "author": "david927",
-        "age": "2d ago"
+        "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 50449938,
-        "title": "What are your favorite tools?",
-        "url": "https://news.ycombinator.com/item?id=50449938",
-        "discussion_url": "https://news.ycombinator.com/item?id=50449938",
+        "id": 50456492,
+        "title": "Ask HN: Did anybody used F# in a production?",
+        "url": "https://news.ycombinator.com/item?id=50456492",
+        "discussion_url": "https://news.ycombinator.com/item?id=50456492",
         "site": "news.ycombinator.com",
-        "points": 10,
-        "comments": 8,
-        "author": "d675",
-        "age": "11h ago"
+        "points": 2,
+        "comments": 2,
+        "author": "vad_n__",
+        "age": "5h ago"
       },
       {
         "rank": 5,
-        "id": 50422628,
-        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-        "url": "https://news.ycombinator.com/item?id=50422628",
-        "discussion_url": "https://news.ycombinator.com/item?id=50422628",
+        "id": 50456164,
+        "title": "Ask HN: Software engineer with broken arm, any tips?",
+        "url": "https://news.ycombinator.com/item?id=50456164",
+        "discussion_url": "https://news.ycombinator.com/item?id=50456164",
         "site": "news.ycombinator.com",
-        "points": 216,
-        "comments": 78,
-        "author": "DenGorbachev",
-        "age": "2d ago"
+        "points": 4,
+        "comments": 8,
+        "author": "spapas82",
+        "age": "5h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50453229,
-        "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-        "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-        "discussion_url": "https://news.ycombinator.com/item?id=50453229",
-        "site": "github.com",
-        "points": 38,
-        "comments": 4,
-        "author": "0xdeadf1sh",
+        "id": 50457230,
+        "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+        "url": "https://termsheetplease.com/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50457230",
+        "site": "termsheetplease.com",
+        "points": 137,
+        "comments": 62,
+        "author": "bolau",
         "age": "3h ago"
       },
       {
         "rank": 2,
-        "id": 50449891,
-        "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-        "url": "https://github.com/adrbn/bo2-mac",
-        "discussion_url": "https://news.ycombinator.com/item?id=50449891",
-        "site": "github.com",
-        "points": 108,
-        "comments": 47,
-        "author": "adrbn",
-        "age": "11h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50454951,
-        "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-        "url": "https://github.com/klad-app/klad",
-        "discussion_url": "https://news.ycombinator.com/item?id=50454951",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "ambewas",
-        "age": "42m ago"
-      },
-      {
-        "rank": 4,
-        "id": 50443812,
-        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "url": "https://github.com/GoogleChrome/modern-web-guidance",
-        "discussion_url": "https://news.ycombinator.com/item?id=50443812",
-        "site": "github.com",
-        "points": 416,
-        "comments": 138,
-        "author": "paulirish",
-        "age": "22h ago"
-      },
-      {
-        "rank": 5,
         "id": 50454625,
         "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
         "url": "https://github.com/FrigadeHQ/yogurt",
         "discussion_url": "https://news.ycombinator.com/item?id=50454625",
         "site": "github.com",
-        "points": 5,
-        "comments": 2,
+        "points": 144,
+        "comments": 63,
         "author": "brownrout",
-        "age": "1h ago"
+        "age": "7h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50453229,
+        "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+        "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453229",
+        "site": "github.com",
+        "points": 94,
+        "comments": 17,
+        "author": "0xdeadf1sh",
+        "age": "9h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50413266,
+        "title": "Show HN: Micron – Oberon with the Power of C",
+        "url": "https://github.com/rochus-keller/Micron",
+        "discussion_url": "https://news.ycombinator.com/item?id=50413266",
+        "site": "github.com",
+        "points": 48,
+        "comments": 13,
+        "author": "Rochus",
+        "age": "3d ago"
+      },
+      {
+        "rank": 5,
+        "id": 50454951,
+        "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+        "url": "https://github.com/klad-app/klad",
+        "discussion_url": "https://news.ycombinator.com/item?id=50454951",
+        "site": "github.com",
+        "points": 68,
+        "comments": 28,
+        "author": "ambewas",
+        "age": "7h ago"
       }
     ]
   }
