@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-14T12:38:37Z",
+  "generated": "2026-11-14T13:16:14Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "org": "xtools-at",
-        "trending_score": 4435,
+        "trending_score": 4432,
         "downloads": 24470,
-        "likes": 7243,
+        "likes": 7247,
         "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 995,
+        "trending_score": 997,
         "downloads": 517948,
-        "likes": 1078,
+        "likes": 1081,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 429,
+        "trending_score": 426,
         "downloads": 2777667,
-        "likes": 11850,
+        "likes": 11855,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 416,
+        "trending_score": 415,
         "downloads": 6757964,
-        "likes": 19936,
+        "likes": 19940,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -74,7 +74,7 @@
         "rank": 5,
         "name": "NousResearch/Arete-27B",
         "org": "NousResearch",
-        "trending_score": 406,
+        "trending_score": 402,
         "downloads": 6191,
         "likes": 584,
         "url": "https://huggingface.co/NousResearch/Arete-27B",
@@ -308,92 +308,92 @@
     "daily": [
       {
         "rank": 1,
-        "name": "alibaba/open-code-review",
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-        "url": "https://github.com/alibaba/open-code-review",
-        "stars": 51065,
-        "stars_delta": 897,
-        "language": "Go",
-        "language_color": "#00ADD8"
+        "name": "backnotprop/plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "url": "https://github.com/backnotprop/plannotator",
+        "stars": 10694,
+        "stars_delta": 412,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 2,
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 5347,
+        "stars": 5393,
         "stars_delta": 1225,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "openai/codex-security",
-        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
-        "url": "https://github.com/openai/codex-security",
-        "stars": 13416,
-        "stars_delta": 599,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
-        "name": "ZhuLinsen/daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
-        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "stars": 72088,
-        "stars_delta": 867,
+        "name": "tradermonty/claude-trading-skills",
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "stars": 4449,
+        "stars_delta": 556,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
+        "rank": 4,
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "stars": 55940,
+        "stars_delta": 673,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 5,
-        "name": "we-promise/sure",
-        "description": "The personal finance app for everyone (by everyone)",
-        "url": "https://github.com/we-promise/sure",
-        "stars": 15017,
-        "stars_delta": 659,
-        "language": "Ruby",
-        "language_color": "#701516"
+        "name": "alibaba/open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+        "url": "https://github.com/alibaba/open-code-review",
+        "stars": 51103,
+        "stars_delta": 897,
+        "language": "Go",
+        "language_color": "#00ADD8"
       }
     ],
     "weekly": [
       {
         "rank": 1,
+        "name": "meta/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "url": "https://github.com/meta/astryx",
+        "stars": 27711,
+        "stars_delta": 13375,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
+        "rank": 2,
         "name": "sherlock-project/sherlock",
         "description": "Hunt down social media accounts by username across social networks",
         "url": "https://github.com/sherlock-project/sherlock",
-        "stars": 111494,
+        "stars": 111520,
         "stars_delta": 13364,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 194359,
+        "stars": 194381,
         "stars_delta": 6169,
         "language": "Python",
         "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
-        "name": "milind-soni/OpenMausBot",
-        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 22512,
-        "stars_delta": 7763,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
       },
       {
         "rank": 4,
         "name": "vercel-labs/agent-browser",
         "description": "Browser automation CLI for AI agents",
         "url": "https://github.com/vercel-labs/agent-browser",
-        "stars": 50949,
+        "stars": 50965,
         "stars_delta": 4360,
         "language": "Rust",
         "language_color": "#dea584"
@@ -403,7 +403,7 @@
         "name": "google/elephant-goldfish-model",
         "description": "Open-source plugin for designing and reviewing software with agents",
         "url": "https://github.com/google/elephant-goldfish-model",
-        "stars": 18841,
+        "stars": 18858,
         "stars_delta": 5560,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,48 +415,48 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 54751,
+        "stars": 54762,
         "stars_delta": 24631,
         "language": "CSS",
         "language_color": "#663399"
       },
       {
         "rank": 2,
-        "name": "morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea",
-        "stars": 458756,
-        "stars_delta": 271084,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 72242,
+        "stars": 72268,
         "stars_delta": 42839,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
+        "rank": 3,
+        "name": "morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "url": "https://github.com/morluto/rea",
+        "stars": 458831,
+        "stars_delta": 271084,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 4,
-        "name": "thedotmack/claude-mem",
-        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 116967,
-        "stars_delta": 17120,
+        "name": "pingdotgg/t3code",
+        "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+        "url": "https://github.com/pingdotgg/t3code",
+        "stars": 60110,
+        "stars_delta": 32057,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "pingdotgg/t3code",
-        "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-        "url": "https://github.com/pingdotgg/t3code",
-        "stars": 60079,
-        "stars_delta": 32057,
+        "name": "thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 116973,
+        "stars_delta": 17120,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -688,8 +688,8 @@
         "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
         "discussion_url": "https://news.ycombinator.com/item?id=50440709",
         "site": "so.long.thanks.fish",
-        "points": 141,
-        "comments": 91,
+        "points": 170,
+        "comments": 119,
         "author": "casi",
         "age": "3d ago"
       },
@@ -700,8 +700,8 @@
         "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
         "discussion_url": "https://news.ycombinator.com/item?id=50493062",
         "site": "github.com",
-        "points": 302,
-        "comments": 47,
+        "points": 310,
+        "comments": 50,
         "author": "cobychapple",
         "age": "10h ago"
       },
@@ -712,8 +712,8 @@
         "url": "https://monkeyisland.pages.dev/",
         "discussion_url": "https://news.ycombinator.com/item?id=50493904",
         "site": "monkeyisland.pages.dev",
-        "points": 207,
-        "comments": 62,
+        "points": 232,
+        "comments": 73,
         "author": "maximilianburke",
         "age": "8h ago"
       },
@@ -724,10 +724,10 @@
         "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
         "discussion_url": "https://news.ycombinator.com/item?id=50493251",
         "site": "techpowerup.com",
-        "points": 698,
-        "comments": 405,
+        "points": 735,
+        "comments": 427,
         "author": "speckx",
-        "age": "9h ago"
+        "age": "10h ago"
       },
       {
         "rank": 5,
@@ -736,10 +736,10 @@
         "url": "https://unsloth.ai/docs/models/qwen3.8",
         "discussion_url": "https://news.ycombinator.com/item?id=50491980",
         "site": "unsloth.ai",
-        "points": 171,
-        "comments": 50,
+        "points": 182,
+        "comments": 51,
         "author": "Retro_Dev",
-        "age": "12h ago"
+        "age": "13h ago"
       }
     ],
     "ask": [
@@ -751,7 +751,7 @@
         "discussion_url": "https://news.ycombinator.com/item?id=50491617",
         "site": "news.ycombinator.com",
         "points": 34,
-        "comments": 18,
+        "comments": 19,
         "author": "exploraz",
         "age": "13h ago"
       },
@@ -765,10 +765,22 @@
         "points": 35,
         "comments": 30,
         "author": "0o777",
-        "age": "17h ago"
+        "age": "18h ago"
       },
       {
         "rank": 3,
+        "id": 50494696,
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "url": "https://news.ycombinator.com/item?id=50494696",
+        "discussion_url": "https://news.ycombinator.com/item?id=50494696",
+        "site": "news.ycombinator.com",
+        "points": 52,
+        "comments": 40,
+        "author": "shnock",
+        "age": "6h ago"
+      },
+      {
+        "rank": 4,
         "id": 50491285,
         "title": "Tell HN: Cloudflare's abuse report form is a blank page",
         "url": "https://news.ycombinator.com/item?id=50491285",
@@ -777,19 +789,7 @@
         "points": 16,
         "comments": 6,
         "author": "basilikum",
-        "age": "13h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50494696,
-        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-        "url": "https://news.ycombinator.com/item?id=50494696",
-        "discussion_url": "https://news.ycombinator.com/item?id=50494696",
-        "site": "news.ycombinator.com",
-        "points": 48,
-        "comments": 40,
-        "author": "shnock",
-        "age": "5h ago"
+        "age": "14h ago"
       },
       {
         "rank": 5,
@@ -801,7 +801,7 @@
         "points": 3,
         "comments": 1,
         "author": "otohp",
-        "age": "8h ago"
+        "age": "9h ago"
       }
     ],
     "show": [
@@ -812,8 +812,8 @@
         "url": "https://grounds.top/",
         "discussion_url": "https://news.ycombinator.com/item?id=50491545",
         "site": "grounds.top",
-        "points": 162,
-        "comments": 22,
+        "points": 166,
+        "comments": 23,
         "author": "gvsi",
         "age": "13h ago"
       },
@@ -824,8 +824,8 @@
         "url": "https://github.com/0xdeadf1sh/T1DMAI",
         "discussion_url": "https://news.ycombinator.com/item?id=50444761",
         "site": "github.com",
-        "points": 46,
-        "comments": 19,
+        "points": 48,
+        "comments": 23,
         "author": "0xdeadf1sh",
         "age": "3d ago"
       },
@@ -836,10 +836,10 @@
         "url": "https://isometricsf.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50487228",
         "site": "isometricsf.com",
-        "points": 221,
-        "comments": 71,
+        "points": 222,
+        "comments": 72,
         "author": "juscha1",
-        "age": "18h ago"
+        "age": "19h ago"
       },
       {
         "rank": 4,
@@ -848,7 +848,7 @@
         "url": "https://github.com/simpsoka/zigzag",
         "discussion_url": "https://news.ycombinator.com/item?id=50470488",
         "site": "github.com",
-        "points": 724,
+        "points": 727,
         "comments": 247,
         "author": "simpsoka",
         "age": "1d ago"
@@ -860,10 +860,10 @@
         "url": "https://gammapdf.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50495073",
         "site": "gammapdf.com",
-        "points": 6,
-        "comments": 1,
+        "points": 7,
+        "comments": 2,
         "author": "tim4431",
-        "age": "4h ago"
+        "age": "5h ago"
       }
     ]
   }
