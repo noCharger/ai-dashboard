@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-15T10:03:56Z",
+  "generated": "2026-11-15T13:44:19Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "org": "xtools-at",
-        "trending_score": 4224,
+        "trending_score": 4191,
         "downloads": 27037,
-        "likes": 7433,
+        "likes": 7458,
         "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 1033,
+        "trending_score": 1042,
         "downloads": 571067,
-        "likes": 1138,
+        "likes": 1148,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 440,
+        "trending_score": 441,
         "downloads": 6547772,
-        "likes": 20048,
+        "likes": 20064,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -57,9 +57,9 @@
         "rank": 4,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 419,
+        "trending_score": 420,
         "downloads": 2754355,
-        "likes": 11968,
+        "likes": 11995,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-        "org": "DavidAU",
+        "name": "Comfy-Org/MiniMax-H3-Image",
+        "org": "Comfy-Org",
         "trending_score": 362,
-        "downloads": 1708637,
-        "likes": 3136,
-        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "downloads": 1973388,
+        "likes": 401,
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
         "tags": [
-          "gguf",
-          "unsloth",
-          "fine tune",
-          "heretic",
-          "uncensored"
+          "diffusion-single-file",
+          "comfyui",
+          "text-to-image",
+          "base_model:MiniMaxAI/MiniMax-H3-Image",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image"
         ],
         "rank_change": null
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "backnotprop/plannotator",
-        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-        "url": "https://github.com/backnotprop/plannotator",
-        "stars": 11461,
-        "stars_delta": 408,
+        "name": "dream-num/univer",
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "url": "https://github.com/dream-num/univer",
+        "stars": 25257,
+        "stars_delta": 1041,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "GoogleChrome/modern-web-guidance-src",
-        "description": "Keep your coding agent up to date with the latest web best practices",
-        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 6442,
-        "stars_delta": 1231,
+        "name": "ag-ui-protocol/ag-ui",
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "stars": 17583,
+        "stars_delta": 393,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "tradermonty/claude-trading-skills",
-        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "url": "https://github.com/tradermonty/claude-trading-skills",
-        "stars": 5083,
-        "stars_delta": 553,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "google-labs-code/stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "stars": 9058,
+        "stars_delta": 248,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "ChromeDevTools/chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "stars": 56537,
-        "stars_delta": 664,
+        "name": "backnotprop/plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "url": "https://github.com/backnotprop/plannotator",
+        "stars": 11605,
+        "stars_delta": 860,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "alibaba/open-code-review",
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-        "url": "https://github.com/alibaba/open-code-review",
-        "stars": 51645,
-        "stars_delta": 893,
-        "language": "Go",
-        "language_color": "#00ADD8"
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "stars": 56639,
+        "stars_delta": 718,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -363,50 +363,50 @@
         "name": "meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/meta/astryx",
-        "stars": 28398,
+        "stars": 28516,
         "stars_delta": 13660,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "sherlock-project/sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "url": "https://github.com/sherlock-project/sherlock",
-        "stars": 112024,
-        "stars_delta": 12401,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 3,
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 194887,
+        "stars": 195065,
         "stars_delta": 6220,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
+        "rank": 3,
+        "name": "sherlock-project/sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "stars": 112134,
+        "stars_delta": 12401,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
         "rank": 4,
-        "name": "vercel-labs/agent-browser",
-        "description": "Browser automation CLI for AI agents",
-        "url": "https://github.com/vercel-labs/agent-browser",
-        "stars": 51354,
-        "stars_delta": 4601,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "backnotprop/plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "url": "https://github.com/backnotprop/plannotator",
+        "stars": 11605,
+        "stars_delta": 818,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       },
       {
         "rank": 5,
-        "name": "google/elephant-goldfish-model",
-        "description": "Open-source plugin for designing and reviewing software with agents",
-        "url": "https://github.com/google/elephant-goldfish-model",
-        "stars": 19360,
-        "stars_delta": 5539,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "vercel-labs/agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "stars": 51413,
+        "stars_delta": 4601,
+        "language": "Rust",
+        "language_color": "#dea584"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 55191,
+        "stars": 55271,
         "stars_delta": 25013,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,40 +425,40 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 72827,
+        "stars": 72915,
         "stars_delta": 43171,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
       {
         "rank": 3,
-        "name": "morluto/rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "url": "https://github.com/morluto/rea",
-        "stars": 460697,
-        "stars_delta": 236618,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 60918,
+        "stars": 61071,
         "stars_delta": 32857,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 117205,
+        "stars": 117245,
         "stars_delta": 17051,
         "language": "TypeScript",
         "language_color": "#3178c6"
+      },
+      {
+        "rank": 5,
+        "name": "pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "url": "https://github.com/pbakaus/impeccable",
+        "stars": 110500,
+        "stars_delta": 29487,
+        "language": "Rust",
+        "language_color": "#dea584"
       }
     ],
     "frameworks": [
@@ -688,58 +688,58 @@
         "url": "https://www.spacex.com/launches/starship-flight-15",
         "discussion_url": "https://news.ycombinator.com/item?id=50500963",
         "site": "spacex.com",
-        "points": 1217,
-        "comments": 822,
+        "points": 1367,
+        "comments": 915,
         "author": "ls612",
-        "age": "12h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50499017,
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "url": "https://www.crissyfield.de/research/lovable-en/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50499017",
-        "site": "crissyfield.de",
-        "points": 814,
-        "comments": 316,
-        "author": "armcat",
         "age": "16h ago"
       },
       {
-        "rank": 3,
-        "id": 50443331,
-        "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-        "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-        "discussion_url": "https://news.ycombinator.com/item?id=50443331",
-        "site": "lloydslist.com",
-        "points": 63,
-        "comments": 18,
-        "author": "everybodyknows",
-        "age": "4d ago"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "id": 50505271,
         "title": "Why did some Apollo missions carry a grenade launcher?",
         "url": "https://space.stackexchange.com/questions/37775",
         "discussion_url": "https://news.ycombinator.com/item?id=50505271",
         "site": "space.stackexchange.com",
-        "points": 9,
-        "comments": 2,
+        "points": 89,
+        "comments": 56,
         "author": "Skyfall106",
-        "age": "57m ago"
+        "age": "4h ago"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "id": 50499017,
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50499017",
+        "site": "crissyfield.de",
+        "points": 885,
+        "comments": 338,
+        "author": "armcat",
+        "age": "20h ago"
+      },
+      {
+        "rank": 4,
         "id": 50502988,
         "title": "Court denies motion to dismiss DRAM price fixing case",
         "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
         "discussion_url": "https://news.ycombinator.com/item?id=50502988",
         "site": "litnews.ai",
-        "points": 147,
-        "comments": 40,
+        "points": 276,
+        "comments": 103,
         "author": "ybathaee",
-        "age": "8h ago"
+        "age": "12h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50481056,
+        "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+        "url": "https://tsoracle.rs/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50481056",
+        "site": "tsoracle.rs",
+        "points": 18,
+        "comments": 2,
+        "author": "znano",
+        "age": "2d ago"
       }
     ],
     "ask": [
@@ -750,10 +750,10 @@
         "url": "https://news.ycombinator.com/item?id=50504514",
         "discussion_url": "https://news.ycombinator.com/item?id=50504514",
         "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 0,
+        "points": 7,
+        "comments": 2,
         "author": "herodoturtle",
-        "age": "3h ago"
+        "age": "7h ago"
       },
       {
         "rank": 2,
@@ -762,10 +762,10 @@
         "url": "https://news.ycombinator.com/item?id=50504061",
         "discussion_url": "https://news.ycombinator.com/item?id=50504061",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 5,
         "comments": 6,
         "author": "xlayn",
-        "age": "5h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
@@ -777,22 +777,10 @@
         "points": 15,
         "comments": 10,
         "author": "gfalcao",
-        "age": "19h ago"
+        "age": "23h ago"
       },
       {
         "rank": 4,
-        "id": 50503017,
-        "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
-        "url": "https://news.ycombinator.com/item?id=50503017",
-        "discussion_url": "https://news.ycombinator.com/item?id=50503017",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 2,
-        "author": "aurumagent",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
         "id": 50491617,
         "title": "Tell HN: Google Search to start locking down search behind a login wall",
         "url": "https://news.ycombinator.com/item?id=50491617",
@@ -802,68 +790,80 @@
         "comments": 28,
         "author": "exploraz",
         "age": "1d ago"
+      },
+      {
+        "rank": 5,
+        "id": 50488230,
+        "title": "Ask HN: What is the state of self-hosting email in 2026?",
+        "url": "https://news.ycombinator.com/item?id=50488230",
+        "discussion_url": "https://news.ycombinator.com/item?id=50488230",
+        "site": "news.ycombinator.com",
+        "points": 42,
+        "comments": 33,
+        "author": "0o777",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50504072,
-        "title": "Show HN: Gawain – Require type hints on all Python variables",
-        "url": "https://github.com/matheuzgomes/gawain",
-        "discussion_url": "https://news.ycombinator.com/item?id=50504072",
-        "site": "github.com",
-        "points": 51,
-        "comments": 25,
-        "author": "MarinhoD",
-        "age": "5h ago"
+        "id": 50482279,
+        "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+        "url": "https://www.niklasroy.com/carton-clock/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50482279",
+        "site": "niklasroy.com",
+        "points": 16,
+        "comments": 1,
+        "author": "r0r0",
+        "age": "2d ago"
       },
       {
         "rank": 2,
-        "id": 50503930,
-        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-        "discussion_url": "https://news.ycombinator.com/item?id=50503930",
-        "site": "github.com",
-        "points": 33,
-        "comments": 5,
-        "author": "tthanh2k6",
-        "age": "5h ago"
-      },
-      {
-        "rank": 3,
         "id": 50497589,
         "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
         "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
         "discussion_url": "https://news.ycombinator.com/item?id=50497589",
         "site": "github.com",
-        "points": 233,
-        "comments": 21,
+        "points": 249,
+        "comments": 23,
         "author": "VaibhaavTiwari",
-        "age": "18h ago"
+        "age": "22h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50503930,
+        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "discussion_url": "https://news.ycombinator.com/item?id=50503930",
+        "site": "github.com",
+        "points": 40,
+        "comments": 8,
+        "author": "tthanh2k6",
+        "age": "9h ago"
       },
       {
         "rank": 4,
+        "id": 50506235,
+        "title": "Show HN: a Rust implementation of the Reticulum mesh networking stack",
+        "url": "https://github.com/aljazceru/Reticulum-rs",
+        "discussion_url": "https://news.ycombinator.com/item?id=50506235",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "aaaljaz",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 50502839,
         "title": "Show HN: A custom font based on the Jamaican flag alphabet",
         "url": "https://bobbiec.github.io/jamaican-font.html",
         "discussion_url": "https://news.ycombinator.com/item?id=50502839",
         "site": "bobbiec.github.io",
-        "points": 41,
+        "points": 46,
         "comments": 6,
         "author": "bobbiechen",
-        "age": "9h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50497132,
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "url": "https://gitlab.com/snipedbywifi/terminactory",
-        "discussion_url": "https://news.ycombinator.com/item?id=50497132",
-        "site": "gitlab.com",
-        "points": 156,
-        "comments": 39,
-        "author": "snipedbywifi",
-        "age": "19h ago"
+        "age": "12h ago"
       }
     ]
   }
