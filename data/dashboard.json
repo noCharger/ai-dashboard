@@ -1,31 +1,14 @@
 {
-  "generated": "2026-11-17T03:16:18Z",
+  "generated": "2026-11-17T12:34:43Z",
   "models": {
     "trending": [
       {
         "rank": 1,
-        "name": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "org": "xtools-at",
-        "trending_score": 3012.1,
-        "downloads": 29567,
-        "likes": 8990,
-        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "text-generation-inference"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 2,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 1155,
-        "downloads": 609130,
-        "likes": 1326,
+        "trending_score": 1149,
+        "downloads": 727110,
+        "likes": 1369,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -37,12 +20,12 @@
         "rank_change": null
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 478,
-        "downloads": 6763402,
-        "likes": 20284,
+        "trending_score": 482,
+        "downloads": 6942530,
+        "likes": 20337,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -54,12 +37,29 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Comfy-Org/MiniMax-H3-Image",
+        "org": "Comfy-Org",
+        "trending_score": 404,
+        "downloads": 2660341,
+        "likes": 509,
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "text-to-image",
+          "base_model:MiniMaxAI/MiniMax-H3-Image",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 4,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 442,
-        "downloads": 2789021,
-        "likes": 12263,
+        "trending_score": 403,
+        "downloads": 2828071,
+        "likes": 12320,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -72,18 +72,18 @@
       },
       {
         "rank": 5,
-        "name": "Comfy-Org/MiniMax-H3-Image",
-        "org": "Comfy-Org",
-        "trending_score": 418,
-        "downloads": 2294065,
-        "likes": 494,
-        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "name": "higurashi-ai/Haru-4B",
+        "org": "higurashi-ai",
+        "trending_score": 369,
+        "downloads": 4445,
+        "likes": 466,
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
         "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "text-to-image",
-          "base_model:MiniMaxAI/MiniMax-H3-Image",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image"
+          "safetensors",
+          "haru",
+          "speech",
+          "full-duplex",
+          "speech-to-speech"
         ],
         "rank_change": null
       }
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "ag-ui-protocol/ag-ui",
-        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "url": "https://github.com/ag-ui-protocol/ag-ui",
-        "stars": 19195,
-        "stars_delta": 791,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 2,
-        "name": "backnotprop/plannotator",
-        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-        "url": "https://github.com/backnotprop/plannotator",
-        "stars": 12664,
-        "stars_delta": 696,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
-        "name": "dream-num/univer",
-        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-        "url": "https://github.com/dream-num/univer",
-        "stars": 27891,
-        "stars_delta": 1828,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 4,
-        "name": "tradermonty/claude-trading-skills",
-        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "url": "https://github.com/tradermonty/claude-trading-skills",
-        "stars": 6407,
-        "stars_delta": 837,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 7526,
-        "stars_delta": 1094,
+        "stars": 8152,
+        "stars_delta": 1007,
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 2,
+        "name": "mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "stars": 68576,
+        "stars_delta": 135,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "alibaba/open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+        "url": "https://github.com/alibaba/open-code-review",
+        "stars": 53385,
+        "stars_delta": 764,
+        "language": "Go",
+        "language_color": "#00ADD8"
+      },
+      {
+        "rank": 4,
+        "name": "Tencent/LoopForge",
+        "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+        "url": "https://github.com/Tencent/LoopForge",
+        "stars": 2794,
+        "stars_delta": 590,
+        "language": "Go",
+        "language_color": "#00ADD8"
+      },
+      {
+        "rank": 5,
+        "name": "dream-num/univer",
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "url": "https://github.com/dream-num/univer",
+        "stars": 28662,
+        "stars_delta": 1776,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "weekly": [
@@ -363,50 +363,50 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 8055,
+        "stars": 8250,
         "stars_delta": 6542,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 2,
-        "name": "meta/astryx",
-        "description": "An open source design system that's fully customizable and agent ready",
-        "url": "https://github.com/meta/astryx",
-        "stars": 29681,
-        "stars_delta": 10939,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 3,
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 12664,
+        "stars": 12890,
         "stars_delta": 2325,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
+        "rank": 3,
+        "name": "meta/astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "url": "https://github.com/meta/astryx",
+        "stars": 29907,
+        "stars_delta": 10939,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
+      },
+      {
         "rank": 4,
-        "name": "anthropics/skills",
-        "description": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills",
-        "stars": 196123,
-        "stars_delta": 5666,
-        "language": "Python",
-        "language_color": "#3572A5"
+        "name": "we-promise/sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "url": "https://github.com/we-promise/sure",
+        "stars": 16150,
+        "stars_delta": 4679,
+        "language": "Ruby",
+        "language_color": "#701516"
       },
       {
         "rank": 5,
-        "name": "vercel-labs/agent-browser",
-        "description": "Browser automation CLI for AI agents",
-        "url": "https://github.com/vercel-labs/agent-browser",
-        "stars": 52067,
-        "stars_delta": 3760,
-        "language": "Rust",
-        "language_color": "#dea584"
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "stars": 72987,
+        "stars_delta": 4355,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "monthly": [
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 56206,
+        "stars": 56547,
         "stars_delta": 25988,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 74032,
+        "stars": 74378,
         "stars_delta": 43924,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,30 +435,30 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 62942,
+        "stars": 63543,
         "stars_delta": 34691,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 4,
-        "name": "thedotmack/claude-mem",
-        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 117736,
-        "stars_delta": 17074,
-        "language": "TypeScript",
-        "language_color": "#3178c6"
-      },
-      {
-        "rank": 5,
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 196123,
+        "stars": 196415,
         "stars_delta": 14817,
         "language": "Python",
         "language_color": "#3572A5"
+      },
+      {
+        "rank": 5,
+        "name": "thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 117843,
+        "stars_delta": 17074,
+        "language": "TypeScript",
+        "language_color": "#3178c6"
       }
     ],
     "frameworks": [
@@ -523,18 +523,18 @@
     "hf_trending": [
       {
         "rank": 1,
-        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
         "authors": [
-          "Yu Lin",
-          "Yiming Wang",
-          "Runyuan Cai"
+          "Yiwen Song",
+          "Yale Song",
+          "Tomas Pfister"
         ],
-        "url": "https://huggingface.co/papers/2609.18063",
+        "url": "https://huggingface.co/papers/2604.05018",
         "categories": [],
-        "upvotes": 33,
-        "published": "2026-09-15",
-        "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 11937
+        "upvotes": 6,
+        "published": "2026-04-05",
+        "github_repo": "https://github.com/google-research/paper-orchestra",
+        "github_stars": 1732
       },
       {
         "rank": 2,
@@ -549,22 +549,22 @@
         "upvotes": 17,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 7043
+        "github_stars": 7261
       },
       {
         "rank": 3,
-        "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
         "authors": [
-          "Yiwen Song",
-          "Yale Song",
-          "Tomas Pfister"
+          "Yu Lin",
+          "Yiming Wang",
+          "Runyuan Cai"
         ],
-        "url": "https://huggingface.co/papers/2604.05018",
+        "url": "https://huggingface.co/papers/2609.18063",
         "categories": [],
-        "upvotes": 4,
-        "published": "2026-04-05",
-        "github_repo": "https://github.com/google-research/paper-orchestra",
-        "github_stars": 1228
+        "upvotes": 33,
+        "published": "2026-09-15",
+        "github_repo": "https://github.com/Edge0-AI/edge0",
+        "github_stars": 11961
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 169,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 122831
+        "github_stars": 122889
       },
       {
         "rank": 5,
@@ -594,88 +594,85 @@
         "upvotes": 71,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 24091
+        "github_stars": 24151
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+        "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
         "authors": [
-          "Tony H. Zhang",
-          "Connor Mattson",
-          "Daniel S. Brown"
+          "Arunkumar V"
         ],
-        "url": "https://arxiv.org/abs/2611.18543",
+        "url": "https://arxiv.org/abs/2611.21545",
         "categories": [
           "cs.AI",
-          "cs.MA"
+          "cs.CL",
+          "cs.CY"
         ],
         "upvotes": null,
-        "published": "2026-11-16"
+        "published": "2026-11-17"
       },
       {
         "rank": 2,
-        "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+        "title": "SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents",
         "authors": [
-          "Zelin He",
-          "Siyu Zhu",
-          "Jacob Helwig"
+          "Brian T. Weston",
+          "Alondra Torres Contreras",
+          "Aldair E. Gongora"
         ],
-        "url": "https://arxiv.org/abs/2611.18533",
+        "url": "https://arxiv.org/abs/2611.21541",
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "upvotes": null,
+        "published": "2026-11-17"
+      },
+      {
+        "rank": 3,
+        "title": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+        "authors": [
+          "Arunkumar V",
+          "Manoranjan Gandhudi",
+          "Gangadharan G. R."
+        ],
+        "url": "https://arxiv.org/abs/2611.21529",
         "categories": [
           "cs.AI",
           "cs.CL",
           "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-11-16"
-      },
-      {
-        "rank": 3,
-        "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-        "authors": [
-          "Thomas Brennan",
-          "Andrew W. Lo",
-          "Chaoyi Zhao"
-        ],
-        "url": "https://arxiv.org/abs/2611.18531",
-        "categories": [
-          "cs.AI"
-        ],
-        "upvotes": null,
-        "published": "2026-11-16"
+        "published": "2026-11-17"
       },
       {
         "rank": 4,
-        "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+        "title": "Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety",
         "authors": [
-          "Mohamed Aghzal",
-          "Mor Geva",
-          "Gregory J. Stein"
+          "Charles Xiao"
         ],
-        "url": "https://arxiv.org/abs/2611.18514",
-        "categories": [
-          "cs.AI",
-          "cs.CL"
-        ],
-        "upvotes": null,
-        "published": "2026-11-16"
-      },
-      {
-        "rank": 5,
-        "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
-        "authors": [
-          "Dhruv Dixit",
-          "Khushi Patel",
-          "Congcong Xu"
-        ],
-        "url": "https://arxiv.org/abs/2611.18494",
+        "url": "https://arxiv.org/abs/2611.21520",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-16"
+        "published": "2026-11-17"
+      },
+      {
+        "rank": 5,
+        "title": "Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies for College-Level Assessments",
+        "authors": [
+          "Bonam Mingole",
+          "Davis Yadav",
+          "Hui Min Lee"
+        ],
+        "url": "https://arxiv.org/abs/2611.21476",
+        "categories": [
+          "cs.AI"
+        ],
+        "upvotes": null,
+        "published": "2026-11-17"
       }
     ]
   },
@@ -688,182 +685,182 @@
         "url": "https://www.cs.cmu.edu/learn/",
         "discussion_url": "https://news.ycombinator.com/item?id=50522980",
         "site": "cs.cmu.edu",
-        "points": 850,
-        "comments": 140,
+        "points": 1695,
+        "comments": 230,
         "author": "pcompeau",
-        "age": "6h ago"
+        "age": "15h ago"
       },
       {
         "rank": 2,
-        "id": 50524736,
-        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50524736",
-        "site": "xusheng.dev",
-        "points": 306,
-        "comments": 170,
-        "author": "cwaffles",
-        "age": "4h ago"
+        "id": 50511874,
+        "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+        "url": "https://visualbasic.world/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50511874",
+        "site": "visualbasic.world",
+        "points": 73,
+        "comments": 25,
+        "author": "broast",
+        "age": "1d ago"
       },
       {
         "rank": 3,
+        "id": 50508845,
+        "title": "Japan's Hometown Tax (2018)",
+        "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50508845",
+        "site": "kalzumeus.com",
+        "points": 69,
+        "comments": 34,
+        "author": "waximabbax",
+        "age": "1d ago"
+      },
+      {
+        "rank": 4,
         "id": 50523601,
         "title": "BugMeNot has closed",
         "url": "https://www.bugmenot.com/",
         "discussion_url": "https://news.ycombinator.com/item?id=50523601",
         "site": "bugmenot.com",
-        "points": 357,
-        "comments": 179,
+        "points": 595,
+        "comments": 270,
         "author": "lode",
-        "age": "5h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50526152,
-        "title": "Running coding agents without handing them my credentials",
-        "url": "https://blog.antonio.cx/running-agents-with-lend",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526152",
-        "site": "blog.antonio.cx",
-        "points": 38,
-        "comments": 12,
-        "author": "antoniomika",
-        "age": "1h ago"
+        "age": "15h ago"
       },
       {
         "rank": 5,
         "id": 50524767,
-        "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+        "title": "Optimizely compromised, served malware on Zoom, GitLab",
         "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "discussion_url": "https://news.ycombinator.com/item?id=50524767",
         "site": "blog.report-uri.com",
-        "points": 141,
-        "comments": 77,
+        "points": 418,
+        "comments": 168,
         "author": "kristjansson",
-        "age": "4h ago"
+        "age": "13h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 50526330,
-        "title": "Claude Is Always Right",
-        "url": "https://news.ycombinator.com/item?id=50526330",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526330",
+        "id": 50520076,
+        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+        "url": "https://news.ycombinator.com/item?id=50520076",
+        "discussion_url": "https://news.ycombinator.com/item?id=50520076",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 3,
-        "author": "KenPainter",
-        "age": "1h ago"
+        "points": 65,
+        "comments": 86,
+        "author": "ex-aws-dude",
+        "age": "19h ago"
       },
       {
         "rank": 2,
-        "id": 50522639,
-        "title": "Ask HN: Are iPhone Duo Customers Happy?",
-        "url": "https://news.ycombinator.com/item?id=50522639",
-        "discussion_url": "https://news.ycombinator.com/item?id=50522639",
+        "id": 50528871,
+        "title": "Ask HN: Syncthing",
+        "url": "https://news.ycombinator.com/item?id=50528871",
+        "discussion_url": "https://news.ycombinator.com/item?id=50528871",
         "site": "news.ycombinator.com",
-        "points": 12,
-        "comments": 8,
-        "author": "rogerdickey",
-        "age": "6h ago"
+        "points": 3,
+        "comments": 2,
+        "author": "bikvfeee",
+        "age": "4h ago"
       },
       {
         "rank": 3,
-        "id": 50525469,
-        "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
-        "url": "https://news.ycombinator.com/item?id=50525469",
-        "discussion_url": "https://news.ycombinator.com/item?id=50525469",
+        "id": 50530287,
+        "title": "What if Elon Musk got caught having affairs with a spy and a subordinate?",
+        "url": "https://news.ycombinator.com/item?id=50530287",
+        "discussion_url": "https://news.ycombinator.com/item?id=50530287",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 8,
-        "author": "vld_chk",
-        "age": "3h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "DivingForGold",
+        "age": "32m ago"
       },
       {
         "rank": 4,
-        "id": 50521585,
-        "title": "Is the Economy Over-Indexed to Software?",
-        "url": "https://news.ycombinator.com/item?id=50521585",
-        "discussion_url": "https://news.ycombinator.com/item?id=50521585",
+        "id": 50528707,
+        "title": "Ask HN: What was your weirdest or funniest job rejection?",
+        "url": "https://news.ycombinator.com/item?id=50528707",
+        "discussion_url": "https://news.ycombinator.com/item?id=50528707",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 5,
-        "author": "nizsle",
-        "age": "8h ago"
+        "points": 5,
+        "comments": 2,
+        "author": "cristaloleg",
+        "age": "4h ago"
       },
       {
         "rank": 5,
-        "id": 50520408,
-        "title": "Ask HN: Most compelling early stage fund pitches?",
-        "url": "https://news.ycombinator.com/item?id=50520408",
-        "discussion_url": "https://news.ycombinator.com/item?id=50520408",
+        "id": 50526822,
+        "title": "Ask HN: Are the more software malfunctions now than before?",
+        "url": "https://news.ycombinator.com/item?id=50526822",
+        "discussion_url": "https://news.ycombinator.com/item?id=50526822",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 3,
-        "author": "bix6",
+        "points": 8,
+        "comments": 4,
+        "author": "sirnicolaz",
         "age": "9h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50496787,
+        "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+        "url": "https://github.com/ZigaoWang/zigzag",
+        "discussion_url": "https://news.ycombinator.com/item?id=50496787",
+        "site": "github.com",
+        "points": 82,
+        "comments": 48,
+        "author": "ZigaoWang",
+        "age": "2d ago"
+      },
+      {
+        "rank": 2,
+        "id": 50526967,
+        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+        "url": "https://github.com/yocontra/pulsar",
+        "discussion_url": "https://news.ycombinator.com/item?id=50526967",
+        "site": "github.com",
+        "points": 18,
+        "comments": 2,
+        "author": "contrahax",
+        "age": "9h ago"
+      },
+      {
+        "rank": 3,
         "id": 50525052,
         "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
         "url": "https://github.com/0nelight/sutra-os",
         "discussion_url": "https://news.ycombinator.com/item?id=50525052",
         "site": "github.com",
-        "points": 37,
-        "comments": 13,
+        "points": 59,
+        "comments": 27,
         "author": "0nelight",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50526527,
-        "title": "Show HN: A free interactive course on AI agent governance",
-        "url": "https://studio.sinapsdata.com.br",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526527",
-        "site": "studio.sinapsdata.com.br",
-        "points": 8,
-        "comments": 2,
-        "author": "sadrk",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50526110,
-        "title": "Show HN: Free weekly backups for Supabase Free projects (pg_dump to R2)",
-        "url": "https://github.com/liulewis/supabase-free-backup-lite",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526110",
-        "site": "github.com",
-        "points": 6,
-        "comments": 0,
-        "author": "agricalc",
-        "age": "2h ago"
+        "age": "13h ago"
       },
       {
         "rank": 4,
-        "id": 50526516,
-        "title": "Show HN: Coding agents with native environments, identity and access",
-        "url": "https://kosem.ai/blog/coding-agents-workstation-moment",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526516",
-        "site": "kosem.ai",
+        "id": 50529190,
+        "title": "Show HN: MeshLive – Offline Video calls and livestreams over Bluetooth mesh",
+        "url": "https://meshlive.github.io/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50529190",
+        "site": "meshlive.github.io",
         "points": 2,
         "comments": 0,
-        "author": "yevpats",
-        "age": "1h ago"
+        "author": "gptgautam1",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50526510,
-        "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-        "url": "https://robert-mcdermott.github.io/astrum/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526510",
-        "site": "robert-mcdermott.github.io",
-        "points": 3,
-        "comments": 0,
-        "author": "mcdermott",
-        "age": "1h ago"
+        "id": 50523377,
+        "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+        "url": "https://github.com/aryamandarda/tamserve",
+        "discussion_url": "https://news.ycombinator.com/item?id=50523377",
+        "site": "github.com",
+        "points": 29,
+        "comments": 2,
+        "author": "aryaman_darda",
+        "age": "15h ago"
       }
     ]
   }
