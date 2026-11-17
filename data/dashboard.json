@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-17T12:34:43Z",
+  "generated": "2026-11-17T15:45:21Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 1149,
+        "trending_score": 1051,
         "downloads": 727110,
-        "likes": 1369,
+        "likes": 1387,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "Qwen/Qwen3.8-27B",
         "org": "Qwen",
-        "trending_score": 482,
+        "trending_score": 488,
         "downloads": 6942530,
-        "likes": 20337,
+        "likes": 20366,
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Comfy-Org/MiniMax-H3-Image",
-        "org": "Comfy-Org",
-        "trending_score": 404,
-        "downloads": 2660341,
-        "likes": 509,
-        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-        "tags": [
-          "diffusion-single-file",
-          "comfyui",
-          "text-to-image",
-          "base_model:MiniMaxAI/MiniMax-H3-Image",
-          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "Lightricks/LTX-2.5",
         "org": "Lightricks",
-        "trending_score": 403,
+        "trending_score": 404,
         "downloads": 2828071,
-        "likes": 12320,
+        "likes": 12345,
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
         "tags": [
           "diffusion-single-file",
@@ -71,12 +54,12 @@
         "rank_change": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "higurashi-ai/Haru-4B",
         "org": "higurashi-ai",
-        "trending_score": 369,
+        "trending_score": 370,
         "downloads": 4445,
-        "likes": 466,
+        "likes": 472,
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
         "tags": [
           "safetensors",
@@ -84,6 +67,23 @@
           "speech",
           "full-duplex",
           "speech-to-speech"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Comfy-Org/MiniMax-H3-Image",
+        "org": "Comfy-Org",
+        "trending_score": 364,
+        "downloads": 2660341,
+        "likes": 514,
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "tags": [
+          "diffusion-single-file",
+          "comfyui",
+          "text-to-image",
+          "base_model:MiniMaxAI/MiniMax-H3-Image",
+          "base_model:finetune:MiniMaxAI/MiniMax-H3-Image"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 8152,
+        "stars": 8507,
         "stars_delta": 1007,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,8 +321,8 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 68576,
-        "stars_delta": 135,
+        "stars": 68717,
+        "stars_delta": 772,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -331,7 +331,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 53385,
+        "stars": 53508,
         "stars_delta": 764,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -341,7 +341,7 @@
         "name": "Tencent/LoopForge",
         "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
         "url": "https://github.com/Tencent/LoopForge",
-        "stars": 2794,
+        "stars": 2920,
         "stars_delta": 590,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -351,7 +351,7 @@
         "name": "dream-num/univer",
         "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
         "url": "https://github.com/dream-num/univer",
-        "stars": 28662,
+        "stars": 28729,
         "stars_delta": 1776,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 8250,
+        "stars": 8309,
         "stars_delta": 6542,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 12890,
+        "stars": 12948,
         "stars_delta": 2325,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/meta/astryx",
-        "stars": 29907,
+        "stars": 29984,
         "stars_delta": 10939,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "we-promise/sure",
         "description": "The personal finance app for everyone (by everyone)",
         "url": "https://github.com/we-promise/sure",
-        "stars": 16150,
+        "stars": 16193,
         "stars_delta": 4679,
         "language": "Ruby",
         "language_color": "#701516"
@@ -403,7 +403,7 @@
         "name": "ZhuLinsen/daily_stock_analysis",
         "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-        "stars": 72987,
+        "stars": 73028,
         "stars_delta": 4355,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 56547,
+        "stars": 56657,
         "stars_delta": 25988,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 74378,
+        "stars": 74526,
         "stars_delta": 43924,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 63543,
+        "stars": 63743,
         "stars_delta": 34691,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 196415,
+        "stars": 196522,
         "stars_delta": 14817,
         "language": "Python",
         "language_color": "#3572A5"
@@ -455,7 +455,7 @@
         "name": "thedotmack/claude-mem",
         "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
         "url": "https://github.com/thedotmack/claude-mem",
-        "stars": 117843,
+        "stars": 117895,
         "stars_delta": 17074,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -680,63 +680,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50532086,
+        "title": "We don't need more apps. We need better open source",
+        "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50532086",
+        "site": "jordankrueger.com",
+        "points": 125,
+        "comments": 56,
+        "author": "pandemicsoul",
+        "age": "59m ago"
+      },
+      {
+        "rank": 2,
+        "id": 50531761,
+        "title": "Loopholes Are for Assholes",
+        "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50531761",
+        "site": "actsofvolition.com",
+        "points": 43,
+        "comments": 19,
+        "author": "speckx",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50530163,
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50530163",
+        "site": "nytimes.com",
+        "points": 579,
+        "comments": 297,
+        "author": "donohoe",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50518328,
+        "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+        "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+        "discussion_url": "https://news.ycombinator.com/item?id=50518328",
+        "site": "nautil.us",
+        "points": 37,
+        "comments": 7,
+        "author": "dustfinger",
+        "age": "1d ago"
+      },
+      {
+        "rank": 5,
         "id": 50522980,
         "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
         "url": "https://www.cs.cmu.edu/learn/",
         "discussion_url": "https://news.ycombinator.com/item?id=50522980",
         "site": "cs.cmu.edu",
-        "points": 1695,
-        "comments": 230,
+        "points": 1980,
+        "comments": 267,
         "author": "pcompeau",
-        "age": "15h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50511874,
-        "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-        "url": "https://visualbasic.world/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50511874",
-        "site": "visualbasic.world",
-        "points": 73,
-        "comments": 25,
-        "author": "broast",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50508845,
-        "title": "Japan's Hometown Tax (2018)",
-        "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50508845",
-        "site": "kalzumeus.com",
-        "points": 69,
-        "comments": 34,
-        "author": "waximabbax",
-        "age": "1d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50523601,
-        "title": "BugMeNot has closed",
-        "url": "https://www.bugmenot.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50523601",
-        "site": "bugmenot.com",
-        "points": 595,
-        "comments": 270,
-        "author": "lode",
-        "age": "15h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50524767,
-        "title": "Optimizely compromised, served malware on Zoom, GitLab",
-        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50524767",
-        "site": "blog.report-uri.com",
-        "points": 418,
-        "comments": 168,
-        "author": "kristjansson",
-        "age": "13h ago"
+        "age": "19h ago"
       }
     ],
     "ask": [
@@ -747,34 +747,34 @@
         "url": "https://news.ycombinator.com/item?id=50520076",
         "discussion_url": "https://news.ycombinator.com/item?id=50520076",
         "site": "news.ycombinator.com",
-        "points": 65,
-        "comments": 86,
+        "points": 75,
+        "comments": 98,
         "author": "ex-aws-dude",
-        "age": "19h ago"
+        "age": "22h ago"
       },
       {
         "rank": 2,
+        "id": 50526822,
+        "title": "Ask HN: Are the more software malfunctions now than before?",
+        "url": "https://news.ycombinator.com/item?id=50526822",
+        "discussion_url": "https://news.ycombinator.com/item?id=50526822",
+        "site": "news.ycombinator.com",
+        "points": 9,
+        "comments": 5,
+        "author": "sirnicolaz",
+        "age": "12h ago"
+      },
+      {
+        "rank": 3,
         "id": 50528871,
         "title": "Ask HN: Syncthing",
         "url": "https://news.ycombinator.com/item?id=50528871",
         "discussion_url": "https://news.ycombinator.com/item?id=50528871",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 6,
         "comments": 2,
         "author": "bikvfeee",
-        "age": "4h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50530287,
-        "title": "What if Elon Musk got caught having affairs with a spy and a subordinate?",
-        "url": "https://news.ycombinator.com/item?id=50530287",
-        "discussion_url": "https://news.ycombinator.com/item?id=50530287",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "DivingForGold",
-        "age": "32m ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
@@ -783,84 +783,84 @@
         "url": "https://news.ycombinator.com/item?id=50528707",
         "discussion_url": "https://news.ycombinator.com/item?id=50528707",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 2,
+        "points": 6,
+        "comments": 6,
         "author": "cristaloleg",
-        "age": "4h ago"
+        "age": "7h ago"
       },
       {
         "rank": 5,
-        "id": 50526822,
-        "title": "Ask HN: Are the more software malfunctions now than before?",
-        "url": "https://news.ycombinator.com/item?id=50526822",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526822",
+        "id": 50522639,
+        "title": "Ask HN: Are iPhone Duo Customers Happy?",
+        "url": "https://news.ycombinator.com/item?id=50522639",
+        "discussion_url": "https://news.ycombinator.com/item?id=50522639",
         "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 4,
-        "author": "sirnicolaz",
-        "age": "9h ago"
+        "points": 16,
+        "comments": 13,
+        "author": "rogerdickey",
+        "age": "19h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50496787,
-        "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-        "url": "https://github.com/ZigaoWang/zigzag",
-        "discussion_url": "https://news.ycombinator.com/item?id=50496787",
-        "site": "github.com",
-        "points": 82,
-        "comments": 48,
-        "author": "ZigaoWang",
-        "age": "2d ago"
+        "id": 50532385,
+        "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+        "url": "https://alloyhtml.com/example.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50532385",
+        "site": "alloyhtml.com",
+        "points": 17,
+        "comments": 3,
+        "author": "prafandy",
+        "age": "38m ago"
       },
       {
         "rank": 2,
-        "id": 50526967,
-        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-        "url": "https://github.com/yocontra/pulsar",
-        "discussion_url": "https://news.ycombinator.com/item?id=50526967",
+        "id": 50515603,
+        "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+        "url": "https://github.com/plabayo/venndb",
+        "discussion_url": "https://news.ycombinator.com/item?id=50515603",
         "site": "github.com",
-        "points": 18,
-        "comments": 2,
-        "author": "contrahax",
-        "age": "9h ago"
+        "points": 14,
+        "comments": 1,
+        "author": "gdcbe",
+        "age": "1d ago"
       },
       {
         "rank": 3,
-        "id": 50525052,
-        "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-        "url": "https://github.com/0nelight/sutra-os",
-        "discussion_url": "https://news.ycombinator.com/item?id=50525052",
+        "id": 50531644,
+        "title": "Show HN: Agav – an open-source terminal agent designed to waste fewer tokens",
+        "url": "https://github.com/prapaa-ai/agav",
+        "discussion_url": "https://news.ycombinator.com/item?id=50531644",
         "site": "github.com",
-        "points": 59,
-        "comments": 27,
-        "author": "0nelight",
-        "age": "13h ago"
+        "points": 6,
+        "comments": 2,
+        "author": "GeradeMoleculee",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50529190,
-        "title": "Show HN: MeshLive – Offline Video calls and livestreams over Bluetooth mesh",
-        "url": "https://meshlive.github.io/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50529190",
-        "site": "meshlive.github.io",
-        "points": 2,
-        "comments": 0,
-        "author": "gptgautam1",
-        "age": "3h ago"
+        "id": 50531481,
+        "title": "Show HN: An open virtual office to cowork with humans while your agents work",
+        "url": "https://flat.social/virtual-office-platform",
+        "discussion_url": "https://news.ycombinator.com/item?id=50531481",
+        "site": "flat.social",
+        "points": 10,
+        "comments": 3,
+        "author": "pawelwentpawel",
+        "age": "1h ago"
       },
       {
         "rank": 5,
-        "id": 50523377,
-        "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-        "url": "https://github.com/aryamandarda/tamserve",
-        "discussion_url": "https://news.ycombinator.com/item?id=50523377",
+        "id": 50531208,
+        "title": "Show HN: Belay – formal verification for SQLite migrations and queries in Lean 4",
+        "url": "https://github.com/vihren-dev/belay",
+        "discussion_url": "https://news.ycombinator.com/item?id=50531208",
         "site": "github.com",
-        "points": 29,
-        "comments": 2,
-        "author": "aryaman_darda",
-        "age": "15h ago"
+        "points": 3,
+        "comments": 0,
+        "author": "neprotivo",
+        "age": "2h ago"
       }
     ]
   }
