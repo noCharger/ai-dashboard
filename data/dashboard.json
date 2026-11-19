@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-19T02:10:14Z",
+  "generated": "2026-11-19T10:51:15Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "higurashi-ai/Haru-4B",
         "org": "higurashi-ai",
-        "trending_score": 534,
+        "trending_score": 291,
         "downloads": 5314,
-        "likes": 692,
+        "likes": 1712,
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
         "tags": [
           "safetensors",
@@ -21,62 +21,45 @@
       },
       {
         "rank": 2,
-        "name": "harness-hub/Qwen3.8-27B-pi-adapted",
-        "org": "harness-hub",
-        "trending_score": 395,
-        "downloads": 377,
-        "likes": 419,
-        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "name": "tencent/Hy4-flash",
+        "org": "tencent",
+        "trending_score": 248,
+        "downloads": 159,
+        "likes": 276,
+        "url": "https://huggingface.co/tencent/Hy4-flash",
         "tags": [
-          "peft",
+          "transformers",
           "safetensors",
-          "trl",
-          "grpo",
-          "async-grpo"
+          "hy_v4_flash",
+          "text-generation",
+          "hunyuan"
         ],
         "rank_change": null
       },
       {
         "rank": 3,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 385,
-        "downloads": 2871190,
-        "likes": 12567,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
-        "name": "thinkingmachines/Inkling-2-Small",
-        "org": "thinkingmachines",
-        "trending_score": 367,
-        "downloads": 30082,
-        "likes": 494,
-        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+        "name": "Qwen/Qwen3.8-27B",
+        "org": "Qwen",
+        "trending_score": 245,
+        "downloads": 6888351,
+        "likes": 20602,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "tags": [
           "transformers",
           "safetensors",
-          "inkling2",
+          "qwen3_5",
           "image-text-to-text",
           "conversational"
         ],
         "rank_change": null
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 259.5,
+        "trending_score": 234.5,
         "downloads": 759661,
-        "likes": 1583,
+        "likes": 1605,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -84,6 +67,23 @@
           "safetensors",
           "text-to-image",
           "image-to-image"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "org": "harness-hub",
+        "trending_score": 225,
+        "downloads": 377,
+        "likes": 652,
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "tags": [
+          "peft",
+          "safetensors",
+          "trl",
+          "grpo",
+          "async-grpo"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 17233,
+        "stars": 17403,
         "stars_delta": 314,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -321,7 +321,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 59799,
+        "stars": 60164,
         "stars_delta": 389,
         "language": "Python",
         "language_color": "#3572A5"
@@ -331,7 +331,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 70065,
+        "stars": 70459,
         "stars_delta": 1059,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "getarcaneapp/arcane",
         "description": "Modern Docker Management, Designed for Everyone",
         "url": "https://github.com/getarcaneapp/arcane",
-        "stars": 9837,
+        "stars": 10044,
         "stars_delta": 547,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -349,9 +349,9 @@
       {
         "rank": 5,
         "name": "NVIDIA/SkillEvaluator",
-        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski",
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation",
         "url": "https://github.com/NVIDIA/SkillEvaluator",
-        "stars": 3752,
+        "stars": 3989,
         "stars_delta": 312,
         "language": "Python",
         "language_color": "#3572A5"
@@ -363,7 +363,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 8861,
+        "stars": 8976,
         "stars_delta": 7257,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 13470,
+        "stars": 13561,
         "stars_delta": 3290,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/meta/astryx",
-        "stars": 30602,
+        "stars": 30752,
         "stars_delta": 6250,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "we-promise/sure",
         "description": "The personal finance app for everyone (by everyone)",
         "url": "https://github.com/we-promise/sure",
-        "stars": 16515,
+        "stars": 16597,
         "stars_delta": 3866,
         "language": "Ruby",
         "language_color": "#701516"
@@ -403,7 +403,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 54187,
+        "stars": 54281,
         "stars_delta": 4383,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 57570,
+        "stars": 57775,
         "stars_delta": 27295,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 75401,
+        "stars": 75572,
         "stars_delta": 44600,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 65299,
+        "stars": 65783,
         "stars_delta": 36872,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "php/php-src",
         "description": "The PHP Interpreter",
         "url": "https://github.com/php/php-src",
-        "stars": 41812,
+        "stars": 41822,
         "stars_delta": 1454,
         "language": "C",
         "language_color": "#555555"
@@ -455,7 +455,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 25415,
+        "stars": 25591,
         "stars_delta": 20270,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -534,7 +534,7 @@
         "upvotes": 8,
         "published": "2026-04-05",
         "github_repo": "https://github.com/google-research/paper-orchestra",
-        "github_stars": 4063
+        "github_stars": 4521
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 18,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 7635
+        "github_stars": 7686
       },
       {
         "rank": 3,
@@ -564,7 +564,7 @@
         "upvotes": 13,
         "published": "2026-11-16",
         "github_repo": "https://github.com/yyfz/Pi4",
-        "github_stars": 159
+        "github_stars": 230
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 34,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 12013
+        "github_stars": 12041
       },
       {
         "rank": 5,
@@ -591,89 +591,92 @@
         ],
         "url": "https://huggingface.co/papers/2611.18397",
         "categories": [],
-        "upvotes": 131,
+        "upvotes": 132,
         "published": "2026-11-12",
         "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-        "github_stars": 701
+        "github_stars": 734
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
         "authors": [
-          "Viet K. Nguyen",
-          "Mohammad I. Husain"
+          "Priyanka Sinha",
+          "Sugam Pandey"
         ],
-        "url": "https://arxiv.org/abs/2611.23202",
-        "categories": [
-          "cs.AI"
-        ],
-        "upvotes": null,
-        "published": "2026-11-18"
-      },
-      {
-        "rank": 2,
-        "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
-        "authors": [
-          "Almog Anschel",
-          "Sarah Keren"
-        ],
-        "url": "https://arxiv.org/abs/2611.23192",
+        "url": "https://arxiv.org/abs/2611.24932",
         "categories": [
           "cs.AI",
-          "cs.LG",
-          "cs.RO"
-        ],
-        "upvotes": null,
-        "published": "2026-11-18"
-      },
-      {
-        "rank": 3,
-        "title": "RSI-Prime: Training Models to Train Models",
-        "authors": [
-          "Dewu Zheng",
-          "Yang Ye",
-          "Hongyu Zhang"
-        ],
-        "url": "https://arxiv.org/abs/2611.23138",
-        "categories": [
-          "cs.AI",
+          "cs.CE",
+          "cs.HC",
           "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-11-18"
+        "published": "2026-11-19"
       },
       {
-        "rank": 4,
-        "title": "Hidden-State Similarity Predicts Re-Elicitation After Inoculation Prompting",
+        "rank": 2,
+        "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
         "authors": [
-          "Rose N. Kwon",
-          "Samy Mammeri",
-          "Sabyasachi Sahoo"
+          "Yuzhuo Li",
+          "Pasan Gunawardena",
+          "Yunwei Li"
         ],
-        "url": "https://arxiv.org/abs/2611.23096",
+        "url": "https://arxiv.org/abs/2611.24880",
+        "categories": [
+          "cs.AI",
+          "eess.SY"
+        ],
+        "upvotes": null,
+        "published": "2026-11-19"
+      },
+      {
+        "rank": 3,
+        "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+        "authors": [
+          "Mingliang Zhai",
+          "Chuanhao Li",
+          "Jiaming Tan"
+        ],
+        "url": "https://arxiv.org/abs/2611.24869",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-18"
+        "published": "2026-11-19"
+      },
+      {
+        "rank": 4,
+        "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+        "authors": [
+          "Ruiqi Liu",
+          "Jinming Li",
+          "Mo Wang"
+        ],
+        "url": "https://arxiv.org/abs/2611.24867",
+        "categories": [
+          "cs.AI"
+        ],
+        "upvotes": null,
+        "published": "2026-11-19"
       },
       {
         "rank": 5,
-        "title": "Colombo: A Frontier-to-Frontier Autoresearch System for Oracle-Based Optimization",
+        "title": "Vibe-Trading: Towards Agent-Native Trading",
         "authors": [
-          "Haihan Zhang",
-          "Wendao Wu",
-          "Chenheng Zhang"
+          "Haozhe Wu",
+          "Zhonghang Li",
+          "Chao Huang"
         ],
-        "url": "https://arxiv.org/abs/2611.23080",
+        "url": "https://arxiv.org/abs/2611.24845",
         "categories": [
           "cs.AI",
-          "math.OC"
+          "cs.CL",
+          "cs.MA"
         ],
         "upvotes": null,
-        "published": "2026-11-18"
+        "published": "2026-11-19"
       }
     ]
   },
@@ -681,63 +684,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50556287,
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "url": "https://verialabs.com/ruby2shell/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50556287",
+        "site": "verialabs.com",
+        "points": 132,
+        "comments": 49,
+        "author": "jdns",
+        "age": "5h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50557870,
+        "title": "What's New in PHP 8.6",
+        "url": "https://www.php.net/releases/8.6/en.php",
+        "discussion_url": "https://news.ycombinator.com/item?id=50557870",
+        "site": "php.net",
+        "points": 44,
+        "comments": 25,
+        "author": "netol",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50557537,
+        "title": "Distributed, high-performance blob storage on SQLite",
+        "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50557537",
+        "site": "zerodha.tech",
+        "points": 46,
+        "comments": 6,
+        "author": "ghostfoxgod",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
         "id": 50552424,
         "title": "Gemini 4 Neon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "discussion_url": "https://news.ycombinator.com/item?id=50552424",
         "site": "blog.google",
-        "points": 465,
-        "comments": 436,
+        "points": 846,
+        "comments": 674,
         "author": "yigitdemirag",
-        "age": "4h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50547374,
-        "title": "Unauthenticated remote code execution in Nginx",
-        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-        "discussion_url": "https://news.ycombinator.com/item?id=50547374",
-        "site": "wiz.io",
-        "points": 1152,
-        "comments": 512,
-        "author": "speedping",
-        "age": "10h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50554374,
-        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50554374",
-        "site": "micjm.com",
-        "points": 77,
-        "comments": 25,
-        "author": "seizethecheese",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50554038,
-        "title": "Multiple vulnerabilities in Regexp and String case conversion",
-        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50554038",
-        "site": "ruby-lang.org",
-        "points": 78,
-        "comments": 16,
-        "author": "runesoerensen",
-        "age": "2h ago"
+        "age": "13h ago"
       },
       {
         "rank": 5,
-        "id": 50555093,
-        "title": "AI Will Not Make You Rich (2025)",
-        "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50555093",
-        "site": "colossus.com",
-        "points": 10,
-        "comments": 1,
-        "author": "madars",
-        "age": "18m ago"
+        "id": 50557716,
+        "title": "SSD prices will start going down the second half of next year",
+        "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50557716",
+        "site": "drivevault.io",
+        "points": 72,
+        "comments": 48,
+        "author": "illidan1000",
+        "age": "1h ago"
       }
     ],
     "ask": [
@@ -748,10 +751,10 @@
         "url": "https://news.ycombinator.com/item?id=50554381",
         "discussion_url": "https://news.ycombinator.com/item?id=50554381",
         "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 3,
+        "points": 11,
+        "comments": 6,
         "author": "mrkn1",
-        "age": "1h ago"
+        "age": "10h ago"
       },
       {
         "rank": 2,
@@ -760,72 +763,72 @@
         "url": "https://news.ycombinator.com/item?id=50554686",
         "discussion_url": "https://news.ycombinator.com/item?id=50554686",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
+        "points": 5,
+        "comments": 5,
         "author": "amoorthy",
-        "age": "1h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
+        "id": 50520076,
+        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+        "url": "https://news.ycombinator.com/item?id=50520076",
+        "discussion_url": "https://news.ycombinator.com/item?id=50520076",
+        "site": "news.ycombinator.com",
+        "points": 102,
+        "comments": 114,
+        "author": "ex-aws-dude",
+        "age": "2d ago"
+      },
+      {
+        "rank": 4,
         "id": 50555002,
         "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
         "url": "https://news.ycombinator.com/item?id=50555002",
         "discussion_url": "https://news.ycombinator.com/item?id=50555002",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
+        "points": 3,
+        "comments": 3,
         "author": "llmblockchain",
-        "age": "32m ago"
+        "age": "9h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 50554756,
         "title": "Tell HN: /tmp is hogging your RAM on Ubuntu 26",
         "url": "https://news.ycombinator.com/item?id=50554756",
         "discussion_url": "https://news.ycombinator.com/item?id=50554756",
         "site": "news.ycombinator.com",
-        "points": 3,
+        "points": 4,
         "comments": 2,
         "author": "boldi",
-        "age": "57m ago"
-      },
-      {
-        "rank": 5,
-        "id": 50553802,
-        "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
-        "url": "https://news.ycombinator.com/item?id=50553802",
-        "discussion_url": "https://news.ycombinator.com/item?id=50553802",
-        "site": "news.ycombinator.com",
-        "points": 8,
-        "comments": 1,
-        "author": "fsbonetto",
-        "age": "2h ago"
+        "age": "9h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50548660,
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "discussion_url": "https://news.ycombinator.com/item?id=50548660",
+        "site": "news.ycombinator.com",
+        "points": 103,
+        "comments": 33,
+        "author": "codekarate",
+        "age": "17h ago"
+      },
+      {
+        "rank": 2,
         "id": 50547980,
         "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
         "url": "https://exitpath-ruddy.vercel.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=50547980",
         "site": "exitpath-ruddy.vercel.app",
-        "points": 167,
-        "comments": 50,
+        "points": 219,
+        "comments": 73,
         "author": "zerocool0101",
-        "age": "10h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50523377,
-        "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-        "url": "https://github.com/aryamandarda/tamserve",
-        "discussion_url": "https://news.ycombinator.com/item?id=50523377",
-        "site": "github.com",
-        "points": 47,
-        "comments": 2,
-        "author": "aryaman_darda",
-        "age": "2d ago"
+        "age": "18h ago"
       },
       {
         "rank": 3,
@@ -834,34 +837,34 @@
         "url": "https://rshekhar.com/voyager/",
         "discussion_url": "https://news.ycombinator.com/item?id=50548161",
         "site": "rshekhar.com",
-        "points": 155,
-        "comments": 34,
+        "points": 204,
+        "comments": 49,
         "author": "raj-shekhar",
-        "age": "9h ago"
+        "age": "18h ago"
       },
       {
         "rank": 4,
-        "id": 50554973,
-        "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
-        "url": "https://adeindex.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=50554973",
-        "site": "adeindex.com",
-        "points": 3,
-        "comments": 2,
-        "author": "jonnyasmar",
-        "age": "36m ago"
+        "id": 50523377,
+        "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+        "url": "https://github.com/aryamandarda/tamserve",
+        "discussion_url": "https://news.ycombinator.com/item?id=50523377",
+        "site": "github.com",
+        "points": 101,
+        "comments": 9,
+        "author": "aryaman_darda",
+        "age": "2d ago"
       },
       {
         "rank": 5,
-        "id": 50548660,
-        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-        "url": "https://news.ycombinator.com/item?id=50548660",
-        "discussion_url": "https://news.ycombinator.com/item?id=50548660",
-        "site": "news.ycombinator.com",
-        "points": 82,
-        "comments": 31,
-        "author": "codekarate",
-        "age": "9h ago"
+        "id": 50532515,
+        "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+        "url": "https://quebec.yarn.so",
+        "discussion_url": "https://news.ycombinator.com/item?id=50532515",
+        "site": "quebec.yarn.so",
+        "points": 27,
+        "comments": 5,
+        "author": "jasperstory",
+        "age": "1d ago"
       }
     ]
   }
