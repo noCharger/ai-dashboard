@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-18T20:57:24Z",
+  "generated": "2026-11-19T02:10:14Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "higurashi-ai/Haru-4B",
         "org": "higurashi-ai",
-        "trending_score": 499,
+        "trending_score": 534,
         "downloads": 5314,
-        "likes": 652,
+        "likes": 692,
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
         "tags": [
           "safetensors",
@@ -21,45 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 378,
-        "downloads": 2871190,
-        "likes": 12537,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "tags": [
-          "diffusion-single-file",
-          "image-to-video",
-          "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
-        "name": "thinkingmachines/Inkling-2-Small",
-        "org": "thinkingmachines",
-        "trending_score": 362,
-        "downloads": 30082,
-        "likes": 488,
-        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "inkling2",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "org": "harness-hub",
-        "trending_score": 354,
+        "trending_score": 395,
         "downloads": 377,
-        "likes": 378,
+        "likes": 419,
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "tags": [
           "peft",
@@ -71,12 +37,46 @@
         "rank_change": null
       },
       {
+        "rank": 3,
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
+        "trending_score": 385,
+        "downloads": 2871190,
+        "likes": 12567,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "tags": [
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 4,
+        "name": "thinkingmachines/Inkling-2-Small",
+        "org": "thinkingmachines",
+        "trending_score": 367,
+        "downloads": 30082,
+        "likes": 494,
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "inkling2",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "MiniMaxAI/MiniMax-H3-Image",
         "org": "MiniMaxAI",
-        "trending_score": 275,
+        "trending_score": 259.5,
         "downloads": 759661,
-        "likes": 1576,
+        "likes": 1583,
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
         "tags": [
           "minimax-h3",
@@ -308,53 +308,53 @@
     "daily": [
       {
         "rank": 1,
-        "name": "elementalsouls/Claude-BugHunter",
-        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 11170,
-        "stars_delta": 2322,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 2,
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 17157,
-        "stars_delta": 315,
+        "stars": 17233,
+        "stars_delta": 314,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 59621,
-        "stars_delta": 384,
+        "stars": 59799,
+        "stars_delta": 389,
+        "language": "Python",
+        "language_color": "#3572A5"
+      },
+      {
+        "rank": 3,
+        "name": "mvanhorn/last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "stars": 70065,
+        "stars_delta": 1059,
         "language": "Python",
         "language_color": "#3572A5"
       },
       {
         "rank": 4,
-        "name": "mvanhorn/last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 69893,
-        "stars_delta": 1062,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 5,
         "name": "getarcaneapp/arcane",
         "description": "Modern Docker Management, Designed for Everyone",
         "url": "https://github.com/getarcaneapp/arcane",
-        "stars": 9759,
+        "stars": 9837,
         "stars_delta": 547,
         "language": "Go",
         "language_color": "#00ADD8"
+      },
+      {
+        "rank": 5,
+        "name": "NVIDIA/SkillEvaluator",
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "stars": 3752,
+        "stars_delta": 312,
+        "language": "Python",
+        "language_color": "#3572A5"
       }
     ],
     "weekly": [
@@ -363,8 +363,8 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 8795,
-        "stars_delta": 7015,
+        "stars": 8861,
+        "stars_delta": 7257,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,40 +373,40 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 13398,
-        "stars_delta": 2926,
+        "stars": 13470,
+        "stars_delta": 3290,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
         "rank": 3,
-        "name": "elementalsouls/Claude-BugHunter",
-        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 11170,
-        "stars_delta": 2508,
-        "language": "Python",
-        "language_color": "#3572A5"
-      },
-      {
-        "rank": 4,
         "name": "meta/astryx",
         "description": "An open source design system that's fully customizable and agent ready",
         "url": "https://github.com/meta/astryx",
-        "stars": 30532,
-        "stars_delta": 8700,
+        "stars": 30602,
+        "stars_delta": 6250,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "we-promise/sure",
         "description": "The personal finance app for everyone (by everyone)",
         "url": "https://github.com/we-promise/sure",
-        "stars": 16476,
-        "stars_delta": 4786,
+        "stars": 16515,
+        "stars_delta": 3866,
         "language": "Ruby",
         "language_color": "#701516"
+      },
+      {
+        "rank": 5,
+        "name": "alibaba/open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+        "url": "https://github.com/alibaba/open-code-review",
+        "stars": 54187,
+        "stars_delta": 4383,
+        "language": "Go",
+        "language_color": "#00ADD8"
       }
     ],
     "monthly": [
@@ -415,8 +415,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 57474,
-        "stars_delta": 26594,
+        "stars": 57570,
+        "stars_delta": 27295,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -425,8 +425,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 75311,
-        "stars_delta": 44314,
+        "stars": 75401,
+        "stars_delta": 44600,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -435,8 +435,8 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 65124,
-        "stars_delta": 35748,
+        "stars": 65299,
+        "stars_delta": 36872,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -445,8 +445,8 @@
         "name": "php/php-src",
         "description": "The PHP Interpreter",
         "url": "https://github.com/php/php-src",
-        "stars": 41805,
-        "stars_delta": 1447,
+        "stars": 41812,
+        "stars_delta": 1454,
         "language": "C",
         "language_color": "#555555"
       },
@@ -455,8 +455,8 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 25325,
-        "stars_delta": 20211,
+        "stars": 25415,
+        "stars_delta": 20270,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2610.22732",
         "categories": [],
-        "upvotes": 17,
+        "upvotes": 18,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
         "github_stars": 7635
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2611.23144",
         "categories": [],
-        "upvotes": 12,
+        "upvotes": 13,
         "published": "2026-11-16",
         "github_repo": "https://github.com/yyfz/Pi4",
         "github_stars": 159
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2609.18063",
         "categories": [],
-        "upvotes": 33,
+        "upvotes": 34,
         "published": "2026-09-15",
         "github_repo": "https://github.com/Edge0-AI/edge0",
         "github_stars": 12013
@@ -591,7 +591,7 @@
         ],
         "url": "https://huggingface.co/papers/2611.18397",
         "categories": [],
-        "upvotes": 129,
+        "upvotes": 131,
         "published": "2026-11-12",
         "github_repo": "https://github.com/RainBowLuoCS/Gamer",
         "github_stars": 701
@@ -681,151 +681,151 @@
     "top": [
       {
         "rank": 1,
+        "id": 50552424,
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50552424",
+        "site": "blog.google",
+        "points": 465,
+        "comments": 436,
+        "author": "yigitdemirag",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
         "id": 50547374,
         "title": "Unauthenticated remote code execution in Nginx",
         "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
         "discussion_url": "https://news.ycombinator.com/item?id=50547374",
         "site": "wiz.io",
-        "points": 781,
-        "comments": 328,
+        "points": 1152,
+        "comments": 512,
         "author": "speedping",
-        "age": "5h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50548021,
-        "title": "Seven new models at scalable price-performance",
-        "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50548021",
-        "site": "microsoft.ai",
-        "points": 330,
-        "comments": 214,
-        "author": "gmays",
-        "age": "4h ago"
+        "age": "10h ago"
       },
       {
         "rank": 3,
-        "id": 50547620,
-        "title": "Inside Deutsche Bank",
-        "url": "https://www.inside-db.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50547620",
-        "site": "inside-db.com",
-        "points": 405,
-        "comments": 145,
-        "author": "gyre007",
-        "age": "5h ago"
+        "id": 50554374,
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50554374",
+        "site": "micjm.com",
+        "points": 77,
+        "comments": 25,
+        "author": "seizethecheese",
+        "age": "1h ago"
       },
       {
         "rank": 4,
-        "id": 50545958,
-        "title": "DNS resolvers are the wrong place to fight piracy",
-        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50545958",
-        "site": "techstackups.com",
-        "points": 484,
-        "comments": 166,
-        "author": "ritzaco",
-        "age": "7h ago"
+        "id": 50554038,
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50554038",
+        "site": "ruby-lang.org",
+        "points": 78,
+        "comments": 16,
+        "author": "runesoerensen",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 50547777,
-        "title": "AI agents ask better questions than KPMG accountants in audit trial",
-        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50547777",
-        "site": "europeanbusinessmagazine.com",
-        "points": 190,
-        "comments": 99,
-        "author": "Betelbuddy",
-        "age": "5h ago"
+        "id": 50555093,
+        "title": "AI Will Not Make You Rich (2025)",
+        "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50555093",
+        "site": "colossus.com",
+        "points": 10,
+        "comments": 1,
+        "author": "madars",
+        "age": "18m ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
-        "id": 50551501,
-        "title": "Developing Browser Extensions",
-        "url": "https://news.ycombinator.com/item?id=50551501",
-        "discussion_url": "https://news.ycombinator.com/item?id=50551501",
+        "id": 50554381,
+        "title": "Ask HN: Cheapest CPU Vms",
+        "url": "https://news.ycombinator.com/item?id=50554381",
+        "discussion_url": "https://news.ycombinator.com/item?id=50554381",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 1,
-        "author": "LayerTake",
-        "age": "45m ago"
+        "points": 5,
+        "comments": 3,
+        "author": "mrkn1",
+        "age": "1h ago"
       },
       {
         "rank": 2,
-        "id": 50548343,
-        "title": "Ask HN: How do you reach the flow with vibe coding?",
-        "url": "https://news.ycombinator.com/item?id=50548343",
-        "discussion_url": "https://news.ycombinator.com/item?id=50548343",
+        "id": 50554686,
+        "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
+        "url": "https://news.ycombinator.com/item?id=50554686",
+        "discussion_url": "https://news.ycombinator.com/item?id=50554686",
         "site": "news.ycombinator.com",
         "points": 3,
-        "comments": 8,
-        "author": "varlock",
-        "age": "4h ago"
+        "comments": 1,
+        "author": "amoorthy",
+        "age": "1h ago"
       },
       {
         "rank": 3,
-        "id": 50548260,
-        "title": "Ask HN: How do you use AI to get more relevant content?",
-        "url": "https://news.ycombinator.com/item?id=50548260",
-        "discussion_url": "https://news.ycombinator.com/item?id=50548260",
+        "id": 50555002,
+        "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+        "url": "https://news.ycombinator.com/item?id=50555002",
+        "discussion_url": "https://news.ycombinator.com/item?id=50555002",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 3,
-        "author": "anoojb",
-        "age": "4h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "llmblockchain",
+        "age": "32m ago"
       },
       {
         "rank": 4,
-        "id": 50542361,
-        "title": "Interesting Learnings Working for a Startup",
-        "url": "https://news.ycombinator.com/item?id=50542361",
-        "discussion_url": "https://news.ycombinator.com/item?id=50542361",
+        "id": 50554756,
+        "title": "Tell HN: /tmp is hogging your RAM on Ubuntu 26",
+        "url": "https://news.ycombinator.com/item?id=50554756",
+        "discussion_url": "https://news.ycombinator.com/item?id=50554756",
         "site": "news.ycombinator.com",
-        "points": 18,
-        "comments": 3,
-        "author": "Jessiejia11",
-        "age": "15h ago"
+        "points": 3,
+        "comments": 2,
+        "author": "boldi",
+        "age": "57m ago"
       },
       {
         "rank": 5,
-        "id": 50520076,
-        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-        "url": "https://news.ycombinator.com/item?id=50520076",
-        "discussion_url": "https://news.ycombinator.com/item?id=50520076",
+        "id": 50553802,
+        "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+        "url": "https://news.ycombinator.com/item?id=50553802",
+        "discussion_url": "https://news.ycombinator.com/item?id=50553802",
         "site": "news.ycombinator.com",
-        "points": 98,
-        "comments": 111,
-        "author": "ex-aws-dude",
-        "age": "2d ago"
+        "points": 8,
+        "comments": 1,
+        "author": "fsbonetto",
+        "age": "2h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50548660,
-        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-        "url": "https://news.ycombinator.com/item?id=50548660",
-        "discussion_url": "https://news.ycombinator.com/item?id=50548660",
-        "site": "news.ycombinator.com",
-        "points": 55,
-        "comments": 16,
-        "author": "codekarate",
-        "age": "4h ago"
-      },
-      {
-        "rank": 2,
         "id": 50547980,
         "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
         "url": "https://exitpath-ruddy.vercel.app/",
         "discussion_url": "https://news.ycombinator.com/item?id=50547980",
         "site": "exitpath-ruddy.vercel.app",
-        "points": 101,
-        "comments": 19,
+        "points": 167,
+        "comments": 50,
         "author": "zerocool0101",
-        "age": "4h ago"
+        "age": "10h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50523377,
+        "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+        "url": "https://github.com/aryamandarda/tamserve",
+        "discussion_url": "https://news.ycombinator.com/item?id=50523377",
+        "site": "github.com",
+        "points": 47,
+        "comments": 2,
+        "author": "aryaman_darda",
+        "age": "2d ago"
       },
       {
         "rank": 3,
@@ -834,34 +834,34 @@
         "url": "https://rshekhar.com/voyager/",
         "discussion_url": "https://news.ycombinator.com/item?id=50548161",
         "site": "rshekhar.com",
-        "points": 98,
-        "comments": 24,
+        "points": 155,
+        "comments": 34,
         "author": "raj-shekhar",
-        "age": "4h ago"
+        "age": "9h ago"
       },
       {
         "rank": 4,
-        "id": 50517840,
-        "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-        "url": "https://github.com/mr-anjaneyam/Emittr",
-        "discussion_url": "https://news.ycombinator.com/item?id=50517840",
-        "site": "github.com",
-        "points": 32,
-        "comments": 36,
-        "author": "mr-anjaneyam",
-        "age": "2d ago"
+        "id": 50554973,
+        "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+        "url": "https://adeindex.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=50554973",
+        "site": "adeindex.com",
+        "points": 3,
+        "comments": 2,
+        "author": "jonnyasmar",
+        "age": "36m ago"
       },
       {
         "rank": 5,
-        "id": 50551932,
-        "title": "Show HN: Indexing Doctor – free checker for why Google isn't indexing a page",
-        "url": "https://indexingdoctor.com/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50551932",
-        "site": "indexingdoctor.com",
-        "points": 2,
-        "comments": 0,
-        "author": "alescalaios",
-        "age": "8m ago"
+        "id": 50548660,
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "discussion_url": "https://news.ycombinator.com/item?id=50548660",
+        "site": "news.ycombinator.com",
+        "points": 82,
+        "comments": 31,
+        "author": "codekarate",
+        "age": "9h ago"
       }
     ]
   }
