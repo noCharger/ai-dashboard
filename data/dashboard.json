@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-19T15:31:13Z",
+  "generated": "2026-11-19T19:13:45Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "higurashi-ai/Haru-4B",
         "org": "higurashi-ai",
-        "trending_score": 302,
+        "trending_score": 311,
         "downloads": 6266,
-        "likes": 2584,
+        "likes": 3319,
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
         "tags": [
           "safetensors",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/Hy4-flash",
         "org": "tencent",
-        "trending_score": 268,
+        "trending_score": 276,
         "downloads": 2053,
-        "likes": 300,
+        "likes": 317,
         "url": "https://huggingface.co/tencent/Hy4-flash",
         "tags": [
           "transformers",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "Qwen/Qwen3.8-27B",
-        "org": "Qwen",
-        "trending_score": 247.5,
-        "downloads": 6647301,
-        "likes": 20627,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "apple/FastFrames-L",
         "org": "apple",
-        "trending_score": 238,
+        "trending_score": 253,
         "downloads": 0,
-        "likes": 268,
+        "likes": 293,
         "url": "https://huggingface.co/apple/FastFrames-L",
         "tags": [
           "safetensors",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "Qwen/Qwen3.8-27B",
+        "org": "Qwen",
+        "trending_score": 248.5,
+        "downloads": 6647301,
+        "likes": 20646,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "org": "harness-hub",
-        "trending_score": 233.5,
+        "trending_score": 243.5,
         "downloads": 1320,
-        "likes": 675,
+        "likes": 700,
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "tags": [
           "peft",
@@ -311,7 +311,7 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 11965,
+        "stars": 12231,
         "stars_delta": 1353,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 321800,
+        "stars": 321935,
         "stars_delta": 2029,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 60317,
+        "stars": 60408,
         "stars_delta": 899,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,8 +341,8 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 66711,
-        "stars_delta": 687,
+        "stars": 66770,
+        "stars_delta": 301,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,7 +351,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 17462,
+        "stars": 17498,
         "stars_delta": 383,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 13600,
+        "stars": 13629,
         "stars_delta": 3290,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 10615,
+        "stars": 10656,
         "stars_delta": 1567,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 9031,
+        "stars": 9063,
         "stars_delta": 7257,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 54325,
+        "stars": 54351,
         "stars_delta": 4383,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 70587,
+        "stars": 70683,
         "stars_delta": 2423,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 57904,
+        "stars": 57980,
         "stars_delta": 27295,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 75693,
+        "stars": 75755,
         "stars_delta": 44600,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 25690,
+        "stars": 25746,
         "stars_delta": 20270,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 66063,
+        "stars": 66222,
         "stars_delta": 36872,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 197569,
+        "stars": 197634,
         "stars_delta": 15769,
         "language": "Python",
         "language_color": "#3572A5"
@@ -534,7 +534,7 @@
         "upvotes": 9,
         "published": "2026-04-05",
         "github_repo": "https://github.com/google-research/paper-orchestra",
-        "github_stars": 4521
+        "github_stars": 4926
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 20,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 7686
+        "github_stars": 7759
       },
       {
         "rank": 3,
@@ -564,25 +564,10 @@
         "upvotes": 16,
         "published": "2026-11-16",
         "github_repo": "https://github.com/yyfz/Pi4",
-        "github_stars": 230
+        "github_stars": 307
       },
       {
         "rank": 4,
-        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
-        "authors": [
-          "Yu Lin",
-          "Yiming Wang",
-          "Runyuan Cai"
-        ],
-        "url": "https://huggingface.co/papers/2609.18063",
-        "categories": [],
-        "upvotes": 35,
-        "published": "2026-09-15",
-        "github_repo": "https://github.com/Edge0-AI/edge0",
-        "github_stars": 12041
-      },
-      {
-        "rank": 5,
         "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
         "authors": [
           "Run Luo",
@@ -594,7 +579,22 @@
         "upvotes": 136,
         "published": "2026-11-12",
         "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-        "github_stars": 734
+        "github_stars": 845
+      },
+      {
+        "rank": 5,
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "authors": [
+          "Yu Lin",
+          "Yiming Wang",
+          "Runyuan Cai"
+        ],
+        "url": "https://huggingface.co/papers/2609.18063",
+        "categories": [],
+        "upvotes": 35,
+        "published": "2026-09-15",
+        "github_repo": "https://github.com/Edge0-AI/edge0",
+        "github_stars": 12081
       }
     ],
     "arxiv_recent": [
@@ -684,187 +684,187 @@
     "top": [
       {
         "rank": 1,
-        "id": 50558533,
-        "title": "How the European Commission rolled out Matrix to more than 40k staff",
-        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50558533",
-        "site": "element.io",
-        "points": 397,
-        "comments": 199,
-        "author": "liotier",
-        "age": "4h ago"
+        "id": 50562754,
+        "title": "Anthropic hits $2T in Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50562754",
+        "site": "reuters.com",
+        "points": 333,
+        "comments": 473,
+        "author": "wslh",
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 50563148,
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "discussion_url": "https://news.ycombinator.com/item?id=50563148",
+        "site": "anthropic.com",
+        "points": 148,
+        "comments": 37,
+        "author": "cybermango",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 50519231,
         "title": "Garage Door Spam",
         "url": "https://blog.harrison.page/garage-door-spam/",
         "discussion_url": "https://news.ycombinator.com/item?id=50519231",
         "site": "blog.harrison.page",
-        "points": 320,
-        "comments": 125,
+        "points": 565,
+        "comments": 236,
         "author": "harrisonpage",
-        "age": "2d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50559719,
-        "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-        "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50559719",
-        "site": "krthr.co",
-        "points": 72,
-        "comments": 21,
-        "author": "krthr",
-        "age": "2h ago"
+        "age": "3d ago"
       },
       {
         "rank": 4,
-        "id": 50560461,
-        "title": "OpenAI still has a WebRTC Problem",
-        "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50560461",
-        "site": "moq.dev",
-        "points": 28,
-        "comments": 2,
-        "author": "surprisetalk",
-        "age": "1h ago"
+        "id": 50561515,
+        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+        "url": "https://cornholenews.news",
+        "discussion_url": "https://news.ycombinator.com/item?id=50561515",
+        "site": "cornholenews.news",
+        "points": 101,
+        "comments": 45,
+        "author": "cornholemedia",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50559749,
-        "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-        "url": "https://foolscap.works/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50559749",
-        "site": "foolscap.works",
-        "points": 61,
-        "comments": 28,
-        "author": "atugard",
+        "id": 50562320,
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "url": "https://github.com/onlook-dev/onlook/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50562320",
+        "site": "github.com",
+        "points": 42,
+        "comments": 37,
+        "author": "D_R_Farrell",
         "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50561571,
+        "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
+        "url": "https://news.ycombinator.com/item?id=50561571",
+        "discussion_url": "https://news.ycombinator.com/item?id=50561571",
+        "site": "news.ycombinator.com",
+        "points": 18,
+        "comments": 6,
+        "author": "hoechst",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50562528,
+        "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+        "url": "https://news.ycombinator.com/item?id=50562528",
+        "discussion_url": "https://news.ycombinator.com/item?id=50562528",
+        "site": "news.ycombinator.com",
+        "points": 38,
+        "comments": 10,
+        "author": "_hmj",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50562350,
+        "title": "Ask HN: When do we stop switching and start resonating?",
+        "url": "https://news.ycombinator.com/item?id=50562350",
+        "discussion_url": "https://news.ycombinator.com/item?id=50562350",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "DiogenesOfYerev",
+        "age": "2h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50560915,
+        "title": "Ask HN: When was the last time you thought \"that's bad API design\"?",
+        "url": "https://news.ycombinator.com/item?id=50560915",
+        "discussion_url": "https://news.ycombinator.com/item?id=50560915",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 1,
+        "author": "Mitchem",
+        "age": "4h ago"
+      },
+      {
+        "rank": 5,
         "id": 50560575,
         "title": "Rant: Gemini 4 does not make any sense",
         "url": "https://news.ycombinator.com/item?id=50560575",
         "discussion_url": "https://news.ycombinator.com/item?id=50560575",
         "site": "news.ycombinator.com",
         "points": 4,
-        "comments": 3,
+        "comments": 7,
         "author": "sambejk",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50560946,
-        "title": "Does Liquidity Drive the Stock Market? We Tested 22 Years of Fed Data",
-        "url": "https://news.ycombinator.com/item?id=50560946",
-        "discussion_url": "https://news.ycombinator.com/item?id=50560946",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "evgeniymezenov",
-        "age": "34m ago"
-      },
-      {
-        "rank": 3,
-        "id": 50558285,
-        "title": "Ask HN: How do you manage the curse of rabbit hole?",
-        "url": "https://news.ycombinator.com/item?id=50558285",
-        "discussion_url": "https://news.ycombinator.com/item?id=50558285",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 5,
-        "author": "BOOSTERHIDROGEN",
-        "age": "5h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50560324,
-        "title": "Why is China treated as threat-actor but not India?",
-        "url": "https://news.ycombinator.com/item?id=50560324",
-        "discussion_url": "https://news.ycombinator.com/item?id=50560324",
-        "site": "news.ycombinator.com",
-        "points": 5,
-        "comments": 10,
-        "author": "jcarmackdaddy",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50520076,
-        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-        "url": "https://news.ycombinator.com/item?id=50520076",
-        "discussion_url": "https://news.ycombinator.com/item?id=50520076",
-        "site": "news.ycombinator.com",
-        "points": 103,
-        "comments": 115,
-        "author": "ex-aws-dude",
-        "age": "2d ago"
+        "age": "4h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
-        "id": 50559749,
-        "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-        "url": "https://foolscap.works/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50559749",
-        "site": "foolscap.works",
-        "points": 61,
-        "comments": 28,
-        "author": "atugard",
-        "age": "2h ago"
+        "id": 50561515,
+        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+        "url": "https://cornholenews.news",
+        "discussion_url": "https://news.ycombinator.com/item?id=50561515",
+        "site": "cornholenews.news",
+        "points": 101,
+        "comments": 45,
+        "author": "cornholemedia",
+        "age": "3h ago"
       },
       {
         "rank": 2,
+        "id": 50517783,
+        "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
+        "url": "https://github.com/neoma-pcam/pcam-live",
+        "discussion_url": "https://news.ycombinator.com/item?id=50517783",
+        "site": "github.com",
+        "points": 8,
+        "comments": 0,
+        "author": "neoma001",
+        "age": "3d ago"
+      },
+      {
+        "rank": 3,
         "id": 50548660,
         "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
         "url": "https://news.ycombinator.com/item?id=50548660",
         "discussion_url": "https://news.ycombinator.com/item?id=50548660",
         "site": "news.ycombinator.com",
-        "points": 119,
-        "comments": 38,
+        "points": 131,
+        "comments": 40,
         "author": "codekarate",
-        "age": "22h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50560882,
-        "title": "Show HN: Openspot – macOS launcher for disposable tools",
-        "url": "https://github.com/celishq/openspot",
-        "discussion_url": "https://news.ycombinator.com/item?id=50560882",
-        "site": "github.com",
-        "points": 4,
-        "comments": 1,
-        "author": "tniich",
-        "age": "39m ago"
+        "age": "1d ago"
       },
       {
         "rank": 4,
-        "id": 50548161,
-        "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-        "url": "https://rshekhar.com/voyager/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50548161",
-        "site": "rshekhar.com",
-        "points": 223,
-        "comments": 56,
-        "author": "raj-shekhar",
-        "age": "23h ago"
+        "id": 50561436,
+        "title": "Show HN: Watch weight-space programming in action with WebGPU",
+        "url": "https://tabbyml.github.io/weight-space-playground/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50561436",
+        "site": "tabbyml.github.io",
+        "points": 22,
+        "comments": 3,
+        "author": "wsxiaoys",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50547980,
-        "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-        "url": "https://exitpath-ruddy.vercel.app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50547980",
-        "site": "exitpath-ruddy.vercel.app",
-        "points": 238,
-        "comments": 86,
-        "author": "zerocool0101",
-        "age": "23h ago"
+        "id": 50559749,
+        "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+        "url": "https://foolscap.works/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50559749",
+        "site": "foolscap.works",
+        "points": 94,
+        "comments": 77,
+        "author": "atugard",
+        "age": "5h ago"
       }
     ]
   }
