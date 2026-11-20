@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-19T19:13:45Z",
+  "generated": "2026-11-20T01:29:03Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "higurashi-ai/Haru-4B",
         "org": "higurashi-ai",
-        "trending_score": 311,
+        "trending_score": 320.5,
         "downloads": 6266,
-        "likes": 3319,
+        "likes": 3644,
         "url": "https://huggingface.co/higurashi-ai/Haru-4B",
         "tags": [
           "safetensors",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "tencent/Hy4-flash",
         "org": "tencent",
-        "trending_score": 276,
+        "trending_score": 288,
         "downloads": 2053,
-        "likes": 317,
+        "likes": 346,
         "url": "https://huggingface.co/tencent/Hy4-flash",
         "tags": [
           "transformers",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "apple/FastFrames-L",
         "org": "apple",
-        "trending_score": 253,
+        "trending_score": 270,
         "downloads": 0,
-        "likes": 293,
+        "likes": 331,
         "url": "https://huggingface.co/apple/FastFrames-L",
         "tags": [
           "safetensors",
@@ -55,28 +55,11 @@
       },
       {
         "rank": 4,
-        "name": "Qwen/Qwen3.8-27B",
-        "org": "Qwen",
-        "trending_score": 248.5,
-        "downloads": 6647301,
-        "likes": 20646,
-        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5",
-          "image-text-to-text",
-          "conversational"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "org": "harness-hub",
-        "trending_score": 243.5,
+        "trending_score": 254,
         "downloads": 1320,
-        "likes": 700,
+        "likes": 739,
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "tags": [
           "peft",
@@ -84,6 +67,23 @@
           "trl",
           "grpo",
           "async-grpo"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Qwen/Qwen3.8-27B",
+        "org": "Qwen",
+        "trending_score": 241.5,
+        "downloads": 6647301,
+        "likes": 20682,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5",
+          "image-text-to-text",
+          "conversational"
         ],
         "rank_change": null
       }
@@ -311,8 +311,8 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 12231,
-        "stars_delta": 1353,
+        "stars": 12566,
+        "stars_delta": 1349,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 321935,
-        "stars_delta": 2029,
+        "stars": 322105,
+        "stars_delta": 2028,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,8 +331,8 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 60408,
-        "stars_delta": 899,
+        "stars": 60579,
+        "stars_delta": 898,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,8 +341,8 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 66770,
-        "stars_delta": 301,
+        "stars": 66894,
+        "stars_delta": 238,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 17498,
-        "stars_delta": 383,
+        "stars": 17568,
+        "stars_delta": 384,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 13629,
-        "stars_delta": 3290,
+        "stars": 13667,
+        "stars_delta": 3468,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 10656,
-        "stars_delta": 1567,
+        "stars": 10724,
+        "stars_delta": 1829,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -383,8 +383,8 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 9063,
-        "stars_delta": 7257,
+        "stars": 9119,
+        "stars_delta": 6858,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 54351,
-        "stars_delta": 4383,
+        "stars": 54391,
+        "stars_delta": 4492,
         "language": "Go",
         "language_color": "#00ADD8"
       },
@@ -403,8 +403,8 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 70683,
-        "stars_delta": 2423,
+        "stars": 70815,
+        "stars_delta": 3179,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -415,8 +415,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 57980,
-        "stars_delta": 27295,
+        "stars": 58071,
+        "stars_delta": 27756,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -425,8 +425,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 75755,
-        "stars_delta": 44600,
+        "stars": 75851,
+        "stars_delta": 44608,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -435,8 +435,8 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 25746,
-        "stars_delta": 20270,
+        "stars": 25834,
+        "stars_delta": 20640,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -445,8 +445,8 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 66222,
-        "stars_delta": 36872,
+        "stars": 66460,
+        "stars_delta": 37642,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 197634,
-        "stars_delta": 15769,
+        "stars": 197715,
+        "stars_delta": 16003,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -685,124 +685,124 @@
       {
         "rank": 1,
         "id": 50562754,
-        "title": "Anthropic hits $2T in Nasdaq debut",
+        "title": "Anthropic’s Nasdaq debut",
         "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "discussion_url": "https://news.ycombinator.com/item?id=50562754",
         "site": "reuters.com",
-        "points": 333,
-        "comments": 473,
+        "points": 894,
+        "comments": 1766,
         "author": "wslh",
-        "age": "2h ago"
+        "age": "8h ago"
       },
       {
         "rank": 2,
+        "id": 50563066,
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50563066",
+        "site": "newscientist.com",
+        "points": 570,
+        "comments": 86,
+        "author": "cybermango",
+        "age": "8h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50567209,
+        "title": "Synology Security Advisory",
+        "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+        "discussion_url": "https://news.ycombinator.com/item?id=50567209",
+        "site": "synology.com",
+        "points": 97,
+        "comments": 63,
+        "author": "choult",
+        "age": "3h ago"
+      },
+      {
+        "rank": 4,
+        "id": 50568130,
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "url": "https://git-aarvin.github.io/mei/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50568130",
+        "site": "git-aarvin.github.io",
+        "points": 72,
+        "comments": 37,
+        "author": "hn-aarvin",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 50563148,
         "title": "Claude solves two open problems in the physics of black holes",
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "discussion_url": "https://news.ycombinator.com/item?id=50563148",
         "site": "anthropic.com",
-        "points": 148,
-        "comments": 37,
+        "points": 374,
+        "comments": 175,
         "author": "cybermango",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50519231,
-        "title": "Garage Door Spam",
-        "url": "https://blog.harrison.page/garage-door-spam/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50519231",
-        "site": "blog.harrison.page",
-        "points": 565,
-        "comments": 236,
-        "author": "harrisonpage",
-        "age": "3d ago"
-      },
-      {
-        "rank": 4,
-        "id": 50561515,
-        "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-        "url": "https://cornholenews.news",
-        "discussion_url": "https://news.ycombinator.com/item?id=50561515",
-        "site": "cornholenews.news",
-        "points": 101,
-        "comments": 45,
-        "author": "cornholemedia",
-        "age": "3h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50562320,
-        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-        "url": "https://github.com/onlook-dev/onlook/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50562320",
-        "site": "github.com",
-        "points": 42,
-        "comments": 37,
-        "author": "D_R_Farrell",
-        "age": "2h ago"
+        "age": "7h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50565484,
+        "title": "Ask HN: Where do you see Software in 5 years?",
+        "url": "https://news.ycombinator.com/item?id=50565484",
+        "discussion_url": "https://news.ycombinator.com/item?id=50565484",
+        "site": "news.ycombinator.com",
+        "points": 12,
+        "comments": 14,
+        "author": "Odbyteusz",
+        "age": "5h ago"
+      },
+      {
+        "rank": 2,
         "id": 50561571,
         "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
         "url": "https://news.ycombinator.com/item?id=50561571",
         "discussion_url": "https://news.ycombinator.com/item?id=50561571",
         "site": "news.ycombinator.com",
-        "points": 18,
+        "points": 22,
         "comments": 6,
         "author": "hoechst",
-        "age": "3h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50562528,
-        "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
-        "url": "https://news.ycombinator.com/item?id=50562528",
-        "discussion_url": "https://news.ycombinator.com/item?id=50562528",
-        "site": "news.ycombinator.com",
-        "points": 38,
-        "comments": 10,
-        "author": "_hmj",
-        "age": "2h ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 50562350,
-        "title": "Ask HN: When do we stop switching and start resonating?",
-        "url": "https://news.ycombinator.com/item?id=50562350",
-        "discussion_url": "https://news.ycombinator.com/item?id=50562350",
+        "id": 50566487,
+        "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+        "url": "https://news.ycombinator.com/item?id=50566487",
+        "discussion_url": "https://news.ycombinator.com/item?id=50566487",
         "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "DiogenesOfYerev",
-        "age": "2h ago"
+        "points": 4,
+        "comments": 2,
+        "author": "thetjmccarty",
+        "age": "4h ago"
       },
       {
         "rank": 4,
-        "id": 50560915,
-        "title": "Ask HN: When was the last time you thought \"that's bad API design\"?",
-        "url": "https://news.ycombinator.com/item?id=50560915",
-        "discussion_url": "https://news.ycombinator.com/item?id=50560915",
+        "id": 50564979,
+        "title": "Ask HN: Who Is Hiring? (November 2026 – We Give a Shit Edition)",
+        "url": "https://news.ycombinator.com/item?id=50564979",
+        "discussion_url": "https://news.ycombinator.com/item?id=50564979",
         "site": "news.ycombinator.com",
-        "points": 4,
+        "points": 6,
         "comments": 1,
-        "author": "Mitchem",
-        "age": "4h ago"
+        "author": "k_sze",
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 50560575,
-        "title": "Rant: Gemini 4 does not make any sense",
-        "url": "https://news.ycombinator.com/item?id=50560575",
-        "discussion_url": "https://news.ycombinator.com/item?id=50560575",
+        "id": 50564890,
+        "title": "The End of Continuous Rework",
+        "url": "https://news.ycombinator.com/item?id=50564890",
+        "discussion_url": "https://news.ycombinator.com/item?id=50564890",
         "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 7,
-        "author": "sambejk",
-        "age": "4h ago"
+        "points": 2,
+        "comments": 0,
+        "author": "alexhr",
+        "age": "6h ago"
       }
     ],
     "show": [
@@ -813,34 +813,34 @@
         "url": "https://cornholenews.news",
         "discussion_url": "https://news.ycombinator.com/item?id=50561515",
         "site": "cornholenews.news",
-        "points": 101,
-        "comments": 45,
+        "points": 185,
+        "comments": 89,
         "author": "cornholemedia",
-        "age": "3h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
-        "id": 50517783,
-        "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
-        "url": "https://github.com/neoma-pcam/pcam-live",
-        "discussion_url": "https://news.ycombinator.com/item?id=50517783",
-        "site": "github.com",
-        "points": 8,
-        "comments": 0,
-        "author": "neoma001",
-        "age": "3d ago"
-      },
-      {
-        "rank": 3,
         "id": 50548660,
         "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
         "url": "https://news.ycombinator.com/item?id=50548660",
         "discussion_url": "https://news.ycombinator.com/item?id=50548660",
         "site": "news.ycombinator.com",
-        "points": 131,
-        "comments": 40,
+        "points": 140,
+        "comments": 42,
         "author": "codekarate",
         "age": "1d ago"
+      },
+      {
+        "rank": 3,
+        "id": 50568169,
+        "title": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
+        "url": "https://stass.github.io/erXos/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50568169",
+        "site": "stass.github.io",
+        "points": 3,
+        "comments": 3,
+        "author": "stass",
+        "age": "1h ago"
       },
       {
         "rank": 4,
@@ -849,22 +849,22 @@
         "url": "https://tabbyml.github.io/weight-space-playground/",
         "discussion_url": "https://news.ycombinator.com/item?id=50561436",
         "site": "tabbyml.github.io",
-        "points": 22,
+        "points": 32,
         "comments": 3,
         "author": "wsxiaoys",
-        "age": "3h ago"
+        "age": "9h ago"
       },
       {
         "rank": 5,
-        "id": 50559749,
-        "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-        "url": "https://foolscap.works/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50559749",
-        "site": "foolscap.works",
-        "points": 94,
-        "comments": 77,
-        "author": "atugard",
-        "age": "5h ago"
+        "id": 50567819,
+        "title": "Show HN: Tools4U – 54 file tools that run in the browser",
+        "url": "https://tools4u.org",
+        "discussion_url": "https://news.ycombinator.com/item?id=50567819",
+        "site": "tools4u.org",
+        "points": 3,
+        "comments": 0,
+        "author": "emberloop",
+        "age": "2h ago"
       }
     ]
   }
