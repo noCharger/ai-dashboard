@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-21T14:27:31Z",
+  "generated": "2026-11-21T15:43:13Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling-2-Mini",
         "org": "thinkingmachines",
-        "trending_score": 1033,
+        "trending_score": 1076,
         "downloads": 7944,
-        "likes": 1240,
+        "likes": 1440,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
         "tags": [
           "transformers",
@@ -21,28 +21,11 @@
       },
       {
         "rank": 2,
-        "name": "higurashi-ai/Haru-4B",
-        "org": "higurashi-ai",
-        "trending_score": 625,
-        "downloads": 8120,
-        "likes": 814,
-        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-        "tags": [
-          "safetensors",
-          "haru",
-          "speech",
-          "full-duplex",
-          "speech-to-speech"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 3,
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "org": "harness-hub",
-        "trending_score": 615,
+        "trending_score": 620,
         "downloads": 2383,
-        "likes": 813,
+        "likes": 818,
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "tags": [
           "peft",
@@ -54,25 +37,12 @@
         "rank_change": null
       },
       {
-        "rank": 4,
-        "name": "Sentinel7/h3",
-        "org": "Sentinel7",
-        "trending_score": 593,
-        "downloads": 0,
-        "likes": 690,
-        "url": "https://huggingface.co/Sentinel7/h3",
-        "tags": [
-          "region:us"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "name": "unsloth/Inkling-2-Mini-GGUF",
         "org": "unsloth",
-        "trending_score": 414,
+        "trending_score": 433,
         "downloads": 238152,
-        "likes": 433,
+        "likes": 454,
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
         "tags": [
           "gguf",
@@ -80,6 +50,40 @@
           "image-text-to-text",
           "moe",
           "unsloth"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 4,
+        "name": "tencent/Hy4-flash",
+        "org": "tencent",
+        "trending_score": 369,
+        "downloads": 5588,
+        "likes": 505,
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hy_v4_flash",
+          "text-generation",
+          "hunyuan"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "Lightricks/LTX-2.5",
+        "org": "Lightricks",
+        "trending_score": 351,
+        "downloads": 3000544,
+        "likes": 12876,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "tags": [
+          "diffusion-single-file",
+          "image-to-video",
+          "text-to-video",
+          "video-to-video",
+          "image-text-to-video"
         ],
         "rank_change": null
       }
@@ -307,7 +311,7 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 15322,
+        "stars": 15441,
         "stars_delta": 1794,
         "language": "Python",
         "language_color": "#3572A5"
@@ -317,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 323400,
+        "stars": 323451,
         "stars_delta": 884,
         "language": "Shell",
         "language_color": "#89e051"
@@ -327,7 +331,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 61802,
+        "stars": 61851,
         "stars_delta": 767,
         "language": "Python",
         "language_color": "#3572A5"
@@ -337,7 +341,7 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 67983,
+        "stars": 68025,
         "stars_delta": 488,
         "language": "Python",
         "language_color": "#3572A5"
@@ -347,7 +351,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 17991,
+        "stars": 18012,
         "stars_delta": 261,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -359,7 +363,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 14050,
+        "stars": 14069,
         "stars_delta": 3555,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -369,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 11241,
+        "stars": 11274,
         "stars_delta": 2152,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -379,7 +383,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 9741,
+        "stars": 9777,
         "stars_delta": 5224,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -389,7 +393,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 54975,
+        "stars": 54998,
         "stars_delta": 4457,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -399,7 +403,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 71738,
+        "stars": 71776,
         "stars_delta": 3788,
         "language": "Python",
         "language_color": "#3572A5"
@@ -411,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 58882,
+        "stars": 58916,
         "stars_delta": 28266,
         "language": "CSS",
         "language_color": "#663399"
@@ -421,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 76517,
+        "stars": 76545,
         "stars_delta": 43310,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -431,7 +435,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 26393,
+        "stars": 26413,
         "stars_delta": 21024,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -441,7 +445,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 68892,
+        "stars": 69015,
         "stars_delta": 38744,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -451,7 +455,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 198310,
+        "stars": 198338,
         "stars_delta": 16149,
         "language": "Python",
         "language_color": "#3572A5"
@@ -680,58 +684,58 @@
         "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
         "discussion_url": "https://news.ycombinator.com/item?id=50588982",
         "site": "science.org",
-        "points": 68,
-        "comments": 18,
+        "points": 159,
+        "comments": 98,
         "author": "beginning_end",
-        "age": "1h ago"
+        "age": "2h ago"
       },
       {
         "rank": 2,
+        "id": 50589618,
+        "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50589618",
+        "site": "leanprover-community.github.io",
+        "points": 74,
+        "comments": 47,
+        "author": "g-b-r",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 50532613,
         "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
         "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
         "discussion_url": "https://news.ycombinator.com/item?id=50532613",
         "site": "gov.br",
-        "points": 246,
-        "comments": 77,
+        "points": 336,
+        "comments": 107,
         "author": "dvaplima",
-        "age": "3d ago"
+        "age": "4d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 50587875,
         "title": "My Monitor Was Cutting My Download Speed by 75%",
         "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
         "discussion_url": "https://news.ycombinator.com/item?id=50587875",
         "site": "blog.tymscar.com",
-        "points": 99,
-        "comments": 30,
+        "points": 178,
+        "comments": 72,
         "author": "soheilpro",
-        "age": "3h ago"
+        "age": "5h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 50579568,
         "title": "Hurried Announcement: Alessandro Masullo GRH",
         "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
         "discussion_url": "https://news.ycombinator.com/item?id=50579568",
         "site": "math216.wordpress.com",
-        "points": 2241,
-        "comments": 1058,
+        "points": 2269,
+        "comments": 1072,
         "author": "jasondavies",
-        "age": "19h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50574968,
-        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
-        "discussion_url": "https://news.ycombinator.com/item?id=50574968",
-        "site": "alpo.ge",
-        "points": 2746,
-        "comments": 1923,
-        "author": "iamronaldo",
-        "age": "1d ago"
+        "age": "21h ago"
       }
     ],
     "ask": [
@@ -742,10 +746,10 @@
         "url": "https://news.ycombinator.com/item?id=50583761",
         "discussion_url": "https://news.ycombinator.com/item?id=50583761",
         "site": "news.ycombinator.com",
-        "points": 318,
-        "comments": 324,
+        "points": 373,
+        "comments": 386,
         "author": "LetThingsBeDiff",
-        "age": "15h ago"
+        "age": "16h ago"
       },
       {
         "rank": 2,
@@ -754,10 +758,10 @@
         "url": "https://news.ycombinator.com/item?id=50577613",
         "discussion_url": "https://news.ycombinator.com/item?id=50577613",
         "site": "news.ycombinator.com",
-        "points": 114,
-        "comments": 171,
+        "points": 117,
+        "comments": 172,
         "author": "proberts",
-        "age": "21h ago"
+        "age": "22h ago"
       },
       {
         "rank": 3,
@@ -766,39 +770,63 @@
         "url": "https://news.ycombinator.com/item?id=50585962",
         "discussion_url": "https://news.ycombinator.com/item?id=50585962",
         "site": "news.ycombinator.com",
-        "points": 27,
-        "comments": 2,
+        "points": 29,
+        "comments": 3,
         "author": "dannyw",
-        "age": "9h ago"
+        "age": "11h ago"
       },
       {
         "rank": 4,
-        "id": 50587796,
-        "title": "Ask HN: What is your current hardware set up?",
-        "url": "https://news.ycombinator.com/item?id=50587796",
-        "discussion_url": "https://news.ycombinator.com/item?id=50587796",
-        "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 1,
-        "author": "dfdydx",
-        "age": "4h ago"
-      },
-      {
-        "rank": 5,
         "id": 50583252,
         "title": "This Industrial Revolution Belongs to the Builders",
         "url": "https://news.ycombinator.com/item?id=50583252",
         "discussion_url": "https://news.ycombinator.com/item?id=50583252",
         "site": "news.ycombinator.com",
-        "points": 9,
-        "comments": 14,
+        "points": 10,
+        "comments": 15,
         "author": "pacificmaelstrm",
-        "age": "15h ago"
+        "age": "17h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50586653,
+        "title": "Ask HN: Rust, Zig, or C?",
+        "url": "https://news.ycombinator.com/item?id=50586653",
+        "discussion_url": "https://news.ycombinator.com/item?id=50586653",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 13,
+        "author": "selectedambient",
+        "age": "8h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50541047,
+        "title": "Show HN: An ASCII cell aquarium for your terminal",
+        "url": "https://github.com/kborer/cells/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50541047",
+        "site": "github.com",
+        "points": 6,
+        "comments": 7,
+        "author": "kborer",
+        "age": "3d ago"
+      },
+      {
+        "rank": 2,
+        "id": 50541568,
+        "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+        "url": "https://trynotched.com/find",
+        "discussion_url": "https://news.ycombinator.com/item?id=50541568",
+        "site": "trynotched.com",
+        "points": 201,
+        "comments": 125,
+        "author": "brianrhea",
+        "age": "3d ago"
+      },
+      {
+        "rank": 3,
         "id": 50589235,
         "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
         "url": "https://github.com/natsu0529/agent-mcts",
@@ -807,31 +835,7 @@
         "points": 3,
         "comments": 0,
         "author": "natsu529",
-        "age": "34m ago"
-      },
-      {
-        "rank": 2,
-        "id": 50589036,
-        "title": "Show HN: Atlas of Money",
-        "url": "https://atlasofmoney.org/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50589036",
-        "site": "atlasofmoney.org",
-        "points": 3,
-        "comments": 0,
-        "author": "teleopbench",
-        "age": "57m ago"
-      },
-      {
-        "rank": 3,
-        "id": 50541568,
-        "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-        "url": "https://trynotched.com/find",
-        "discussion_url": "https://news.ycombinator.com/item?id=50541568",
-        "site": "trynotched.com",
-        "points": 194,
-        "comments": 122,
-        "author": "brianrhea",
-        "age": "3d ago"
+        "age": "1h ago"
       },
       {
         "rank": 4,
@@ -840,22 +844,22 @@
         "url": "https://kobi.music/research/dettato",
         "discussion_url": "https://news.ycombinator.com/item?id=50526023",
         "site": "kobi.music",
-        "points": 286,
-        "comments": 59,
+        "points": 288,
+        "comments": 61,
         "author": "hidude562",
         "age": "4d ago"
       },
       {
         "rank": 5,
-        "id": 50564684,
-        "title": "Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",
-        "url": "https://github.com/seb3773/lz0",
-        "discussion_url": "https://news.ycombinator.com/item?id=50564684",
-        "site": "github.com",
-        "points": 18,
-        "comments": 5,
-        "author": "seb3773",
-        "age": "1d ago"
+        "id": 50589184,
+        "title": "Show HN: I made a PS1 style racing game",
+        "url": "https://outpostracer.com",
+        "discussion_url": "https://news.ycombinator.com/item?id=50589184",
+        "site": "outpostracer.com",
+        "points": 4,
+        "comments": 0,
+        "author": "shash7",
+        "age": "1h ago"
       }
     ]
   }
