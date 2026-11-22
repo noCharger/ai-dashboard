@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-22T01:44:24Z",
+  "generated": "2026-11-22T08:58:04Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling-2-Mini",
         "org": "thinkingmachines",
-        "trending_score": 687.5,
+        "trending_score": 751,
         "downloads": 7944,
-        "likes": 2970,
+        "likes": 3398,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Inkling-2-Mini-GGUF",
         "org": "unsloth",
-        "trending_score": 582,
+        "trending_score": 661,
         "downloads": 238152,
-        "likes": 623,
+        "likes": 712,
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
         "tags": [
           "gguf",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "tencent/Hy4-flash",
-        "org": "tencent",
-        "trending_score": 389,
-        "downloads": 5588,
-        "likes": 546,
-        "url": "https://huggingface.co/tencent/Hy4-flash",
-        "tags": [
-          "transformers",
-          "safetensors",
-          "hy_v4_flash",
-          "text-generation",
-          "hunyuan"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "inworld/voice-isolator",
         "org": "inworld",
-        "trending_score": 379,
+        "trending_score": 402,
         "downloads": 0,
-        "likes": 516,
+        "likes": 547,
         "url": "https://huggingface.co/inworld/voice-isolator",
         "tags": [
           "inworld-voice-isolation",
@@ -71,19 +54,36 @@
         "rank_change": null
       },
       {
-        "rank": 5,
-        "name": "Lightricks/LTX-2.5",
-        "org": "Lightricks",
-        "trending_score": 358,
-        "downloads": 3000544,
-        "likes": 12946,
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "rank": 4,
+        "name": "tencent/Hy4-flash",
+        "org": "tencent",
+        "trending_score": 402,
+        "downloads": 5588,
+        "likes": 567,
+        "url": "https://huggingface.co/tencent/Hy4-flash",
         "tags": [
-          "diffusion-single-file",
-          "image-to-video",
+          "transformers",
+          "safetensors",
+          "hy_v4_flash",
+          "text-generation",
+          "hunyuan"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
+        "name": "apple/FastFrames-L",
+        "org": "apple",
+        "trending_score": 348,
+        "downloads": 0,
+        "likes": 502,
+        "url": "https://huggingface.co/apple/FastFrames-L",
+        "tags": [
+          "safetensors",
           "text-to-video",
-          "video-to-video",
-          "image-text-to-video"
+          "arxiv:2611.23226",
+          "base_model:Wan-AI/Wan2.1-T2V-14B",
+          "base_model:finetune:Wan-AI/Wan2.1-T2V-14B"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 16112,
+        "stars": 16583,
         "stars_delta": 1803,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 323751,
+        "stars": 323944,
         "stars_delta": 883,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 62095,
+        "stars": 62306,
         "stars_delta": 769,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 68165,
+        "stars": 68318,
         "stars_delta": 488,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 18117,
+        "stars": 18202,
         "stars_delta": 260,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 14178,
+        "stars": 14246,
         "stars_delta": 3396,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 11459,
+        "stars": 11624,
         "stars_delta": 2431,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 9911,
+        "stars": 10001,
         "stars_delta": 4400,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 55123,
+        "stars": 55213,
         "stars_delta": 4032,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 72020,
+        "stars": 72247,
         "stars_delta": 4198,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 59083,
+        "stars": 59208,
         "stars_delta": 28684,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 76711,
+        "stars": 76831,
         "stars_delta": 41810,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 26524,
+        "stars": 26622,
         "stars_delta": 21249,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 69606,
+        "stars": 70235,
         "stars_delta": 40025,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 198502,
+        "stars": 198679,
         "stars_delta": 16259,
         "language": "Python",
         "language_color": "#3572A5"
@@ -534,7 +534,7 @@
         "upvotes": 11,
         "published": "2026-04-05",
         "github_repo": "https://github.com/google-research/paper-orchestra",
-        "github_stars": 5681
+        "github_stars": 5792
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 31,
         "published": "2026-11-18",
         "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-        "github_stars": 284
+        "github_stars": 354
       },
       {
         "rank": 3,
@@ -561,10 +561,10 @@
         ],
         "url": "https://huggingface.co/papers/2611.18397",
         "categories": [],
-        "upvotes": 147,
+        "upvotes": 148,
         "published": "2026-11-12",
         "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-        "github_stars": 1188
+        "github_stars": 1237
       },
       {
         "rank": 4,
@@ -579,7 +579,7 @@
         "upvotes": 21,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 7894
+        "github_stars": 7926
       },
       {
         "rank": 5,
@@ -594,7 +594,7 @@
         "upvotes": 18,
         "published": "2026-11-16",
         "github_repo": "https://github.com/yyfz/Pi4",
-        "github_stars": 403
+        "github_stars": 415
       }
     ],
     "arxiv_recent": [
@@ -679,63 +679,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50596133,
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50596133",
+        "site": "caranddriver.com",
+        "points": 410,
+        "comments": 220,
+        "author": "zdw",
+        "age": "4h ago"
+      },
+      {
+        "rank": 2,
         "id": 50582069,
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "discussion_url": "https://news.ycombinator.com/item?id=50582069",
         "site": "theguardian.com",
-        "points": 612,
-        "comments": 147,
+        "points": 936,
+        "comments": 208,
         "author": "rafaelc",
         "age": "1d ago"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": 50589618,
         "title": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
         "discussion_url": "https://news.ycombinator.com/item?id=50589618",
         "site": "leanprover-community.github.io",
-        "points": 832,
-        "comments": 683,
+        "points": 1001,
+        "comments": 829,
         "author": "g-b-r",
-        "age": "11h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50591853,
-        "title": "Inkling-2-Mini in 5.4 GB Memory",
-        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "discussion_url": "https://news.ycombinator.com/item?id=50591853",
-        "site": "github.com",
-        "points": 358,
-        "comments": 92,
-        "author": "k__",
-        "age": "7h ago"
+        "age": "18h ago"
       },
       {
         "rank": 4,
-        "id": 50532613,
-        "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-        "discussion_url": "https://news.ycombinator.com/item?id=50532613",
-        "site": "gov.br",
-        "points": 753,
-        "comments": 241,
-        "author": "dvaplima",
-        "age": "4d ago"
+        "id": 50596664,
+        "title": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "discussion_url": "https://news.ycombinator.com/item?id=50596664",
+        "site": "github.com",
+        "points": 35,
+        "comments": 8,
+        "author": "tamnd",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50588982,
-        "title": "Detonating a pile of lead azide",
-        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "discussion_url": "https://news.ycombinator.com/item?id=50588982",
-        "site": "science.org",
-        "points": 523,
-        "comments": 347,
-        "author": "beginning_end",
-        "age": "12h ago"
+        "id": 50596960,
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50596960",
+        "site": "eli.thegreenplace.net",
+        "points": 17,
+        "comments": 4,
+        "author": "kouosi",
+        "age": "2h ago"
       }
     ],
     "ask": [
@@ -746,120 +746,120 @@
         "url": "https://news.ycombinator.com/item?id=50583761",
         "discussion_url": "https://news.ycombinator.com/item?id=50583761",
         "site": "news.ycombinator.com",
-        "points": 616,
-        "comments": 688,
+        "points": 680,
+        "comments": 769,
         "author": "LetThingsBeDiff",
         "age": "1d ago"
       },
       {
         "rank": 2,
+        "id": 50597005,
+        "title": "Ask HN: Is Anthropic being public better or worse for your org?",
+        "url": "https://news.ycombinator.com/item?id=50597005",
+        "discussion_url": "https://news.ycombinator.com/item?id=50597005",
+        "site": "news.ycombinator.com",
+        "points": 4,
+        "comments": 2,
+        "author": "ares623",
+        "age": "1h ago"
+      },
+      {
+        "rank": 3,
         "id": 50577613,
         "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
         "url": "https://news.ycombinator.com/item?id=50577613",
         "discussion_url": "https://news.ycombinator.com/item?id=50577613",
         "site": "news.ycombinator.com",
-        "points": 127,
+        "points": 129,
         "comments": 177,
         "author": "proberts",
         "age": "1d ago"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "id": 50591050,
         "title": "Does anybody read their emails anymore?",
         "url": "https://news.ycombinator.com/item?id=50591050",
         "discussion_url": "https://news.ycombinator.com/item?id=50591050",
         "site": "news.ycombinator.com",
         "points": 5,
-        "comments": 11,
+        "comments": 14,
         "author": "ky0ung",
-        "age": "8h ago"
+        "age": "16h ago"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "id": 50585962,
         "title": "Tell HN: OpenRouter prompts to Minimax may have been read",
         "url": "https://news.ycombinator.com/item?id=50585962",
         "discussion_url": "https://news.ycombinator.com/item?id=50585962",
         "site": "news.ycombinator.com",
-        "points": 45,
-        "comments": 6,
+        "points": 52,
+        "comments": 9,
         "author": "dannyw",
-        "age": "21h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50520076,
-        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-        "url": "https://news.ycombinator.com/item?id=50520076",
-        "discussion_url": "https://news.ycombinator.com/item?id=50520076",
-        "site": "news.ycombinator.com",
-        "points": 117,
-        "comments": 126,
-        "author": "ex-aws-dude",
-        "age": "5d ago"
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50596664,
+        "title": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "discussion_url": "https://news.ycombinator.com/item?id=50596664",
+        "site": "github.com",
+        "points": 35,
+        "comments": 8,
+        "author": "tamnd",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50597371,
+        "title": "Show HN: I built a newspaper for white-collar crime that paints every portrait",
+        "url": "https://financialcrimes.fyi/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50597371",
+        "site": "financialcrimes.fyi",
+        "points": 2,
+        "comments": 1,
+        "author": "veryduhass",
+        "age": "45m ago"
+      },
+      {
+        "rank": 3,
         "id": 50590279,
         "title": "Show HN: Zero C# – C# without a runtime or GC",
         "url": "https://onurgumus.github.io/zero-csharp/index.html",
         "discussion_url": "https://news.ycombinator.com/item?id=50590279",
         "site": "onurgumus.github.io",
-        "points": 129,
-        "comments": 97,
+        "points": 156,
+        "comments": 108,
         "author": "reverseblade2",
-        "age": "10h ago"
+        "age": "17h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "id": 50487155,
+        "title": "Show HN: Compile the same source for GPUs and CPUs",
+        "url": "https://github.com/ThrudTheBarbarian/xc",
+        "discussion_url": "https://news.ycombinator.com/item?id=50487155",
+        "site": "github.com",
+        "points": 7,
+        "comments": 0,
+        "author": "spacedcowboy",
+        "age": "8d ago"
+      },
+      {
+        "rank": 5,
         "id": 50541047,
         "title": "Show HN: An ASCII cell aquarium for your terminal",
         "url": "https://github.com/kborer/cells/",
         "discussion_url": "https://news.ycombinator.com/item?id=50541047",
         "site": "github.com",
-        "points": 52,
-        "comments": 20,
+        "points": 61,
+        "comments": 22,
         "author": "kborer",
-        "age": "3d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50594649,
-        "title": "Show HN: Security Watch – alerts when a new vulnerability affects your stack",
-        "url": "https://github.com/ShieldaAI/security-watch",
-        "discussion_url": "https://news.ycombinator.com/item?id=50594649",
-        "site": "github.com",
-        "points": 2,
-        "comments": 0,
-        "author": "VDudaG-A",
-        "age": "2h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50541568,
-        "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-        "url": "https://trynotched.com/find",
-        "discussion_url": "https://news.ycombinator.com/item?id=50541568",
-        "site": "trynotched.com",
-        "points": 218,
-        "comments": 132,
-        "author": "brianrhea",
-        "age": "3d ago"
-      },
-      {
-        "rank": 5,
-        "id": 50594546,
-        "title": "Show HN: Hearthen, an app for building and keeping strong relationships",
-        "url": "https://hearthenapp.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=50594546",
-        "site": "hearthenapp.com",
-        "points": 3,
-        "comments": 1,
-        "author": "mamorales",
-        "age": "2h ago"
+        "age": "4d ago"
       }
     ]
   }
