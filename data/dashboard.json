@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-23T03:18:57Z",
+  "generated": "2026-11-23T13:46:54Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling-2-Mini",
         "org": "thinkingmachines",
-        "trending_score": 943.5,
-        "downloads": 23543,
-        "likes": 5039,
+        "trending_score": 1039.5,
+        "downloads": 41888,
+        "likes": 5291,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Inkling-2-Mini-GGUF",
         "org": "unsloth",
-        "trending_score": 819,
-        "downloads": 805993,
-        "likes": 905,
+        "trending_score": 900,
+        "downloads": 1292888,
+        "likes": 1005,
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "inworld/voice-isolator",
         "org": "inworld",
-        "trending_score": 483,
+        "trending_score": 526,
         "downloads": 0,
-        "likes": 645,
+        "likes": 695,
         "url": "https://huggingface.co/inworld/voice-isolator",
         "tags": [
           "inworld-voice-isolation",
@@ -55,18 +55,18 @@
       },
       {
         "rank": 4,
-        "name": "tencent/Hy4-flash",
-        "org": "tencent",
-        "trending_score": 425,
-        "downloads": 6617,
-        "likes": 623,
-        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "org": "AtomicChat",
+        "trending_score": 349.29999999999995,
+        "downloads": 329497,
+        "likes": 581,
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "tags": [
-          "transformers",
-          "safetensors",
-          "hy_v4_flash",
-          "text-generation",
-          "hunyuan"
+          "gguf",
+          "llama.cpp",
+          "inkling2",
+          "uncensored",
+          "lora"
         ],
         "rank_change": null
       },
@@ -74,9 +74,9 @@
         "rank": 5,
         "name": "harness-hub/Qwen3.8-27B-pi-adapted",
         "org": "harness-hub",
-        "trending_score": 332.5,
-        "downloads": 2831,
-        "likes": 993,
+        "trending_score": 341,
+        "downloads": 3132,
+        "likes": 1016,
         "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
         "tags": [
           "peft",
@@ -311,8 +311,8 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 18050,
-        "stars_delta": 1716,
+        "stars": 18989,
+        "stars_delta": 2037,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 324255,
-        "stars_delta": 788,
+        "stars": 324677,
+        "stars_delta": 838,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,8 +331,8 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 62877,
-        "stars_delta": 699,
+        "stars": 63272,
+        "stars_delta": 783,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,8 +341,8 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 68804,
-        "stars_delta": 473,
+        "stars": 69257,
+        "stars_delta": 828,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 18495,
-        "stars_delta": 294,
+        "stars": 18683,
+        "stars_delta": 395,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,7 +363,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 14473,
+        "stars": 14595,
         "stars_delta": 2815,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 11971,
+        "stars": 12127,
         "stars_delta": 2683,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 10254,
+        "stars": 10406,
         "stars_delta": 3575,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 55448,
+        "stars": 55589,
         "stars_delta": 3700,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 72836,
+        "stars": 73175,
         "stars_delta": 4731,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 59600,
+        "stars": 59868,
         "stars_delta": 29000,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 77142,
+        "stars": 77357,
         "stars_delta": 39307,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 26889,
+        "stars": 27061,
         "stars_delta": 21485,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 72068,
+        "stars": 73783,
         "stars_delta": 41514,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 199066,
+        "stars": 199276,
         "stars_delta": 16473,
         "language": "Python",
         "language_color": "#3572A5"
@@ -534,7 +534,7 @@
         "upvotes": 12,
         "published": "2026-04-05",
         "github_repo": "https://github.com/google-research/paper-orchestra",
-        "github_stars": 5916
+        "github_stars": 6016
       },
       {
         "rank": 2,
@@ -546,10 +546,10 @@
         ],
         "url": "https://huggingface.co/papers/2606.23050",
         "categories": [],
-        "upvotes": 106,
+        "upvotes": 109,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 32005
+        "github_stars": 32289
       },
       {
         "rank": 3,
@@ -561,10 +561,10 @@
         ],
         "url": "https://huggingface.co/papers/2611.26603",
         "categories": [],
-        "upvotes": 34,
+        "upvotes": 36,
         "published": "2026-11-18",
         "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-        "github_stars": 444
+        "github_stars": 516
       },
       {
         "rank": 4,
@@ -576,10 +576,10 @@
         ],
         "url": "https://huggingface.co/papers/2611.18397",
         "categories": [],
-        "upvotes": 154,
+        "upvotes": 156,
         "published": "2026-11-12",
         "github_repo": "https://github.com/RainBowLuoCS/Gamer",
-        "github_stars": 1299
+        "github_stars": 1371
       },
       {
         "rank": 5,
@@ -594,84 +594,83 @@
         "upvotes": 21,
         "published": "2026-10-14",
         "github_repo": "https://github.com/microsoft/TokenEconomizer",
-        "github_stars": 7948
+        "github_stars": 7986
       }
     ],
     "arxiv_recent": [
       {
         "rank": 1,
-        "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+        "title": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
         "authors": [
-          "Weihao Cheng"
+          "Michael Gastegger",
+          "Adam E. Foster",
+          "José Jiménez-Luna"
         ],
-        "url": "https://arxiv.org/abs/2611.26624",
+        "url": "https://arxiv.org/abs/2611.27924",
         "categories": [
-          "cs.AI",
-          "cs.CV"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-20"
+        "published": "2026-11-23"
       },
       {
         "rank": 2,
-        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+        "title": "Functional Depth Is Learned: Isolating the Computation That Layers Produce Only Together",
         "authors": [
-          "Jiahao Huang",
-          "Jun Wang"
+          "JaeSeong Kim",
+          "KyungTae Lim"
         ],
-        "url": "https://arxiv.org/abs/2611.26590",
+        "url": "https://arxiv.org/abs/2611.27911",
         "categories": [
-          "cs.AI",
-          "cs.CV",
-          "cs.LG"
+          "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-20"
+        "published": "2026-11-23"
       },
       {
         "rank": 3,
-        "title": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+        "title": "The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search",
         "authors": [
-          "Adrià Ciurana Lanau",
-          "Harleen Hanspal",
-          "Lusine Abrahamyan"
+          "Yi Ding",
+          "Gaurav Kumar",
+          "Rui Min"
         ],
-        "url": "https://arxiv.org/abs/2611.26586",
+        "url": "https://arxiv.org/abs/2611.27899",
         "categories": [
-          "cs.AI"
+          "cs.AI",
+          "cs.LG"
         ],
         "upvotes": null,
-        "published": "2026-11-20"
+        "published": "2026-11-23"
       },
       {
         "rank": 4,
-        "title": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+        "title": "Speculative Decoding Is Less Speculative Than You Think",
         "authors": [
-          "Jinzhe Li",
-          "Qi Wang",
-          "Dandan Guo"
+          "Guanning Zeng",
+          "Andrea Zanette"
         ],
-        "url": "https://arxiv.org/abs/2611.26557",
+        "url": "https://arxiv.org/abs/2611.27891",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-20"
+        "published": "2026-11-23"
       },
       {
         "rank": 5,
-        "title": "The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models",
+        "title": "Integrating Generative Artificial Intelligence with Learning Style Models: Opportunities, Challenges, and Future Directions",
         "authors": [
-          "Md. Abdullah Al Zami",
-          "Suraiya Shanaz",
-          "Mahdi Hasan"
+          "Malithi Nawarathne",
+          "Prasanna Haddela",
+          "Nuwan Kodagoda"
         ],
-        "url": "https://arxiv.org/abs/2611.26545",
+        "url": "https://arxiv.org/abs/2611.27868",
         "categories": [
           "cs.AI"
         ],
         "upvotes": null,
-        "published": "2026-11-20"
+        "published": "2026-11-23"
       }
     ]
   },
@@ -679,63 +678,63 @@
     "top": [
       {
         "rank": 1,
+        "id": 50609685,
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://z.ai/blog/glm-5.4",
+        "discussion_url": "https://news.ycombinator.com/item?id=50609685",
+        "site": "z.ai",
+        "points": 372,
+        "comments": 161,
+        "author": "foohis",
+        "age": "3h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50610334,
+        "title": "The next circle of security hell",
+        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50610334",
+        "site": "blogs.gentoo.org",
+        "points": 56,
+        "comments": 28,
+        "author": "qtqtqt",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
+        "id": 50607261,
+        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "url": "https://github.com/AFK-surf/xnulinux",
+        "discussion_url": "https://news.ycombinator.com/item?id=50607261",
+        "site": "github.com",
+        "points": 438,
+        "comments": 195,
+        "author": "mmastrac",
+        "age": "9h ago"
+      },
+      {
+        "rank": 4,
         "id": 50606192,
         "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
         "url": "https://spelunkr.tv",
         "discussion_url": "https://news.ycombinator.com/item?id=50606192",
         "site": "spelunkr.tv",
-        "points": 146,
-        "comments": 21,
+        "points": 657,
+        "comments": 120,
         "author": "SockThief",
-        "age": "2h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50603845,
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "discussion_url": "https://news.ycombinator.com/item?id=50603845",
-        "site": "gpupartner.com",
-        "points": 283,
-        "comments": 123,
-        "author": "Retell15",
-        "age": "6h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50598441,
-        "title": "Masullo on the Riemann Hypothesis",
-        "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50598441",
-        "site": "johncarlosbaez.wordpress.com",
-        "points": 77,
-        "comments": 11,
-        "author": "xiaoyu2006",
-        "age": "16h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50602843,
-        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-        "discussion_url": "https://news.ycombinator.com/item?id=50602843",
-        "site": "audubon.org",
-        "points": 386,
-        "comments": 187,
-        "author": "gaws",
-        "age": "8h ago"
+        "age": "12h ago"
       },
       {
         "rank": 5,
-        "id": 50547698,
-        "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-        "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-        "discussion_url": "https://news.ycombinator.com/item?id=50547698",
-        "site": "apnews.com",
-        "points": 133,
-        "comments": 14,
-        "author": "graemep",
-        "age": "4d ago"
+        "id": 50587750,
+        "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+        "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50587750",
+        "site": "allaboutcircuits.com",
+        "points": 33,
+        "comments": 7,
+        "author": "giuliomagnifico",
+        "age": "2d ago"
       }
     ],
     "ask": [
@@ -746,8 +745,8 @@
         "url": "https://news.ycombinator.com/item?id=50555002",
         "discussion_url": "https://news.ycombinator.com/item?id=50555002",
         "site": "news.ycombinator.com",
-        "points": 123,
-        "comments": 76,
+        "points": 144,
+        "comments": 87,
         "author": "llmblockchain",
         "age": "4d ago"
       },
@@ -758,8 +757,8 @@
         "url": "https://news.ycombinator.com/item?id=50583761",
         "discussion_url": "https://news.ycombinator.com/item?id=50583761",
         "site": "news.ycombinator.com",
-        "points": 727,
-        "comments": 825,
+        "points": 737,
+        "comments": 831,
         "author": "LetThingsBeDiff",
         "age": "2d ago"
       },
@@ -777,89 +776,89 @@
       },
       {
         "rank": 4,
-        "id": 50602740,
-        "title": "Ask HN: Are startups today worth it even in a best case scenario?",
-        "url": "https://news.ycombinator.com/item?id=50602740",
-        "discussion_url": "https://news.ycombinator.com/item?id=50602740",
-        "site": "news.ycombinator.com",
-        "points": 4,
-        "comments": 3,
-        "author": "enigmous_hippo",
-        "age": "8h ago"
-      },
-      {
-        "rank": 5,
         "id": 50601706,
         "title": "Are you clinging to the TUI to feel like a developer?",
         "url": "https://news.ycombinator.com/item?id=50601706",
         "discussion_url": "https://news.ycombinator.com/item?id=50601706",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 3,
+        "points": 4,
+        "comments": 12,
         "author": "TomEleff",
-        "age": "9h ago"
+        "age": "20h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50597005,
+        "title": "Ask HN: Is Anthropic being public better or worse for your org?",
+        "url": "https://news.ycombinator.com/item?id=50597005",
+        "discussion_url": "https://news.ycombinator.com/item?id=50597005",
+        "site": "news.ycombinator.com",
+        "points": 8,
+        "comments": 10,
+        "author": "ares623",
+        "age": "1d ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50611026,
+        "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
+        "url": "https://github.com/ruairidhflint/news-blocklist",
+        "discussion_url": "https://news.ycombinator.com/item?id=50611026",
+        "site": "github.com",
+        "points": 9,
+        "comments": 1,
+        "author": "mrroryflint",
+        "age": "44m ago"
+      },
+      {
+        "rank": 2,
+        "id": 50610949,
+        "title": "Show HN: Lianex – One Search Across eBay, Amazon AU, JB Hi-Fi and More",
+        "url": "https://lianex.ai",
+        "discussion_url": "https://news.ycombinator.com/item?id=50610949",
+        "site": "lianex.ai",
+        "points": 2,
+        "comments": 0,
+        "author": "mmrazlighi",
+        "age": "51m ago"
+      },
+      {
+        "rank": 3,
         "id": 50599762,
         "title": "Show HN: I built a game where you are an LLM's subagent",
         "url": "https://github.com/gulivan/worker755",
         "discussion_url": "https://news.ycombinator.com/item?id=50599762",
         "site": "github.com",
-        "points": 279,
-        "comments": 66,
+        "points": 340,
+        "comments": 80,
         "author": "ivantgam",
-        "age": "13h ago"
+        "age": "23h ago"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "id": 50610486,
+        "title": "Show HN: First Trillion $ per month Startup is here (parody)",
+        "url": "https://tusharsrivastava.github.io/infiverse/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50610486",
+        "site": "tusharsrivastava.github.io",
+        "points": 3,
+        "comments": 2,
+        "author": "razieldecarte",
+        "age": "1h ago"
+      },
+      {
+        "rank": 5,
         "id": 50606513,
         "title": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
         "url": "https://github.com/njgreb/n64fireplace",
         "discussion_url": "https://news.ycombinator.com/item?id=50606513",
         "site": "github.com",
-        "points": 3,
-        "comments": 0,
+        "points": 10,
+        "comments": 5,
         "author": "gweedo767",
-        "age": "1h ago"
-      },
-      {
-        "rank": 3,
-        "id": 50606408,
-        "title": "Show HN: Hammerspoon 2 Beta 1 is released",
-        "url": "https://www.hammerspoon.org/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50606408",
-        "site": "hammerspoon.org",
-        "points": 3,
-        "comments": 2,
-        "author": "cmsj",
-        "age": "1h ago"
-      },
-      {
-        "rank": 4,
-        "id": 50606386,
-        "title": "Show HN: Biohacking in Chess – can coffee make you a better player?",
-        "url": "https://plantsresearch.pro/chess-lab",
-        "discussion_url": "https://news.ycombinator.com/item?id=50606386",
-        "site": "plantsresearch.pro",
-        "points": 3,
-        "comments": 0,
-        "author": "srdjanb",
-        "age": "1h ago"
-      },
-      {
-        "rank": 5,
-        "id": 50606291,
-        "title": "Show HN: Thir – Linux 6.12 kernel with an all-Rust userspace and framebuffer GUI",
-        "url": "https://github.com/Adhishtanaka/thir",
-        "discussion_url": "https://news.ycombinator.com/item?id=50606291",
-        "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "adhishtanaka",
-        "age": "1h ago"
+        "age": "11h ago"
       }
     ]
   }
