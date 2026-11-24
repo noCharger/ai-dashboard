@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-24T11:44:18Z",
+  "generated": "2026-11-24T17:19:06Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling-2-Mini",
         "org": "thinkingmachines",
-        "trending_score": 1177.5,
+        "trending_score": 1207.5,
         "downloads": 69042,
-        "likes": 5624,
+        "likes": 5698,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Inkling-2-Mini-GGUF",
         "org": "unsloth",
-        "trending_score": 1037,
+        "trending_score": 1066,
         "downloads": 1913407,
-        "likes": 1178,
+        "likes": 1213,
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
         "tags": [
           "gguf",
@@ -40,9 +40,9 @@
         "rank": 3,
         "name": "inworld/voice-isolator",
         "org": "inworld",
-        "trending_score": 593,
+        "trending_score": 609,
         "downloads": 12733,
-        "likes": 769,
+        "likes": 785,
         "url": "https://huggingface.co/inworld/voice-isolator",
         "tags": [
           "inworld-voice-isolation",
@@ -55,11 +55,28 @@
       },
       {
         "rank": 4,
+        "name": "tencent/Hy4-flash",
+        "org": "tencent",
+        "trending_score": 459,
+        "downloads": 9167,
+        "likes": 668,
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "tags": [
+          "transformers",
+          "safetensors",
+          "hy_v4_flash",
+          "text-generation",
+          "hunyuan"
+        ],
+        "rank_change": null
+      },
+      {
+        "rank": 5,
         "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "org": "AtomicChat",
-        "trending_score": 412.29999999999995,
+        "trending_score": 423.5,
         "downloads": 573775,
-        "likes": 693,
+        "likes": 713,
         "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -67,23 +84,6 @@
           "inkling2",
           "uncensored",
           "lora"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 5,
-        "name": "harness-hub/Qwen3.8-27B-pi-adapted",
-        "org": "harness-hub",
-        "trending_score": 356,
-        "downloads": 3529,
-        "likes": 1051,
-        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-        "tags": [
-          "peft",
-          "safetensors",
-          "trl",
-          "grpo",
-          "async-grpo"
         ],
         "rank_change": null
       }
@@ -311,7 +311,7 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 20579,
+        "stars": 21042,
         "stars_delta": 1833,
         "language": "Python",
         "language_color": "#3572A5"
@@ -321,7 +321,7 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 325537,
+        "stars": 325756,
         "stars_delta": 1006,
         "language": "Shell",
         "language_color": "#89e051"
@@ -331,7 +331,7 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 64220,
+        "stars": 64522,
         "stars_delta": 1075,
         "language": "Python",
         "language_color": "#3572A5"
@@ -341,7 +341,7 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 69889,
+        "stars": 70050,
         "stars_delta": 727,
         "language": "Python",
         "language_color": "#3572A5"
@@ -351,7 +351,7 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 18996,
+        "stars": 19100,
         "stars_delta": 359,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -363,7 +363,7 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 14794,
+        "stars": 14840,
         "stars_delta": 2395,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -373,7 +373,7 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 12491,
+        "stars": 12562,
         "stars_delta": 2572,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -383,7 +383,7 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 10695,
+        "stars": 10762,
         "stars_delta": 2694,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -393,7 +393,7 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 55926,
+        "stars": 55997,
         "stars_delta": 3015,
         "language": "Go",
         "language_color": "#00ADD8"
@@ -403,7 +403,7 @@
         "name": "mvanhorn/last30days-skill",
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "url": "https://github.com/mvanhorn/last30days-skill",
-        "stars": 73787,
+        "stars": 73988,
         "stars_delta": 5448,
         "language": "Python",
         "language_color": "#3572A5"
@@ -415,7 +415,7 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 60319,
+        "stars": 60439,
         "stars_delta": 29144,
         "language": "CSS",
         "language_color": "#663399"
@@ -425,7 +425,7 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 77720,
+        "stars": 77836,
         "stars_delta": 36869,
         "language": "JavaScript",
         "language_color": "#f1e05a"
@@ -435,7 +435,7 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 27358,
+        "stars": 27440,
         "stars_delta": 21809,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -445,7 +445,7 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 76368,
+        "stars": 76966,
         "stars_delta": 44453,
         "language": "TypeScript",
         "language_color": "#3178c6"
@@ -455,7 +455,7 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 199681,
+        "stars": 199819,
         "stars_delta": 16727,
         "language": "Python",
         "language_color": "#3572A5"
@@ -546,7 +546,7 @@
         ],
         "url": "https://huggingface.co/papers/2606.23050",
         "categories": [],
-        "upvotes": 110,
+        "upvotes": 111,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
         "github_stars": 32591
@@ -561,7 +561,7 @@
         ],
         "url": "https://huggingface.co/papers/2611.26603",
         "categories": [],
-        "upvotes": 37,
+        "upvotes": 38,
         "published": "2026-11-18",
         "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
         "github_stars": 632
@@ -576,7 +576,7 @@
         ],
         "url": "https://huggingface.co/papers/2611.18397",
         "categories": [],
-        "upvotes": 159,
+        "upvotes": 161,
         "published": "2026-11-12",
         "github_repo": "https://github.com/RainBowLuoCS/Gamer",
         "github_stars": 1459
@@ -677,187 +677,187 @@
     "top": [
       {
         "rank": 1,
-        "id": 50626578,
-        "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-        "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50626578",
-        "site": "deucalionn.vercel.app",
-        "points": 47,
-        "comments": 14,
-        "author": "oska",
-        "age": "30m ago"
+        "id": 50630594,
+        "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630594",
+        "site": "greynoise.io",
+        "points": 62,
+        "comments": 21,
+        "author": "louiereederson",
+        "age": "46m ago"
       },
       {
         "rank": 2,
-        "id": 50624497,
-        "title": "2035 Came Early",
-        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-        "discussion_url": "https://news.ycombinator.com/item?id=50624497",
-        "site": "fzakaria.com",
-        "points": 333,
-        "comments": 110,
-        "author": "setheron",
-        "age": "5h ago"
+        "id": 50630462,
+        "title": "Jetty Pro",
+        "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630462",
+        "site": "hypercritical.co",
+        "points": 51,
+        "comments": 10,
+        "author": "zdw",
+        "age": "56m ago"
       },
       {
         "rank": 3,
-        "id": 50614249,
-        "title": "Ladybird is now in alpha",
-        "url": "https://ladybird.org/posts/alpha/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50614249",
-        "site": "ladybird.org",
-        "points": 2058,
-        "comments": 486,
-        "author": "janvdberg",
-        "age": "19h ago"
+        "id": 50624497,
+        "title": "2035 came early",
+        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "discussion_url": "https://news.ycombinator.com/item?id=50624497",
+        "site": "fzakaria.com",
+        "points": 755,
+        "comments": 282,
+        "author": "setheron",
+        "age": "10h ago"
       },
       {
         "rank": 4,
-        "id": 50620349,
-        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50620349",
-        "site": "stalw.art",
-        "points": 507,
-        "comments": 267,
-        "author": "shaunpud",
-        "age": "13h ago"
+        "id": 50629231,
+        "title": "A training engine for your local model, using your idle compute",
+        "url": "https://github.com/sous-labs/songe",
+        "discussion_url": "https://news.ycombinator.com/item?id=50629231",
+        "site": "github.com",
+        "points": 44,
+        "comments": 4,
+        "author": "bluepeter",
+        "age": "2h ago"
       },
       {
         "rank": 5,
-        "id": 50624061,
-        "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-        "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-        "discussion_url": "https://news.ycombinator.com/item?id=50624061",
-        "site": "phoronix.com",
-        "points": 117,
-        "comments": 55,
-        "author": "zdw",
-        "age": "6h ago"
+        "id": 50629106,
+        "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+        "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50629106",
+        "site": "frankchiarulli.com",
+        "points": 22,
+        "comments": 4,
+        "author": "fcjr",
+        "age": "2h ago"
       }
     ],
     "ask": [
       {
         "rank": 1,
+        "id": 50630985,
+        "title": "Ask HN: Its 2026 and there is still not good Email client for macOS. Why?",
+        "url": "https://news.ycombinator.com/item?id=50630985",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630985",
+        "site": "news.ycombinator.com",
+        "points": 2,
+        "comments": 0,
+        "author": "orbanlevi",
+        "age": "22m ago"
+      },
+      {
+        "rank": 2,
         "id": 50600771,
         "title": "Ask HN: Are the trades a safe career transition?",
         "url": "https://news.ycombinator.com/item?id=50600771",
         "discussion_url": "https://news.ycombinator.com/item?id=50600771",
         "site": "news.ycombinator.com",
-        "points": 66,
-        "comments": 106,
+        "points": 73,
+        "comments": 114,
         "author": "Rd6n6",
-        "age": "1d ago"
-      },
-      {
-        "rank": 2,
-        "id": 50625996,
-        "title": "Why are so many services using email magic links for login?",
-        "url": "https://news.ycombinator.com/item?id=50625996",
-        "discussion_url": "https://news.ycombinator.com/item?id=50625996",
-        "site": "news.ycombinator.com",
-        "points": 6,
-        "comments": 6,
-        "author": "bfbf",
-        "age": "1h ago"
+        "age": "2d ago"
       },
       {
         "rank": 3,
-        "id": 50625761,
-        "title": "Merchants. 12 Months. Zero Fees",
-        "url": "https://news.ycombinator.com/item?id=50625761",
-        "discussion_url": "https://news.ycombinator.com/item?id=50625761",
+        "id": 50630809,
+        "title": "Anthropic is accusing my company of distilling How can I prove I'm not?",
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630809",
         "site": "news.ycombinator.com",
-        "points": 3,
-        "comments": 0,
-        "author": "MarketPay",
-        "age": "2h ago"
+        "points": 2,
+        "comments": 1,
+        "author": "weli",
+        "age": "33m ago"
       },
       {
         "rank": 4,
-        "id": 50625683,
-        "title": "Does anyone gets hired with himalaya, well found or other remote hiring sites?",
-        "url": "https://news.ycombinator.com/item?id=50625683",
-        "discussion_url": "https://news.ycombinator.com/item?id=50625683",
-        "site": "news.ycombinator.com",
-        "points": 2,
-        "comments": 0,
-        "author": "rohansrma",
-        "age": "2h ago"
-      },
-      {
-        "rank": 5,
         "id": 50622809,
         "title": "Coworker rejects PR (one month in) because it does not meet his standards",
         "url": "https://news.ycombinator.com/item?id=50622809",
         "discussion_url": "https://news.ycombinator.com/item?id=50622809",
         "site": "news.ycombinator.com",
-        "points": 16,
-        "comments": 27,
+        "points": 18,
+        "comments": 32,
         "author": "LandOfMightDev",
-        "age": "9h ago"
+        "age": "14h ago"
+      },
+      {
+        "rank": 5,
+        "id": 50625996,
+        "title": "Why are so many services using email magic links for login?",
+        "url": "https://news.ycombinator.com/item?id=50625996",
+        "discussion_url": "https://news.ycombinator.com/item?id=50625996",
+        "site": "news.ycombinator.com",
+        "points": 13,
+        "comments": 13,
+        "author": "bfbf",
+        "age": "7h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50630294,
+        "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+        "url": "https://masondata.ai/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630294",
+        "site": "masondata.ai",
+        "points": 2,
+        "comments": 0,
+        "author": "tagspace",
+        "age": "1h ago"
+      },
+      {
+        "rank": 2,
+        "id": 50629466,
+        "title": "Show HN: Strict MCP schemas rejected 10/10 bad calls; loose schemas: 0/10",
+        "url": "https://github.com/ranadhir19/mcp-server-lab",
+        "discussion_url": "https://news.ycombinator.com/item?id=50629466",
+        "site": "github.com",
+        "points": 2,
+        "comments": 0,
+        "author": "ranadhir19",
+        "age": "2h ago"
+      },
+      {
+        "rank": 3,
         "id": 50574412,
         "title": "Show HN: Drive around my village in 3D",
         "url": "https://cherwellvalleymotorclub.app",
         "discussion_url": "https://news.ycombinator.com/item?id=50574412",
         "site": "cherwellvalleymotorclub.app",
-        "points": 121,
-        "comments": 86,
+        "points": 126,
+        "comments": 88,
         "author": "johnwards",
-        "age": "3d ago"
-      },
-      {
-        "rank": 2,
-        "id": 50602561,
-        "title": "Show HN: Type-C – variants, options, generics and pattern matching for C",
-        "url": "https://github.com/stass/type-c",
-        "discussion_url": "https://news.ycombinator.com/item?id=50602561",
-        "site": "github.com",
-        "points": 43,
-        "comments": 20,
-        "author": "stass",
-        "age": "1d ago"
-      },
-      {
-        "rank": 3,
-        "id": 50623965,
-        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
-        "url": "https://github.com/GenesisAgentInfra/genesis",
-        "discussion_url": "https://news.ycombinator.com/item?id=50623965",
-        "site": "github.com",
-        "points": 10,
-        "comments": 0,
-        "author": "willlzl",
-        "age": "6h ago"
+        "age": "4d ago"
       },
       {
         "rank": 4,
-        "id": 50623038,
-        "title": "Show HN: FireVoice, free open-source voice studio on your own GPU",
-        "url": "https://firevoice.fabwaseem.com",
-        "discussion_url": "https://news.ycombinator.com/item?id=50623038",
-        "site": "firevoice.fabwaseem.com",
-        "points": 12,
-        "comments": 2,
-        "author": "fabwaseem",
-        "age": "8h ago"
+        "id": 50628121,
+        "title": "Show HN: Open-Interpretability Explain",
+        "url": "https://open-interpretability.com/posts/explain/index.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50628121",
+        "site": "open-interpretability.com",
+        "points": 8,
+        "comments": 1,
+        "author": "sackfield",
+        "age": "3h ago"
       },
       {
         "rank": 5,
-        "id": 50624684,
-        "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-        "url": "https://www.rchive.computer/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50624684",
-        "site": "rchive.computer",
+        "id": 50628070,
+        "title": "Show HN: Ditching Markdown for an interactive AI Agent guide in pure HTML",
+        "url": "https://qufei1993.github.io/ai-agent-guide/en/index.html",
+        "discussion_url": "https://news.ycombinator.com/item?id=50628070",
+        "site": "qufei1993.github.io",
         "points": 2,
         "comments": 0,
-        "author": "kevinsync",
-        "age": "4h ago"
+        "author": "qufei1993",
+        "age": "3h ago"
       }
     ]
   }
