@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-26T16:40:05Z",
+  "generated": "2026-11-27T00:10:15Z",
   "models": {
     "trending": [
       {
         "rank": 1,
         "name": "thinkingmachines/Inkling-2-Mini",
         "org": "thinkingmachines",
-        "trending_score": 1378.5,
+        "trending_score": 1404,
         "downloads": 96527,
-        "likes": 6170,
+        "likes": 6247,
         "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
         "tags": [
           "transformers",
@@ -23,9 +23,9 @@
         "rank": 2,
         "name": "unsloth/Inkling-2-Mini-GGUF",
         "org": "unsloth",
-        "trending_score": 1210,
+        "trending_score": 1234,
         "downloads": 2445633,
-        "likes": 1436,
+        "likes": 1491,
         "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
         "tags": [
           "gguf",
@@ -38,28 +38,11 @@
       },
       {
         "rank": 3,
-        "name": "inworld/voice-isolator",
-        "org": "inworld",
-        "trending_score": 542,
-        "downloads": 15244,
-        "likes": 935,
-        "url": "https://huggingface.co/inworld/voice-isolator",
-        "tags": [
-          "inworld-voice-isolation",
-          "audio",
-          "speech",
-          "speech-enhancement",
-          "speech-denoising"
-        ],
-        "rank_change": null
-      },
-      {
-        "rank": 4,
         "name": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "org": "AtomicChat",
-        "trending_score": 492.09999999999997,
+        "trending_score": 506.09999999999997,
         "downloads": 762491,
-        "likes": 884,
+        "likes": 933,
         "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
         "tags": [
           "gguf",
@@ -71,12 +54,29 @@
         "rank_change": null
       },
       {
+        "rank": 4,
+        "name": "inworld/voice-isolator",
+        "org": "inworld",
+        "trending_score": 495,
+        "downloads": 15244,
+        "likes": 962,
+        "url": "https://huggingface.co/inworld/voice-isolator",
+        "tags": [
+          "inworld-voice-isolation",
+          "audio",
+          "speech",
+          "speech-enhancement",
+          "speech-denoising"
+        ],
+        "rank_change": null
+      },
+      {
         "rank": 5,
         "name": "SulphurAI/Sulphur-3",
         "org": "SulphurAI",
-        "trending_score": 468,
+        "trending_score": 481,
         "downloads": 189735,
-        "likes": 1179,
+        "likes": 1211,
         "url": "https://huggingface.co/SulphurAI/Sulphur-3",
         "tags": [
           "minimax-h3",
@@ -311,8 +311,8 @@
         "name": "elementalsouls/Claude-BugHunter",
         "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
         "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "stars": 24125,
-        "stars_delta": 1600,
+        "stars": 24550,
+        "stars_delta": 1597,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -321,8 +321,8 @@
         "name": "obra/superpowers",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 327217,
-        "stars_delta": 853,
+        "stars": 327476,
+        "stars_delta": 854,
         "language": "Shell",
         "language_color": "#89e051"
       },
@@ -331,8 +331,8 @@
         "name": "HKUDS/CLI-Anything",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 66177,
-        "stars_delta": 744,
+        "stars": 66349,
+        "stars_delta": 746,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -341,8 +341,8 @@
         "name": "jingyaogong/minimind",
         "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "url": "https://github.com/jingyaogong/minimind",
-        "stars": 71518,
-        "stars_delta": 701,
+        "stars": 71616,
+        "stars_delta": 702,
         "language": "Python",
         "language_color": "#3572A5"
       },
@@ -351,8 +351,8 @@
         "name": "cursor/plugins",
         "description": "Cursor plugin specification and official plugins",
         "url": "https://github.com/cursor/plugins",
-        "stars": 19713,
-        "stars_delta": 268,
+        "stars": 19782,
+        "stars_delta": 270,
         "language": "TypeScript",
         "language_color": "#3178c6"
       }
@@ -363,8 +363,8 @@
         "name": "backnotprop/plannotator",
         "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
         "url": "https://github.com/backnotprop/plannotator",
-        "stars": 15214,
-        "stars_delta": 1764,
+        "stars": 15256,
+        "stars_delta": 1631,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -373,8 +373,8 @@
         "name": "google-labs-code/stitch-skills",
         "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
         "url": "https://github.com/google-labs-code/stitch-skills",
-        "stars": 13199,
-        "stars_delta": 2616,
+        "stars": 13286,
+        "stars_delta": 2619,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -383,8 +383,8 @@
         "name": "GoogleChrome/modern-web-guidance-src",
         "description": "Keep your coding agent up to date with the latest web best practices",
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-        "stars": 11208,
-        "stars_delta": 2309,
+        "stars": 11252,
+        "stars_delta": 2209,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -393,8 +393,8 @@
         "name": "n8n-io/nod",
         "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By ",
         "url": "https://github.com/n8n-io/nod",
-        "stars": 3863,
-        "stars_delta": 1008,
+        "stars": 3999,
+        "stars_delta": 1165,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -403,8 +403,8 @@
         "name": "alibaba/open-code-review",
         "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
         "url": "https://github.com/alibaba/open-code-review",
-        "stars": 56587,
-        "stars_delta": 2259,
+        "stars": 56633,
+        "stars_delta": 2284,
         "language": "Go",
         "language_color": "#00ADD8"
       }
@@ -415,8 +415,8 @@
         "name": "Nutlope/hallmark",
         "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "url": "https://github.com/Nutlope/hallmark",
-        "stars": 61482,
-        "stars_delta": 28295,
+        "stars": 61641,
+        "stars_delta": 26738,
         "language": "CSS",
         "language_color": "#663399"
       },
@@ -425,8 +425,8 @@
         "name": "cloudflare/security-audit-skill",
         "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "url": "https://github.com/cloudflare/security-audit-skill",
-        "stars": 78682,
-        "stars_delta": 32663,
+        "stars": 78853,
+        "stars_delta": 31165,
         "language": "JavaScript",
         "language_color": "#f1e05a"
       },
@@ -435,8 +435,8 @@
         "name": "milind-soni/OpenMausBot",
         "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
         "url": "https://github.com/milind-soni/OpenMausBot",
-        "stars": 28074,
-        "stars_delta": 22391,
+        "stars": 28159,
+        "stars_delta": 22590,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -445,8 +445,8 @@
         "name": "pingdotgg/t3code",
         "description": "The best way to control Claude Code, Codex and more from any computer or phone",
         "url": "https://github.com/pingdotgg/t3code",
-        "stars": 80594,
-        "stars_delta": 49283,
+        "stars": 80936,
+        "stars_delta": 50354,
         "language": "TypeScript",
         "language_color": "#3178c6"
       },
@@ -455,8 +455,8 @@
         "name": "anthropics/skills",
         "description": "Public repository for Agent Skills",
         "url": "https://github.com/anthropics/skills",
-        "stars": 200892,
-        "stars_delta": 17272,
+        "stars": 201038,
+        "stars_delta": 17538,
         "language": "Python",
         "language_color": "#3572A5"
       }
@@ -534,7 +534,7 @@
         "upvotes": 19,
         "published": "2026-04-05",
         "github_repo": "https://github.com/google-research/paper-orchestra",
-        "github_stars": 6462
+        "github_stars": 6502
       },
       {
         "rank": 2,
@@ -549,7 +549,7 @@
         "upvotes": 112,
         "published": "2026-06-21",
         "github_repo": "https://github.com/baidu/Unlimited-OCR",
-        "github_stars": 32824
+        "github_stars": 32845
       },
       {
         "rank": 3,
@@ -564,7 +564,7 @@
         "upvotes": 72,
         "published": "2026-10-08",
         "github_repo": "https://github.com/google-research/harness2",
-        "github_stars": 25263
+        "github_stars": 25320
       },
       {
         "rank": 4,
@@ -576,10 +576,10 @@
         ],
         "url": "https://huggingface.co/papers/2611.26603",
         "categories": [],
-        "upvotes": 40,
+        "upvotes": 41,
         "published": "2026-11-18",
         "github_repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-        "github_stars": 760
+        "github_stars": 771
       },
       {
         "rank": 5,
@@ -594,7 +594,7 @@
         "upvotes": 168,
         "published": "2024-12-28",
         "github_repo": "https://github.com/tauricresearch/tradingagents",
-        "github_stars": 123813
+        "github_stars": 123844
       }
     ],
     "arxiv_recent": [
@@ -678,63 +678,63 @@
     "top": [
       {
         "rank": 1,
-        "id": 50654289,
-        "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-        "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50654289",
-        "site": "nextcloud.com",
-        "points": 296,
-        "comments": 119,
-        "author": "e12e",
-        "age": "4h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50655664,
-        "title": "Tell HN: Happy Thanksgiving",
-        "url": "https://news.ycombinator.com/item?id=50655664",
-        "discussion_url": "https://news.ycombinator.com/item?id=50655664",
-        "site": "news.ycombinator.com",
-        "points": 286,
-        "comments": 78,
-        "author": "ericmay",
+        "id": 50660180,
+        "title": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "discussion_url": "https://news.ycombinator.com/item?id=50660180",
+        "site": "janlukas.blog",
+        "points": 200,
+        "comments": 109,
+        "author": "jlelse",
         "age": "2h ago"
       },
       {
+        "rank": 2,
+        "id": 50659841,
+        "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50659841",
+        "site": "worksinprogress.co",
+        "points": 200,
+        "comments": 34,
+        "author": "dverlaeckt80",
+        "age": "3h ago"
+      },
+      {
         "rank": 3,
-        "id": 50653667,
-        "title": "Intel One Mono font",
-        "url": "https://github.com/intel/intel-one-mono",
-        "discussion_url": "https://news.ycombinator.com/item?id=50653667",
-        "site": "github.com",
-        "points": 311,
-        "comments": 184,
-        "author": "saikatsg",
+        "id": 50657265,
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "discussion_url": "https://news.ycombinator.com/item?id=50657265",
+        "site": "devnull.land",
+        "points": 267,
+        "comments": 64,
+        "author": "julianlam",
         "age": "6h ago"
       },
       {
         "rank": 4,
-        "id": 50646108,
-        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "url": "https://scottaaronson.blog/?p=10379",
-        "discussion_url": "https://news.ycombinator.com/item?id=50646108",
-        "site": "scottaaronson.blog",
-        "points": 1827,
-        "comments": 1668,
-        "author": "Kotlopou",
-        "age": "21h ago"
+        "id": 50657530,
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "url": "https://github.com/antonpictures/youtube-punisher",
+        "discussion_url": "https://news.ycombinator.com/item?id=50657530",
+        "site": "github.com",
+        "points": 226,
+        "comments": 307,
+        "author": "iantongeorge",
+        "age": "6h ago"
       },
       {
         "rank": 5,
-        "id": 50636931,
-        "title": "Curiosity Is No Solo Act",
-        "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50636931",
-        "site": "thereader.mitpress.mit.edu",
-        "points": 50,
-        "comments": 12,
-        "author": "Petiver",
-        "age": "1d ago"
+        "id": 50657645,
+        "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+        "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50657645",
+        "site": "krebsonsecurity.com",
+        "points": 189,
+        "comments": 85,
+        "author": "Bender",
+        "age": "6h ago"
       }
     ],
     "ask": [
@@ -745,22 +745,22 @@
         "url": "https://news.ycombinator.com/item?id=50655664",
         "discussion_url": "https://news.ycombinator.com/item?id=50655664",
         "site": "news.ycombinator.com",
-        "points": 286,
-        "comments": 78,
+        "points": 565,
+        "comments": 133,
         "author": "ericmay",
-        "age": "2h ago"
+        "age": "9h ago"
       },
       {
         "rank": 2,
-        "id": 50649864,
-        "title": "Tell HN: Lots of Ask HNs again",
-        "url": "https://news.ycombinator.com/item?id=50649864",
-        "discussion_url": "https://news.ycombinator.com/item?id=50649864",
+        "id": 50658963,
+        "title": "DietPi released a new version v10.9",
+        "url": "https://news.ycombinator.com/item?id=50658963",
+        "discussion_url": "https://news.ycombinator.com/item?id=50658963",
         "site": "news.ycombinator.com",
-        "points": 355,
-        "comments": 141,
-        "author": "dang",
-        "age": "15h ago"
+        "points": 12,
+        "comments": 1,
+        "author": "stephanstsdietp",
+        "age": "4h ago"
       },
       {
         "rank": 3,
@@ -769,96 +769,96 @@
         "url": "https://news.ycombinator.com/item?id=50656763",
         "discussion_url": "https://news.ycombinator.com/item?id=50656763",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 2,
+        "points": 65,
+        "comments": 30,
         "author": "akudha",
-        "age": "23m ago"
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 50630809,
-        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-        "url": "https://news.ycombinator.com/item?id=50630809",
-        "discussion_url": "https://news.ycombinator.com/item?id=50630809",
+        "id": 50649864,
+        "title": "Tell HN: Lots of Ask HNs again",
+        "url": "https://news.ycombinator.com/item?id=50649864",
+        "discussion_url": "https://news.ycombinator.com/item?id=50649864",
         "site": "news.ycombinator.com",
-        "points": 458,
-        "comments": 352,
-        "author": "weli",
-        "age": "1d ago"
+        "points": 395,
+        "comments": 154,
+        "author": "dang",
+        "age": "23h ago"
       },
       {
         "rank": 5,
-        "id": 50655620,
-        "title": "Tell HN: Happy Thanksgiving",
-        "url": "https://news.ycombinator.com/item?id=50655620",
-        "discussion_url": "https://news.ycombinator.com/item?id=50655620",
+        "id": 50660522,
+        "title": "Ask HN: What's Going on with the Minecraft Rust Rewrite? (Horizon)",
+        "url": "https://news.ycombinator.com/item?id=50660522",
+        "discussion_url": "https://news.ycombinator.com/item?id=50660522",
         "site": "news.ycombinator.com",
-        "points": 7,
-        "comments": 1,
-        "author": "jason_zig",
-        "age": "2h ago"
+        "points": 2,
+        "comments": 4,
+        "author": "goodmythical",
+        "age": "1h ago"
       }
     ],
     "show": [
       {
         "rank": 1,
+        "id": 50651099,
+        "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+        "url": "https://olumino.app",
+        "discussion_url": "https://news.ycombinator.com/item?id=50651099",
+        "site": "olumino.app",
+        "points": 62,
+        "comments": 34,
+        "author": "Wiyseful",
+        "age": "20h ago"
+      },
+      {
+        "rank": 2,
         "id": 50656036,
         "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
         "url": "https://michidk.github.io/sidebyside/",
         "discussion_url": "https://news.ycombinator.com/item?id=50656036",
         "site": "michidk.github.io",
-        "points": 21,
-        "comments": 3,
+        "points": 110,
+        "comments": 26,
         "author": "michidk",
-        "age": "1h ago"
-      },
-      {
-        "rank": 2,
-        "id": 50623232,
-        "title": "Show HN: Synth Patch Hero",
-        "url": "https://swarkentin.github.io/synth-patch-hero/",
-        "discussion_url": "https://news.ycombinator.com/item?id=50623232",
-        "site": "swarkentin.github.io",
-        "points": 111,
-        "comments": 23,
-        "author": "kaidon",
-        "age": "2d ago"
+        "age": "9h ago"
       },
       {
         "rank": 3,
-        "id": 50656067,
-        "title": "Show HN: Lazyfwd, a TUI for managing SSH port forwards",
-        "url": "https://github.com/glattziehen/lazyfwd",
-        "discussion_url": "https://news.ycombinator.com/item?id=50656067",
+        "id": 50657070,
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "url": "https://github.com/rxliuli/sim-drop",
+        "discussion_url": "https://news.ycombinator.com/item?id=50657070",
         "site": "github.com",
-        "points": 3,
-        "comments": 0,
-        "author": "mwil1000",
-        "age": "1h ago"
+        "points": 36,
+        "comments": 8,
+        "author": "rxliuli",
+        "age": "7h ago"
       },
       {
         "rank": 4,
-        "id": 50655748,
-        "title": "Show HN: RebillKit – BYOK failed-payment recovery for Stripe (0% rev share)",
-        "url": "https://rebillkit.com/en",
-        "discussion_url": "https://news.ycombinator.com/item?id=50655748",
-        "site": "rebillkit.com",
-        "points": 2,
-        "comments": 0,
-        "author": "dimoncelli",
-        "age": "2h ago"
+        "id": 50655868,
+        "title": "Show HN: I wrote an entire Vim manual over 4 years",
+        "url": "http://themouseless.dev/vim/",
+        "discussion_url": "https://news.ycombinator.com/item?id=50655868",
+        "site": "themouseless.dev",
+        "points": 35,
+        "comments": 12,
+        "author": "thanato0s",
+        "age": "9h ago"
       },
       {
         "rank": 5,
-        "id": 50655639,
-        "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-        "url": "https://github.com/batanus/lip-dictation",
-        "discussion_url": "https://news.ycombinator.com/item?id=50655639",
+        "id": 50658191,
+        "title": "Show HN: Fuck_data_brokers.py",
+        "url": "https://github.com/gary23w/f-ck_data_brokers",
+        "discussion_url": "https://news.ycombinator.com/item?id=50658191",
         "site": "github.com",
-        "points": 5,
-        "comments": 1,
-        "author": "dima7711",
-        "age": "2h ago"
+        "points": 205,
+        "comments": 40,
+        "author": "gary23w",
+        "age": "5h ago"
       }
     ]
   }
